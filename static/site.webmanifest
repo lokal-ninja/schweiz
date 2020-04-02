@@ -1,8 +1,8 @@
 {
-    "name": "Lokal Ninja - Baden-Württemberg",
+    "name": "Lokal Ninja - Schweiz",
     "lang": "de",
-    "short_name": "LN Baden-Württemberg",
-    "description": "Entdecke alle Einkaufsmöglichkeiten in Baden-Württemberg",
+    "short_name": "LN Schweiz",
+    "description": "Entdecke alle Einkaufsmöglichkeiten in Schweiz",
     "theme_color": "#d86f00",
     "background_color": "#fdfdfd",
     "display": "standalone",
