@@ -1,0 +1,4 @@
+---
+title: "Holzmarkt Gossau"
+url: /gossau-sg/holzmarkt-gossau/
+---

@@ -1,0 +1,4 @@
+---
+title: Schwarzsee
+url: /schwarzsee/
+---

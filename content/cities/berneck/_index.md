@@ -1,0 +1,4 @@
+---
+title: Berneck
+url: /berneck/
+---

@@ -1,0 +1,4 @@
+---
+title: Seuzach
+url: /seuzach/
+---

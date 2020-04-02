@@ -1,0 +1,4 @@
+---
+title: Klingnau
+url: /klingnau/
+---

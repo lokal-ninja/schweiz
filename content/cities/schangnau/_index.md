@@ -1,0 +1,4 @@
+---
+title: Schangnau
+url: /schangnau/
+---

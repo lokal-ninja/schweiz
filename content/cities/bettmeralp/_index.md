@@ -1,0 +1,4 @@
+---
+title: Bettmeralp
+url: /bettmeralp/
+---

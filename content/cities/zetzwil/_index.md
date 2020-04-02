@@ -1,0 +1,4 @@
+---
+title: Zetzwil
+url: /zetzwil/
+---

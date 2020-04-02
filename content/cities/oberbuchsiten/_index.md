@@ -1,0 +1,4 @@
+---
+title: Oberbuchsiten
+url: /oberbuchsiten/
+---

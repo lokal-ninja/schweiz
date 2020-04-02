@@ -1,0 +1,4 @@
+---
+title: Stadel
+url: /stadel/
+---

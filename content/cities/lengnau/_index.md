@@ -1,0 +1,4 @@
+---
+title: Lengnau
+url: /lengnau/
+---

@@ -1,0 +1,4 @@
+---
+title: Stansstad
+url: /stansstad/
+---

@@ -1,0 +1,4 @@
+---
+title: Egg
+url: /egg/
+---

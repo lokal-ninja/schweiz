@@ -1,0 +1,4 @@
+---
+title: Gänsbrunnen
+url: /gaensbrunnen/
+---

@@ -1,0 +1,4 @@
+---
+title: Gettnau
+url: /gettnau/
+---

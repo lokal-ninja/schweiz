@@ -1,0 +1,4 @@
+---
+title: Grüt
+url: /gruet/
+---

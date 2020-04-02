@@ -1,0 +1,4 @@
+---
+title: Wagenhausen
+url: /wagenhausen/
+---

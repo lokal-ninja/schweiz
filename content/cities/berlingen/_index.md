@@ -1,0 +1,4 @@
+---
+title: Berlingen
+url: /berlingen/
+---

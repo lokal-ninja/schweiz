@@ -1,0 +1,4 @@
+---
+title: Gibswil
+url: /gibswil/
+---

@@ -1,0 +1,4 @@
+---
+title: Waldstatt
+url: /waldstatt/
+---

@@ -1,0 +1,4 @@
+---
+title: Balsthal
+url: /balsthal/
+---

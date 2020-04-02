@@ -1,0 +1,4 @@
+---
+title: Galgenen
+url: /galgenen/
+---

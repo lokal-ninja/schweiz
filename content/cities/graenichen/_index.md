@@ -1,0 +1,4 @@
+---
+title: Gränichen
+url: /graenichen/
+---

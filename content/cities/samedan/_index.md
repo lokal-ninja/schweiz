@@ -1,0 +1,4 @@
+---
+title: Samedan
+url: /samedan/
+---

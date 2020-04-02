@@ -1,0 +1,4 @@
+---
+title: Duggingen
+url: /duggingen/
+---

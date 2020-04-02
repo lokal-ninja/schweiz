@@ -1,0 +1,4 @@
+---
+title: Gals
+url: /gals/
+---

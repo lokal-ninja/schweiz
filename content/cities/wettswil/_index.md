@@ -1,0 +1,4 @@
+---
+title: Wettswil
+url: /wettswil/
+---

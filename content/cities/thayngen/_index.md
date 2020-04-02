@@ -1,0 +1,4 @@
+---
+title: Thayngen
+url: /thayngen/
+---

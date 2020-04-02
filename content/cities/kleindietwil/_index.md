@@ -1,0 +1,4 @@
+---
+title: Kleindietwil
+url: /kleindietwil/
+---

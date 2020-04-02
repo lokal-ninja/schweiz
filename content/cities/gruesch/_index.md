@@ -1,0 +1,4 @@
+---
+title: Grüsch
+url: /gruesch/
+---

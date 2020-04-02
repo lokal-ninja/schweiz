@@ -1,0 +1,4 @@
+---
+title: Schönenbuch
+url: /schoenenbuch/
+---

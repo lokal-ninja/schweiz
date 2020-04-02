@@ -1,0 +1,4 @@
+---
+title: "claro Weltladen"
+url: /gossau/claro-weltladen/
+---

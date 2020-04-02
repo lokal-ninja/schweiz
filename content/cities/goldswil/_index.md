@@ -1,0 +1,4 @@
+---
+title: Goldswil
+url: /goldswil/
+---

@@ -1,0 +1,4 @@
+---
+title: Frieswil
+url: /frieswil/
+---

@@ -1,0 +1,4 @@
+---
+title: Wilderswil
+url: /wilderswil/
+---

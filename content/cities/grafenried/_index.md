@@ -1,0 +1,4 @@
+---
+title: Grafenried
+url: /grafenried/
+---

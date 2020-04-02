@@ -1,0 +1,4 @@
+---
+title: Rüdlingen
+url: /ruedlingen/
+---

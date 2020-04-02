@@ -1,0 +1,4 @@
+---
+title: Pfungen
+url: /pfungen/
+---

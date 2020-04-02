@@ -1,0 +1,4 @@
+---
+title: Seelisberg
+url: /seelisberg/
+---

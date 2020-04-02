@@ -1,0 +1,4 @@
+---
+title: Schönenwerd
+url: /schoenenwerd/
+---

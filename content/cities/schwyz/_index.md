@@ -1,0 +1,4 @@
+---
+title: Schwyz
+url: /schwyz/
+---

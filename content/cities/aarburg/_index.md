@@ -1,0 +1,4 @@
+---
+title: Aarburg
+url: /aarburg/
+---

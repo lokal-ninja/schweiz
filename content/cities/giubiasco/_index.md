@@ -1,0 +1,4 @@
+---
+title: Giubiasco
+url: /giubiasco/
+---

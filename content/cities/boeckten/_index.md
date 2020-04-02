@@ -1,0 +1,4 @@
+---
+title: Böckten
+url: /boeckten/
+---

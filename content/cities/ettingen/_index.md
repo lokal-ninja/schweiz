@@ -1,0 +1,4 @@
+---
+title: Ettingen
+url: /ettingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Blauen
+url: /blauen/
+---

@@ -1,0 +1,4 @@
+---
+title: Teufenthal
+url: /teufenthal/
+---

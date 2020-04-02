@@ -1,0 +1,4 @@
+---
+title: Gams
+url: /gams/
+---

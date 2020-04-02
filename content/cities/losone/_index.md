@@ -1,0 +1,4 @@
+---
+title: Losone
+url: /losone/
+---

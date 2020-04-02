@@ -1,0 +1,4 @@
+---
+title: Wangenried
+url: /wangenried/
+---

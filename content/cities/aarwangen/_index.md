@@ -1,0 +1,4 @@
+---
+title: Aarwangen
+url: /aarwangen/
+---

@@ -1,0 +1,4 @@
+---
+title: Corin
+url: /corin/
+---

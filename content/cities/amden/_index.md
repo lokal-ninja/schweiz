@@ -1,0 +1,4 @@
+---
+title: Amden
+url: /amden/
+---

@@ -1,0 +1,4 @@
+---
+title: Eggenwil
+url: /eggenwil/
+---

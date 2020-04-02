@@ -1,0 +1,4 @@
+---
+title: Frutigen
+url: /frutigen/
+---

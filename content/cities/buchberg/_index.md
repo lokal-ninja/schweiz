@@ -1,0 +1,4 @@
+---
+title: Buchberg
+url: /buchberg/
+---

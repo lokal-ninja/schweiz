@@ -1,0 +1,4 @@
+---
+title: Mannenbach
+url: /mannenbach/
+---

@@ -1,0 +1,4 @@
+---
+title: Hettenschwil
+url: /hettenschwil/
+---

@@ -1,0 +1,4 @@
+---
+title: Stallikon
+url: /stallikon/
+---

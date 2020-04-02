@@ -1,0 +1,4 @@
+---
+title: Schlatt
+url: /schlatt/
+---

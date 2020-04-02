@@ -1,0 +1,4 @@
+---
+title: Bottighofen
+url: /bottighofen/
+---

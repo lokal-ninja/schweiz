@@ -1,0 +1,4 @@
+---
+title: Schuls
+url: /schuls/
+---

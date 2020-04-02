@@ -1,0 +1,4 @@
+---
+title: Schönried
+url: /schoenried/
+---

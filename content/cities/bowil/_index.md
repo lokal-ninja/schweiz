@@ -1,0 +1,4 @@
+---
+title: Bowil
+url: /bowil/
+---

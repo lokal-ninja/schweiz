@@ -1,0 +1,4 @@
+---
+title: "Salone Gigi"
+url: /locarno/salone-gigi/
+---

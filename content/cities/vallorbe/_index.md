@@ -1,0 +1,4 @@
+---
+title: Vallorbe
+url: /vallorbe/
+---

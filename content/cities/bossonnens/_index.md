@@ -1,0 +1,4 @@
+---
+title: Bossonnens
+url: /bossonnens/
+---

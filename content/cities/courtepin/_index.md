@@ -1,0 +1,4 @@
+---
+title: Courtepin
+url: /courtepin/
+---

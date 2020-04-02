@@ -1,0 +1,4 @@
+---
+title: Blonay
+url: /blonay/
+---

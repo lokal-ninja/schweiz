@@ -1,0 +1,4 @@
+---
+title: Waltenschwil
+url: /waltenschwil/
+---

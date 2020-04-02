@@ -1,0 +1,4 @@
+---
+title: Bronschhofen
+url: /bronschhofen/
+---

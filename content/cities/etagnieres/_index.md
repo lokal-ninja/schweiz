@@ -1,0 +1,4 @@
+---
+title: Etagnières
+url: /etagnieres/
+---

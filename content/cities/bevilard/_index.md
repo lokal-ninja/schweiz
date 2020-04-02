@@ -1,0 +1,4 @@
+---
+title: Bévilard
+url: /bevilard/
+---

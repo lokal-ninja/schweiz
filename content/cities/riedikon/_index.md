@@ -1,0 +1,4 @@
+---
+title: Riedikon
+url: /riedikon/
+---

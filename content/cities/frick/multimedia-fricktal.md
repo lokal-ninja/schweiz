@@ -1,0 +1,4 @@
+---
+title: "Multimedia Fricktal"
+url: /frick/multimedia-fricktal/
+---

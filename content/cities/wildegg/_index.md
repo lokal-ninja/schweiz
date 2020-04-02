@@ -1,0 +1,4 @@
+---
+title: Wildegg
+url: /wildegg/
+---

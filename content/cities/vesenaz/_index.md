@@ -1,0 +1,4 @@
+---
+title: Vésenaz
+url: /vesenaz/
+---

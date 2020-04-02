@@ -1,0 +1,4 @@
+---
+title: Schwägalp
+url: /schwaegalp/
+---

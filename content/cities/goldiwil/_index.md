@@ -1,0 +1,4 @@
+---
+title: Goldiwil
+url: /goldiwil/
+---

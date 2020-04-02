@@ -1,0 +1,4 @@
+---
+title: Belfaux
+url: /belfaux/
+---

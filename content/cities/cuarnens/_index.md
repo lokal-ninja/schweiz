@@ -1,0 +1,4 @@
+---
+title: Cuarnens
+url: /cuarnens/
+---

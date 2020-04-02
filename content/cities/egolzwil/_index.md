@@ -1,0 +1,4 @@
+---
+title: Egolzwil
+url: /egolzwil/
+---

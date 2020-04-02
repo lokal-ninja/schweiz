@@ -1,0 +1,4 @@
+---
+title: Krattigen
+url: /krattigen/
+---

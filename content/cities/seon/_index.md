@@ -1,0 +1,4 @@
+---
+title: Seon
+url: /seon/
+---

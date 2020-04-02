@@ -1,0 +1,4 @@
+---
+title: Möhlin
+url: /moehlin/
+---

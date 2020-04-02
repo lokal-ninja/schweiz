@@ -1,0 +1,4 @@
+---
+title: Wolfhausen
+url: /wolfhausen/
+---

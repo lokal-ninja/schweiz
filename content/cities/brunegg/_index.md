@@ -1,0 +1,4 @@
+---
+title: Brunegg
+url: /brunegg/
+---

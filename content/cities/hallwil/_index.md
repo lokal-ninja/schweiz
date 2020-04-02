@@ -1,0 +1,4 @@
+---
+title: Hallwil
+url: /hallwil/
+---

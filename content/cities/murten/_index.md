@@ -1,0 +1,4 @@
+---
+title: Murten
+url: /murten/
+---

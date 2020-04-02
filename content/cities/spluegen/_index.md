@@ -1,0 +1,4 @@
+---
+title: Splügen
+url: /spluegen/
+---

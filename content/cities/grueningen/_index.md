@@ -1,0 +1,4 @@
+---
+title: Grüningen
+url: /grueningen/
+---

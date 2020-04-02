@@ -1,0 +1,4 @@
+---
+title: Winznau
+url: /winznau/
+---

@@ -1,0 +1,4 @@
+---
+title: Netstal
+url: /netstal/
+---

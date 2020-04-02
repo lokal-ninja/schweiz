@@ -1,0 +1,4 @@
+---
+title: Gadmen
+url: /gadmen/
+---

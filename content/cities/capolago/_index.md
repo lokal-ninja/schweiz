@@ -1,0 +1,4 @@
+---
+title: Capolago
+url: /capolago/
+---

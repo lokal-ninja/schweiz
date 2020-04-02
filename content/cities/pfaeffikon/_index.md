@@ -1,0 +1,4 @@
+---
+title: Pfäffikon
+url: /pfaeffikon/
+---

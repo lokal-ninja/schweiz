@@ -1,0 +1,4 @@
+---
+title: Bolligen
+url: /bolligen/
+---

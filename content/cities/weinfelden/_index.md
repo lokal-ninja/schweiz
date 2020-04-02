@@ -1,0 +1,4 @@
+---
+title: Weinfelden
+url: /weinfelden/
+---

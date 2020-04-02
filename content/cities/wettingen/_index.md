@@ -1,0 +1,4 @@
+---
+title: Wettingen
+url: /wettingen/
+---

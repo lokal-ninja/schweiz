@@ -1,0 +1,4 @@
+---
+title: Brunnen
+url: /brunnen/
+---

@@ -1,0 +1,4 @@
+---
+title: Frasnacht
+url: /frasnacht/
+---

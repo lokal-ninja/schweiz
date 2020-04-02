@@ -1,0 +1,4 @@
+---
+title: Gundetswil
+url: /gundetswil/
+---

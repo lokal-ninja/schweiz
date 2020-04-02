@@ -1,0 +1,4 @@
+---
+title: Bretzwil
+url: /bretzwil/
+---

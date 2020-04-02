@@ -1,0 +1,4 @@
+---
+title: Wenslingen
+url: /wenslingen/
+---

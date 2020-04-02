@@ -1,0 +1,4 @@
+---
+title: Bichelsee
+url: /bichelsee/
+---

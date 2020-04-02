@@ -1,0 +1,4 @@
+---
+title: Schafisheim
+url: /schafisheim/
+---

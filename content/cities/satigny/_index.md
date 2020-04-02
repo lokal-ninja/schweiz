@@ -1,0 +1,4 @@
+---
+title: Satigny
+url: /satigny/
+---

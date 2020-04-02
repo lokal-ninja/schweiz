@@ -1,0 +1,4 @@
+---
+title: Farvagny
+url: /farvagny/
+---

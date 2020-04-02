@@ -1,0 +1,4 @@
+---
+title: Malleray
+url: /malleray/
+---

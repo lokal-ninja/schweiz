@@ -1,0 +1,4 @@
+---
+title: Bilten
+url: /bilten/
+---

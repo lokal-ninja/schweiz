@@ -1,0 +1,4 @@
+---
+title: Vals
+url: /vals/
+---

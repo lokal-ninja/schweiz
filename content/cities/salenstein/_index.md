@@ -1,0 +1,4 @@
+---
+title: Salenstein
+url: /salenstein/
+---

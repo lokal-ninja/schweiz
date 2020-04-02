@@ -1,0 +1,4 @@
+---
+title: Riken
+url: /riken/
+---

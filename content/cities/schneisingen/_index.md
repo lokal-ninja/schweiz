@@ -1,0 +1,4 @@
+---
+title: Schneisingen
+url: /schneisingen/
+---

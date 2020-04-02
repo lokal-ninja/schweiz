@@ -1,0 +1,4 @@
+---
+title: Blumenstein
+url: /blumenstein/
+---

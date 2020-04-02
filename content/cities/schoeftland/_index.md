@@ -1,0 +1,4 @@
+---
+title: Schöftland
+url: /schoeftland/
+---

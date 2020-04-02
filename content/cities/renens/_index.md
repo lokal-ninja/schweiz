@@ -1,0 +1,4 @@
+---
+title: Renens
+url: /renens/
+---

@@ -1,0 +1,4 @@
+---
+title: "Auto Budget"
+url: /oberglatt/auto-budget/
+---

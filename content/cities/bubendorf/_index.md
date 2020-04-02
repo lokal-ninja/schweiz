@@ -1,0 +1,4 @@
+---
+title: Bubendorf
+url: /bubendorf/
+---

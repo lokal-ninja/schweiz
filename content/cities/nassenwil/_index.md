@@ -1,0 +1,4 @@
+---
+title: Nassenwil
+url: /nassenwil/
+---

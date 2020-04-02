@@ -1,0 +1,4 @@
+---
+title: Sumiswald
+url: /sumiswald/
+---

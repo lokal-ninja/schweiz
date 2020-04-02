@@ -1,0 +1,4 @@
+---
+title: Laupen
+url: /laupen/
+---

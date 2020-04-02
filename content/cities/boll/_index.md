@@ -1,0 +1,4 @@
+---
+title: Boll
+url: /boll/
+---

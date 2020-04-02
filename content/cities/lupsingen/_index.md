@@ -1,0 +1,4 @@
+---
+title: Lupsingen
+url: /lupsingen/
+---

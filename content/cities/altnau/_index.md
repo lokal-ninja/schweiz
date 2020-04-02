@@ -1,0 +1,4 @@
+---
+title: Altnau
+url: /altnau/
+---

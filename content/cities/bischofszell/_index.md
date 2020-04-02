@@ -1,0 +1,4 @@
+---
+title: Bischofszell
+url: /bischofszell/
+---

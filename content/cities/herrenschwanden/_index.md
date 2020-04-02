@@ -1,0 +1,4 @@
+---
+title: Herrenschwanden
+url: /herrenschwanden/
+---

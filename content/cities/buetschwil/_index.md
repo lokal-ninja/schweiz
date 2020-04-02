@@ -1,0 +1,4 @@
+---
+title: Bütschwil
+url: /buetschwil/
+---

@@ -1,0 +1,4 @@
+---
+title: Rubigen
+url: /rubigen/
+---

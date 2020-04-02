@@ -1,0 +1,4 @@
+---
+title: Bottenwil
+url: /bottenwil/
+---

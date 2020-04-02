@@ -1,0 +1,4 @@
+---
+title: Gampel
+url: /gampel/
+---

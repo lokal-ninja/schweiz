@@ -1,0 +1,4 @@
+---
+title: Bönigen
+url: /boenigen/
+---

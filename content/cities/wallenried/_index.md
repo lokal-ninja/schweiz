@@ -1,0 +1,4 @@
+---
+title: Wallenried
+url: /wallenried/
+---

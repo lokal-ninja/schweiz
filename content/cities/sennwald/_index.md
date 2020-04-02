@@ -1,0 +1,4 @@
+---
+title: Sennwald
+url: /sennwald/
+---

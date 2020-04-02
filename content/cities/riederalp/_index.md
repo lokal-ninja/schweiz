@@ -1,0 +1,4 @@
+---
+title: Riederalp
+url: /riederalp/
+---

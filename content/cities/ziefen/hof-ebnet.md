@@ -1,0 +1,4 @@
+---
+title: "Hof Ebnet"
+url: /ziefen/hof-ebnet/
+---

@@ -1,0 +1,4 @@
+---
+title: Langnau
+url: /langnau/
+---

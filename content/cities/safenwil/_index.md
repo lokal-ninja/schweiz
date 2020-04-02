@@ -1,0 +1,4 @@
+---
+title: Safenwil
+url: /safenwil/
+---

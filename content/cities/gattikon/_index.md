@@ -1,0 +1,4 @@
+---
+title: Gattikon
+url: /gattikon/
+---

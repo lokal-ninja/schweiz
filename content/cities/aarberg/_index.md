@@ -1,0 +1,4 @@
+---
+title: Aarberg
+url: /aarberg/
+---

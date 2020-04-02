@@ -1,0 +1,4 @@
+---
+title: Langenbruck
+url: /langenbruck/
+---

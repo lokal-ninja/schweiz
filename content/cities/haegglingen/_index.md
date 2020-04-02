@@ -1,0 +1,4 @@
+---
+title: Hägglingen
+url: /haegglingen/
+---

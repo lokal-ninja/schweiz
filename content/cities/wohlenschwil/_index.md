@@ -1,0 +1,4 @@
+---
+title: Wohlenschwil
+url: /wohlenschwil/
+---

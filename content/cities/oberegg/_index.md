@@ -1,0 +1,4 @@
+---
+title: Oberegg
+url: /oberegg/
+---

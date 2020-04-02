@@ -1,0 +1,4 @@
+---
+title: Rottenschwil
+url: /rottenschwil/
+---

@@ -1,0 +1,4 @@
+---
+title: Huémoz
+url: /huemoz/
+---

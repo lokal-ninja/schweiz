@@ -1,0 +1,4 @@
+---
+title: Beringen
+url: /beringen/
+---

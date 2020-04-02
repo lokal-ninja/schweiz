@@ -1,0 +1,4 @@
+---
+title: "Diététique Santé"
+url: /yverdon-les-bains/dietetique-sante/
+---

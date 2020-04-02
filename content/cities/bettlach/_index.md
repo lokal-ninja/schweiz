@@ -1,0 +1,4 @@
+---
+title: Bettlach
+url: /bettlach/
+---

@@ -1,0 +1,4 @@
+---
+title: Brig
+url: /brig/
+---

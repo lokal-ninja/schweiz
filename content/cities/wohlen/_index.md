@@ -1,0 +1,4 @@
+---
+title: Wohlen
+url: /wohlen/
+---

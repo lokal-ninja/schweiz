@@ -1,0 +1,4 @@
+---
+title: Ossingen
+url: /ossingen/
+---

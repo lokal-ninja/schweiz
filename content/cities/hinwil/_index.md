@@ -1,0 +1,4 @@
+---
+title: Hinwil
+url: /hinwil/
+---

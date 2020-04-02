@@ -1,0 +1,4 @@
+---
+title: Weggis
+url: /weggis/
+---

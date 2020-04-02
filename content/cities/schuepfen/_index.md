@@ -1,0 +1,4 @@
+---
+title: Schüpfen
+url: /schuepfen/
+---

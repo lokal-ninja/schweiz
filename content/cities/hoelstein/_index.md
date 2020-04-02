@@ -1,0 +1,4 @@
+---
+title: Hölstein
+url: /hoelstein/
+---

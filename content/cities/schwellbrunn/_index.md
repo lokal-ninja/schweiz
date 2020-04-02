@@ -1,0 +1,4 @@
+---
+title: Schwellbrunn
+url: /schwellbrunn/
+---

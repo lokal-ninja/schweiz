@@ -1,0 +1,4 @@
+---
+title: "RS Automobile"
+url: /lichtensteig/rs-automobile/
+---

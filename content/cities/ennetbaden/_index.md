@@ -1,0 +1,4 @@
+---
+title: Ennetbaden
+url: /ennetbaden/
+---

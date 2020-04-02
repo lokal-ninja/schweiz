@@ -1,0 +1,4 @@
+---
+title: Ehrikon
+url: /ehrikon/
+---

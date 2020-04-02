@@ -1,0 +1,4 @@
+---
+title: Adelboden
+url: /adelboden/
+---

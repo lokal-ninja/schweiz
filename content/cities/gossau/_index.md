@@ -1,0 +1,4 @@
+---
+title: Gossau
+url: /gossau/
+---

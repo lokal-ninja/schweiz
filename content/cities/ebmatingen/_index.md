@@ -1,0 +1,4 @@
+---
+title: Ebmatingen
+url: /ebmatingen/
+---

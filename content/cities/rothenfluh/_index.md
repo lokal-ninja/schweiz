@@ -1,0 +1,4 @@
+---
+title: Rothenfluh
+url: /rothenfluh/
+---

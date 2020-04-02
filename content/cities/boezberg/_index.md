@@ -1,0 +1,4 @@
+---
+title: Bözberg
+url: /boezberg/
+---

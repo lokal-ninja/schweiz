@@ -1,0 +1,4 @@
+---
+title: Aubonne
+url: /aubonne/
+---

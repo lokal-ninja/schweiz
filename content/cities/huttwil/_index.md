@@ -1,0 +1,4 @@
+---
+title: Huttwil
+url: /huttwil/
+---

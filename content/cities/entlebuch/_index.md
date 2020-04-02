@@ -1,0 +1,4 @@
+---
+title: Entlebuch
+url: /entlebuch/
+---

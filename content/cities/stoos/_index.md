@@ -1,0 +1,4 @@
+---
+title: Stoos
+url: /stoos/
+---

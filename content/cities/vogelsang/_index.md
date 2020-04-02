@@ -1,0 +1,4 @@
+---
+title: Vogelsang
+url: /vogelsang/
+---

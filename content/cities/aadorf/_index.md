@@ -1,0 +1,4 @@
+---
+title: Aadorf
+url: /aadorf/
+---

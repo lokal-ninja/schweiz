@@ -1,0 +1,4 @@
+---
+title: Riggisberg
+url: /riggisberg/
+---

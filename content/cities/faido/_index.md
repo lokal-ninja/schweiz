@@ -1,0 +1,4 @@
+---
+title: Faido
+url: /faido/
+---

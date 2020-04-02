@@ -1,0 +1,4 @@
+---
+title: Langenthal
+url: /langenthal/
+---

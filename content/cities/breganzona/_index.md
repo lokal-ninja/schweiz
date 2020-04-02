@@ -1,0 +1,4 @@
+---
+title: Breganzona
+url: /breganzona/
+---

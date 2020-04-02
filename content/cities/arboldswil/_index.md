@@ -1,0 +1,4 @@
+---
+title: Arboldswil
+url: /arboldswil/
+---

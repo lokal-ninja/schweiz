@@ -1,0 +1,4 @@
+---
+title: Bottmingen
+url: /bottmingen/
+---

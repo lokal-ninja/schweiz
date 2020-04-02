@@ -1,0 +1,4 @@
+---
+title: Riedtwil
+url: /riedtwil/
+---

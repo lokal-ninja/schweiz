@@ -1,0 +1,4 @@
+---
+title: Hindelbank
+url: /hindelbank/
+---

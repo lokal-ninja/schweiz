@@ -1,0 +1,4 @@
+---
+title: Wolfisberg
+url: /wolfisberg/
+---

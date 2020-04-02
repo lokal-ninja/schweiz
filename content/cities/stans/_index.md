@@ -1,0 +1,4 @@
+---
+title: Stans
+url: /stans/
+---

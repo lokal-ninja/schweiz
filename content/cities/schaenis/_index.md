@@ -1,0 +1,4 @@
+---
+title: Schänis
+url: /schaenis/
+---

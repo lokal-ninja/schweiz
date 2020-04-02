@@ -1,0 +1,4 @@
+---
+title: "Dorfladen Lenggenwil"
+url: /lenggenwil/dorfladen-lenggenwil/
+---

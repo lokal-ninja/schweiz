@@ -1,0 +1,4 @@
+---
+title: Trin
+url: /trin/
+---

@@ -1,0 +1,4 @@
+---
+title: Gelterfingen
+url: /gelterfingen/
+---

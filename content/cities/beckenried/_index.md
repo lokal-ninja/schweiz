@@ -1,0 +1,4 @@
+---
+title: Beckenried
+url: /beckenried/
+---

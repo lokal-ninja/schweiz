@@ -1,0 +1,4 @@
+---
+title: Schaffhausen
+url: /schaffhausen/
+---

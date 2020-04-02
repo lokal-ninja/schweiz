@@ -1,0 +1,4 @@
+---
+title: Seengen
+url: /seengen/
+---

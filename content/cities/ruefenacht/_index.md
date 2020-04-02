@@ -1,0 +1,4 @@
+---
+title: Rüfenacht
+url: /ruefenacht/
+---

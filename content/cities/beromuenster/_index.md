@@ -1,0 +1,4 @@
+---
+title: Beromünster
+url: /beromuenster/
+---

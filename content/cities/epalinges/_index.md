@@ -1,0 +1,4 @@
+---
+title: Epalinges
+url: /epalinges/
+---

@@ -1,0 +1,4 @@
+---
+title: Niedergösgen
+url: /niedergoesgen/
+---

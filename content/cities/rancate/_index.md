@@ -1,0 +1,4 @@
+---
+title: Rancate
+url: /rancate/
+---

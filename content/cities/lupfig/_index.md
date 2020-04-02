@@ -1,0 +1,4 @@
+---
+title: Lupfig
+url: /lupfig/
+---

@@ -1,0 +1,4 @@
+---
+title: Wimmis
+url: /wimmis/
+---

@@ -1,0 +1,4 @@
+---
+title: Münchenstein
+url: /muenchenstein/
+---

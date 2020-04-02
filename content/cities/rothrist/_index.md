@@ -1,0 +1,4 @@
+---
+title: Rothrist
+url: /rothrist/
+---

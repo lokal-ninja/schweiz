@@ -1,0 +1,4 @@
+---
+title: Ringgenberg
+url: /ringgenberg/
+---

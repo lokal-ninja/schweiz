@@ -1,0 +1,4 @@
+---
+title: Konolfingen
+url: /konolfingen/
+---

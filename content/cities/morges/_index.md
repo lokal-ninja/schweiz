@@ -1,0 +1,4 @@
+---
+title: Morges
+url: /morges/
+---

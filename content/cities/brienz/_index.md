@@ -1,0 +1,4 @@
+---
+title: Brienz
+url: /brienz/
+---

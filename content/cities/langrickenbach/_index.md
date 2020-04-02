@@ -1,0 +1,4 @@
+---
+title: Langrickenbach
+url: /langrickenbach/
+---

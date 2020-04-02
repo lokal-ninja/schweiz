@@ -1,0 +1,4 @@
+---
+title: Amsteg
+url: /amsteg/
+---

@@ -1,0 +1,4 @@
+---
+title: Hirschthal
+url: /hirschthal/
+---

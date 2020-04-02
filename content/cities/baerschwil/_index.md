@@ -1,0 +1,4 @@
+---
+title: Bärschwil
+url: /baerschwil/
+---

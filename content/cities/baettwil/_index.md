@@ -1,0 +1,4 @@
+---
+title: Bättwil
+url: /baettwil/
+---

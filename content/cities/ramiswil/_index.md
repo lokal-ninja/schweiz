@@ -1,0 +1,4 @@
+---
+title: Ramiswil
+url: /ramiswil/
+---

@@ -1,0 +1,4 @@
+---
+title: Bertschikon
+url: /bertschikon/
+---

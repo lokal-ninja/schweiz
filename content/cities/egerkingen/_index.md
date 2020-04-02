@@ -1,0 +1,4 @@
+---
+title: Egerkingen
+url: /egerkingen/
+---

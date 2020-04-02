@@ -1,0 +1,4 @@
+---
+title: Ergisch
+url: /ergisch/
+---

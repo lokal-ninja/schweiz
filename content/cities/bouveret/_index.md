@@ -1,0 +1,4 @@
+---
+title: Bouveret
+url: /bouveret/
+---

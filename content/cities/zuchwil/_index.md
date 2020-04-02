@@ -1,0 +1,4 @@
+---
+title: Zuchwil
+url: /zuchwil/
+---

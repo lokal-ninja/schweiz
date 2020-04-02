@@ -1,0 +1,4 @@
+---
+title: Interlaken
+url: /interlaken/
+---

@@ -1,0 +1,4 @@
+---
+title: Hottwil
+url: /hottwil/
+---

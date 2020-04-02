@@ -1,0 +1,4 @@
+---
+title: Dorénaz
+url: /dorenaz/
+---

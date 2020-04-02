@@ -1,0 +1,4 @@
+---
+title: Bätterkinden
+url: /baetterkinden/
+---

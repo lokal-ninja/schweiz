@@ -1,0 +1,4 @@
+---
+title: Lauterbrunnen
+url: /lauterbrunnen/
+---

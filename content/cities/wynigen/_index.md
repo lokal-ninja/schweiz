@@ -1,0 +1,4 @@
+---
+title: Wynigen
+url: /wynigen/
+---

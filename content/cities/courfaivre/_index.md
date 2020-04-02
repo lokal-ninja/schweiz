@@ -1,0 +1,4 @@
+---
+title: Courfaivre
+url: /courfaivre/
+---

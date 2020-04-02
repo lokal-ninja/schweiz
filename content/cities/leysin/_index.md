@@ -1,0 +1,4 @@
+---
+title: Leysin
+url: /leysin/
+---

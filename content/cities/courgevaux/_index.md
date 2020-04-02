@@ -1,0 +1,4 @@
+---
+title: Courgevaux
+url: /courgevaux/
+---

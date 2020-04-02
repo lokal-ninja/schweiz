@@ -1,0 +1,4 @@
+---
+title: Morcote
+url: /morcote/
+---

@@ -1,0 +1,4 @@
+---
+title: Leukerbad
+url: /leukerbad/
+---

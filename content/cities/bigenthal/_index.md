@@ -1,0 +1,4 @@
+---
+title: Bigenthal
+url: /bigenthal/
+---

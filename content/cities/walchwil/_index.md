@@ -1,0 +1,4 @@
+---
+title: Walchwil
+url: /walchwil/
+---

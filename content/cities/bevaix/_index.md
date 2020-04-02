@@ -1,0 +1,4 @@
+---
+title: Bevaix
+url: /bevaix/
+---

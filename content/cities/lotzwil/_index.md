@@ -1,0 +1,4 @@
+---
+title: Lotzwil
+url: /lotzwil/
+---

@@ -1,0 +1,4 @@
+---
+title: Bramois
+url: /bramois/
+---

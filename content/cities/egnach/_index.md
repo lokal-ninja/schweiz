@@ -1,0 +1,4 @@
+---
+title: Egnach
+url: /egnach/
+---

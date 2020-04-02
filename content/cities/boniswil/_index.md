@@ -1,0 +1,4 @@
+---
+title: Boniswil
+url: /boniswil/
+---

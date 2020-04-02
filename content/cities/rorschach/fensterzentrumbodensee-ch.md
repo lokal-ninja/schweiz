@@ -1,0 +1,4 @@
+---
+title: "FENSTERZENTRUMBODENSEE.CH"
+url: /rorschach/fensterzentrumbodensee-ch/
+---

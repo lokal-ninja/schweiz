@@ -1,0 +1,4 @@
+---
+title: Kleinandelfingen
+url: /kleinandelfingen/
+---

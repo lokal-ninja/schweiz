@@ -1,0 +1,4 @@
+---
+title: Burgistein
+url: /burgistein/
+---

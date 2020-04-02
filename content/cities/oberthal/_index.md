@@ -1,0 +1,4 @@
+---
+title: Oberthal
+url: /oberthal/
+---

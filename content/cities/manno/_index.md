@@ -1,0 +1,4 @@
+---
+title: Manno
+url: /manno/
+---

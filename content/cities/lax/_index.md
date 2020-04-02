@@ -1,0 +1,4 @@
+---
+title: Lax
+url: /lax/
+---

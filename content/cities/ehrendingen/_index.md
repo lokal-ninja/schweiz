@@ -1,0 +1,4 @@
+---
+title: Ehrendingen
+url: /ehrendingen/
+---

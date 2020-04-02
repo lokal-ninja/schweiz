@@ -1,0 +1,4 @@
+---
+title: Wilchingen
+url: /wilchingen/
+---

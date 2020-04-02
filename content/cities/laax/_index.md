@@ -1,0 +1,4 @@
+---
+title: Laax
+url: /laax/
+---

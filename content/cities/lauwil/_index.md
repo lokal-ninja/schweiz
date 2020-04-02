@@ -1,0 +1,4 @@
+---
+title: Lauwil
+url: /lauwil/
+---

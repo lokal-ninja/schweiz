@@ -1,0 +1,4 @@
+---
+title: Vuadens
+url: /vuadens/
+---

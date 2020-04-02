@@ -1,0 +1,4 @@
+---
+title: Montreux
+url: /montreux/
+---

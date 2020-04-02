@@ -1,0 +1,4 @@
+---
+title: Geroldswil
+url: /geroldswil/
+---

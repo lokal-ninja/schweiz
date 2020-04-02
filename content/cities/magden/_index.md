@@ -1,0 +1,4 @@
+---
+title: Magden
+url: /magden/
+---

@@ -1,0 +1,4 @@
+---
+title: Chavornay
+url: /chavornay/
+---

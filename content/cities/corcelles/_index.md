@@ -1,0 +1,4 @@
+---
+title: Corcelles
+url: /corcelles/
+---

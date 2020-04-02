@@ -1,0 +1,4 @@
+---
+title: Ingenbohl
+url: /ingenbohl/
+---

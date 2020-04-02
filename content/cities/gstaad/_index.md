@@ -1,0 +1,4 @@
+---
+title: Gstaad
+url: /gstaad/
+---

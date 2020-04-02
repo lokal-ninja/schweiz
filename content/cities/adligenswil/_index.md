@@ -1,0 +1,4 @@
+---
+title: Adligenswil
+url: /adligenswil/
+---

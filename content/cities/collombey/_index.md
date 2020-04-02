@@ -1,0 +1,4 @@
+---
+title: Collombey
+url: /collombey/
+---

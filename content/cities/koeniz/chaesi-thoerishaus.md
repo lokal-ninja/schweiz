@@ -1,0 +1,4 @@
+---
+title: "Chäsi Thörishaus"
+url: /koeniz/chaesi-thoerishaus/
+---

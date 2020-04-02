@@ -1,0 +1,4 @@
+---
+title: Walzenhausen
+url: /walzenhausen/
+---

@@ -1,0 +1,4 @@
+---
+title: Rudolfstetten
+url: /rudolfstetten/
+---

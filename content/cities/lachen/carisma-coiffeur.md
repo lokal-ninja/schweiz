@@ -1,0 +1,4 @@
+---
+title: "Carisma Coiffeur"
+url: /lachen/carisma-coiffeur/
+---

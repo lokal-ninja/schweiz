@@ -1,0 +1,4 @@
+---
+title: "Letten Center"
+url: /allschwil/letten-center/
+---

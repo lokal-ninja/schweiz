@@ -1,0 +1,4 @@
+---
+title: Wölflinswil
+url: /woelflinswil/
+---

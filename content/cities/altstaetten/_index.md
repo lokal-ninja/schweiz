@@ -1,0 +1,4 @@
+---
+title: Altstätten
+url: /altstaetten/
+---

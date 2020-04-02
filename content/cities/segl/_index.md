@@ -1,0 +1,4 @@
+---
+title: Segl
+url: /segl/
+---
