@@ -1,6 +1,6 @@
 ---
 title: Stoos
 url: /stoos/
-latitude: 46.9769494
-longitude: 8.6643588
+latitude: 47.123797100000004
+longitude: 7.910145600000001
 ---

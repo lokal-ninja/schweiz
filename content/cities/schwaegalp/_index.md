@@ -1,6 +1,6 @@
 ---
 title: Schwägalp
 url: /schwaegalp/
-latitude: 47.256181100000006
-longitude: 9.3183067
+latitude: 47.256134
+longitude: 9.319254800000001
 ---
