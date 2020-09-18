@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.0812946
 longitude: 8.6292927
-postcode: 6417
+postcode: "6417"
 city: Sattel
 street: "Aegeristrasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.645971700000004
 longitude: 7.076272100000001
-postcode: 1646
+postcode: "1646"
 city: Echarlens
 street: "Route de Montilier"
 housenumber: 5

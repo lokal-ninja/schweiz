@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 46.962703600000005
 longitude: 7.4637707
-postcode: 3014
+postcode: "3014"
 city: Bern
 street: "Papiermühlestrasse"
 housenumber: 

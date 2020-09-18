@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4429619
 longitude: 8.4647555
-postcode: 8105
+postcode: "8105"
 city: Regensdorf
 street: "Althardstrasse"
 housenumber: 220

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.524283100000005
 longitude: 7.773217600000001
-postcode: 4305
+postcode: "4305"
 city: Olsberg
 street: "Chloster"
 housenumber: 5

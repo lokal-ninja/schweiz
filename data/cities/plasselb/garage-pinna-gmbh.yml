@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.7362935
 longitude: 7.2542822000000005
-postcode: 1737
+postcode: "1737"
 city: Plasselb
 street: "Dorfstrasse"
 housenumber: 35

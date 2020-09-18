@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.959768100000005
 longitude: 7.4803017
-postcode: 3072
+postcode: "3072"
 city: Ostermundigen
 street: "Schermenweg"
 housenumber: 153

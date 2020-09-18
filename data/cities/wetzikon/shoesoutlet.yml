@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.3269455
 longitude: 8.7973659
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Usterstrasse"
 housenumber: 16

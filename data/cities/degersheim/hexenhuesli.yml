@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.372618200000005
 longitude: 9.199662
-postcode: 9113
+postcode: "9113"
 city: Degersheim
 street: "Bahnhofstrasse"
 housenumber: 

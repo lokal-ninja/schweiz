@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.193521700000005
 longitude: 9.2838603
-postcode: 9656
+postcode: "9656"
 city: Alt St. Johann
 street: "Dorfstrasse"
 housenumber: 4

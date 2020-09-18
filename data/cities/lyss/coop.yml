@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.072780200000004
 longitude: 7.3017984
-postcode: 3250
+postcode: "3250"
 city: Lyss
 street: "Beundengasse"
 housenumber: 2

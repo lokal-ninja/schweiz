@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.5884094
 longitude: 7.6458029000000005
-postcode: 3714
+postcode: "3714"
 city: Frutigen
 street: "Kanderstegstrasse"
 housenumber: 1

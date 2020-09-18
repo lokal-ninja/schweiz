@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2279105
 longitude: 7.565362
-postcode: 4533
+postcode: "4533"
 city: Riedholz
 street: "Wallierhofstrasse"
 housenumber: 2

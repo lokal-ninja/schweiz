@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.540380600000006
 longitude: 7.597740600000001
-postcode: 4053
+postcode: "4053"
 city: Basel
 street: "Dornacherstrasse"
 housenumber: 258

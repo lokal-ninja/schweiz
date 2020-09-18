@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.68388
 longitude: 7.664041200000001
-postcode: 3700
+postcode: "3700"
 city: Spiez
 street: "Simmentalstrasse"
 housenumber: 35a

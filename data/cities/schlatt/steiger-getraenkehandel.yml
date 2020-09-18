@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4668476
 longitude: 8.8281375
-postcode: 8418
+postcode: "8418"
 city: Schlatt
 street: "In der Säge"
 housenumber: 17

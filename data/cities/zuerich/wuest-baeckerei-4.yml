@@ -1,12 +1,12 @@
-id: 4872461928
+id: 3537752737
 type: node
 shop: Bäckerei
-latitude: 47.3549438
-longitude: 8.574996500000001
-postcode: 8008
+latitude: 47.3789603
+longitude: 8.5436852
+postcode: "8006"
 city: Zürich
-street: "Forchstrasse"
-housenumber: 327
+street: "Stampfenbachstrasse"
+housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su 07:30-13:00"
-website: "http://baeckereiwuest.ch/"
+opening_hours: "Mo-Fr 06:30-18:30; Sa-Su 07:00-17:00"
+website: "https://baeckereiwuest.ch/"

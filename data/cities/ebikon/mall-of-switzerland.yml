@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.094051300000004
 longitude: 8.3597628
-postcode: 6030
+postcode: "6030"
 city: Ebikon
 street: "Ebisquare-Strasse"
 housenumber: 1

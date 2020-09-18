@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.196871200000004
 longitude: 6.1425339
-postcode: 
+postcode: ""
 city: Genève
 street: "Rue de Carouge"
 housenumber: 12

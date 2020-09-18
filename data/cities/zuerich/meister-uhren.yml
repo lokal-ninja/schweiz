@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 47.371168000000004
 longitude: 8.538521300000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 33

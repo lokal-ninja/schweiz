@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 47.364898000000004
 longitude: 8.0590121
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Bernstrasse-West"
 housenumber: 106
 phone: "+4162 842 77 70"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 07:00-17:00"
-website: ""
+website: "https://www.gemuesebau-fischer.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.348165
 longitude: 9.1563922
-postcode: 9122
+postcode: "9122"
 city: Ebersol
 street: "Moos"
 housenumber: 985

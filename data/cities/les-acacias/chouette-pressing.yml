@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.1879786
 longitude: 6.1385474
-postcode: 1227
+postcode: "1227"
 city: Les Acacias
 street: "Rue Caroline"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6025762
 longitude: 9.9590887
-postcode: 7524
+postcode: "7524"
 city: Zuoz
 street: "Plagnoula"
 housenumber: 32a

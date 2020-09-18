@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.225098900000006
 longitude: 8.6672426
-postcode: 8820
+postcode: "8820"
 city: Wädenswil
 street: "Speerstrasse"
 housenumber: 

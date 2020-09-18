@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4367171
 longitude: 8.1469684
-postcode: 5106
+postcode: "5106"
 city: Veltheim AG
 street: "Erlibachweg"
 housenumber: 1

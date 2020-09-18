@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.3847899
 longitude: 8.4954286
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 581

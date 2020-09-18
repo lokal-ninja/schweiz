@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3675227
 longitude: 8.5448498
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bellevueplatz"
 housenumber: 5

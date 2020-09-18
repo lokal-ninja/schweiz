@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3239358
 longitude: 7.8039665000000005
-postcode: 4622
+postcode: "4622"
 city: Egerkingen
 street: "Lindenhagstrasse"
 housenumber: 1

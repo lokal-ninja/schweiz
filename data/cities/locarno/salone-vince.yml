@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.1690655
 longitude: 8.7929221
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via San Francesco"
 housenumber: 4

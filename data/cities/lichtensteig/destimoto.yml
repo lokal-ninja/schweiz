@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.3250679
 longitude: 9.086166
-postcode: 9620
+postcode: "9620"
 city: Lichtensteig
 street: "Loretostrasse"
 housenumber: 18

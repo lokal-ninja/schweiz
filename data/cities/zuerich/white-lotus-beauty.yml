@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4104176
 longitude: 8.5432562
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: ""
 housenumber: 

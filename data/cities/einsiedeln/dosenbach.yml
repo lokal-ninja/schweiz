@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.1328759
 longitude: 8.7449063
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Zürichstrasse"
 housenumber: 44

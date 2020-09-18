@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.059587
 longitude: 6.9038721
-postcode: 2053
+postcode: "2053"
 city: Cernier
 street: "Rue Frédéric Soguel"
 housenumber: 24

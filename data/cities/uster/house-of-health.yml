@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.3590133
 longitude: 8.7095797
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Loren-Allee"
 housenumber: 16

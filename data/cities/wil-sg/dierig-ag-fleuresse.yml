@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.4635966
 longitude: 9.039063
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Gallusstrasse"
 housenumber: 17

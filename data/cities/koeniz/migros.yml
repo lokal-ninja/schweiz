@@ -1,12 +1,12 @@
-id: 936779857
+id: 1022612040
 type: node
 shop: Supermarkt
-latitude: 46.922589800000004
-longitude: 7.4596904
-postcode: 3084
+latitude: 46.9232213
+longitude: 7.414240100000001
+postcode: "3098"
 city: Köniz
-street: "Seftigenstrasse"
-housenumber: 
+street: "Bläuacker"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00"
-website: ""
+opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-koeniz-blaeuacker"

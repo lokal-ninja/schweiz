@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 46.0061228
 longitude: 8.955048600000001
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Carlo Frasca"
 housenumber: 1

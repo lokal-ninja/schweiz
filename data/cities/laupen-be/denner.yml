@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.903536100000004
 longitude: 7.239706000000001
-postcode: 3177
+postcode: "3177"
 city: Laupen BE
 street: "Krautgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.6717317
 longitude: 9.061385900000001
-postcode: 8268
+postcode: "8268"
 city: Salenstein
 street: "Arenenberg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3752574
 longitude: 8.4849353
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Albisriederstrasse"
 housenumber: 369

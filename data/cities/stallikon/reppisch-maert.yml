@@ -1,12 +1,12 @@
-id: 1693414693
-type: node
-shop: Supermarkt
-latitude: 47.342789
-longitude: 8.483055
-postcode: 8143
+id: 551452624
+type: way
+shop: Einkaufszentrum
+latitude: 47.342898000000005
+longitude: 8.4829132
+postcode: "8143"
 city: Stallikon
 street: "Sellenbüren"
 housenumber: 61
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30;Sa 07:30-17:00"
+opening_hours: ""
 website: ""

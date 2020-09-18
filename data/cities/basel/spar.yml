@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.561172400000004
 longitude: 7.5693704
-postcode: 4055
+postcode: "4055"
 city: Basel
 street: "Hegenheimerstrasse"
 housenumber: 93

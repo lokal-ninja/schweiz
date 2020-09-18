@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 47.4753417
 longitude: 8.2086035
-postcode: 5200
+postcode: "5200"
 city: Brugg
 street: "Reutenenstrasse"
 housenumber: 7

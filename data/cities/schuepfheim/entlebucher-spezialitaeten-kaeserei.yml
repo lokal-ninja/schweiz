@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.9290311
 longitude: 8.014235300000001
-postcode: 6170
+postcode: "6170"
 city: Schüpfheim
 street: "Chlusbode"
 housenumber: 12

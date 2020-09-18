@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.9411149
 longitude: 7.4185948
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Könizstrasse"
 housenumber: 60
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-17:00; Su off"
-website: "http://www.voi-migrospartner.ch/#Location"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-17:00; PH off"
+website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-bern-fischermaetteli"

@@ -1,12 +1,12 @@
 id: 4178460706
 type: node
 shop: Warenhaus
-latitude: 47.5469938
-longitude: 9.2750537
-postcode: 8580
+latitude: 47.5468435
+longitude: 9.2749196
+postcode: "8580"
 city: Amriswil
 street: "Schrofenstrasse"
 housenumber: 12
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.ottos.ch/"

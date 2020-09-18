@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4902911
 longitude: 7.9308008
-postcode: 4317
+postcode: "4317"
 city: Wegenstetten
 street: "Unterwiedhof"
 housenumber: 213

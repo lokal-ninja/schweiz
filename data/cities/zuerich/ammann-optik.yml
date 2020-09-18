@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.3662055
 longitude: 8.532995
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bleicherweg"
 housenumber: 39

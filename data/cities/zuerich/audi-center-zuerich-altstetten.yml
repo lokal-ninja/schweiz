@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.380329
 longitude: 8.4925485
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Rautistrasse"
 housenumber: 23

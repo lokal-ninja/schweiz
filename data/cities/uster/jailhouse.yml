@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.3472853
 longitude: 8.7133249
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Seestrasse"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 46.640956200000005
 longitude: 6.632578700000001
-postcode: 1040
+postcode: "1040"
 city: Echallens
 street: "Rue Saint-Denis"
 housenumber: 14

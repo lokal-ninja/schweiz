@@ -1,12 +1,12 @@
-id: 438261303
+id: 371216705
 type: node
 shop: Supermarkt
-latitude: 46.955334
-longitude: 7.433628000000001
-postcode: 3012
+latitude: 46.944036600000004
+longitude: 7.3995709000000005
+postcode: "3018"
 city: Bern
-street: ""
-housenumber: 
+street: "Bethlehemstrasse"
+housenumber: 110
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Sa 08:00-17:00; Fr 08:00-21:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-stoeckacker"

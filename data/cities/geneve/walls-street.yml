@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.175814100000004
 longitude: 6.1182153
-postcode: 1212
+postcode: "1212"
 city: Genève
 street: "Chemin des Semailles"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.5300741
 longitude: 6.6320943
-postcode: 1018
+postcode: "1018"
 city: Lausanne
 street: "Rue de la Borde"
 housenumber: 26bis

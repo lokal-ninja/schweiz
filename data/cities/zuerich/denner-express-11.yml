@@ -1,9 +1,9 @@
 id: 3975733810
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 47.383271400000005
 longitude: 8.530756
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Josefstrasse"
 housenumber: 92

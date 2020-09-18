@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.33802540000001
 longitude: 8.8115748
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Pfäffikerstrasse"
 housenumber: 78

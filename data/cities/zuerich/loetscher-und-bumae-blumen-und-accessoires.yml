@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3742594
 longitude: 8.503053900000001
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Gutstrasse"
 housenumber: 158

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0116725
 longitude: 9.5048055
-postcode: 7310
+postcode: "7310"
 city: Bad Ragaz
 street: "Elestastrasse"
 housenumber: 16A

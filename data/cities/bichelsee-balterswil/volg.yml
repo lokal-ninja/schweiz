@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.448471700000006
 longitude: 8.9262291
-postcode: 8363
+postcode: "8363"
 city: Bichelsee-Balterswil
 street: "Hauptstrasse"
 housenumber: 7

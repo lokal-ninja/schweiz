@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.3790318
 longitude: 8.5287767
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Militärstrasse"
 housenumber: 105

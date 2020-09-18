@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.3721991
 longitude: 8.5385854
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://www.pkz.ch/de/36-storelocator?sid=10"

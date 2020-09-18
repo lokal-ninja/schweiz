@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.498177500000004
 longitude: 8.7293739
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Steinberggasse"
 housenumber: 19

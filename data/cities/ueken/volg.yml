@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4852629
 longitude: 8.0485056
-postcode: 5028
+postcode: "5028"
 city: Ueken
 street: "Hauptstrasse"
 housenumber: 26

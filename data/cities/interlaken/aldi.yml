@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.688335300000006
 longitude: 7.877954000000001
-postcode: 3800
+postcode: "3800"
 city: Interlaken
 street: "Lindenallee"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.318036400000004
 longitude: 8.0440778
-postcode: 5042
+postcode: "5042"
 city: Hirschthal
 street: "Holzikerstrasse"
 housenumber: 11

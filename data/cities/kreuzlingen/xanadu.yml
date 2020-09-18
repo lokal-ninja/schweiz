@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6474818
 longitude: 9.171019900000001
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Sonnenhof"
 housenumber: 1

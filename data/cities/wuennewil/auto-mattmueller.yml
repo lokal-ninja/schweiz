@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8676778
 longitude: 7.274915600000001
-postcode: 3184
+postcode: "3184"
 city: Wünnewil
 street: "Schneidersmatt"
 housenumber: 16

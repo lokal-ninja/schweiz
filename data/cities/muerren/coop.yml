@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.559631100000004
 longitude: 7.8940163000000005
-postcode: 3825
+postcode: "3825"
 city: Mürren
 street: ""
 housenumber: 1032

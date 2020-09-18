@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.5333805
 longitude: 6.6077494
-postcode: 1008
+postcode: "1008"
 city: Prilly
 street: "Route de Cossonay"
 housenumber: 9

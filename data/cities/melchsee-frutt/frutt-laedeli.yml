@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7737508
 longitude: 8.2684999
-postcode: 6068
+postcode: "6068"
 city: Melchsee-Frutt
 street: "Frutt"
 housenumber: 2

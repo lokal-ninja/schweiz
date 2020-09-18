@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.4579723
 longitude: 6.2964392
-postcode: 1182
+postcode: "1182"
 city: Gilly
 street: "La Place"
 housenumber: 3

@@ -3,10 +3,10 @@ type: way
 shop: Fisch
 latitude: 47.264693900000005
 longitude: 8.656214700000001
-postcode: 8706
+postcode: "8706"
 city: Obermeilen
 street: "Seestrasse"
 housenumber: 863
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Tu-Sa 10:00-12:30,15:00-18:30"
+website: "http://www.fischerei-grieser.ch/"

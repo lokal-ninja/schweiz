@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3986779
 longitude: 8.4473967
-postcode: 8952
+postcode: "8952"
 city: Schlieren
 street: "Ringstrasse"
 housenumber: 

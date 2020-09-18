@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4993269
 longitude: 8.7313574
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Oberer Graben"
 housenumber: 30

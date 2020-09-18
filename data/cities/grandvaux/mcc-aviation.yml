@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.5157742
 longitude: 6.7331436
-postcode: 1091
+postcode: "1091"
 city: Grandvaux
 street: "Route de Forel"
 housenumber: 34

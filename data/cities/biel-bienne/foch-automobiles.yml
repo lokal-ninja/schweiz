@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.1535303
 longitude: 7.284989700000001
-postcode: 2504
+postcode: "2504"
 city: Biel/Bienne
 street: "Längfeldweg"
 housenumber: 118

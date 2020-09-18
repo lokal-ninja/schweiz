@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.7873661
 longitude: 7.158956600000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Route de la Pisciculture"
 housenumber: 6e

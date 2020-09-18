@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.33149340000001
 longitude: 8.8006277
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Binzackerstrasse"
 housenumber: 35

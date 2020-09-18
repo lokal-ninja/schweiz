@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.853610700000004
 longitude: 9.514712000000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Ringstrasse"
 housenumber: 34

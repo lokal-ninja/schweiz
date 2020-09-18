@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3269899
 longitude: 8.8025012
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Bachtelstrasse"
 housenumber: 7

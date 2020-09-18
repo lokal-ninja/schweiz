@@ -3,10 +3,10 @@ type: node
 shop: Waffen
 latitude: 47.1349128
 longitude: 8.191858100000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Stadtstrasse"
 housenumber: 52
-phone: ""
-opening_hours: ""
+phone: "+41414602880"
+opening_hours: "Mo-Tu 08:00-12:00,14:00-18:30; We off; Th-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-16:00"
 website: "http://www.boller-waffen.ch/"

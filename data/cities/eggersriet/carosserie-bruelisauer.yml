@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.442666100000004
 longitude: 9.468349700000001
-postcode: 9034
+postcode: "9034"
 city: Eggersriet
 street: "St. Gallerstrasse"
 housenumber: 13

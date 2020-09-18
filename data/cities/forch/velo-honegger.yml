@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.34333710000001
 longitude: 8.6534147
-postcode: 8127
+postcode: "8127"
 city: Forch
 street: "Loorenstrasse"
 housenumber: 1

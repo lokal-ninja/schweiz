@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 45.861522
 longitude: 9.0123225
-postcode: 6874
+postcode: "6874"
 city: Castel San Pietro
 street: "Via Landamano G. B. Maggi"
 housenumber: 

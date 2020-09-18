@@ -1,12 +1,12 @@
-id: 2722038533
+id: 1024090994
 type: node
 shop: Bäckerei
-latitude: 47.3895768
-longitude: 8.5388646
-postcode: 8006
+latitude: 47.403713100000004
+longitude: 8.5476528
+postcode: "8057"
 city: Zürich
 street: "Schaffhauserstrasse"
-housenumber: 21
+housenumber: 276
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 07:30-17:00"
-website: "http://baeckereiwuest.ch"
+opening_hours: ""
+website: "https://baeckereiwuest.ch/"

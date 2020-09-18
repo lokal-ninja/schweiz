@@ -1,12 +1,12 @@
 id: 848761340
 type: node
 shop: Fahrrad
-latitude: 47.3770183
-longitude: 8.5218424
-postcode: 8004
+latitude: 47.370704100000005
+longitude: 8.509149500000001
+postcode: "8003"
 city: Zürich
-street: "Anwandstrasse"
-housenumber: 57
+street: "Gutstrasse"
+housenumber: 12
 phone: "+41 43 211 97 27"
 opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00; Oct-Feb: Tu-Fr 11:00-19:00; Oct-Feb: Sa 10:00-16:00; Oct-Feb: Mo off"
 website: "https://www.zweiradgeber.ch/"

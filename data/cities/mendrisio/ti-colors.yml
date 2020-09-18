@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 45.8697322
 longitude: 8.987298000000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Corso Bello"
 housenumber: 5

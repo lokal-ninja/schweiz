@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4083418
 longitude: 8.595756100000001
-postcode: 8301
+postcode: "8301"
 city: Wallisellen
 street: "Neue Winterthurerstrasse"
 housenumber: 99

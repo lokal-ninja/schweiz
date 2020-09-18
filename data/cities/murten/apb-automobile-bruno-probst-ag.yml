@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.9402014
 longitude: 7.144230100000001
-postcode: 3280
+postcode: "3280"
 city: Murten
 street: "Grande Ferme"
 housenumber: 14

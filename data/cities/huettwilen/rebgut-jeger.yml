@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.6139262
 longitude: 8.8572831
-postcode: 8536
+postcode: "8536"
 city: Hüttwilen
 street: ""
 housenumber: 

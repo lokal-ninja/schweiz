@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3893624
 longitude: 9.562284400000001
-postcode: 9450
+postcode: "9450"
 city: Lüchingen
 street: "Rorschacherstrasse"
 housenumber: 135

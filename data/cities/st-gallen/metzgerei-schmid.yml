@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.430449100000004
 longitude: 9.3802792
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "St. Jakob-Strasse"
 housenumber: 48

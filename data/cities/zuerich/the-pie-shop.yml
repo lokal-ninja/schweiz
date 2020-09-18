@@ -1,12 +1,12 @@
-id: 5341084408
+id: 568061692
 type: node
 shop: Bäckerei
-latitude: 47.387654500000004
-longitude: 8.5263773
-postcode: 8005
+latitude: 47.3933575
+longitude: 8.530485
+postcode: "8037"
 city: Zürich
-street: ""
-housenumber: 
+street: "Rotbuchstrasse"
+housenumber: 68
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.pieshop.ch"
+opening_hours: "Mo-Fr 09:00-17:00"
+website: "http://www.pieshop.ch/"

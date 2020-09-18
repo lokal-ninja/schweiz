@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.422993600000005
 longitude: 8.2194046
-postcode: 5505
+postcode: "5505"
 city: Brunegg
 street: "Alte Lenzburgerstrasse"
 housenumber: 3

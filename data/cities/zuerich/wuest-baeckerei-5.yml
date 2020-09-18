@@ -1,12 +1,12 @@
-id: 5354821209
+id: 4872461928
 type: node
 shop: Bäckerei
-latitude: 47.3390452
-longitude: 8.5199709
-postcode: 8041
+latitude: 47.3549438
+longitude: 8.574996500000001
+postcode: "8008"
 city: Zürich
-street: "Maneggstrasse"
-housenumber: 73
+street: "Forchstrasse"
+housenumber: 327
 phone: ""
-opening_hours: "Mo-We 06:30-18:30; Th-Sa 06:30-22:00; Su 07:30-17:00"
-website: "http://baeckereiwuest.ch/"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su 07:30-13:00"
+website: "https://baeckereiwuest.ch/"

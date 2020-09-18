@@ -3,10 +3,10 @@ type: node
 shop: Tattoo
 latitude: 47.3981809
 longitude: 8.451875000000001
-postcode: 8952
+postcode: "8952"
 city: Schlieren
 street: "Zürcherstrasse"
 housenumber: 24
 phone: "+41 44 730 50 60"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://2ndskn.com/"
+website: "https://2ndskn.com/shops/limmattal/"

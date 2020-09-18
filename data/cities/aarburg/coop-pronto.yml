@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3361725
 longitude: 7.9072782
-postcode: 4663
+postcode: "4663"
 city: Aarburg
 street: "Oltnerstrasse"
 housenumber: 127

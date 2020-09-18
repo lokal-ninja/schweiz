@@ -3,7 +3,7 @@ type: way
 shop: Wolle
 latitude: 46.9691294
 longitude: 7.1846408
-postcode: 3210
+postcode: "3210"
 city: Kerzers
 street: "Industriestrasse"
 housenumber: 16

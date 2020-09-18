@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5610111
 longitude: 8.1564095
-postcode: 5276
+postcode: "5276"
 city: Wil
 street: "Kapellenstrasse"
 housenumber: 61

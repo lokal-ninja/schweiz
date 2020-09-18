@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5249255
 longitude: 7.847084100000001
-postcode: 4464
+postcode: "4464"
 city: Maisprach
 street: "Dorfplatz"
 housenumber: 5

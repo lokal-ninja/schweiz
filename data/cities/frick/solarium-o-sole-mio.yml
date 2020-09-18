@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.5056789
 longitude: 8.024526700000001
-postcode: 5070
+postcode: "5070"
 city: Frick
 street: "Hauptstrasse"
 housenumber: 97

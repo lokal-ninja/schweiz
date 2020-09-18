@@ -1,12 +1,12 @@
-id: 4944286620
+id: 5026288940
 type: node
 shop: Handy
-latitude: 47.409357400000005
-longitude: 8.5449336
-postcode: 8050
+latitude: 47.3865119
+longitude: 8.498755300000001
+postcode: "8048"
 city: Zürich
-street: "Franklinstrasse"
-housenumber: 14
+street: "Baslerstrasse"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.iklinik.ch/iphone-reparatur-zuerich-oerlikon"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.iklinik.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.3677186
 longitude: 8.540285800000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 2

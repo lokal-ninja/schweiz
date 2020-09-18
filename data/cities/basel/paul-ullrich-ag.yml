@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.54239320000001
 longitude: 7.599492000000001
-postcode: 4053
+postcode: "4053"
 city: Basel
 street: "Laufenstrasse"
 housenumber: 16

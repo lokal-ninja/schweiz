@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.389015900000004
 longitude: 8.745083000000001
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Obermülistrasse"
 housenumber: 75

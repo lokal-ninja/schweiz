@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.9690371
 longitude: 7.374841300000001
-postcode: 3032
+postcode: "3032"
 city: Wohlen bei Bern
 street: "Bernstrasse"
 housenumber: 109-111

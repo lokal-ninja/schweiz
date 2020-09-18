@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.2355801
 longitude: 6.1255468
-postcode: 1218
+postcode: "1218"
 city: Le Grand-Saconnex
 street: "Route de Colovrex"
 housenumber: 29

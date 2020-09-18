@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2508293
 longitude: 8.7660338
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Hofwiesenstrasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.4108199
 longitude: 9.6261302
-postcode: 9435
+postcode: "9435"
 city: Heerbrugg
 street: "Marktstrasse"
 housenumber: 

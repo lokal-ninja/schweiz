@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 47.4104253
 longitude: 8.543888
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Nansenstrasse"
 housenumber: 21

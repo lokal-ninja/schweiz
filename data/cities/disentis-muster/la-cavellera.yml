@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.7054818
 longitude: 8.854023
-postcode: 7180
+postcode: "7180"
 city: Disentis/Mustér
 street: "Via Alpsu"
 housenumber: 

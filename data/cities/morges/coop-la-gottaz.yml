@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.507144700000005
 longitude: 6.485855900000001
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Avenue de la Gottaz"
 housenumber: 28

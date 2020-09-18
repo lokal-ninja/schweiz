@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.446636000000005
 longitude: 7.695908200000001
-postcode: 4419
+postcode: "4419"
 city: Lupsingen
 street: "Liestalerstrasse"
 housenumber: 24a

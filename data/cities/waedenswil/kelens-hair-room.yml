@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.230949100000004
 longitude: 8.6706822
-postcode: 8820
+postcode: "8820"
 city: Wädenswil
 street: "Florhofstrasse"
 housenumber: 7

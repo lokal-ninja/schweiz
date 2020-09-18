@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 45.954897800000005
 longitude: 8.9490466
-postcode: 6815
+postcode: "6815"
 city: Melide
 street: ""
 housenumber: 

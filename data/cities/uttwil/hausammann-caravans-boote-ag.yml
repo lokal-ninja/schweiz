@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.587191000000004
 longitude: 9.3342066
-postcode: 8592
+postcode: "8592"
 city: Uttwil
 street: "Kesswilerstrasse"
 housenumber: 20

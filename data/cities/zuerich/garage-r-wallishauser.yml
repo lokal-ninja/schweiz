@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4037645
 longitude: 8.5333617
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Wehntalerstrasse"
 housenumber: 121

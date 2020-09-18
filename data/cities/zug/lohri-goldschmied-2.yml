@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.166543700000005
 longitude: 8.515659300000001
-postcode: 6300
+postcode: "6300"
 city: Zug
 street: "Neugasse"
 housenumber: 27

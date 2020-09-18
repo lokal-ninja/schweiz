@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.9934017
 longitude: 6.9353547
-postcode: 2075
+postcode: "2075"
 city: Thielle
 street: "Derrière-le-Château"
 housenumber: 13

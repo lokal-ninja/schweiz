@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 46.901434300000005
 longitude: 7.6607108
-postcode: 3532
+postcode: "3532"
 city: Zäziwil
 street: "Thunstrasse"
 housenumber: 2

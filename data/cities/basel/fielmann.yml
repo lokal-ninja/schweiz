@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.557640500000005
 longitude: 7.5880859
-postcode: 4001
+postcode: "4001"
 city: Basel
 street: "Marktplatz"
 housenumber: 16

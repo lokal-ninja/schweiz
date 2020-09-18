@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.2438955
 longitude: 7.971633400000001
-postcode: 6260
+postcode: "6260"
 city: Reiden
 street: "Hauptstrasse"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.480563700000005
 longitude: 7.547323700000001
-postcode: 4107
+postcode: "4107"
 city: Ettingen
 street: "Aeschstrasse"
 housenumber: 19

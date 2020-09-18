@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.101764100000004
 longitude: 9.0628481
-postcode: 8752
+postcode: "8752"
 city: Näfels
 street: "Unterdorf"
 housenumber: 27

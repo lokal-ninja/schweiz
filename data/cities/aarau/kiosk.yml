@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.3911688
 longitude: 8.047125600000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Bahnhofstrasse"
 housenumber: 29-33

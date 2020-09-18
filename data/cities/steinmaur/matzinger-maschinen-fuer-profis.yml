@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.4873921
 longitude: 8.4449856
-postcode: 8162
+postcode: "8162"
 city: Steinmaur
 street: "Rorstrasse"
 housenumber: 11

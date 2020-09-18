@@ -1,9 +1,9 @@
 id: 2118187944
 type: node
 shop: Bäckerei
-latitude: 47.3694513
+latitude: 47.3694508
 longitude: 8.525508700000001
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Schimmelstrasse"
 housenumber: 1

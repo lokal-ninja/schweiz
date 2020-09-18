@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3260194
 longitude: 8.7978287
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Kirchgasse"
 housenumber: 4

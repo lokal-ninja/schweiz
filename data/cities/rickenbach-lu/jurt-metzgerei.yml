@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.219621000000004
 longitude: 8.1534151
-postcode: 6221
+postcode: "6221"
 city: Rickenbach (LU)
 street: "Kirchplatz"
 housenumber: 6

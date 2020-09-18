@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4791114
 longitude: 7.5444608
-postcode: 4107
+postcode: "4107"
 city: Ettingen
 street: "Schanzgasse"
 housenumber: 3

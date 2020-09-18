@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.560453300000006
 longitude: 8.498378500000001
-postcode: 8192
+postcode: "8192"
 city: Glattfelden
 street: "Laubbergstrasse"
 housenumber: 6

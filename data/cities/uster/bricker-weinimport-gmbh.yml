@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3595758
 longitude: 8.717269400000001
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Meierackerstrasse"
 housenumber: 13

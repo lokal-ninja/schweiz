@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 47.3428211
 longitude: 8.4805945
-postcode: 8143
+postcode: "8143"
 city: Stallikon
 street: "Mülistrasse"
 housenumber: 7
 phone: "+41 44 701 80 80"
-opening_hours: "Mo-Fr 05:00-12:00, 13:00-18:00; Sa 05:00-12:30"
+opening_hours: "Mo-Fr 06:00-12:00, 12:30-18:00; Sa 06:00-12:30"
 website: "http://www.metzgereikuenzli.ch"

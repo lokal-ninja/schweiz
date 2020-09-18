@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.6944315
 longitude: 8.6048718
-postcode: 8222
+postcode: "8222"
 city: Beringen
 street: "Schaffhauserstrasse"
 housenumber: 237

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.397402400000004
 longitude: 8.2068475
-postcode: 5504
+postcode: "5504"
 city: Othmarsingen
 street: "Lenzburgerstrasse"
 housenumber: 70

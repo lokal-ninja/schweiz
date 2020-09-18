@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.7986191
 longitude: 7.1529055
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Boulevard de Pérolles"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.473266200000005
 longitude: 9.0415185
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Höhenstrasse"
 housenumber: 33

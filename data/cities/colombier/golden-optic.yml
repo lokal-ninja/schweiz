@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9660846
 longitude: 6.859724000000001
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue Haute"
 housenumber: 21

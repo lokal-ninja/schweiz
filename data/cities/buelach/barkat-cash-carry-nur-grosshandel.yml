@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.528832300000005
 longitude: 8.5335268
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Schützenmattstrasse"
 housenumber: 34

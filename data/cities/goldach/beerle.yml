@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.478627700000004
 longitude: 9.472629900000001
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "St. Gallerstrasse"
 housenumber: 52

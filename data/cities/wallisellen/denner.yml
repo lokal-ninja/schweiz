@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.414368700000004
 longitude: 8.5909589
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Bahnhofstrasse"
 housenumber: 9

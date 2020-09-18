@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.384717
 longitude: 8.5341424
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Sihlquai"
 housenumber: 125

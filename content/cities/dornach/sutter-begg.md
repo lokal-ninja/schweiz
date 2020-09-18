@@ -1,4 +1,4 @@
 ---
-title: "Sutter-Begg"
+title: "Sutter Begg"
 url: /dornach/sutter-begg/
 ---

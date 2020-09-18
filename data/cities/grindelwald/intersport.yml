@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.623589300000006
 longitude: 8.0228248
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: "Grundstrasse"
 housenumber: 31

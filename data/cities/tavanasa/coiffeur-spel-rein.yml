@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.753799
 longitude: 9.060039
-postcode: 7162
+postcode: "7162"
 city: Tavanasa
 street: "Stradun"
 housenumber: 56

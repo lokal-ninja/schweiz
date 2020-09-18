@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5776757
 longitude: 7.591586400000001
-postcode: 4057
+postcode: "4057"
 city: Basel
 street: "Ackerstrasse"
 housenumber: 60

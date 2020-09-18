@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.357602
 longitude: 8.5543549
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Seefeldstrasse"
 housenumber: 134

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.937537600000006
 longitude: 7.3952486
-postcode: 3018
+postcode: "3018"
 city: Bern
 street: "Bümplizstrasse"
 housenumber: 202

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.375837700000005
 longitude: 7.8736883
-postcode: 4463
+postcode: "4463"
 city: Hauenstein-Ifenthal
 street: "Neumatt"
 housenumber: 1

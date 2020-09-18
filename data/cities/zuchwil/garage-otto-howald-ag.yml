@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.201133600000006
 longitude: 7.5469217
-postcode: 4528
+postcode: "4528"
 city: Zuchwil
 street: "Engestrasse"
 housenumber: 13

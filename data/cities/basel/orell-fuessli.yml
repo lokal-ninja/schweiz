@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 47.5573494
 longitude: 7.589032800000001
-postcode: 4001
+postcode: "4001"
 city: Basel
 street: "Freie Strasse"
 housenumber: 17
 phone: "+41 61 264 26 26"
-opening_hours: "Mo,Tu,We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-18:00; Apr 30 09:00-18:00; May 1 off"
+opening_hours: "Mo-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-18:00; Apr 30 09:00-18:00; May 1 off"
 website: "https://www.orellfuessli.ch/shop/home/filialen/showDetails/1038/"

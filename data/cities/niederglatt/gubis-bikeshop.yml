@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.489900000000006
 longitude: 8.5033004
-postcode: 8172
+postcode: "8172"
 city: Niederglatt
 street: "Zürcherstrasse"
 housenumber: 10

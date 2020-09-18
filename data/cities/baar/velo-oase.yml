@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.1920707
 longitude: 8.5267923
-postcode: 6340
+postcode: "6340"
 city: Baar
 street: "Inwilerstrasse"
 housenumber: 18

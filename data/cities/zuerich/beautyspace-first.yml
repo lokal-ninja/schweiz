@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.3588516
 longitude: 8.5194962
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Giesshübelstrasse"
 housenumber: 62c

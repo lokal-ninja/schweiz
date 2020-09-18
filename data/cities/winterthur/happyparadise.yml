@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 47.498089900000004
 longitude: 8.7430415
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "St. Gallerstrasse"
 housenumber: 74

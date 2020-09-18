@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5007321
 longitude: 8.7201688
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Neuwiesenstrasse"
 housenumber: 6

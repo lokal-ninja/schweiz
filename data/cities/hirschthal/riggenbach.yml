@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.319843500000005
 longitude: 8.0476978
-postcode: 5042
+postcode: "5042"
 city: Hirschthal
 street: "Holzikerstrasse"
 housenumber: 3

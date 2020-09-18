@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.225605800000004
 longitude: 8.942751300000001
-postcode: 8716
+postcode: "8716"
 city: Schmerikon
 street: "Hauptstrasse"
 housenumber: 27

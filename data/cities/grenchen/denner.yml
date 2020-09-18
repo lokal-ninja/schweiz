@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.193828700000005
 longitude: 7.3966079
-postcode: 2540
+postcode: "2540"
 city: Grenchen
 street: "Marktplatz"
 housenumber: 

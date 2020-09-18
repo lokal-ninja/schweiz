@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.881647400000006
 longitude: 7.470765600000001
-postcode: 3086
+postcode: "3086"
 city: Zimmerwald
 street: "Käsereiweg"
 housenumber: 3
-phone: "031 819 74 10"
+phone: "+41 31 819 74 10"
 opening_hours: "Mo-Sa 08:00-11:00, Mo-Tu 16:00-18:30, Th-Fr 16:00-18:30"
 website: ""

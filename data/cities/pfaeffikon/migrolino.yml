@@ -1,12 +1,12 @@
 id: 350806317
 type: way
 shop: Lebensmittel
-latitude: 47.3667566
-longitude: 8.7850252
-postcode: 8330
+latitude: 47.3667565
+longitude: 8.7850259
+postcode: "8330"
 city: Pfäffikon
 street: "Bahnhofstrasse"
 housenumber: 11
 phone: "+41 58 563 33 95"
-opening_hours: "06:00-22:00"
+opening_hours: "Mo-Fr 05:30-22:00, Sa-Su 06:00-22:00"
 website: "https://www.migrolino.ch/de/standorte/migrolino-pfaeffikon-zh/"

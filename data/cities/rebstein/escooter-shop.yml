@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.395788100000004
 longitude: 9.5769693
-postcode: 9445
+postcode: "9445"
 city: Rebstein
 street: "Staatsstrasse"
 housenumber: 160

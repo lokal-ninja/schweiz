@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.140627800000004
 longitude: 8.4271575
-postcode: 6343
+postcode: "6343"
 city: Rotkreuz
 street: "Luzernerstrasse"
 housenumber: 8
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://standorte.coop.ch/vstinfo/showPrintView.do?betrnr=1119"

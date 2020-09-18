@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4302092
 longitude: 7.9376337
-postcode: 4494
+postcode: "4494"
 city: Oltingen
 street: "Rötiweg"
 housenumber: 1

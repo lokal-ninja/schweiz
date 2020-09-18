@@ -1,4 +1,4 @@
 ---
-title: "cut & color"
+title: "Cut & Color"
 url: /zuerich/cut-und-color/
 ---

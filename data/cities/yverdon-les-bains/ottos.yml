@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.789480700000006
 longitude: 6.6265489
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Chemin du Pré-Neuf"
 housenumber: 

@@ -1,12 +1,12 @@
-id: 4127859165
+id: 4127859164
 type: node
 shop: Lebensmittel
-latitude: 47.48719800000001
-longitude: 8.7549408
-postcode: 8405
+latitude: 47.515756100000004
+longitude: 8.6800574
+postcode: "8408"
 city: Winterthur
-street: "Tösstalstrasse"
-housenumber: 205
+street: "Wülflingerstrasse"
+housenumber: 393a
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+website: "https://www.migrolino.ch/de/standorte/service-winterthur-wulflingerstrasse/"

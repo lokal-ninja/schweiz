@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 46.9035516
 longitude: 7.6603710000000005
-postcode: 3532
+postcode: "3532"
 city: Zäziwil
 street: "Oberthalstrasse"
 housenumber: 17

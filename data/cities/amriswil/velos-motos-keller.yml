@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5446333
 longitude: 9.2907027
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Weinfelderstrasse"
 housenumber: 41

@@ -3,10 +3,10 @@ type: node
 shop: Videospiele
 latitude: 47.41052010000001
 longitude: 8.5433967
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "closed"
 website: "https://www.gamestop.ch/"

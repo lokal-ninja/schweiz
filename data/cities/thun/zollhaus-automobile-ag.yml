@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.761957
 longitude: 7.5950493
-postcode: 3603
+postcode: "3603"
 city: Thun
 street: "Allmendstrasse"
 housenumber: 189

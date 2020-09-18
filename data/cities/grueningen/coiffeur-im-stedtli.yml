@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.284330100000005
 longitude: 8.7632232
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Stedtligass"
 housenumber: 29

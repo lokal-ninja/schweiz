@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.470269200000004
 longitude: 7.871703900000001
-postcode: 4466
+postcode: "4466"
 city: Ormalingen
 street: "Hauptstrasse"
 housenumber: 21

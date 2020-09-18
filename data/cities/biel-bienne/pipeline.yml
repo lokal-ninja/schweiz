@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1346069
 longitude: 7.243386
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Albrecht-Haller-Strasse"
 housenumber: 11

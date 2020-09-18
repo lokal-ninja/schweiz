@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.5666401
 longitude: 7.601249200000001
-postcode: 4058
+postcode: "4058"
 city: Basel
 street: "Mattenstrasse"
 housenumber: 39

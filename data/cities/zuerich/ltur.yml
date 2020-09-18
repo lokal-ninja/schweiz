@@ -1,12 +1,12 @@
-id: 4424939152
+id: 3645923194
 type: node
 shop: Reisebüro
-latitude: 47.377367400000004
-longitude: 8.5395277
-postcode: 8001
+latitude: 47.375927000000004
+longitude: 8.5368796
+postcode: "8001"
 city: Zürich
-street: ""
-housenumber: 
+street: "Löwenstrasse"
+housenumber: 43
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-17:00"
+website: "https://www.ltur.com/ch/"

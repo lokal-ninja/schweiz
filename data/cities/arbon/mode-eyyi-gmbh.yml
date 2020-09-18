@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.5122555
 longitude: 9.4334352
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Bahnhofstrasse"
 housenumber: 30

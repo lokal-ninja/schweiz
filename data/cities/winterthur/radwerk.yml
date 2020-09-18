@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4955957
 longitude: 8.7184635
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Lagerplatz"
 housenumber: 2

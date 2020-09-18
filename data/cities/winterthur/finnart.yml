@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.4998191
 longitude: 8.732881
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obertor"
 housenumber: 7

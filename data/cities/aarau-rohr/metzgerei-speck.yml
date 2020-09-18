@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.4016365
 longitude: 8.079427800000001
-postcode: 5032
+postcode: "5032"
 city: Aarau Rohr
 street: "Hauptstrasse"
 housenumber: 42

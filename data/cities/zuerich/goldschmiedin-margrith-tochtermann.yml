@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.3715671
 longitude: 8.5403911
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Augustinergasse"
 housenumber: 4

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.389571000000004
 longitude: 8.538753700000001
-postcode: 
+postcode: ""
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 21
 phone: "+41 44 362 74 22"
-opening_hours: ""
+opening_hours: "Tu,We,Fr 08:30-13:00,15:00-18:00; Sa 08:30-16:30"
 website: "http://www.adami-coiffeur.ch/"

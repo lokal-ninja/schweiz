@@ -1,12 +1,12 @@
-id: 4838594328
+id: 725764681
 type: node
 shop: Kleidung
-latitude: 47.3865684
-longitude: 8.4988088
-postcode: 8048
+latitude: 47.3844885
+longitude: 8.5311578
+postcode: "8005"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Limmatplatz"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+opening_hours: "closed"
+website: "https://www.c-and-a.com/ch/"

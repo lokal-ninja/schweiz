@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.5917066
 longitude: 6.213995700000001
-postcode: 1348
+postcode: "1348"
 city: Le Brassus
 street: "Route du Risoud"
 housenumber: 28

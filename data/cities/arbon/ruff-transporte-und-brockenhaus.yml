@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.5093638
 longitude: 9.4221845
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "St. Gallerstrasse"
 housenumber: 67

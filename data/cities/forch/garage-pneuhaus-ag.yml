@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.3220771
 longitude: 8.6600032
-postcode: 8127
+postcode: "8127"
 city: Forch
 street: "Forchstrasse"
 housenumber: 111

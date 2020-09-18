@@ -1,12 +1,12 @@
 id: 4993464523
 type: node
 shop: Kleidung
-latitude: 47.371280600000006
+latitude: 47.3712801
 longitude: 8.520956
-postcode: 8003
+postcode: "8003"
 city: Zürich
-street: ""
-housenumber: 
+street: "Zweierstrasse"
+housenumber: 119
 phone: "+41 44 451 30 13"
 opening_hours: "Mo-Sa 11:00-20:00"
 website: "https://www.meinegarderobe.ch/"

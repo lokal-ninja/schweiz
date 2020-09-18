@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3872866
 longitude: 8.525077000000001
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Viaduktstrasse"
 housenumber: 25

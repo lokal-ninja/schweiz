@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.5019794
 longitude: 8.7802991
-postcode: 8409
+postcode: "8409"
 city: Winterthur
 street: "St. Gallerstrasse"
 housenumber: 346

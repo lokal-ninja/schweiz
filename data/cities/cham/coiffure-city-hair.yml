@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1817524
 longitude: 8.460725100000001
-postcode: 6330
+postcode: "6330"
 city: Cham
 street: "Knonauerstrasse"
 housenumber: 2

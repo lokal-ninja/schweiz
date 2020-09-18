@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.8183072
 longitude: 7.3448659
-postcode: 3150
+postcode: "3150"
 city: Schwarzenburg
 street: "Thunstrasse"
 housenumber: 4

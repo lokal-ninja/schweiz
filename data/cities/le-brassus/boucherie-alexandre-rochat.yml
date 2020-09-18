@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.582427900000006
 longitude: 6.2106582
-postcode: 1348
+postcode: "1348"
 city: Le Brassus
 street: "Rue des Forges"
 housenumber: 1

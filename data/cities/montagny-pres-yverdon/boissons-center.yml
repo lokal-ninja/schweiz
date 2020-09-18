@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.792009
 longitude: 6.622057900000001
-postcode: 1442
+postcode: "1442"
 city: Montagny-près-Yverdon
 street: "En Chamard"
 housenumber: 47E

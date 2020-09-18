@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.8573225
 longitude: 7.2483344
-postcode: 3185
+postcode: "3185"
 city: Schmitten
 street: "Bahnhofstrasse"
 housenumber: 13

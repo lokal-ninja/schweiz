@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5000603
 longitude: 8.728573800000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Stadthausstrasse"
 housenumber: 83

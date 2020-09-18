@@ -1,9 +1,9 @@
 id: 3210925376
 type: node
 shop: Fahrrad
-latitude: 47.3703723
+latitude: 47.3703718
 longitude: 8.5153437
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Rotachstrasse"
 housenumber: 27

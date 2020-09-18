@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.199659000000004
 longitude: 6.2270306
-postcode: 74100
+postcode: "74100"
 city: Ambilly
 street: "Rue Ravier"
 housenumber: 19

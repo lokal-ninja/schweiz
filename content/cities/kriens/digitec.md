@@ -1,4 +1,4 @@
 ---
-title: "digitec"
+title: "Digitec"
 url: /kriens/digitec/
 ---

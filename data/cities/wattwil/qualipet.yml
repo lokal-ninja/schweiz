@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 47.2973684
 longitude: 9.0904293
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Bahnhofstrasse"
-housenumber: 
+housenumber: 32
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.qualipet.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4966682
 longitude: 8.7317987
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Zeughausstrasse"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.6606359
 longitude: 8.859784600000001
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: "Brodlaubegass"
 housenumber: 14

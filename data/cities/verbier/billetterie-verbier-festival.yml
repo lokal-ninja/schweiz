@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 46.097309
 longitude: 7.228714600000001
-postcode: 1936
+postcode: "1936"
 city: Verbier
 street: "Chemin des Marais Verts"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.3672789
 longitude: 8.5479559
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Stadelhoferstrasse"
 housenumber: 8

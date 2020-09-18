@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.103050100000004
 longitude: 6.8301021
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Rue Neuve"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.180155500000005
 longitude: 8.5169435
-postcode: 6302
+postcode: "6302"
 city: Zug
 street: "Untermüli"
 housenumber: 1

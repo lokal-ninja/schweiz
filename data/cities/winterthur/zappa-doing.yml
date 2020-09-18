@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.498551600000006
 longitude: 8.7302046
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 5

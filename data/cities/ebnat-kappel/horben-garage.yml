@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.255387000000006
 longitude: 9.1510415
-postcode: 9642
+postcode: "9642"
 city: Ebnat-Kappel
 street: "Horben"
 housenumber: 1858

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.363472
 longitude: 8.5496388
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Seefeldstrasse"
 housenumber: 27

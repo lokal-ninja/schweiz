@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7401618
 longitude: 7.2899148
-postcode: 1716
+postcode: "1716"
 city: Plaffeien
 street: "Oberi Matta"
 housenumber: 10

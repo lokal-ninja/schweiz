@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.1849995
 longitude: 6.1004405
-postcode: 1213
+postcode: "1213"
 city: Onex
 street: "Avenue du Bois-de-la-Chapelle"
 housenumber: 106

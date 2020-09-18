@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4515016
 longitude: 8.9357668
-postcode: 8362
+postcode: "8362"
 city: Balterswil
 street: "Itaslenstrasse"
 housenumber: 6

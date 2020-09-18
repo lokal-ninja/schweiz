@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.8628378
 longitude: 8.972449300000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Campagna Adorna"
 housenumber: 

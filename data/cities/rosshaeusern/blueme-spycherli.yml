@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.919923700000005
 longitude: 7.2666938000000005
-postcode: 3204
+postcode: "3204"
 city: Rosshäusern
 street: "Süri"
 housenumber: 90

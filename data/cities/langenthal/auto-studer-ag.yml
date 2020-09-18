@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.223387200000005
 longitude: 7.777970300000001
-postcode: 
+postcode: ""
 city: Langenthal
 street: "Bern-Zürichstrasse"
 housenumber: 55

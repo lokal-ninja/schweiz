@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.506366400000005
 longitude: 7.881401800000001
-postcode: 4463
+postcode: "4463"
 city: Buus
 street: "Asphof"
 housenumber: 45

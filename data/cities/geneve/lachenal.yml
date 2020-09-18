@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 46.209951000000004
 longitude: 6.137545200000001
-postcode: 
+postcode: ""
 city: Genève
 street: "Rue de la Servette"
 housenumber: 25

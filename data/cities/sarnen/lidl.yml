@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9008594
 longitude: 8.248731300000001
-postcode: 6060
+postcode: "6060"
 city: Sarnen
 street: "Pilatusstrasse"
 housenumber: 14b

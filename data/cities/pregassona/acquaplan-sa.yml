@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.0191421
 longitude: 8.9757639
-postcode: 6963
+postcode: "6963"
 city: Pregassona
 street: "Via Probello"
 housenumber: 1

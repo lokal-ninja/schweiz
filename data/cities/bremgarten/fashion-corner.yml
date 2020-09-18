@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3512111
 longitude: 8.3421299
-postcode: 5620
+postcode: "5620"
 city: Bremgarten
 street: "Marktgasse"
 housenumber: 19

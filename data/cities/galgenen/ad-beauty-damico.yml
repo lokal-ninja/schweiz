@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1826413
 longitude: 8.8730645
-postcode: 8854
+postcode: "8854"
 city: Galgenen
 street: "Tischmacherhof"
 housenumber: 14

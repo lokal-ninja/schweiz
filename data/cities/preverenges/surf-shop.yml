@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.5130056
 longitude: 6.528313600000001
-postcode: 1028
+postcode: "1028"
 city: Préverenges
 street: "Avenue de la Plage"
 housenumber: 1

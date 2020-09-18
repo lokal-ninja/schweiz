@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.461716
 longitude: 8.9985297
-postcode: 8370
+postcode: "8370"
 city: Sirnach
 street: "Wilerstrasse"
 housenumber: 6

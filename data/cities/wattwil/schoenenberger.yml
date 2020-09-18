@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3007487
 longitude: 9.084697400000001
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Rickenstrasse"
 housenumber: 

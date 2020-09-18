@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.3730118
 longitude: 8.5305344
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 15

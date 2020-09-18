@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.300067600000006
 longitude: 8.865584
-postcode: 8342
+postcode: "8342"
 city: Wernetshausen
 street: "Sennhüttenstrasse"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.327575800000005
 longitude: 8.2095471
-postcode: 5707
+postcode: "5707"
 city: Seengen
 street: "Oberdorfstrasse"
 housenumber: 34

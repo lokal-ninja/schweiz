@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.381092100000004
 longitude: 8.5045152
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 458

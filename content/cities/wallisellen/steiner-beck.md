@@ -1,4 +1,4 @@
 ---
-title: "Steiner-Beck"
+title: "Steiner Beck"
 url: /wallisellen/steiner-beck/
 ---

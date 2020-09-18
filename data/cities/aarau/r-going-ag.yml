@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.378636400000005
 longitude: 8.055671
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "General-Guisan-Strasse"
 housenumber: 31

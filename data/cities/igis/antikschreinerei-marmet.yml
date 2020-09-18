@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 46.9464203
 longitude: 9.5750544
-postcode: 7206
+postcode: "7206"
 city: Igis
 street: "Untergasse"
 housenumber: 10

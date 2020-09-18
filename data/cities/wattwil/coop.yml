@@ -1,12 +1,12 @@
 id: 3956260457
 type: node
 shop: Supermarkt
-latitude: 47.3032337
-longitude: 9.0866491
-postcode: 9630
+latitude: 47.303304700000005
+longitude: 9.0866588
+postcode: "9630"
 city: Wattwil
-street: "Unterdorfstrasse"
-housenumber: 1
+street: "Grüenaustrasse"
+housenumber: 4
 phone: ""
 opening_hours: ""
 website: ""

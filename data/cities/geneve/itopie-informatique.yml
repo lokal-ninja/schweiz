@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.2076496
 longitude: 6.1441724
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Rue Lissignol"
 housenumber: 10

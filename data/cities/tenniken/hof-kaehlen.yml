@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4282297
 longitude: 7.803236500000001
-postcode: 4456
+postcode: "4456"
 city: Tenniken
 street: "Hof Kählen"
 housenumber: 134

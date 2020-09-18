@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.499021500000005
 longitude: 8.8641282
-postcode: 8353
+postcode: "8353"
 city: Elgg
 street: "Stutzstrasse"
 housenumber: 6

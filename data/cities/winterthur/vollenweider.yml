@@ -1,12 +1,12 @@
-id: 568000431
+id: 246253649
 type: node
 shop: Süßwaren
-latitude: 47.499854500000005
-longitude: 8.7300675
-postcode: 8400
+latitude: 47.4998045
+longitude: 8.725040400000001
+postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 17
+street: "Stadthausstrasse"
+housenumber: 20
 phone: ""
-opening_hours: "Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-17:00"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-18:00"
 website: "https://www.vollenweiderchocolatier.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 46.2068716
 longitude: 6.1391745
-postcode: 1201
+postcode: "1201"
 city: Geneve
 street: "Rue Albert-Richard"
 housenumber: 2

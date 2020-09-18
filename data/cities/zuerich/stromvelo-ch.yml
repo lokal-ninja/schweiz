@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3984998
 longitude: 8.537610800000001
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Bucheggstrasse"
 housenumber: 121

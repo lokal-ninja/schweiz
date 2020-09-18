@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.369095
 longitude: 8.500701300000001
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 432

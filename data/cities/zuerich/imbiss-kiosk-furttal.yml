@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.4210295
 longitude: 8.501703000000001
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Wehntalerstrasse"
 housenumber: 597

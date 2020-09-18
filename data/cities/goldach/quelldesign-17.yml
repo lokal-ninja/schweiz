@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.475917300000006
 longitude: 9.477433300000001
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Im Quellacker"
 housenumber: 10

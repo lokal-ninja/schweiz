@@ -1,4 +1,4 @@
 ---
-title: "coop pronto"
+title: "Coop Pronto"
 url: /holderbank/coop-pronto/
 ---

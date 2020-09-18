@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.135084500000005
 longitude: 8.138253200000001
-postcode: 6207
+postcode: "6207"
 city: Nottwil
 street: "Kantonsstrasse"
 housenumber: 6

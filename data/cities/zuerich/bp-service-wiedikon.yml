@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3728411
 longitude: 8.5211422
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Seebahnstrasse"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.8204294
 longitude: 8.4055795
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Klosterstrasse"
 housenumber: 8

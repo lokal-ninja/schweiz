@@ -3,7 +3,7 @@ type: node
 shop: Militär
 latitude: 47.1898843
 longitude: 7.7016878
-postcode: 3360
+postcode: "3360"
 city: Herzogenbuchsee
 street: "Lagerstrasse"
 housenumber: 19

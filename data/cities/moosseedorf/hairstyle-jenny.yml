@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.015984200000005
 longitude: 7.4834319
-postcode: 3302
+postcode: "3302"
 city: Moosseedorf
 street: ""
 housenumber: 

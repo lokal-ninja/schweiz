@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 45.8337257
 longitude: 9.031331100000001
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Via Alessandro Volta"
 housenumber: 1

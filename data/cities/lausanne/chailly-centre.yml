@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.5272814
 longitude: 6.6513628
-postcode: 1012
+postcode: "1012"
 city: Lausanne
 street: "Chemin de Rovéréaz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.7374292
 longitude: 7.290150000000001
-postcode: 1716
+postcode: "1716"
 city: Plaffeien
 street: "Chromenstrasse"
 housenumber: 12

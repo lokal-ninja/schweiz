@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.337007400000005
 longitude: 8.5767403
-postcode: 8702
+postcode: "8702"
 city: Zollikon
 street: "Alte Landstrasse"
 housenumber: 101

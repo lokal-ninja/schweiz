@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4947491
 longitude: 8.1871127
-postcode: 5223
+postcode: "5223"
 city: Riniken
 street: "Unterdorfstrasse"
 housenumber: 7

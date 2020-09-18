@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.244963500000004
 longitude: 7.9716433
-postcode: 6260
+postcode: "6260"
 city: Reiden
 street: "Hauptstrasse"
 housenumber: 30a

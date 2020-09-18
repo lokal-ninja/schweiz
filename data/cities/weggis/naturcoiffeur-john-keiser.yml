@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0320231
 longitude: 8.4327419
-postcode: 6353
+postcode: "6353"
 city: Weggis
 street: "Seestrasse"
 housenumber: 8

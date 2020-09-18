@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.818247400000004
 longitude: 8.412794400000001
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Wydenstrasse"
 housenumber: 42

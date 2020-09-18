@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.378337900000005
 longitude: 8.0334106
-postcode: 3987
+postcode: "3987"
 city: Riederalp
 street: "Bahnhofstrasse"
 housenumber: 11

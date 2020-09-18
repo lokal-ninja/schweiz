@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.3329935
 longitude: 8.8115874
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Bahnhofstrasse"
 housenumber: 299

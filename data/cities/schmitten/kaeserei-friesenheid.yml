@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.868386400000006
 longitude: 7.2413271
-postcode: 3185
+postcode: "3185"
 city: Schmitten
 street: "Friseneit"
 housenumber: 157

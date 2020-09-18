@@ -3,7 +3,7 @@ type: node
 shop: Ski
 latitude: 46.868717800000006
 longitude: 9.880706100000001
-postcode: 7250
+postcode: "7250"
 city: Klosters
 street: "Gotschnastrasse"
 housenumber: 17

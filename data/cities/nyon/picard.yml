@@ -3,7 +3,7 @@ type: node
 shop: Tiefkühl
 latitude: 46.3898924
 longitude: 6.2218121
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Allée de la Petite Prairie"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0370933
 longitude: 8.184662600000001
-postcode: 6102
+postcode: "6102"
 city: Malters
 street: "Luzernstrasse"
 housenumber: 98

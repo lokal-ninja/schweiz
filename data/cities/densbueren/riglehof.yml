@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4543467
 longitude: 8.084577300000001
-postcode: 5026
+postcode: "5026"
 city: Densbüren
 street: "Sulzbann"
 housenumber: 55

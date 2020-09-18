@@ -1,4 +1,4 @@
 ---
-title: "COOP"
+title: "Coop"
 url: /pfaeffikon-zh/coop/
 ---

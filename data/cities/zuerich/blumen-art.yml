@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.357455800000004
 longitude: 8.5544773
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Seefeldstrasse"
 housenumber: 134

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.9867757
 longitude: 6.8884179
-postcode: 2034
+postcode: "2034"
 city: Peseux
 street: "Grand-Rue"
 housenumber: 10

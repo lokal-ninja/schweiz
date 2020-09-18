@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5012319
 longitude: 8.816377000000001
-postcode: 8352
+postcode: "8352"
 city: Elsau
 street: "St. Gallerstrasse"
 housenumber: 107

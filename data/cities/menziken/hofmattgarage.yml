@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.234915
 longitude: 8.1933351
-postcode: 5737
+postcode: "5737"
 city: Menziken
 street: "Hauptstrasse"
 housenumber: 93

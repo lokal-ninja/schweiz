@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.867997200000005
 longitude: 7.122872500000001
-postcode: 1784
+postcode: "1784"
 city: Courtepin
 street: "Route de Fribourg"
 housenumber: 9

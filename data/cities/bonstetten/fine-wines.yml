@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.314876600000005
 longitude: 8.466414200000001
-postcode: 8906
+postcode: "8906"
 city: Bonstetten
 street: "Dorfstrasse"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1124652
 longitude: 8.38748
-postcode: 6037
+postcode: "6037"
 city: Root
 street: "Luzernerstrasse"
 housenumber: 28

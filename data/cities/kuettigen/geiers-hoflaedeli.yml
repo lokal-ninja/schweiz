@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.415621900000005
 longitude: 8.0568995
-postcode: 5024
+postcode: "5024"
 city: Küttigen
 street: "Rosenbergstrasse"
 housenumber: 55

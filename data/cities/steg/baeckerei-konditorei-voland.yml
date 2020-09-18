@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.349278700000006
 longitude: 8.9342398
-postcode: 8496
+postcode: "8496"
 city: Steg
 street: "Tösstalstrasse"
 housenumber: 83

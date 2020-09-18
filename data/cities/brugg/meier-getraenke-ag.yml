@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.493469600000005
 longitude: 8.2246681
-postcode: 5200
+postcode: "5200"
 city: Brugg
 street: "Aegertenstrasse"
 housenumber: 11b

@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 47.4422146
 longitude: 8.1190055
-postcode: 5108
+postcode: "5108"
 city: Oberflachs
 street: "Kasteln"
 housenumber: 5
 phone: "+41 56 443 06 02"
-opening_hours: "Bestellungen telefonisch oder per E-mail."
+opening_hours: ""
 website: "http://www.hofkasteln.ch"

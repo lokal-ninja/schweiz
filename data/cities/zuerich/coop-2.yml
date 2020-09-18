@@ -1,12 +1,12 @@
-id: 766705800
+id: 79977755
 type: node
 shop: Supermarkt
-latitude: 47.4134145
-longitude: 8.540361500000001
-postcode: 8050
+latitude: 47.3400698
+longitude: 8.5305461
+postcode: "8038"
 city: Zürich
-street: "Sophie-Taeuber-Strasse"
-housenumber: 4
+street: "Alte Kalchbühlstrasse"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.coop.ch/"

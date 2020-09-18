@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.9661557
 longitude: 6.8611108000000005
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: ""
 housenumber: 18

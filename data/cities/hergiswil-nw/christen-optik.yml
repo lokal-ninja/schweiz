@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9834248
 longitude: 8.310317600000001
-postcode: 6052
+postcode: "6052"
 city: Hergiswil (NW)
 street: "Dorfplatz"
 housenumber: 12

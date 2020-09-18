@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5336912
 longitude: 8.7619419
-postcode: 8404
+postcode: "8404"
 city: Stadel
 street: "Unterdorfstrasse"
 housenumber: 8

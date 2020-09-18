@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.379658600000006
 longitude: 8.0747324
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Tramstrasse"
 housenumber: 67

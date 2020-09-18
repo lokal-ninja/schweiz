@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4911
 longitude: 8.705538
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "Zürcherstrasse"
 housenumber: 120

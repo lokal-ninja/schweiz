@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.1926604
 longitude: 8.8524999
-postcode: 8853
+postcode: "8853"
 city: Lachen
 street: ""
 housenumber: 

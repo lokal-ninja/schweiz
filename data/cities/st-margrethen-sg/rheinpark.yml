@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.4503647
 longitude: 9.6524145
-postcode: 9430
+postcode: "9430"
 city: St. Margrethen SG
 street: "Neudorfstrasse"
 housenumber: 60

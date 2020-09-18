@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 46.958588400000004
 longitude: 7.447685300000001
-postcode: 3013
+postcode: "3013"
 city: Bern
 street: "Turnweg"
 housenumber: 20
-phone: ""
+phone: "+41 31 331 40 67"
 opening_hours: "Mo off; Tu-Fr 10:00-18:30; Sa 10:00-16:00; Su off"
 website: "https://www.velowerkstatt.ch"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.472661800000004
 longitude: 9.4912355
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Franklinstrasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.444593700000006
 longitude: 8.6244291
-postcode: 8303
+postcode: "8303"
 city: Bassersdorf
 street: "Klotenerstrasse"
 housenumber: 47

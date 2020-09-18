@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.413282900000006
 longitude: 8.5407477
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Sophie-Taeuber-Strasse"
 housenumber: 4

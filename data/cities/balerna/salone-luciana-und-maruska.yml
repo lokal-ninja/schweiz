@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8477971
 longitude: 9.008327900000001
-postcode: 6828
+postcode: "6828"
 city: Balerna
 street: "Via Stefano Franscini"
 housenumber: 1

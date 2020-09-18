@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 47.3000892
 longitude: 9.0867897
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Bahnhofstrasse"
 housenumber: 13
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.interdiscount.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 46.516657900000006
 longitude: 6.6253777000000005
-postcode: 1006
+postcode: "1006"
 city: Lausanne
 street: "Boulevard de Grancy"
 housenumber: 58

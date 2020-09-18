@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 45.8719837
 longitude: 8.9876158
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Stella"
 housenumber: 19

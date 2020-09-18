@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.3913364
 longitude: 8.047780600000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Bahnhofstrasse"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.541326600000005
 longitude: 7.9558144
-postcode: 4332
+postcode: "4332"
 city: Stein
 street: "Zürcherstrasse"
 housenumber: 62a

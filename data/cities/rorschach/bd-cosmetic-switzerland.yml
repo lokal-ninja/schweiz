@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4785666
 longitude: 9.4889925
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Trischlistrasse"
 housenumber: 6

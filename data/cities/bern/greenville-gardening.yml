@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 46.940664000000005
 longitude: 7.440026400000001
-postcode: 3005
+postcode: "3005"
 city: Bern
 street: "Sulgeneckstrasse"
 housenumber: 60

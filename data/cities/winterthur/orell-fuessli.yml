@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 47.4994516
 longitude: 8.7279484
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 41
 phone: ""
 opening_hours: ""
-website: "http://www.books.ch"
+website: "https://www.orellfuessli.ch/"

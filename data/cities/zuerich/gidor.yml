@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.3751667
 longitude: 8.539986200000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Werdmühleplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-werdmuehle/"

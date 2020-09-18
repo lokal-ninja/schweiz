@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.228510400000005
 longitude: 6.072573800000001
-postcode: 1217
+postcode: "1217"
 city: Meyrin
 street: "Route de Meyrin"
 housenumber: 

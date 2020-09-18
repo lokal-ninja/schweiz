@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 45.8561482
 longitude: 8.9901058
-postcode: 6877
+postcode: "6877"
 city: Coldrerio
 street: "Via San Gottardo"
 housenumber: 19

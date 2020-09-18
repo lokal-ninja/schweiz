@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.422425600000004
 longitude: 6.257796300000001
-postcode: 1196
+postcode: "1196"
 city: Gland
 street: "Rue des Tuillières"
 housenumber: 1

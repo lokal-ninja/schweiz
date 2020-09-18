@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.325790600000005
 longitude: 8.4721392
-postcode: 8906
+postcode: "8906"
 city: Bonstetten
 street: "Stallikerstrasse"
 housenumber: 20

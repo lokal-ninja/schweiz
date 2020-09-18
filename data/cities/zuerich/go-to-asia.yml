@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.387546400000005
 longitude: 8.4864116
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Altstetterstrasse"
 housenumber: 150

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.7871437
 longitude: 6.6316844
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Avenue de Grandson"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6867705
 longitude: 7.6800733
-postcode: 3700
+postcode: "3700"
 city: Spiez
 street: "Bahnhofstrasse"
 housenumber: 12

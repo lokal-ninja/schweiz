@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 46.628921000000005
 longitude: 6.8418163000000005
-postcode: 1670
+postcode: "1670"
 city: Ursy
 street: "Chemin du Marais"
 housenumber: 3

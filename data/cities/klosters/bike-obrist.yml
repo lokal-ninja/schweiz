@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 46.865087800000005
 longitude: 9.8850874
-postcode: 7250
+postcode: "7250"
 city: Klosters
 street: "Doggilochstrasse"
 housenumber: 31

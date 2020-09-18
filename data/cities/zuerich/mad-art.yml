@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.372992100000005
 longitude: 8.5263693
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Zweierstrasse"
 housenumber: 22

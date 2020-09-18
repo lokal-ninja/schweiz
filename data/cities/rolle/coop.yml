@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.458027
 longitude: 6.3386355000000005
-postcode: 1180
+postcode: "1180"
 city: Rolle
 street: "Grand-Rue"
 housenumber: 

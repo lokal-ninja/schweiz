@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 47.369908800000005
 longitude: 8.5394656
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 28
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00; PH off"
 website: "https://marsano.ch/"

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.0726224
 longitude: 7.3067111
-postcode: 3250
+postcode: "3250"
 city: Lyss
 street: "Kreuzgasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.812580700000005
 longitude: 8.417433200000001
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Wasserfallstrasse"
 housenumber: 72B

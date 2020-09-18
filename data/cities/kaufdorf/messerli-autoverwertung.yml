@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.8366434
 longitude: 7.502336700000001
-postcode: 3126
+postcode: "3126"
 city: Kaufdorf
 street: "Moosstrasse"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 46.988955600000004
 longitude: 9.6372129
-postcode: 7212
+postcode: "7212"
 city: Seewis Dorf
 street: "Schlossstrasse"
 housenumber: 2

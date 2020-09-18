@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.010797200000006
 longitude: 8.9419468
-postcode: 6900
+postcode: "6900"
 city: Massagno
 street: "Via Madonna della Salute"
 housenumber: 15

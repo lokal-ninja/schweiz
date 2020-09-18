@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.8282225
 longitude: 6.929492300000001
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Charrière d'Estavayer"
 housenumber: 21

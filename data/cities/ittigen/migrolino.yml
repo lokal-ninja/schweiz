@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 46.9894259
 longitude: 7.4772521
-postcode: 3063
+postcode: "3063"
 city: Ittigen
-street: "Grauholz-Süd A1"
+street: ""
 housenumber: 
 phone: ""
 opening_hours: "24/7"
-website: ""
+website: "https://www.migrolino.ch/de/standorte/socar-ittigen-grauholz/"

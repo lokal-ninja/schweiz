@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4947954
 longitude: 8.0831975
-postcode: 
+postcode: ""
 city: Bözen
 street: "Hauptstrasse"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1671622
 longitude: 9.474734100000001
-postcode: 9470
+postcode: "9470"
 city: Buchs SG
 street: "Alvierstrasse"
 housenumber: 12

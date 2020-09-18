@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.686128800000006
 longitude: 7.6813279
-postcode: 3700
+postcode: "3700"
 city: Spiez
 street: "Bahnhofplatz"
 housenumber: 

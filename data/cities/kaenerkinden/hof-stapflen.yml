@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.413992300000004
 longitude: 7.8364487
-postcode: 4447
+postcode: "4447"
 city: Känerkinden
 street: "Hof Stapflen"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.1748289
 longitude: 8.426424
-postcode: 6331
+postcode: "6331"
 city: Hünenberg
 street: "Chamerstrasse"
 housenumber: 11

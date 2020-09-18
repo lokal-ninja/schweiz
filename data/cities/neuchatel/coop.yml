@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9881259
 longitude: 6.9094198
-postcode: 2006
+postcode: "2006"
 city: Neuchâtel
 street: "Rue des Poudrières"
 housenumber: 137

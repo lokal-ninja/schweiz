@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.78125420000001
 longitude: 6.6364352
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: ""
 housenumber: 

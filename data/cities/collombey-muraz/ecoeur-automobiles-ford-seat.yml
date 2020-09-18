@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.2718676
 longitude: 6.9459853
-postcode: 1868
+postcode: "1868"
 city: Collombey-Muraz
 street: "Rue des Dents-du-Midi"
 housenumber: 60

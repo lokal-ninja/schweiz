@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.3768037
 longitude: 9.5378658
-postcode: 9450
+postcode: "9450"
 city: Altstätten
 street: "Erlenstrasse"
 housenumber: 2

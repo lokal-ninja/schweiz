@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.171403700000006
 longitude: 8.7726327
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Pietro Magistra"
 housenumber: 18

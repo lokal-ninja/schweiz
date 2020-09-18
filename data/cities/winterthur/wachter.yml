@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4994415
 longitude: 8.7304375
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 34

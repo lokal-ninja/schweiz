@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.169947
 longitude: 8.798007100000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Largo Franco Zorzi"
 housenumber: 6

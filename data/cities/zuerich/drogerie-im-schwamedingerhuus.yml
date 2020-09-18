@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.404949900000005
 longitude: 8.571740700000001
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Saatlenstrasse"
 housenumber: 12

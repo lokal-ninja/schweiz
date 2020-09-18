@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.7772984
 longitude: 9.541672
-postcode: 7075
+postcode: "7075"
 city: Churwalden
 street: "Girabodawäg"
 housenumber: 5

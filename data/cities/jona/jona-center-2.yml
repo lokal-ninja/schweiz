@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.23001
 longitude: 8.8485159
-postcode: 8645
+postcode: "8645"
 city: Jona
 street: "St. Gallerstrasse"
 housenumber: 120

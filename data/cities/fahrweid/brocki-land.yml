@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.406248600000005
 longitude: 8.414886000000001
-postcode: 8951
+postcode: "8951"
 city: Fahrweid
 street: "Ueberlandstrasse"
 housenumber: 

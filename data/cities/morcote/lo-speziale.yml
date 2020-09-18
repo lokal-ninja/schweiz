@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.9238488
 longitude: 8.9187432
-postcode: 6922
+postcode: "6922"
 city: Morcote
 street: "Riva dal Garavèll"
 housenumber: 18

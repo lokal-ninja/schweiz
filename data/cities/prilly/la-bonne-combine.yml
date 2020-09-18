@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 46.529004300000004
 longitude: 6.603299300000001
-postcode: 1008
+postcode: "1008"
 city: Prilly
 street: "Rue de renens"
 housenumber: 4

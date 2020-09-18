@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.386249500000005
 longitude: 8.1237521
-postcode: 5502
+postcode: "5502"
 city: Hunzenschwil
 street: "Strangengasse"
 housenumber: 2

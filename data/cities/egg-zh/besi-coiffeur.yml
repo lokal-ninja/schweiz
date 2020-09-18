@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.302203600000006
 longitude: 8.6888432
-postcode: 8132
+postcode: "8132"
 city: Egg (ZH)
 street: "Forchstrasse"
 housenumber: 149

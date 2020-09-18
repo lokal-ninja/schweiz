@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.204153500000004
 longitude: 6.1583103
-postcode: 1207
+postcode: "1207"
 city: Genève
 street: "Rue des Eaux-Vives"
 housenumber: 25

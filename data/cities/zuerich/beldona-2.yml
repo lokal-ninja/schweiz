@@ -1,12 +1,12 @@
 id: 3284625697
 type: node
 shop: Kleidung
-latitude: 47.3592499
-longitude: 8.5860723
-postcode: 8053
+latitude: 47.3592479
+longitude: 8.5860815
+postcode: "8053"
 city: Zürich
 street: "Witikonerstrasse"
 housenumber: 297
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:30; Sa 09:00-16:00"
-website: ""
+website: "https://www.beldona.com/"

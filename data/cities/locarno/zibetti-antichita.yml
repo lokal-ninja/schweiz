@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 46.170077600000006
 longitude: 8.7783642
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Vallemaggia"
 housenumber: 54

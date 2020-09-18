@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.6035357
 longitude: 7.0997639
-postcode: 1636
+postcode: "1636"
 city: Broc
 street: "Rue de Montsalvens"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.557903
 longitude: 7.843625
-postcode: 4313
+postcode: "4313"
 city: Möhlin
 street: "Hauptstrasse"
 housenumber: 66

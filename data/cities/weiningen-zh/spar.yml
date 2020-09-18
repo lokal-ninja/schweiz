@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4198006
 longitude: 8.4348613
-postcode: 8104
+postcode: "8104"
 city: Weiningen (ZH)
 street: "Regensdorferstrasse"
 housenumber: 2

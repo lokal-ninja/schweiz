@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.640902600000004
 longitude: 6.633147800000001
-postcode: 1040
+postcode: "1040"
 city: Echallens
 street: "Place du Marché"
 housenumber: 5

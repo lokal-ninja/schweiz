@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.8878056
 longitude: 6.983435
-postcode: 1566
+postcode: "1566"
 city: St-Aubin
 street: "Route de Villars"
 housenumber: 12

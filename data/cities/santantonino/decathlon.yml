@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.1549854
 longitude: 8.9656287
-postcode: 6592
+postcode: "6592"
 city: Sant'Antonino
 street: "Via Serrai"
 housenumber: 4

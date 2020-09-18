@@ -1,9 +1,9 @@
 id: 4963884370
 type: node
 shop: Autowerkstatt
-latitude: 47.3725825
+latitude: 47.372582
 longitude: 8.520321800000001
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Bremgartnerstrasse"
 housenumber: 10

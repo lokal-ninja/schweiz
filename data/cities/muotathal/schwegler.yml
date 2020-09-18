@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.974555300000006
 longitude: 8.7572094
-postcode: 6436
+postcode: "6436"
 city: Muotathal
 street: "Hauptstrasse"
 housenumber: 27

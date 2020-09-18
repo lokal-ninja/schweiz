@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.5486997
 longitude: 6.6705851
-postcode: 1066
+postcode: "1066"
 city: Epalinges
 street: "Place Croix-Blanche"
 housenumber: 15

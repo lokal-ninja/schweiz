@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.3766404
 longitude: 8.5255437
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Stauffacherstrasse"
 housenumber: 98

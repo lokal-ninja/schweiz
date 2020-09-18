@@ -1,12 +1,12 @@
-id: 693318486
+id: 693318634
 type: node
 shop: Schmuck
-latitude: 47.37490570000001
-longitude: 8.5390543
-postcode: 8001
+latitude: 47.3767665
+longitude: 8.5395515
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
-housenumber: 78
+housenumber: 93
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH closed"
+website: "https://www.christ-swiss.ch/"

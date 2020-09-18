@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.3833891
 longitude: 8.5300141
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Josefstrasse"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.223173200000005
 longitude: 7.105883800000001
-postcode: 2720
+postcode: "2720"
 city: Tramelan
 street: "Rue de la Gare"
 housenumber: 22

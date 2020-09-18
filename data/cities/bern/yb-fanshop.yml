@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.9623732
 longitude: 7.4644887
-postcode: 3014
+postcode: "3014"
 city: Bern
 street: "Papiermühlestrasse"
 housenumber: 85

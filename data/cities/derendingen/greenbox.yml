@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.1847435
 longitude: 7.5917455
-postcode: 4552
+postcode: "4552"
 city: Derendingen
 street: "Hauptstrasse"
 housenumber: 113

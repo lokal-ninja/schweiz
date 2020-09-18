@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.393252800000006
 longitude: 9.2982194
-postcode: 9100
+postcode: "9100"
 city: Herisau
 street: "Walke"
 housenumber: 39

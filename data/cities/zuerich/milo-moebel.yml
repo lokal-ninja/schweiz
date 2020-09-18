@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.387762
 longitude: 8.536255800000001
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Kornhausstrasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.1727709
 longitude: 8.1038302
-postcode: 6210
+postcode: "6210"
 city: Sursee
 street: "Bahnhofstrasse"
 housenumber: 22

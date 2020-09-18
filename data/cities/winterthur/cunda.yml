@@ -1,12 +1,12 @@
 id: 568449459
 type: node
 shop: Kleidung
-latitude: 47.4995847
-longitude: 8.7276302
-postcode: 8400
+latitude: 47.4996
+longitude: 8.727623900000001
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 70
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-18:30, Th 09:00-21:00, Sa 09:00-18:00"
+website: "https://www.c-and-a.com/ch/"

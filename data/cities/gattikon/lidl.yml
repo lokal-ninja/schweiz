@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2830669
 longitude: 8.5435914
-postcode: 8136
+postcode: "8136"
 city: Gattikon
 street: "Gattikonerstrasse"
 housenumber: 135

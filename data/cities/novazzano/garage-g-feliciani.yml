@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 45.8402946
 longitude: 8.9959462
-postcode: 6883
+postcode: "6883"
 city: Novazzano
 street: "Via Roncaglia"
 housenumber: 1

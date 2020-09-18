@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.3758284
 longitude: 8.4868623
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Albisriederstrasse"
 housenumber: 334

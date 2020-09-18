@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.4002934
 longitude: 8.5437984
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 188a

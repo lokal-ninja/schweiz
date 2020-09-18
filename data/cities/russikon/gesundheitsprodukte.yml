@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.3953617
 longitude: 8.775556100000001
-postcode: 8332
+postcode: "8332"
 city: Russikon
 street: "Kirchgasse"
 housenumber: 12

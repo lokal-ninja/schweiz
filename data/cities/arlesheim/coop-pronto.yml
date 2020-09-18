@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 47.4903514
 longitude: 7.6088931
-postcode: 4144
+postcode: "4144"
 city: Arlesheim
 street: "Birseckstrasse"
 housenumber: 95
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: "Mo-Fr 05:00-23:00, Sa-Su 06:00-23:00"
 website: "https://www.coop-pronto.ch/"

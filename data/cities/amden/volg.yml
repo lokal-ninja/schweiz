@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1491498
 longitude: 9.143005
-postcode: 8873
+postcode: "8873"
 city: Amden
 street: "Dorfstrasse"
 housenumber: 30

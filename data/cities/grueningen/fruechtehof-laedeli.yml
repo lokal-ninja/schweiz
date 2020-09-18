@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2805965
 longitude: 8.735134
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Lindistweg"
 housenumber: 10

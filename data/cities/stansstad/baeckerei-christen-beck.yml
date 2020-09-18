@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.979021700000004
 longitude: 8.3381965
-postcode: 6362
+postcode: "6362"
 city: Stansstad
 street: "Dorfplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8243773
 longitude: 8.648654200000001
-postcode: 6472
+postcode: "6472"
 city: Erstfeld
 street: "Vordere Hofstatt"
 housenumber: 4

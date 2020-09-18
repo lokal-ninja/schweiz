@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.379006100000005
 longitude: 8.544628900000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Weinbergfussweg"
 housenumber: 4

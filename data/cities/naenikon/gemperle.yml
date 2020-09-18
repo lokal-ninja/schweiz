@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.362468400000004
 longitude: 8.7005675
-postcode: 8606
+postcode: "8606"
 city: Nänikon
 street: "Zürichstrasse"
 housenumber: 110

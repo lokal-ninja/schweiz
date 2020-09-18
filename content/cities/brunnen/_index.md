@@ -1,6 +1,6 @@
 ---
 title: Brunnen
 url: /brunnen/
-latitude: 46.2316767
-longitude: 7.8579084
+latitude: 46.9940439
+longitude: 8.605408500000001
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.5472618
 longitude: 9.2748392
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Bielackerstrasse"
 housenumber: 24a

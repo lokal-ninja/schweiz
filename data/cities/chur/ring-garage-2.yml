@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8484727
 longitude: 9.513338000000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Ringstrasse"
 housenumber: 5

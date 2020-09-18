@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.4898668
 longitude: 8.243771500000001
-postcode: 5412
+postcode: "5412"
 city: Gebenstorf
 street: "Wambisterstrasse"
 housenumber: 4

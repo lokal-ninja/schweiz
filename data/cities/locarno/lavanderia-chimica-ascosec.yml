@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.169665300000005
 longitude: 8.7843584
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Vallemaggia"
 housenumber: 45

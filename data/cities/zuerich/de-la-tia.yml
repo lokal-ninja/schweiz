@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.3928079
 longitude: 8.5388084
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 77

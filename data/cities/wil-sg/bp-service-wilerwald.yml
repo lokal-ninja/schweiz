@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.4642222
 longitude: 9.064933700000001
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "St. Gallerstrasse"
 housenumber: 75a

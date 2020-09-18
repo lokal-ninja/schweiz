@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.409203100000006
 longitude: 8.5447845
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Franklinstrasse"
 housenumber: 19

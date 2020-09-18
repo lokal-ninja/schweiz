@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.3930069
 longitude: 8.5288711
-postcode: 8037
+postcode: "8037"
 city: Zürich
 street: "Landenbergstrasse"
 housenumber: 26

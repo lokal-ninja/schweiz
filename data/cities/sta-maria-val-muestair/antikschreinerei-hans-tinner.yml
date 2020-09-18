@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.6012226
 longitude: 10.423916100000001
-postcode: 7536
+postcode: "7536"
 city: Sta. Maria Val Müstair
 street: "Piattamala"
 housenumber: 46

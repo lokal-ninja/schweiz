@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3550255
 longitude: 8.713509
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Oberlandstrasse"
 housenumber: 60

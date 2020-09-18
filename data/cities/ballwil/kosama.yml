@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1529486
 longitude: 8.320967600000001
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Dorfstrasse"
 housenumber: 19

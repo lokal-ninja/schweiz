@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0420298
 longitude: 9.433572400000001
-postcode: 8887
+postcode: "8887"
 city: Mels
 street: "Grossfeldstrasse"
 housenumber: 61

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.3375725
 longitude: 8.8603591
-postcode: 8344
+postcode: "8344"
 city: Bäretswil
 street: "Hüttenstrasse"
 housenumber: 32

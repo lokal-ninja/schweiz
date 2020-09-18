@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 47.4395977
 longitude: 9.3796426
-postcode: 9010
+postcode: "9010"
 city: St. Gallen
 street: "Guisanstrasse"
 housenumber: 95
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00"
 website: ""

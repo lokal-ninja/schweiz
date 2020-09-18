@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.4201241
 longitude: 6.263461
-postcode: 1196
+postcode: "1196"
 city: Gland
 street: ""
 housenumber: 

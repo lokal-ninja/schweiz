@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.4593397
 longitude: 8.342158300000001
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 189

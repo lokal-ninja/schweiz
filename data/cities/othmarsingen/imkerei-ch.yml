@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.4065237
 longitude: 8.217613400000001
-postcode: 5504
+postcode: "5504"
 city: Othmarsingen
 street: "Waldrüti"
 housenumber: 6

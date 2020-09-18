@@ -1,12 +1,12 @@
 id: 91376584
 type: way
 shop: Drogerie
-latitude: 47.3548306
-longitude: 8.436177800000001
-postcode: 8903
+latitude: 47.354833400000004
+longitude: 8.436171
+postcode: "8903"
 city: Birmensdorf (ZH)
 street: "Poststrasse"
 housenumber: 1
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00"
+website: "https://www.drogerie-treib.ch/"

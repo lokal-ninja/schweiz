@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4082711
 longitude: 9.446046200000001
-postcode: 9042
+postcode: "9042"
 city: Speicher
 street: "Trogenerstrasse"
 housenumber: 1

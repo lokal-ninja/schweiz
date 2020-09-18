@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 46.993562000000004
 longitude: 7.1496776
-postcode: 3225
+postcode: "3225"
 city: Müntschemier
 street: "Lagerhausweg"
 housenumber: 16

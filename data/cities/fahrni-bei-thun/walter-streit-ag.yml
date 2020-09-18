@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.7893289
 longitude: 7.665869900000001
-postcode: 3617
+postcode: "3617"
 city: Fahrni bei Thun
 street: "Schwarzeneggstrasse"
 housenumber: 94

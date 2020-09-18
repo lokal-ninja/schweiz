@@ -1,12 +1,12 @@
 id: 273175301
 type: way
-shop: Kiosk
+shop: Lebensmittel
 latitude: 47.182778600000006
 longitude: 8.4719871
-postcode: 6330
+postcode: "6330"
 city: Cham
 street: "Zugerstrasse"
 housenumber: 82
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 06:00-20:00, Su 08:00-20:00"
+website: "https://www.migrolino.ch/de/standorte/shell-cham/"

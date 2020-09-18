@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.349906100000005
 longitude: 7.903640800000001
-postcode: 4600
+postcode: "4600"
 city: Olten
 street: "Hauptgasse"
 housenumber: 21

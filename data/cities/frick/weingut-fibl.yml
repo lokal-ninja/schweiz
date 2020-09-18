@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5169738
 longitude: 8.0252732
-postcode: 5070
+postcode: "5070"
 city: Frick
 street: "Ackerstrasse"
 housenumber: 113

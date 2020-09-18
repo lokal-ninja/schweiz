@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.318895000000005
 longitude: 8.419871
-postcode: 8905
+postcode: "8905"
 city: Arni
 street: "Staldenstrasse"
 housenumber: 3

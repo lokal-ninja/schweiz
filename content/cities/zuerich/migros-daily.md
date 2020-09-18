@@ -1,0 +1,4 @@
+---
+title: "Migros Daily"
+url: /zuerich/migros-daily/
+---

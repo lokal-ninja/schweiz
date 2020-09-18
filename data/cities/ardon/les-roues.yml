@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.213121900000004
 longitude: 7.258168800000001
-postcode: 1957
+postcode: "1957"
 city: Ardon
 street: "Route du Simplon"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.1922014
 longitude: 9.0242501
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Viale Stazione"
 housenumber: 4

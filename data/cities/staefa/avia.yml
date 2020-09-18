@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2375916
 longitude: 8.727724100000001
-postcode: 8712
+postcode: "8712"
 city: Stäfa
 street: "Seestrasse"
 housenumber: 109

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.011520600000004
 longitude: 8.9585398
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Marco da Carona"
 housenumber: 

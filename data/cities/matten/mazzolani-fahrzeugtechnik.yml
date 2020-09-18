@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 46.682450100000004
 longitude: 7.8686039
-postcode: 3800
+postcode: "3800"
 city: Matten
 street: "Rütistrasse"
 housenumber: 7A

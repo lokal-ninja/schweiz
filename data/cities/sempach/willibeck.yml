@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.136676900000005
 longitude: 8.1919257
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Oberstadt"
 housenumber: 1

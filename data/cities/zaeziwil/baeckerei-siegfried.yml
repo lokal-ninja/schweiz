@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.901088800000004
 longitude: 7.660648900000001
-postcode: 3532
+postcode: "3532"
 city: Zäziwil
 street: "Thunstrasse"
 housenumber: 5

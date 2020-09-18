@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3719844
 longitude: 8.54395
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Marktgasse"
 housenumber: 14

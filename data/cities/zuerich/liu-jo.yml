@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3730489
 longitude: 8.5396996
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Rennweg"
 housenumber: 26

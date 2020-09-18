@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.5431199
 longitude: 6.571067200000001
-postcode: 1023
+postcode: "1023"
 city: Crissier
 street: "Route de Bussigny"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.992077
 longitude: 6.928288500000001
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue des Moulins"
 housenumber: 11

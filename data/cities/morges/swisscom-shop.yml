@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.5102424
 longitude: 6.497448
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Rue des Fossés"
 housenumber: 4

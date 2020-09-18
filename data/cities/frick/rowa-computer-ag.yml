@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.509167600000005
 longitude: 8.0185834
-postcode: 5070
+postcode: "5070"
 city: Frick
 street: "Grubenstrasse"
 housenumber: 17

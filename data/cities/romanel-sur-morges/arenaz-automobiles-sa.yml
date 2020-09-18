@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.550935800000005
 longitude: 6.5117719
-postcode: 1122
+postcode: "1122"
 city: Romanel-sur-Morges
 street: "Route de Bremblens"
 housenumber: 2

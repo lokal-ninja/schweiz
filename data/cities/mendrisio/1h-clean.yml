@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 45.8701414
 longitude: 8.986930000000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazzale alla Valle"
 housenumber: 

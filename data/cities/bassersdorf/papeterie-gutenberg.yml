@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4432224
 longitude: 8.629917
-postcode: 8303
+postcode: "8303"
 city: Bassersdorf
 street: "Dorfstrasse"
 housenumber: 5

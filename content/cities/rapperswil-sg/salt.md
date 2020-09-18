@@ -1,4 +1,4 @@
 ---
-title: "SALT"
+title: "Salt"
 url: /rapperswil-sg/salt/
 ---

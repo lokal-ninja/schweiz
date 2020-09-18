@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.9662529
 longitude: 6.860705
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue Haute"
 housenumber: 2

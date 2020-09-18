@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.375347700000006
 longitude: 8.5368411
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Löwenstrasse"
 housenumber: 42

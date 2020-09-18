@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.358955300000005
 longitude: 8.5270746
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Waffenplatzstrasse"
 housenumber: 51

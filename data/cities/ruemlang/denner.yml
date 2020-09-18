@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.462055500000005
 longitude: 8.5256298
-postcode: 8153
+postcode: "8153"
 city: Rümlang
 street: "Riedmattstrasse"
 housenumber: 4

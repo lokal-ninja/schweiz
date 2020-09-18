@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 46.1702901
 longitude: 8.798723500000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Largo Franco Zorzi"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
 website: "https://www.marionnaud.ch/"

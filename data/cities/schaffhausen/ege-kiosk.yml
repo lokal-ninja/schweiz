@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.6957286
 longitude: 8.6404487
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Freier Platz"
 housenumber: 5

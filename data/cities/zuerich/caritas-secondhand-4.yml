@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3720865
 longitude: 8.5260964
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 38

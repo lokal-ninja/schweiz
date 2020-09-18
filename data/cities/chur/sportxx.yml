@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.8465691
 longitude: 9.5101031
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Kalchbühlstrasse"
 housenumber: 16

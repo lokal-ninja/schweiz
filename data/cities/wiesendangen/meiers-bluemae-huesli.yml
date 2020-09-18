@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.5221657
 longitude: 8.7709066
-postcode: 8542
+postcode: "8542"
 city: Wiesendangen
 street: "Riethof"
 housenumber: 

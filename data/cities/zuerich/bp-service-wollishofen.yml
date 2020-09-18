@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.3485725
 longitude: 8.5340966
-postcode: 8038
+postcode: "8038"
 city: Zürich
 street: "Mythenquai"
 housenumber: 320

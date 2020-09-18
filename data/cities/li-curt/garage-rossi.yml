@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.311682600000005
 longitude: 10.0621866
-postcode: 7745
+postcode: "7745"
 city: Li Curt
 street: "S. Antonio"
 housenumber: 54a

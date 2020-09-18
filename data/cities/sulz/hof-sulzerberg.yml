@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.53289
 longitude: 8.08228
-postcode: 5085
+postcode: "5085"
 city: Sulz
 street: "Sulzerberg"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.430798700000004
 longitude: 9.634896900000001
-postcode: 9434
+postcode: "9434"
 city: Au
 street: "Zollstrasse"
 housenumber: 2

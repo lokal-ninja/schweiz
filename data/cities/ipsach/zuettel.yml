@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.1154572
 longitude: 7.234565000000001
-postcode: 2563
+postcode: "2563"
 city: Ipsach
 street: "Hauptstrasse"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 07:00-15:00,15:00-18:30; Sa 07:00-16:00; Su 08:00-12:00"
 website: ""

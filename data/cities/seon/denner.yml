@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.346695000000004
 longitude: 8.160556600000001
-postcode: 5703
+postcode: "5703"
 city: Seon
 street: "Unterdorfstrasse"
 housenumber: 10

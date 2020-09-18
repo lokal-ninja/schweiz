@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.7281277
 longitude: 9.553544500000001
-postcode: 7078
+postcode: "7078"
 city: Lenzerheide
 street: "Voa Sporz"
 housenumber: 19

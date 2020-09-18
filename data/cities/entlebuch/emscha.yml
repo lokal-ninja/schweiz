@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.989656800000006
 longitude: 8.0674689
-postcode: 6162
+postcode: "6162"
 city: Entlebuch
 street: "Glaubenbergstrasse"
 housenumber: 32

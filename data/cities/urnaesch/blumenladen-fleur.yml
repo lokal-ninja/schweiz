@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.316512700000004
 longitude: 9.2812198
-postcode: 9107
+postcode: "9107"
 city: Urnäsch
 street: "Schwägalpstrasse"
 housenumber: 10

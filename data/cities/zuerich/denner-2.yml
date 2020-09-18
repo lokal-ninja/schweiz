@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3728259
 longitude: 8.5294871
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Werdstrasse"
 housenumber: 36

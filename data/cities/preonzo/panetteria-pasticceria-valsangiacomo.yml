@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.2639903
 longitude: 9.0017893
-postcode: 6523
+postcode: "6523"
 city: Preonzo
 street: "El Stradón"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.581096
 longitude: 8.2491587
-postcode: 5313
+postcode: "5313"
 city: Klingnau
 street: "Sonnengasse"
 housenumber: 52

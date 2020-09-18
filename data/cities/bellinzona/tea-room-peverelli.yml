@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 46.1918428
 longitude: 9.0231999
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Piazza Collegiata"
 housenumber: 

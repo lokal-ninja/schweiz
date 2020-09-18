@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 47.566749400000006
 longitude: 8.908924800000001
-postcode: 8500
+postcode: "8500"
 city: Frauenfeld
 street: "Langfeldstrasse"
 housenumber: 76
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:00–18:00; Sa 09:00-12:00"
+website: "https://www.autolang.ch/"

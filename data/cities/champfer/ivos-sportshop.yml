@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.4776274
 longitude: 9.8106452
-postcode: 7512
+postcode: "7512"
 city: Champfèr
 street: "Via Maistra"
 housenumber: 

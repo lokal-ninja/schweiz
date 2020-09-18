@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.275211000000006
 longitude: 8.756897
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Hombrechtikerstrasse"
 housenumber: 5

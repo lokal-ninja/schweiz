@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.5543375
 longitude: 6.6350438
-postcode: 1052
+postcode: "1052"
 city: Le Mont-sur-Lausanne
 street: "Route de Lausanne"
 housenumber: 33

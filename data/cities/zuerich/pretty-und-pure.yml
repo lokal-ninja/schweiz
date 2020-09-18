@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.378856000000006
 longitude: 8.543898200000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Weinbergstrasse"
 housenumber: 25

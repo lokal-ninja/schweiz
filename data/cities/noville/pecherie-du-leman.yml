@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 46.3939844
 longitude: 6.921262400000001
-postcode: 1845
+postcode: "1845"
 city: Noville
 street: "Chemin des pêcheurs"
 housenumber: 1

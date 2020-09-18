@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.973926600000006
 longitude: 8.421641900000001
-postcode: 6374
+postcode: "6374"
 city: Buochs
 street: "Beckenriederstrasse"
 housenumber: 5

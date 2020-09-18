@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.8480885
 longitude: 9.5312988
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Obere Gasse"
 housenumber: 19

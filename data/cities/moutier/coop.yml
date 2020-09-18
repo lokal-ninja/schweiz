@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.277264900000006
 longitude: 7.367677100000001
-postcode: 2740
+postcode: "2740"
 city: Moutier
 street: "Rue Industrielle"
 housenumber: 16

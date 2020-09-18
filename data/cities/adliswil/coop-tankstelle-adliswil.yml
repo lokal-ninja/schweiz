@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3274477
 longitude: 8.529954100000001
-postcode: 8134
+postcode: "8134"
 city: Adliswil
 street: "Zürichstrasse"
 housenumber: 114

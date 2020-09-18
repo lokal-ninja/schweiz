@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3572921
 longitude: 9.578852600000001
-postcode: 9450
+postcode: "9450"
 city: Altstätten SG
 street: "Unterer Burst"
 housenumber: 8

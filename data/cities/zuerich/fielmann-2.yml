@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.409969000000004
 longitude: 8.545953
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 355

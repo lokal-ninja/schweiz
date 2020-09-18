@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.416746100000005
 longitude: 9.065021
-postcode: 9602
+postcode: "9602"
 city: Bazenheid
 street: "Wilerstrasse"
 housenumber: 50

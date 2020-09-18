@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.256985400000005
 longitude: 8.8012248
-postcode: 8633
+postcode: "8633"
 city: Wolfhausen
 street: "Schulstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.6971701
 longitude: 8.6326751
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Schwertstrasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.0057313
 longitude: 7.105622
-postcode: 3232
+postcode: "3232"
 city: Ins
 street: "Dorfplatz"
 housenumber: 10

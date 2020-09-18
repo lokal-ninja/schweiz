@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 47.4537392
 longitude: 9.0401065
-postcode: 9535
+postcode: "9535"
 city: Wilen bei Wil
 street: "Weidstrasse"
 housenumber: 6
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.mueller.ch/"

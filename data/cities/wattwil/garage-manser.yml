@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.305085000000005
 longitude: 9.0804091
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Wenkenrütistrasse"
 housenumber: 12

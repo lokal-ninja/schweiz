@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.852299900000006
 longitude: 9.534636800000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Quaderstrasse"
 housenumber: 36

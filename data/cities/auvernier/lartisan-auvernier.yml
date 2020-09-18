@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.9763074
 longitude: 6.8781356
-postcode: 2012
+postcode: "2012"
 city: Auvernier
 street: "Grand'Rue"
 housenumber: 46

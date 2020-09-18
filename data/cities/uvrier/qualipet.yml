@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.2512442
 longitude: 7.4074979
-postcode: 1958
+postcode: "1958"
 city: Uvrier
 street: "Route d'Italie"
 housenumber: 

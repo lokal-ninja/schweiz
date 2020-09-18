@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9349466
 longitude: 7.489457300000001
-postcode: 3074
+postcode: "3074"
 city: Muri b. Bern
 street: "Kranichweg"
 housenumber: 8

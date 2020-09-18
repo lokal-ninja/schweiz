@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.497227200000005
 longitude: 8.229067500000001
-postcode: 5200
+postcode: "5200"
 city: Brugg
 street: "Zurzacherstrasse"
 housenumber: 171

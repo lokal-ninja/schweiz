@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.340816600000004
 longitude: 8.670563600000001
-postcode: 8124
+postcode: "8124"
 city: Maur
 street: "Im Unterdorf"
 housenumber: 3

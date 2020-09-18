@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9917139
 longitude: 6.9284033
-postcode: 2000
+postcode: "2000"
 city: Neuchatel
 street: "Rue du Château"
 housenumber: 2

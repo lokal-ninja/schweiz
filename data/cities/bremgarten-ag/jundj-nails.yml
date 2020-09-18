@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.3513068
 longitude: 8.3418569
-postcode: 5620
+postcode: "5620"
 city: Bremgarten AG
 street: "Marktgasse"
 housenumber: 11

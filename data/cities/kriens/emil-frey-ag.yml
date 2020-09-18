@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.0283633
 longitude: 8.298340900000001
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Sternmatt"
 housenumber: 3

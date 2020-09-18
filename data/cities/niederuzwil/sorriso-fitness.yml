@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.4457784
 longitude: 9.1442295
-postcode: 9244
+postcode: "9244"
 city: Niederuzwil
 street: "Bahnhofstrasse"
 housenumber: 141

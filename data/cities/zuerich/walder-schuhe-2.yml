@@ -1,12 +1,12 @@
-id: 4838594355
+id: 4054055101
 type: node
 shop: Schuhe
-latitude: 47.40943
-longitude: 8.545520900000001
-postcode: 8050
+latitude: 47.3757889
+longitude: 8.5363567
+postcode: "8001"
 city: Zürich
-street: "Edisonstrasse"
-housenumber: 10
+street: "Usteristrasse"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.walder.ch/"

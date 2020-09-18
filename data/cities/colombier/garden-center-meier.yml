@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 46.9648562
 longitude: 6.8653067000000005
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Avenue de Longueville"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.453194700000005
 longitude: 9.6382043
-postcode: 9430
+postcode: "9430"
 city: St. Margrethen
 street: "Bahnhofplatz"
 housenumber: 1

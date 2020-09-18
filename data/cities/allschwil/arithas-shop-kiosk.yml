@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5518894
 longitude: 7.5397939
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Binningerstrasse"
 housenumber: 4

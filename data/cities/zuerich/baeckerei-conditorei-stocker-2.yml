@@ -1,12 +1,12 @@
-id: 4833061704
+id: 1356701386
 type: node
 shop: Bäckerei
-latitude: 47.367096000000004
-longitude: 8.5472325
-postcode: 8001
+latitude: 47.3645079
+longitude: 8.5546433
+postcode: "8008"
 city: Zürich
-street: "Stadelhoferstrasse"
-housenumber: 22
+street: "Forchstrasse"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-16:00"
-website: "http://www.gipfeli.ch/"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-17:00"
+website: "https://gipfeli.ch/standorte/standortkreuzplatz/"

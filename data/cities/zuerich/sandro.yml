@@ -1,12 +1,12 @@
-id: 3645974296
+id: 1516540586
 type: node
 shop: Kleidung
-latitude: 47.3736162
-longitude: 8.539266900000001
-postcode: 8001
+latitude: 47.3731762
+longitude: 8.5395827
+postcode: "8001"
 city: Zürich
 street: "Rennweg"
-housenumber: 46
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "http://stores.sandro-paris.com/"
+opening_hours: ""
+website: "https://ch.sandro-paris.com/"

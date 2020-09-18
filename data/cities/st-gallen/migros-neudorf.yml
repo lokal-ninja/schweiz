@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4371841
 longitude: 9.405242900000001
-postcode: 9016
+postcode: "9016"
 city: St. Gallen
 street: "Rorschacherstrasse"
 housenumber: 249

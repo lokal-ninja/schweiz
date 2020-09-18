@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.119618300000006
 longitude: 8.0019107
-postcode: 6130
+postcode: "6130"
 city: Willisau
 street: "Steinmatt"
 housenumber: 1

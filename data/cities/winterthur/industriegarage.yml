@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.496495800000005
 longitude: 8.7562586
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Gewerbestrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3744134
 longitude: 8.538376900000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 73

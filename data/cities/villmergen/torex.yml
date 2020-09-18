@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.3544357
 longitude: 8.2496519
-postcode: 5612
+postcode: "5612"
 city: Villmergen
 street: "Durisolstrasse"
 housenumber: 1b

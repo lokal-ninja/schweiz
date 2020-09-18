@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 46.775395
 longitude: 10.1511955
-postcode: 7545
+postcode: "7545"
 city: Schuls
 street: "Guarda"
 housenumber: 87

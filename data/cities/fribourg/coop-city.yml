@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.8031039
 longitude: 7.1522113
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Avenue de la Gare"
 housenumber: 10

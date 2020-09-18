@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.428250600000005
 longitude: 8.6862726
-postcode: 8307
+postcode: "8307"
 city: Effretikon
 street: "Märtplatz"
 housenumber: 3

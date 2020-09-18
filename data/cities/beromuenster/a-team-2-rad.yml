@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.2081808
 longitude: 8.189969600000001
-postcode: 6215
+postcode: "6215"
 city: Beromünster
 street: "Bahnhofstrasse"
 housenumber: 8

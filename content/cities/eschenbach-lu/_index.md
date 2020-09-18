@@ -1,5 +1,5 @@
 ---
-title: Eschenbach (LU)
+title: Eschenbach LU
 url: /eschenbach-lu/
 latitude: 
 longitude: 

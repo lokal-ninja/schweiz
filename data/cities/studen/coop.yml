@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.1125788
 longitude: 7.3011413
-postcode: 2557
+postcode: "2557"
 city: Studen
 street: "Hauptstrasse"
 housenumber: 65
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:45; Sa 07:00-17:00; PH closed"
+opening_hours: "Mo-Fr 07:00-18:45; Sa 07:00-17:00; PH off"
 website: ""

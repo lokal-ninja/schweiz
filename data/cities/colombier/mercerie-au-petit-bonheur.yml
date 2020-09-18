@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 46.965805
 longitude: 6.8594504
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue Haute"
 housenumber: 16

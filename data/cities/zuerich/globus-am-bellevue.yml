@@ -3,10 +3,10 @@ type: node
 shop: Warenhaus
 latitude: 47.3665378
 longitude: 8.5465228
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Theaterstrasse"
 housenumber: 12
 phone: "+41 58 578 67 67"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "https://www.globus.ch/de/ueber-globus/standorte/zuerich-bellevue.html"
+website: "https://www.globus.ch/filialsuche/store/105"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.354078
 longitude: 9.113317200000001
-postcode: 9621
+postcode: "9621"
 city: Oberhelfenschwil
 street: "Dorfstrasse"
 housenumber: 4

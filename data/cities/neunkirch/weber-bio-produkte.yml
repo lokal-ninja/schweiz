@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6815617
 longitude: 8.5228385
-postcode: 8213
+postcode: "8213"
 city: Neunkirch
 street: "Egoltingerhof"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 47.5074527
 longitude: 8.5390948
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Schlosserstrasse"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.qualipet.ch"
+website: "https://www.qualipet.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.213381000000005
 longitude: 9.042529
-postcode: 6517
+postcode: "6517"
 city: Arbedo-Castione
 street: "Via alla Rotonda"
 housenumber: 20

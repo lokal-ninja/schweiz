@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.401433600000004
 longitude: 8.602796
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Neugutstrasse"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4844061
 longitude: 8.086937500000001
-postcode: 5076
+postcode: "5076"
 city: Bözen
 street: "Walternhof"
 housenumber: 1

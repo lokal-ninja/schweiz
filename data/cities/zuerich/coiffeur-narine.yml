@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.387081800000004
 longitude: 8.4888627
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 653

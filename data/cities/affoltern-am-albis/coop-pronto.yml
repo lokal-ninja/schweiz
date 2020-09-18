@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.2839169
 longitude: 8.453346
-postcode: 8910
+postcode: "8910"
 city: Affoltern am Albis
 street: "Im Wängli"
 housenumber: 6

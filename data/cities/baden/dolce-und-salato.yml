@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.470086900000005
 longitude: 8.3022807
-postcode: 
+postcode: ""
 city: Baden
 street: "Mellingerstrasse"
 housenumber: 54

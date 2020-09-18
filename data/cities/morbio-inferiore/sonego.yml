@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 45.8459778
 longitude: 9.015996000000001
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: ""
 housenumber: 

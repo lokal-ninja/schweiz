@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.5128964
 longitude: 9.8621578
-postcode: 7505
+postcode: "7505"
 city: Celerina / Schlarigna
 street: "Straglia da Sar Josef"
 housenumber: 

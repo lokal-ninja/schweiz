@@ -1,12 +1,12 @@
 id: 5906141564
 type: node
 shop: Supermarkt
-latitude: 47.299230800000004
-longitude: 9.087769100000001
-postcode: 9630
+latitude: 47.299368
+longitude: 9.087869600000001
+postcode: "9630"
 city: Wattwil
 street: "Bahnhofstrasse"
 housenumber: 19
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-wattwil"

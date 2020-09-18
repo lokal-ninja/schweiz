@@ -1,12 +1,12 @@
-id: 379588169
-type: way
+id: 3115026643
+type: node
 shop: Handy
-latitude: 46.9486052
-longitude: 7.4397475
-postcode: 3011
+latitude: 46.9470674
+longitude: 7.4384695
+postcode: "3011"
 city: Bern
-street: "Bahnhofplatz"
-housenumber: 10b
+street: "Bubenbergplatz"
+housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 10:00-18:30; Tu-We 09:00-18:30; Th 09:00-21:00; Fr 09:00-18:30; Sa 09:00-17:00; Su off"
 website: "http://shoplocator.swisscom.ch"

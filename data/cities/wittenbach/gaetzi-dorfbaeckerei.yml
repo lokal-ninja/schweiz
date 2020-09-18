@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4630287
 longitude: 9.3766034
-postcode: 9300
+postcode: "9300"
 city: Wittenbach
 street: "Dorfstrasse"
 housenumber: 9

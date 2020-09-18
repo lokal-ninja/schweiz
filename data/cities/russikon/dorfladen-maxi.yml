@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3944387
 longitude: 8.7764573
-postcode: 8332
+postcode: "8332"
 city: Russikon
 street: "Kirchgasse"
 housenumber: 1

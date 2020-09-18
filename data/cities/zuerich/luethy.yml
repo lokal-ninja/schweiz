@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.357783000000005
 longitude: 8.522900700000001
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Kalanderplatz"
 housenumber: 1

@@ -1,12 +1,12 @@
 id: 4561592777
 type: node
-shop: Kramladen
+shop: Andenken
 latitude: 46.949215300000006
 longitude: 7.440008100000001
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Bahnhofplatz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00"
-website: "http://ch.flyingtiger.com/"
+website: "https://ch.flyingtiger.com/"

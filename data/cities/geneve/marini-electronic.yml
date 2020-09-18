@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.204549500000006
 longitude: 6.125700800000001
-postcode: 1203
+postcode: "1203"
 city: Genève
 street: "Rue du Beulet"
 housenumber: 1

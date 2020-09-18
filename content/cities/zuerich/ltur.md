@@ -1,4 +1,4 @@
 ---
-title: "L'Tur"
+title: "l'tur"
 url: /zuerich/ltur/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.579160800000004
 longitude: 9.1663431
-postcode: 8572
+postcode: "8572"
 city: Berg
 street: "Leberenstrasse"
 housenumber: 1

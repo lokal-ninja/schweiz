@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.535549
 longitude: 6.663463800000001
-postcode: 1010
+postcode: "1010"
 city: Lausanne
 street: "Chemin des Eterpeys"
 housenumber: 2

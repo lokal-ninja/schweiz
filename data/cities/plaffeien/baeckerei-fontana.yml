@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.7416532
 longitude: 7.287159000000001
-postcode: 1716
+postcode: "1716"
 city: Plaffeien
 street: "Hauptstrasse"
 housenumber: 18

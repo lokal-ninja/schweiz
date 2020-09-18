@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.372997000000005
 longitude: 7.4802904
-postcode: 4252
+postcode: "4252"
 city: Bärschwil
 street: "Hof Ober Fringeli"
 housenumber: 157

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.951756
 longitude: 8.017596600000001
-postcode: 6170
+postcode: "6170"
 city: Schüpfheim
 street: "Hauptstrasse"
 housenumber: 21

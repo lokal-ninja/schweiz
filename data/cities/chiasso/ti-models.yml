@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 45.832149400000006
 longitude: 9.0327602
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Via Giuseppe Motta"
 housenumber: 4

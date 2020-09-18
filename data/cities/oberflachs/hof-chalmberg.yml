@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.443460800000004
 longitude: 8.125120500000001
-postcode: 5108
+postcode: "5108"
 city: Oberflachs
 street: "Rebbergstrasse"
 housenumber: 24

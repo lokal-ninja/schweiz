@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.348231000000006
 longitude: 8.2736816
-postcode: 5610
+postcode: "5610"
 city: Wohlen (AG)
 street: "Mythenweg"
 housenumber: 2

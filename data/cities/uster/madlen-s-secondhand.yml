@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.357982500000006
 longitude: 8.7120014
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Winterthurerstrasse"
 housenumber: 48

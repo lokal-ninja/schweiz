@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9384705
 longitude: 7.3939333000000005
-postcode: 3018
+postcode: "3018"
 city: Bern
 street: "Bümplizstrasse"
 housenumber: 176

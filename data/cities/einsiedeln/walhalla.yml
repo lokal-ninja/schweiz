@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.1274883
 longitude: 8.743773000000001
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Mythenstrasse"
 housenumber: 1

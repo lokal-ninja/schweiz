@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3708856
 longitude: 8.6388235
-postcode: 8117
+postcode: "8117"
 city: Fällanden
 street: "Dübendorfstrasse"
 housenumber: 2

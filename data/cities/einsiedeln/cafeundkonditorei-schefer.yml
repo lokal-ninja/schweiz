@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.128385900000005
 longitude: 8.7454961
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Bahnhofplatz"
 housenumber: 20

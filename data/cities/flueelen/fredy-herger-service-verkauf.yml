@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.913889600000005
 longitude: 8.623159900000001
-postcode: 6454
+postcode: "6454"
 city: Flüelen
 street: "Axenstrasse"
 housenumber: 

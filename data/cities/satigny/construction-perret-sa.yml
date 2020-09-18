@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.198432100000005
 longitude: 6.060606900000001
-postcode: 1242
+postcode: "1242"
 city: Satigny
 street: "Route du Bois-de-Bay"
 housenumber: 38

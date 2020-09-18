@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 46.8845454
 longitude: 7.3859497
-postcode: 3145
+postcode: "3145"
 city: Niederscherli
 street: "Schwarzenburgstrasse"
 housenumber: 829
 phone: "+41 31 849 14 70"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00; Su-Mo off; PH off"
-website: "www.pephair.ch"
+website: "https://www.pephair.ch"

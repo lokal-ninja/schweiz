@@ -1,12 +1,12 @@
 id: 568000438
 type: node
-shop: Andenken
+shop: Kosmetik
 latitude: 47.4996506
 longitude: 8.729528
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 21
 phone: ""
 opening_hours: ""
-website: "http://www.the-body-shop.ch"
+website: "https://www.thebodyshop.ch/"

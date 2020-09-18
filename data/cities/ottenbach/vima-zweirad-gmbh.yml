@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.2791611
 longitude: 8.4042679
-postcode: 8913
+postcode: "8913"
 city: Ottenbach
 street: "Affolternstrasse"
 housenumber: 24

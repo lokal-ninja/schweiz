@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.347554
 longitude: 8.7144508
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Seestrasse"
 housenumber: 6

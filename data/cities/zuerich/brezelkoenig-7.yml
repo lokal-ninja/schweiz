@@ -1,12 +1,12 @@
-id: 4833061545
+id: 4827130153
 type: node
 shop: Bäckerei
-latitude: 47.3786694
-longitude: 8.5401179
-postcode: 8001
+latitude: 47.3664045
+longitude: 8.548772300000001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Su 05:00-23:00"
+website: "https://brezelkoenig.ch/de/"

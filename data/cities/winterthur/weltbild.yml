@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 47.4993465
 longitude: 8.726873300000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 57
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.weltbild.ch/"

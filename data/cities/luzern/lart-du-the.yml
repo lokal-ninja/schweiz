@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 47.0507757
 longitude: 8.3030956
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Burgerstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.8206952
 longitude: 7.847799500000001
-postcode: 6197
+postcode: "6197"
 city: Schangnau
 street: ""
 housenumber: 

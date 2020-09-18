@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3505151
 longitude: 8.7182904
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Bankstrasse"
 housenumber: 2

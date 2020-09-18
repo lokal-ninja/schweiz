@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.3774401
 longitude: 8.539231500000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 

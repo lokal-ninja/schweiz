@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.304948
 longitude: 8.5567363
-postcode: 8803
+postcode: "8803"
 city: Rüschlikon
 street: "Bahnhofstrasse"
 housenumber: 70

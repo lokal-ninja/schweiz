@@ -1,4 +1,4 @@
 ---
-title: "Brockishop"
+title: "BrockiShop"
 url: /wattwil/brockishop/
 ---

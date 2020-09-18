@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.8483936
 longitude: 9.511356900000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Raschärenstrasse"
 housenumber: 30

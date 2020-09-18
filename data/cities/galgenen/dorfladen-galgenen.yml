@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1811601
 longitude: 8.875247700000001
-postcode: 8854
+postcode: "8854"
 city: Galgenen
 street: "Martinstrasse"
 housenumber: 9

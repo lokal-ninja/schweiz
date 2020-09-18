@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.401154000000005
 longitude: 8.6127049
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Am Giessenpark"
 housenumber: 13

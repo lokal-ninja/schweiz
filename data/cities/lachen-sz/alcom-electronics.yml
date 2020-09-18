@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1900058
 longitude: 8.8510364
-postcode: 8853
+postcode: "8853"
 city: Lachen (SZ)
 street: "Bahnhofplatz"
 housenumber: 10c

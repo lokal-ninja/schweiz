@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4184476
 longitude: 8.683909400000001
-postcode: 8307
+postcode: "8307"
 city: Effretikon
 street: "Industriestrasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.241022400000006
 longitude: 8.720036700000001
-postcode: 8712
+postcode: "8712"
 city: Stäfa
 street: "Bergstrasse"
 housenumber: 1

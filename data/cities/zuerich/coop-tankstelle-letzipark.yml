@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3873897
 longitude: 8.4987174
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Hohlstrasse"
 housenumber: 461

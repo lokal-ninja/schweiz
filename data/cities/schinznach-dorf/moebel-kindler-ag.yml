@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.4515157
 longitude: 8.1461661
-postcode: 5107
+postcode: "5107"
 city: Schinznach-Dorf
 street: "Degerfeldstrasse"
 housenumber: 7

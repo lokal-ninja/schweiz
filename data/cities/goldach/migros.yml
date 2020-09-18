@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4748911
 longitude: 9.4675227
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Ulrich-Rösch-Strasse"
 housenumber: 5

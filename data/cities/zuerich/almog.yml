@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.374667900000006
 longitude: 8.5200893
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 175

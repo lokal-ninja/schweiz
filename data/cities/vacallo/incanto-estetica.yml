@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.843947
 longitude: 9.030119800000001
-postcode: 6833
+postcode: "6833"
 city: Vacallo
 street: "Via Generale Guisan"
 housenumber: 6

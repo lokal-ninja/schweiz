@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.5242051
 longitude: 6.6261109000000005
-postcode: 1003
+postcode: "1003"
 city: Lausanne
 street: "Rue du Petit-Rocher"
 housenumber: 4

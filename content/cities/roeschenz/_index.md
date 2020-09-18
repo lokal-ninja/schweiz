@@ -1,6 +1,6 @@
 ---
 title: Röschenz
 url: /roeschenz/
-latitude: 47.4238316
-longitude: 7.4759663000000005
+latitude: 47.423941400000004
+longitude: 7.475995800000001
 ---

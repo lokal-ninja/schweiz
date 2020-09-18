@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.361771600000004
 longitude: 8.514934400000001
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Grubenstrasse"
 housenumber: 28

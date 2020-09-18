@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5714788
 longitude: 9.366148
-postcode: 8590
+postcode: "8590"
 city: Romanshorn
 street: "Kreuzlingerstrasse"
 housenumber: 48

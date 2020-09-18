@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3974691
 longitude: 9.5826028
-postcode: 9445
+postcode: "9445"
 city: Rebstein
 street: "Bahnhofstrasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Maschinen
 latitude: 46.793994000000005
 longitude: 7.5181272
-postcode: 3664
+postcode: "3664"
 city: Burgistein
 street: "Landstrasse"
 housenumber: 3S

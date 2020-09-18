@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6962696
 longitude: 8.63329
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Tanne"
 housenumber: 8

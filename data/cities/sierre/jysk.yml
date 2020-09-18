@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 46.281234100000006
 longitude: 7.5124734
-postcode: 3960
+postcode: "3960"
 city: Sierre
 street: "Route des Lacustres"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
 website: ""

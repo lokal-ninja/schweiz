@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.506449200000006
 longitude: 8.7134152
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Wülflingerstrasse"
 housenumber: 59

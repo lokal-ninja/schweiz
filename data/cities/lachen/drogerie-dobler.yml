@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.191391700000004
 longitude: 8.8511016
-postcode: 8853
+postcode: "8853"
 city: Lachen
 street: "Hintere Bahnhofstrasse"
 housenumber: 7

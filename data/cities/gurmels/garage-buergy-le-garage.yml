@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8950156
 longitude: 7.1687126
-postcode: 3212
+postcode: "3212"
 city: Gurmels
 street: "Peitschmatte"
 housenumber: 2

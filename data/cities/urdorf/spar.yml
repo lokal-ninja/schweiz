@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3818227
 longitude: 8.4237561
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Bachstrasse"
 housenumber: 11

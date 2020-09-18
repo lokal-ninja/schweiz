@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3786992
 longitude: 9.5394735
-postcode: 9450
+postcode: "9450"
 city: Altstätten
 street: "Gemüsemarkt"
 housenumber: 2

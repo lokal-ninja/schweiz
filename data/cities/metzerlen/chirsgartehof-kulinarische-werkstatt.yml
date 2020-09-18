@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4661484
 longitude: 7.465347800000001
-postcode: 4116
+postcode: "4116"
 city: Metzerlen
 street: "Hauptstrasse"
 housenumber: 3

@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.0424506
 longitude: 8.3061934
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Bleicherstrasse"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We 07:00-19:00; Th 07:00-20:00; Fr 07:00-19:00; Sa 07:00-17:00"
 website: "https://www.spar.ch/spar-maerkte/spar-luzern-bleicherstr/"

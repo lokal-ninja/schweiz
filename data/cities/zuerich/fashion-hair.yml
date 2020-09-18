@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3581535
 longitude: 8.5182435
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Giesshübelstrasse"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2956997
 longitude: 8.7669222
-postcode: 8625
+postcode: "8625"
 city: Gossau
 street: "Breitistrasse"
 housenumber: 30

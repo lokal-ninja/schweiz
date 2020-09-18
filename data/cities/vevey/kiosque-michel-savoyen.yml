@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 46.4587195
 longitude: 6.8479030000000005
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Rue d'Italie"
 housenumber: 58

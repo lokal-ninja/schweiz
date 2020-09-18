@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.1476739
 longitude: 8.8550029
-postcode: 6573
+postcode: "6573"
 city: Gambarogno
 street: "Via Cantonale"
 housenumber: 143

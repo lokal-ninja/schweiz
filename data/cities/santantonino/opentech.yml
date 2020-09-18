@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.1557072
 longitude: 8.976705200000001
-postcode: 6592
+postcode: "6592"
 city: Sant'Antonino
 street: "Via della Posta"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.130744400000005
 longitude: 8.7431008
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Heidenbühl"
 housenumber: 1

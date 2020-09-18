@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3051845
 longitude: 9.1952546
-postcode: 9633
+postcode: "9633"
 city: Bächli (Hemberg)
 street: "Urnäscherstrasse"
 housenumber: 1

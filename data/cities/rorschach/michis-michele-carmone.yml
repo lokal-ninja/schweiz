@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.477988700000004
 longitude: 9.4943218
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 39

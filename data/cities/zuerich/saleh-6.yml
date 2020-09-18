@@ -1,12 +1,12 @@
-id: 4869996371
+id: 4869996368
 type: node
 shop: Friseur
-latitude: 47.3750706
-longitude: 8.5434277
-postcode: 8001
+latitude: 47.4093566
+longitude: 8.546949900000001
+postcode: "8050"
 city: Zürich
-street: "Limmatquai"
-housenumber: 108
+street: "Tramstrasse"
+housenumber: 11/15
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-17:00"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
 website: "http://coiffeur-saleh.ch/"

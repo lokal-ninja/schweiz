@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.367828100000004
 longitude: 7.730521
-postcode: 4438
+postcode: "4438"
 city: Langenbruck
 street: "Kellenberg"
 housenumber: 

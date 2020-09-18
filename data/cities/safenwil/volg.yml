@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3204828
 longitude: 7.984834
-postcode: 5745
+postcode: "5745"
 city: Safenwil
 street: "Dorfstrasse"
 housenumber: 10

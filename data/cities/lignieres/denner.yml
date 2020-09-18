@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.082381700000006
 longitude: 7.0651377
-postcode: 2523
+postcode: "2523"
 city: Lignières
 street: "Rue des Hautes-Bornes"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 47.3307644
 longitude: 9.4091055
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Hauptgasse"
 housenumber: 16

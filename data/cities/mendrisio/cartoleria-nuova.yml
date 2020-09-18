@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 45.8704387
 longitude: 8.9848034
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Praella"
 housenumber: 9

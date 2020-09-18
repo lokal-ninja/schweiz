@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8471488
 longitude: 9.511831800000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Kasernenstrasse"
 housenumber: 148

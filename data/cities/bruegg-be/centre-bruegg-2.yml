@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.120248100000005
 longitude: 7.267526800000001
-postcode: 2555
+postcode: "2555"
 city: Brügg BE
 street: "Erlenstrasse"
 housenumber: 40e

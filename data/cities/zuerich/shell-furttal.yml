@@ -1,12 +1,12 @@
 id: 572456939
 type: node
 shop: Lebensmittel
-latitude: 47.420936600000005
-longitude: 8.5026861
-postcode: 8046
+latitude: 47.4209538
+longitude: 8.5025926
+postcode: "8046"
 city: Zürich
 street: "Wehntalerstrasse"
 housenumber: 586c
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://find.shell.com/ch/fuel/10023359-shell-furttal/de_CH"

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.373274
 longitude: 7.5414567
-postcode: 4228
+postcode: "4228"
 city: Erschwil
 street: "Schmelzistrasse"
 housenumber: 38

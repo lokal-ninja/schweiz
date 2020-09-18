@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.8188162
 longitude: 7.153034000000001
-postcode: 1763
+postcode: "1763"
 city: Granges-Paccot
 street: "Route de Morat"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4544839
 longitude: 8.281648800000001
-postcode: 5405
+postcode: "5405"
 city: Dättwil
 street: "Husmatt"
 housenumber: 

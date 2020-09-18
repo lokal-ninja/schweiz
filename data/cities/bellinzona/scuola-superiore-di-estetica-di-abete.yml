@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.1928015
 longitude: 9.0240176
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Via Codeborgo"
 housenumber: 13

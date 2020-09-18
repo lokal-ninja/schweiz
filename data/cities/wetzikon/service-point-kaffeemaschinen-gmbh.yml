@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.3203599
 longitude: 8.7944486
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Bahnhofstrasse"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.6473722
 longitude: 9.170029600000001
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Löwenstrasse"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4780053
 longitude: 9.469455700000001
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Sägestrasse"
 housenumber: 2

@@ -1,4 +1,4 @@
 ---
-title: "Viu"
+title: "VIU"
 url: /winterthur/viu/
 ---

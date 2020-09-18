@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3748981
 longitude: 8.5234086
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Wengistrasse"
 housenumber: 7

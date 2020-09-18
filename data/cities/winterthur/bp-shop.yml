@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5111174
 longitude: 8.760664
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Frauenfelderstrasse"
 housenumber: 9a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0427577
 longitude: 8.3035475
-postcode: 6005
+postcode: "6005"
 city: Luzern
 street: "Obergrundstrasse"
 housenumber: 91

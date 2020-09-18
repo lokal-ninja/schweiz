@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4509343
 longitude: 8.9660962
-postcode: 8360
+postcode: "8360"
 city: Eschlikon
 street: "Hurnen"
 housenumber: 13

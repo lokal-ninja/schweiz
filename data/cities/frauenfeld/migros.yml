@@ -1,12 +1,12 @@
-id: 2639842919
+id: 2594028784
 type: node
 shop: Supermarkt
-latitude: 47.5570481
-longitude: 8.8961082
-postcode: 8500
+latitude: 47.5596697
+longitude: 8.901113500000001
+postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofplatz"
-housenumber: 70-72
+street: "Zürcherstrasse"
+housenumber: 227
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:00-20:00, Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-frauenfeld-zeughausstrasse"

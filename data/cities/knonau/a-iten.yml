@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.224279900000006
 longitude: 8.4617602
-postcode: 8934
+postcode: "8934"
 city: Knonau
 street: "Oberdorfstrasse"
 housenumber: 3

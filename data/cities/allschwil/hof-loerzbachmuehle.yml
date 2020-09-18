@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.545251500000006
 longitude: 7.509819200000001
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Lörzbachmühle"
 housenumber: 5b

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5675766
 longitude: 7.600423
-postcode: 4058
+postcode: "4058"
 city: Basel
 street: "Mattenstrasse"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.4927888
 longitude: 8.251417700000001
-postcode: 5300
+postcode: "5300"
 city: Turgi
 street: "Vogelsangstrasse"
 housenumber: 9

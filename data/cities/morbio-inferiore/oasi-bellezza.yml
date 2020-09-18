@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.8458516
 longitude: 9.0157203
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Viale al Ponte"
 housenumber: 6

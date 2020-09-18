@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.477700600000006
 longitude: 8.305527600000001
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Haselstrasse"
 housenumber: 23

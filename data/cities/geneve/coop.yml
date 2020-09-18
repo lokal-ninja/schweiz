@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2040409
 longitude: 6.1245627
-postcode: 
+postcode: ""
 city: Genève
 street: "Avenue du Devin-du-Village"
 housenumber: 1

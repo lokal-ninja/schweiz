@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2006324
 longitude: 7.5764719000000005
-postcode: 4528
+postcode: "4528"
 city: Zuchwil
 street: "Brückenweg"
 housenumber: 12

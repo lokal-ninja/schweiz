@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.9031237
 longitude: 7.400426100000001
-postcode: 3144
+postcode: "3144"
 city: Köniz
 street: "Wichelackerstrasse"
 housenumber: 15a

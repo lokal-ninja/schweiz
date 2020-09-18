@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 46.9946253
 longitude: 6.9301073
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue Louis-Favre"
 housenumber: 29

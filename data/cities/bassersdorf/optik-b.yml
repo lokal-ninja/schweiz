@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.443868
 longitude: 8.6305219
-postcode: 8303
+postcode: "8303"
 city: Bassersdorf
 street: "Plätzliweg"
 housenumber: 1

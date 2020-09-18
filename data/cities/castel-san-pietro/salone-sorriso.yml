@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8623854
 longitude: 9.0088226
-postcode: 6874
+postcode: "6874"
 city: Castel San Pietro
 street: "Via Landamano G. B. Maggi"
 housenumber: 17

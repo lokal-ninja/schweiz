@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3565033
 longitude: 8.5574898
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Wildbachstrasse"
 housenumber: 31/33

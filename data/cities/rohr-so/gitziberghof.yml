@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.414463700000006
 longitude: 7.9546451000000005
-postcode: 4655
+postcode: "4655"
 city: Rohr (SO)
 street: "Gitziberghof"
 housenumber: 22

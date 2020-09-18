@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.282298700000005
 longitude: 7.3732853
-postcode: 2740
+postcode: "2740"
 city: Moutier
 street: "Rue Beausite"
 housenumber: 47

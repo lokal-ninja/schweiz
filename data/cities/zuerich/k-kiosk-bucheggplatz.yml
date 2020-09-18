@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.3981038
 longitude: 8.5329231
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Bucheggplatz"
 housenumber: 1

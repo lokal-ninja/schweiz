@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4590315
 longitude: 8.5253926
-postcode: 8153
+postcode: "8153"
 city: Rümlang
 street: "Meienbreitenstrasse"
 housenumber: 15

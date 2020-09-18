@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0472946
 longitude: 7.6290515
-postcode: 3400
+postcode: "3400"
 city: Burgdorf
 street: "Einschlagweg"
 housenumber: 67

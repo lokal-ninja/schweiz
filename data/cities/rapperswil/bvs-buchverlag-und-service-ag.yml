@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.2276607
 longitude: 8.8214042
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Glärnischstrasse"
 housenumber: 8

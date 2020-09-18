@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 47.3611695
 longitude: 8.052859100000001
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Suhrenmattstrasse"
 housenumber: 52
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.bauundhobby.ch/"

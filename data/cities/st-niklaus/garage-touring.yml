@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.1791689
 longitude: 7.8051035
-postcode: 3924
+postcode: "3924"
 city: St. Niklaus
 street: "Talstrasse"
 housenumber: 2

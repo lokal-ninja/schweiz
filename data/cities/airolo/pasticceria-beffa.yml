@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.5286393
 longitude: 8.611528400000001
-postcode: 6780
+postcode: "6780"
 city: Airolo
 street: "Via San Gottardo"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.374604100000006
 longitude: 8.0776608
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Mittlere Dorfstrasse"
 housenumber: 7

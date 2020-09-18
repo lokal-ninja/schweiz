@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 46.798246500000005
 longitude: 7.184294700000001
-postcode: 1717
+postcode: "1717"
 city: Sankt Urser
 street: "Römerswil"
 housenumber: 11

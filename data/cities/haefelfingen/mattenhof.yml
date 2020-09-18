@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4209942
 longitude: 7.875342900000001
-postcode: 4445
+postcode: "4445"
 city: Häfelfingen
 street: "Mattenhof"
 housenumber: 33

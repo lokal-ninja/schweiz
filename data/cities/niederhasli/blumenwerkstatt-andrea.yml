@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4810905
 longitude: 8.4850283
-postcode: 8155
+postcode: "8155"
 city: Niederhasli
 street: "Dorfstrasse"
 housenumber: 5a

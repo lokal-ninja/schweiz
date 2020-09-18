@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3915093
 longitude: 8.41788
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Birmensdorferstrasse"
 housenumber: 28

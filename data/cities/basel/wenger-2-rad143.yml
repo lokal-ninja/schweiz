@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5468953
 longitude: 7.5923483
-postcode: 4002
+postcode: "4002"
 city: Basel
 street: "Gartenstrasse"
 housenumber: 143

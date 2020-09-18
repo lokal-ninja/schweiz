@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 47.1332096
 longitude: 7.2436848000000005
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Bahnhofplatz"
 housenumber: 12

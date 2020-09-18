@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.252318800000005
 longitude: 8.7684004
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Im Zentrum"
 housenumber: 10

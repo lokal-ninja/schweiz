@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.775438
 longitude: 6.641183900000001
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue du Valentin"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.961802500000005
 longitude: 7.1134858
-postcode: 1786
+postcode: "1786"
 city: Sugiez
 street: ""
 housenumber: 

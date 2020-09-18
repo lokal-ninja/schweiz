@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.424736800000005
 longitude: 9.375315200000001
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Hinterlauben"
 housenumber: 12

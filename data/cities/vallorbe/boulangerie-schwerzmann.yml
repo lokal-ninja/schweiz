@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.711813400000004
 longitude: 6.376626900000001
-postcode: 1337
+postcode: "1337"
 city: Vallorbe
 street: "Grand Rue"
 housenumber: 26

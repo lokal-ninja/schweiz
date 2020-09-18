@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 46.3913986
 longitude: 6.9355044
-postcode: 1844
+postcode: "1844"
 city: Villeneuve
 street: "Zone Industrielle C 81"
 housenumber: 

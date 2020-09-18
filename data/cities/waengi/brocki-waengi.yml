@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.4956863
 longitude: 8.9554299
-postcode: 9545
+postcode: "9545"
 city: Wängi
 street: "Wilerstrasse"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 10:00-16:00"
-website: ""
+website: "http://www.brockiwaengi.ch/"

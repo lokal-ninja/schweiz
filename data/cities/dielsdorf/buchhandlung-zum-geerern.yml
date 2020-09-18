@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4820198
 longitude: 8.4563361
-postcode: 8157
+postcode: "8157"
 city: Dielsdorf
 street: "Geerenstrasse"
 housenumber: 2a

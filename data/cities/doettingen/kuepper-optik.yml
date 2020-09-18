@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.573666200000005
 longitude: 8.2559778
-postcode: 5312
+postcode: "5312"
 city: Döttingen
 street: "Hauptstrasse"
 housenumber: 19

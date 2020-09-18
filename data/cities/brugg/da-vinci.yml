@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4840929
 longitude: 8.205628800000001
-postcode: 5200
+postcode: "5200"
 city: Brugg
 street: "Laurstrasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.375966500000004
 longitude: 8.4839506
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Bockhornstrasse"
 housenumber: 1

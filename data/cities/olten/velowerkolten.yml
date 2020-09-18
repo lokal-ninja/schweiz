@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3515328
 longitude: 7.903379500000001
-postcode: 4600
+postcode: "4600"
 city: Olten
 street: "Römerstrasse"
 housenumber: 18

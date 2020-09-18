@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.398752900000005
 longitude: 8.5924125
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Mattenhof"
 housenumber: 4

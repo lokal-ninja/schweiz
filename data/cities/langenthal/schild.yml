@@ -1,12 +1,12 @@
 id: 4975304322
 type: node
-shop: Kleidung
+shop: Schuhe
 latitude: 47.211340500000006
 longitude: 7.788282000000001
-postcode: 4900
+postcode: "4900"
 city: Langenthal
-street: ""
-housenumber: 
+street: "Marktgasse"
+housenumber: 34
 phone: ""
 opening_hours: ""
 website: ""

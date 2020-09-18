@@ -1,4 +1,4 @@
 ---
-title: "QUALIPET"
+title: "Qualipet"
 url: /buelach/qualipet/
 ---

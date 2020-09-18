@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1351127
 longitude: 7.246428600000001
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Rue de Morat - Murtenstrasse"
 housenumber: 18

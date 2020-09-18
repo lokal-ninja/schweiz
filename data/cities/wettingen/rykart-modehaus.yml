@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.467649400000006
 longitude: 8.322927100000001
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4800058
 longitude: 7.615660800000001
-postcode: 4143
+postcode: "4143"
 city: Dornach
 street: "Hauptstrasse"
 housenumber: 4

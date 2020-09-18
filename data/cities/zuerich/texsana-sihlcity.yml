@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.357864400000004
 longitude: 8.5229734
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Kalanderplatz"
 housenumber: 1

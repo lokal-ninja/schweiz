@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.377763900000005
 longitude: 8.5378193
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 

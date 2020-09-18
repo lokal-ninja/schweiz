@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4362827
 longitude: 9.132138000000001
-postcode: 9240
+postcode: "9240"
 city: Uzwil
 street: "Bahnhofstrasse"
 housenumber: 74

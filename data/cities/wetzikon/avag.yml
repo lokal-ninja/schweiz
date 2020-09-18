@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3276745
 longitude: 8.7948947
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Weststrasse"
 housenumber: 44

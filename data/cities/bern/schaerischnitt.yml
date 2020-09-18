@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.944228700000004
 longitude: 7.4215403
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Könizstrasse"
 housenumber: 5

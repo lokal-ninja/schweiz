@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 45.8666257
 longitude: 8.9770293
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Giorgio Bernasconi"
 housenumber: 20

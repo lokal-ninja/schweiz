@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.474506100000006
 longitude: 9.4831354
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Industriestrasse"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.1458917
 longitude: 7.130462400000001
-postcode: 1926
+postcode: "1926"
 city: Fully
 street: "Route de Saillon"
 housenumber: 96

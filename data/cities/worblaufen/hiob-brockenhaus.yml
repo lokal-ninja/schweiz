@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.9778539
 longitude: 7.461005
-postcode: 3048
+postcode: "3048"
 city: Worblaufen
 street: "Worblaufenstrasse"
 housenumber: 159

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 47.223655
 longitude: 7.194830100000001
-postcode: 2710
+postcode: "2710"
 city: Tavannes
 street: "Champs la Clary"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.020249
 longitude: 7.498962000000001
-postcode: 3322
+postcode: "3322"
 city: Urtenen-Schönbühl
 street: "Zentrum"
 housenumber: 11

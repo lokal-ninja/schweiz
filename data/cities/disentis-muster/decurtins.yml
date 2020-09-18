@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.704959
 longitude: 8.8534886
-postcode: 7180
+postcode: "7180"
 city: Disentis/Mustér
 street: "Via Lucmagn"
 housenumber: 7

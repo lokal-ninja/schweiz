@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.382991600000004
 longitude: 6.2359761
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Rue de la Morâche"
 housenumber: 4

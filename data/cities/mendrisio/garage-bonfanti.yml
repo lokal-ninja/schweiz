@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 45.872761000000004
 longitude: 8.9813233
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Moree"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.479943500000005
 longitude: 7.8462611
-postcode: 4462
+postcode: "4462"
 city: Rickenbach
 street: "Weid"
 housenumber: 9

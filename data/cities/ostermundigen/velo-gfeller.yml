@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.9554674
 longitude: 7.481268200000001
-postcode: 3072
+postcode: "3072"
 city: Ostermundigen
 street: "Bernstrasse"
 housenumber: 24B

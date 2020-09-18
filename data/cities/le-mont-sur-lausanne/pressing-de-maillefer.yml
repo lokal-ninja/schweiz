@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.542100600000005
 longitude: 6.6272992
-postcode: 1052
+postcode: "1052"
 city: Le Mont-sur-Lausanne
 street: "Chemin de Maillefer"
 housenumber: 141

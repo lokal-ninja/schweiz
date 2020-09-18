@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.414019200000006
 longitude: 8.621266
-postcode: 8305
+postcode: "8305"
 city: Dietlikon
 street: "Alte Dübendorferstrasse"
 housenumber: 17

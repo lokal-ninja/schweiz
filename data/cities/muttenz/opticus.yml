@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.526322500000006
 longitude: 7.6470225
-postcode: 4132
+postcode: "4132"
 city: Muttenz
 street: "Hauptstrasse"
 housenumber: 79a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.302927800000006
 longitude: 8.720782400000001
-postcode: 8617
+postcode: "8617"
 city: Mönchaltorf
 street: "Mettlenbachstrasse"
 housenumber: 11

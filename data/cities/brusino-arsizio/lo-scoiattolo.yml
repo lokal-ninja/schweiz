@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.9278813
 longitude: 8.9386951
-postcode: 6827
+postcode: "6827"
 city: Brusino Arsizio
 street: "Via Giovan Pietro Poma"
 housenumber: 9

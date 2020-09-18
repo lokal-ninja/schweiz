@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.374126800000006
 longitude: 8.530201100000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Bäckerstrasse"
 housenumber: 10

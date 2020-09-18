@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3049279
 longitude: 8.052325
-postcode: 5040
+postcode: "5040"
 city: Schöftland
 street: "Staudenrainweg"
 housenumber: 1

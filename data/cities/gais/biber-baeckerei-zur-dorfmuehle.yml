@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3624324
 longitude: 9.455579400000001
-postcode: 9056
+postcode: "9056"
 city: Gais
 street: "Stossstrasse"
 housenumber: 5

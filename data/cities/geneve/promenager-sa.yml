@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.182610600000004
 longitude: 6.1202895
-postcode: 1212
+postcode: "1212"
 city: Genève
 street: "Place du 1er Août"
 housenumber: 2

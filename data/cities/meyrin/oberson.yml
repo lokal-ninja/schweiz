@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.2286799
 longitude: 6.071791500000001
-postcode: 1217
+postcode: "1217"
 city: Meyrin
 street: "Route de Meyrin"
 housenumber: 299

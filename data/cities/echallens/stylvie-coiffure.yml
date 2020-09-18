@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6409126
 longitude: 6.6327015000000005
-postcode: 1040
+postcode: "1040"
 city: Echallens
 street: "Ruelle des Anges"
 housenumber: 

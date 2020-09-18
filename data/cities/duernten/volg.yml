@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.2773285
 longitude: 8.8422523
-postcode: 8635
+postcode: "8635"
 city: Dürnten
 street: "Rütistrasse"
 housenumber: 4

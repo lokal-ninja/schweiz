@@ -3,10 +3,10 @@ type: node
 shop: Handy
 latitude: 47.416327300000006
 longitude: 7.077264400000001
-postcode: 2900
+postcode: "2900"
 city: Porrentruy
 street: "Faubourg Saint-Germain"
-housenumber: 2
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

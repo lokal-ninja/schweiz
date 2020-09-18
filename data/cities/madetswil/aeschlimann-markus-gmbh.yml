@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.418766000000005
 longitude: 8.8009226
-postcode: 8322
+postcode: "8322"
 city: Madetswil
 street: "Ludetswilerstrasse"
 housenumber: 6

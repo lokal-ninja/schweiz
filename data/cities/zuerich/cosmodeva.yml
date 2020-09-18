@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.361762600000006
 longitude: 8.5259789
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bederstrasse"
 housenumber: 98

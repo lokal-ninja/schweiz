@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.900858400000004
 longitude: 9.561303800000001
-postcode: 7203
+postcode: "7203"
 city: Trimmis
 street: "Montalinstrasse"
 housenumber: 

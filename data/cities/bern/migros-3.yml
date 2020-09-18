@@ -1,12 +1,12 @@
-id: 529952282
+id: 438261303
 type: node
 shop: Supermarkt
-latitude: 46.937014000000005
-longitude: 7.4750801000000004
-postcode: 3006
+latitude: 46.955334
+longitude: 7.433628000000001
+postcode: "3012"
 city: Bern
-street: "Egghölzlistrasse"
-housenumber: 1 / 1a
+street: "Zähringerstrasse"
+housenumber: 43
 phone: ""
-opening_hours: "Mo-Fr 8:00-20:00;Sa 8:00-17:00"
-website: ""
+opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-zaehringer"

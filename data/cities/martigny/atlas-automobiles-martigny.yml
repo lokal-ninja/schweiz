@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.096251200000005
 longitude: 7.0682507
-postcode: 1920
+postcode: "1920"
 city: Martigny
 street: "Avenue du Grand Saint-Bernard"
 housenumber: 42

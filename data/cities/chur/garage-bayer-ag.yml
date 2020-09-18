@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8460504
 longitude: 9.507045
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Emserstrasse"
 housenumber: 2

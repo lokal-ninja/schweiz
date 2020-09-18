@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.633696900000004
 longitude: 9.441280800000001
-postcode: 7432
+postcode: "7432"
 city: Zillis
 street: "Pardi"
 housenumber: 9

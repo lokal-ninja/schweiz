@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.376888300000005
 longitude: 9.5360364
-postcode: 9450
+postcode: "9450"
 city: Altstätten
 street: "Stossstrasse"
 housenumber: 6

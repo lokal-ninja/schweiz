@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.0262078
 longitude: 7.7526090000000005
-postcode: 3920
+postcode: "3920"
 city: Zermatt
 street: "Spissstrasse"
 housenumber: 68

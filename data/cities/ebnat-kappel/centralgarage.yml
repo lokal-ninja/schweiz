@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2632088
 longitude: 9.1222624
-postcode: 9642
+postcode: "9642"
 city: Ebnat-Kappel
 street: "Ebnaterstrasse"
 housenumber: 12

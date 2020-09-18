@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.136194100000004
 longitude: 8.1351432
-postcode: 6207
+postcode: "6207"
 city: Nottwil
 street: "Kantonsstrasse"
 housenumber: 16

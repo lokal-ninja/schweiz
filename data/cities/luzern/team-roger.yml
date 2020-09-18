@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0589804
 longitude: 8.309518200000001
-postcode: 6004
+postcode: "6004"
 city: Luzern
 street: "Zürichstrasse"
 housenumber: 38

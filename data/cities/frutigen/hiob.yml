@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.5883241
 longitude: 7.648368100000001
-postcode: 3714
+postcode: "3714"
 city: Frutigen
 street: "Falkenstrasse"
 housenumber: 13
 phone: "+41 33 671 19 19"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,13:00-16:00; Su off"
-website: ""
+opening_hours: "Mo-Fr 14:00-18:30; Sa 10:00-12:00, 12:30-16:00"
+website: "https://hiob.ch/en/thrift%2520shops/frutigen/"

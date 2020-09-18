@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.522080200000005
 longitude: 6.6654179000000005
-postcode: 1009
+postcode: "1009"
 city: Pully
 street: "Chemin de Fontanettaz"
 housenumber: 14

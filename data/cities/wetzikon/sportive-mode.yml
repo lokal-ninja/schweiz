@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.323311600000004
 longitude: 8.806358900000001
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Kronenhölzlistrasse"
 housenumber: 7

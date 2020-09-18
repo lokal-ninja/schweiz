@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.492267600000005
 longitude: 9.2410589
-postcode: 9220
+postcode: "9220"
 city: Bischofszell
 street: "Poststrasse"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3852009
 longitude: 8.7502838
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Bahnhof"
 housenumber: 

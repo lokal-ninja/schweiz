@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.3576421
 longitude: 8.5715701
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Forchstrasse"
 housenumber: 260

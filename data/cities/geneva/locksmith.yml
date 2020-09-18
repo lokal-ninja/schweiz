@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 46.1912892
 longitude: 6.1374548
-postcode: 
+postcode: ""
 city: Geneva
 street: "Rue Gustave-Revilliod"
 housenumber: 6

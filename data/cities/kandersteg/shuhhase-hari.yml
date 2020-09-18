@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.4942026
 longitude: 7.6744604
-postcode: 3718
+postcode: "3718"
 city: Kandersteg
 street: ""
 housenumber: 

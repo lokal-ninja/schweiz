@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.246749
 longitude: 8.643755
-postcode: 8804
+postcode: "8804"
 city: Au ZH
 street: ""
 housenumber: 

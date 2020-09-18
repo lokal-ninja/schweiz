@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.8842877
 longitude: 9.8750549
-postcode: 7252
+postcode: "7252"
 city: Klosters
 street: "Landstrasse"
 housenumber: 15

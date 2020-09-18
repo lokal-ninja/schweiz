@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.5230916
 longitude: 8.7731689
-postcode: 8542
+postcode: "8542"
 city: Wiesendangen
 street: "Alte Frauenfelderstrasse"
 housenumber: 9

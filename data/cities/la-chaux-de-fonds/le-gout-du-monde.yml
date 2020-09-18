@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.104856000000005
 longitude: 6.830122
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Rue du Stand"
 housenumber: 10

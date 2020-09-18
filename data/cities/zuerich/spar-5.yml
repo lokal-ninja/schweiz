@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.370276000000004
 longitude: 8.5569289
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Dolderstrasse"
 housenumber: 5

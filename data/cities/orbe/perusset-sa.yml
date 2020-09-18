@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 46.7237718
 longitude: 6.531869700000001
-postcode: 1350
+postcode: "1350"
 city: Orbe
 street: "Rue Sainte-Claire"
 housenumber: 8

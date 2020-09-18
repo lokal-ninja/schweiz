@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.779337500000004
 longitude: 6.6537723
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Avenue des Sports"
 housenumber: 48

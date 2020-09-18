@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.458125100000004
 longitude: 8.4381836
-postcode: 8107
+postcode: "8107"
 city: Buchs
 street: "Zürcherstrasse"
 housenumber: 5a

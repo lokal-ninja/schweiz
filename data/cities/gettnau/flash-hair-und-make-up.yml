@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1387328
 longitude: 7.9639221000000004
-postcode: 6142
+postcode: "6142"
 city: Gettnau
 street: "Dorfstrasse"
 housenumber: 76

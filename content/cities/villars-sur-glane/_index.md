@@ -1,6 +1,6 @@
 ---
 title: Villars-sur-Glâne
 url: /villars-sur-glane/
-latitude: 46.7912218
-longitude: 7.115975000000001
+latitude: 46.791321
+longitude: 7.116189200000001
 ---

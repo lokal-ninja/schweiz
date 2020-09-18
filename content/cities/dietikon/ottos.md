@@ -1,4 +1,4 @@
 ---
-title: "Ottos"
+title: "Otto's"
 url: /dietikon/ottos/
 ---

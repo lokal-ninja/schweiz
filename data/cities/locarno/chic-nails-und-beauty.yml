@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.170068300000004
 longitude: 8.778238100000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Vallemaggia"
 housenumber: 54

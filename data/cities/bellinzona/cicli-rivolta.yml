@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.1922037
 longitude: 9.0185931
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Via Orico"
 housenumber: 7

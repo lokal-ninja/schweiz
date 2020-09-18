@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.4225671
 longitude: 9.6194991
-postcode: 9442
+postcode: "9442"
 city: Berneck
 street: "Littenbachstrasse"
 housenumber: 1

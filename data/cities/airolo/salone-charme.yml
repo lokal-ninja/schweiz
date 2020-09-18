@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.5280599
 longitude: 8.6100882
-postcode: 6780
+postcode: "6780"
 city: Airolo
 street: "Via della Stazione"
 housenumber: 47

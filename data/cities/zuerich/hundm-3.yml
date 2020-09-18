@@ -1,12 +1,12 @@
-id: 4838594373
+id: 2119163854
 type: node
 shop: Kleidung
-latitude: 47.386068200000004
-longitude: 8.4996048
-postcode: 8048
+latitude: 47.409703
+longitude: 8.544825900000001
+postcode: "8050"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Edisonstrasse"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: "https://www2.hm.com/de_ch/"

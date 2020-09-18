@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.4133891
 longitude: 9.2416289
-postcode: 9200
+postcode: "9200"
 city: Gossau SG
 street: "Flawilerstrasse"
 housenumber: 34

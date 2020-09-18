@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.1815517
 longitude: 8.463372900000001
-postcode: 6330
+postcode: "6330"
 city: Cham
 street: "Zugerstrasse"
 housenumber: 36

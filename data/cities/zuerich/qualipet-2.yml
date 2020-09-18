@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 47.357207800000005
 longitude: 8.5237674
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Kalanderplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://www.qualipet.ch/"

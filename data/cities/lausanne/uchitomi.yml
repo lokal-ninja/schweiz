@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.521366400000005
 longitude: 6.631738
-postcode: 1003
+postcode: "1003"
 city: Lausanne
 street: "Rue Grand-Saint-Jean"
 housenumber: 5

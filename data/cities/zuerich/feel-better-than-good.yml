@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3568523
 longitude: 8.5555734
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Seefeldstrasse"
 housenumber: 139

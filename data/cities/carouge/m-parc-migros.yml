@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.184303500000006
 longitude: 6.1341019
-postcode: 
+postcode: ""
 city: Carouge
 street: "Avenue Vibert"
 housenumber: 32

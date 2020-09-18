@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.1877073
 longitude: 7.7067037
-postcode: 3360
+postcode: "3360"
 city: Herzogenbuchsee
 street: "Kirchgasse"
 housenumber: 6

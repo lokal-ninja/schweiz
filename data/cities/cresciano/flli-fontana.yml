@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.2998884
 longitude: 8.993321700000001
-postcode: 6705
+postcode: "6705"
 city: Cresciano
 street: "Via Cantonale"
 housenumber: 10

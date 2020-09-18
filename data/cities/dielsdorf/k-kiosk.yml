@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.480285200000004
 longitude: 8.4639898
-postcode: 8175
+postcode: "8175"
 city: Dielsdorf
 street: "Ruchwiesenstrasse"
 housenumber: 2

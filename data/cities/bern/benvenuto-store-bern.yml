@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.948078300000006
 longitude: 7.4502138
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Kramgasse"
 housenumber: 40

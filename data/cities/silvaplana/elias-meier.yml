@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 46.4596686
 longitude: 9.797100200000001
-postcode: 7513
+postcode: "7513"
 city: Silvaplana
 street: "Via Munterots"
 housenumber: 4

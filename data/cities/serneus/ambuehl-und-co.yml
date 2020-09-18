@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8898413
 longitude: 9.8460011
-postcode: 7249
+postcode: "7249"
 city: Serneus
 street: "Badstrasse"
 housenumber: 1

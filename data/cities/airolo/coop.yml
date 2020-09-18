@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.528361100000005
 longitude: 8.610678
-postcode: 6780
+postcode: "6780"
 city: Airolo
 street: "Via San Gottardo"
 housenumber: 41

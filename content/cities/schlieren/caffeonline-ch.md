@@ -1,4 +1,4 @@
 ---
-title: "Caffeonline.ch"
+title: "caffeonline.ch"
 url: /schlieren/caffeonline-ch/
 ---

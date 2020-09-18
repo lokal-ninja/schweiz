@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4063615
 longitude: 8.4810482
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Konrad-Ilg-Strasse"
 housenumber: 4

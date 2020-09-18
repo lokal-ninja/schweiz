@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3265146
 longitude: 9.153447
-postcode: 9125
+postcode: "9125"
 city: Brunnadern
 street: "Furtstrasse"
 housenumber: 90

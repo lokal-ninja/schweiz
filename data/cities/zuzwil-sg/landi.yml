@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.4680862
 longitude: 9.1106295
-postcode: 9524
+postcode: "9524"
 city: Zuzwil (SG)
 street: "Henauerstrasse"
 housenumber: 5

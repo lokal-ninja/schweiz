@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.506643000000004
 longitude: 6.6725558000000005
-postcode: 1094
+postcode: "1094"
 city: Paudex
 street: "Route du Simplon"
 housenumber: 12

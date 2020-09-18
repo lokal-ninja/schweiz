@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.544608700000005
 longitude: 6.587188200000001
-postcode: 1020
+postcode: "1020"
 city: Renens
 street: "Avenue des Baumettes"
 housenumber: 9

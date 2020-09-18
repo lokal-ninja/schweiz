@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.1519087
 longitude: 8.316859500000001
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Schönfeldstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.413573
 longitude: 8.449671
-postcode: 8103
+postcode: "8103"
 city: Unterengstringen
 street: "Zürcherstrasse"
 housenumber: 42

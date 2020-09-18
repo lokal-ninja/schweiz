@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.55143
 longitude: 7.591814500000001
-postcode: 4051
+postcode: "4051"
 city: Basel
 street: "Kirschgartenstrasse"
 housenumber: 12

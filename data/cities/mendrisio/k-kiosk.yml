@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 45.8702617
 longitude: 8.986369
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazzale alla Valle"
 housenumber: 

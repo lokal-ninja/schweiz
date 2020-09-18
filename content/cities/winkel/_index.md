@@ -1,6 +1,6 @@
 ---
 title: Winkel
 url: /winkel/
-latitude: 46.8551007
-longitude: 7.666346000000001
+latitude: 47.493335300000005
+longitude: 8.553857800000001
 ---

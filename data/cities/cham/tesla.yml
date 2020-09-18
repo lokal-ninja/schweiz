@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.191563800000004
 longitude: 8.455910000000001
-postcode: 6330
+postcode: "6330"
 city: Cham
 street: "Lorzenparkstrasse"
 housenumber: 12

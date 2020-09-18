@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.8043929
 longitude: 7.1536083
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Rue du Temple"
 housenumber: 1

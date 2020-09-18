@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.9341328
 longitude: 7.4479597
-postcode: 3005
+postcode: "3005"
 city: Bern
 street: "Tierparkweg"
 housenumber: 1

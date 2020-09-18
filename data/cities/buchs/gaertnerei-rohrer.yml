@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.1623546
 longitude: 9.4736139
-postcode: 9470
+postcode: "9470"
 city: Buchs
 street: "Groffeldstrasse"
 housenumber: 9

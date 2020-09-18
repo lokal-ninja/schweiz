@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.3578259
 longitude: 8.5229788
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Kalanderplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.9315111
 longitude: 7.126072300000001
-postcode: 3280
+postcode: "3280"
 city: Murten
 street: "Bernstrasse"
 housenumber: 32

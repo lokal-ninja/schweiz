@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.1877614
 longitude: 6.1399793
-postcode: 1227
+postcode: "1227"
 city: Carouge (GE)
 street: "Place de l'Octroi"
 housenumber: 8

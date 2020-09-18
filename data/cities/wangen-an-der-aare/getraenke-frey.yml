@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.2336973
 longitude: 7.657742600000001
-postcode: 3380
+postcode: "3380"
 city: Wangen an der Aare
 street: "Sternenstrasse"
 housenumber: 20

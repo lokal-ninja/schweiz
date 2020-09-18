@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.423007600000005
 longitude: 9.3733726
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Vadianstrasse"
 housenumber: 7

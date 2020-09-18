@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 47.2750842
 longitude: 8.828261300000001
-postcode: 8635
+postcode: "8635"
 city: Dürnten
 street: "Kreuzstrasse"
 housenumber: 2
 phone: "+41 55 251 71 71"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-16:00"
+opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-17:00"
 website: "https://www.meier-ag.ch/"

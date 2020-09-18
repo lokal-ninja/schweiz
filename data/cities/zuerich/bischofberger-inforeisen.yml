@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.3551775
 longitude: 8.5547955
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Dufourstrasse"
 housenumber: 157

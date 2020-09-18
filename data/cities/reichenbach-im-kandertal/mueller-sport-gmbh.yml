@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.6259826
 longitude: 7.690534
-postcode: 3713
+postcode: "3713"
 city: Reichenbach im Kandertal
 street: "Hauptstrasse"
 housenumber: 142

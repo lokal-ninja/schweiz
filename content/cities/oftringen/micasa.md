@@ -1,4 +1,4 @@
 ---
-title: "micasa"
+title: "Micasa"
 url: /oftringen/micasa/
 ---

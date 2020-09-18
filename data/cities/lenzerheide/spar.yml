@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7253107
 longitude: 9.5576561
-postcode: 7078
+postcode: "7078"
 city: Lenzerheide
 street: "Voa Principala"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.225872900000006
 longitude: 8.8187894
-postcode: 8640
+postcode: "8640"
 city: Rapperswil SG
 street: "Untere Bahnhofstrasse"
 housenumber: 24

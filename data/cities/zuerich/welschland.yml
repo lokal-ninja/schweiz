@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3725699
 longitude: 8.5241062
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Zweierstrasse"
 housenumber: 56

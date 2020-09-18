@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.200832000000005
 longitude: 6.1305968
-postcode: 
+postcode: ""
 city: Genève
 street: "Boulevard Carl-Vogt"
 housenumber: 

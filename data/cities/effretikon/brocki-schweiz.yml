@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.4255428
 longitude: 8.6879524
-postcode: 8307
+postcode: "8307"
 city: Effretikon
 street: "Brandrietstrasse"
 housenumber: 19

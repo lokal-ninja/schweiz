@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4981543
 longitude: 8.728655400000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: ""
 housenumber: 

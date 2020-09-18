@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.803715100000005
 longitude: 9.256702500000001
-postcode: 7031
+postcode: "7031"
 city: Laax
 street: "Via Principala"
 housenumber: 18

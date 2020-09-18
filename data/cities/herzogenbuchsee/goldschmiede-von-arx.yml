@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.1876053
 longitude: 7.707231
-postcode: 3360
+postcode: "3360"
 city: Herzogenbuchsee
 street: "Kirchgasse"
 housenumber: 9

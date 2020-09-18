@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.724343700000006
 longitude: 7.0689304
-postcode: 1726
+postcode: "1726"
 city: Farvagny
 street: "Route de Fribourg"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.3679305
 longitude: 8.5363488
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bleicherweg"
 housenumber: 17

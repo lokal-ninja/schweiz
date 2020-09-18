@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.4897106
 longitude: 8.2439209
-postcode: 5412
+postcode: "5412"
 city: Gebenstorf
 street: "Wambisterstrasse"
 housenumber: 4
 phone: "+41 56 204 44 04"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-17:00"
-website: "http://www.backparadies.ch/standorte/gebenstorf"
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-16:00"
+website: "https://www.backparadies.ch/standorte/gebenstorf"

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.392997300000005
 longitude: 8.529352900000001
-postcode: 8037
+postcode: "8037"
 city: Zürich
 street: "Dammstrasse"
 housenumber: 54

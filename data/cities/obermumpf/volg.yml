@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.5315324
 longitude: 7.9354477
-postcode: 4324
+postcode: "4324"
 city: Obermumpf
 street: "Mühliweg"
 housenumber: 3

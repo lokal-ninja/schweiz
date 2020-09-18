@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.9568943
 longitude: 7.495914600000001
-postcode: 3072
+postcode: "3072"
 city: Ostermundigen
 street: "Bernstrasse"
 housenumber: 114
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 07:30-17:00; Su off"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-ostermundigen"

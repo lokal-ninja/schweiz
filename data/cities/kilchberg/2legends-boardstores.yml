@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.3197898
 longitude: 8.5508907
-postcode: 8802
+postcode: "8802"
 city: Kilchberg
 street: "Seestrasse"
 housenumber: 184

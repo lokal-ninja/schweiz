@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.792588
 longitude: 7.2164447
-postcode: 1717
+postcode: "1717"
 city: St. Ursen
 street: "Engertswil"
 housenumber: 3

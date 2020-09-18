@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.1581703
 longitude: 8.78391
-postcode: 8847
+postcode: "8847"
 city: Egg
 street: ""
 housenumber: 2

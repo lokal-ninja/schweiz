@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 45.869002300000005
 longitude: 8.9846942
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Giuseppe Motta"
 housenumber: 51

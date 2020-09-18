@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3922437
 longitude: 8.044174700000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Rathausgasse"
 housenumber: 28

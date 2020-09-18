@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.1700743
 longitude: 8.7781105
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Vallemaggia"
 housenumber: 54

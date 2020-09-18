@@ -1,12 +1,12 @@
 id: 192973683
 type: way
 shop: Einkaufszentrum
-latitude: 47.069329800000006
-longitude: 9.056393100000001
-postcode: 8754
+latitude: 47.0687592
+longitude: 9.056374
+postcode: "8754"
 city: Netstal
 street: "Centro"
 housenumber: 6
 phone: ""
 opening_hours: ""
-website: "http://centro-netstal.ch/"
+website: "https://www.centro-netstal.ch/"

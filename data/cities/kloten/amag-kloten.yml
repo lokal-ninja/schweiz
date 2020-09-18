@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.448788400000005
 longitude: 8.5969531
-postcode: 8302
+postcode: "8302"
 city: Kloten
 street: "Steinackerstrasse"
 housenumber: 20

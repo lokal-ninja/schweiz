@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.0142053
 longitude: 6.9923719
-postcode: 2072
+postcode: "2072"
 city: St-Blaise
 street: "Route de Soleure"
 housenumber: 8

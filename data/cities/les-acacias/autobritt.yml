@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.1916184
 longitude: 6.130125400000001
-postcode: 1227
+postcode: "1227"
 city: Les Acacias
 street: "Rue Boissonnas"
 housenumber: 15

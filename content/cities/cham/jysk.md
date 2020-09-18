@@ -1,4 +1,4 @@
 ---
-title: "Jysk"
+title: "JYSK"
 url: /cham/jysk/
 ---

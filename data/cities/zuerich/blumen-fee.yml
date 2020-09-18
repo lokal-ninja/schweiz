@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.375878400000005
 longitude: 8.4866229
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Albisriederstrasse"
 housenumber: 342

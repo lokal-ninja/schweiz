@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3497143
 longitude: 8.7084917
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Krämerackerstrasse"
 housenumber: 22

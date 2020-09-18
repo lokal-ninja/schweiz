@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.498218300000005
 longitude: 8.7308023
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Holdergasse"
 housenumber: 1

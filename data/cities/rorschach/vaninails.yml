@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4736496
 longitude: 9.4886054
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Pestalozzistrasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.361730200000004
 longitude: 8.5613775
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Forchstrasse"
 housenumber: 103

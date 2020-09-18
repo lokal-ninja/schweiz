@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.538915900000006
 longitude: 8.8220499
-postcode: 8543
+postcode: "8543"
 city: Gundetswil
 street: "Hofackerstrasse"
 housenumber: 

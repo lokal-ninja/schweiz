@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.3935766
 longitude: 9.2320203
-postcode: 6563
+postcode: "6563"
 city: Mesocco
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.478587600000004
 longitude: 7.2818149000000005
-postcode: 3780
+postcode: "3780"
 city: Gstaad
 street: "Dubidorfweg"
 housenumber: 1

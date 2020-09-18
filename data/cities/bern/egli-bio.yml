@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 46.947736500000005
 longitude: 7.4405324
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Christoffel-Unterführung"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://eglibio.ch/filialen/filialen-egli/?no_cache=1&tx_dgcmitarbeiter_pi2[filial_uid]=14&tx_dgcmitarbeiter_pi2[show]=2"
+website: "https://eglibio.ch/content/filialen/bern/christoffel/index_ger.html"

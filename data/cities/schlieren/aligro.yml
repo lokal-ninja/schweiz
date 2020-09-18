@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.399934300000005
 longitude: 8.4661227
-postcode: 8952
+postcode: "8952"
 city: Schlieren
 street: "Bernerstrasse"
 housenumber: 335

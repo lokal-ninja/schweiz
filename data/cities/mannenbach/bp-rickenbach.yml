@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.673229400000004
 longitude: 9.053185800000001
-postcode: 8268
+postcode: "8268"
 city: Mannenbach
 street: "Hauptstrasse"
 housenumber: 34

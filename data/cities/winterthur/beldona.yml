@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.4993034
 longitude: 8.7304431
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 32
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.beldona.com/"

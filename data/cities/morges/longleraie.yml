@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.518615600000004
 longitude: 6.499539400000001
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Chemin de la Brume"
 housenumber: 

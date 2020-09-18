@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.386924
 longitude: 8.7533905
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Bahnhofstrasse"
 housenumber: 2

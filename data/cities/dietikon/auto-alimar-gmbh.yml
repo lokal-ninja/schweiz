@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4141561
 longitude: 8.3881677
-postcode: 8953
+postcode: "8953"
 city: Dietikon
 street: "Maienweg"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4683372
 longitude: 8.0854295
-postcode: 5079
+postcode: "5079"
 city: Zeihen
 street: "Oberzeiherstrasse"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.4802356
 longitude: 8.463833000000001
-postcode: 8175
+postcode: "8175"
 city: Dielsdorf
 street: "Ruchwiesenstrasse"
 housenumber: 2

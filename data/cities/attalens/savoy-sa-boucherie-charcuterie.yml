@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.5112851
 longitude: 6.848507000000001
-postcode: 1616
+postcode: "1616"
 city: Attalens
 street: "Grand-Rue"
 housenumber: 

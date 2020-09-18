@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.530132
 longitude: 6.850364000000001
-postcode: 1615
+postcode: "1615"
 city: Bossonnens
 street: "Route d'Oron"
 housenumber: 32

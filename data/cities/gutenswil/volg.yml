@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3843011
 longitude: 8.7165383
-postcode: 8605
+postcode: "8605"
 city: Gutenswil
 street: "Dorfstrasse"
 housenumber: 6

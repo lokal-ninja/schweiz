@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4465118
 longitude: 8.147821
-postcode: 5107
+postcode: "5107"
 city: Schinznach-Dorf
 street: "Rosenweg"
 housenumber: 18

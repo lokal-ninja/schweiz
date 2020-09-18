@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 47.3837642
 longitude: 8.530684500000001
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Langstrasse"
 housenumber: 229
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
 website: ""

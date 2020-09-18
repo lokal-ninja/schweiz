@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4979802
 longitude: 8.7269422
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Technikumstrasse"
 housenumber: 72

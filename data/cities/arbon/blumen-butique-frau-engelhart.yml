@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.515464300000005
 longitude: 9.436208
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Hauptstrasse"
 housenumber: 3

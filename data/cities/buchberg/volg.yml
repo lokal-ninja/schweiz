@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5726042
 longitude: 8.5624781
-postcode: 8454
+postcode: "8454"
 city: Buchberg
 street: "Dorfstrasse"
 housenumber: 35

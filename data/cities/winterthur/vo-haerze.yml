@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.4848329
 longitude: 8.6931258
-postcode: 8408
+postcode: "8408"
 city: Winterthur
 street: "Dättnauerstrasse"
 housenumber: 108

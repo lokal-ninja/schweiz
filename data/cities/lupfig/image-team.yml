@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.439662600000005
 longitude: 8.206935900000001
-postcode: 5242
+postcode: "5242"
 city: Lupfig
 street: "Wydenstrasse"
 housenumber: 7

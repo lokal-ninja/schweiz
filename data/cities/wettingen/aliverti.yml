@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.4690463
 longitude: 8.3244437
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Schartenstrasse"
 housenumber: 68

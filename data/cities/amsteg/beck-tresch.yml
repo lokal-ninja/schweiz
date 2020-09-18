@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.770570400000004
 longitude: 8.671038000000001
-postcode: 6474
+postcode: "6474"
 city: Amsteg
 street: "Gotthardstrasse"
 housenumber: 67

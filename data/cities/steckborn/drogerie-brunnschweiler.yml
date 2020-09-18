@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.667952
 longitude: 8.982314
-postcode: 8266
+postcode: "8266"
 city: Steckborn
 street: "Seestrasse"
 housenumber: 98

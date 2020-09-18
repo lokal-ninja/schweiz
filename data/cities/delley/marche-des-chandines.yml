@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.912874
 longitude: 6.9734451
-postcode: 1567
+postcode: "1567"
 city: Delley
 street: "Les Chandines"
 housenumber: 

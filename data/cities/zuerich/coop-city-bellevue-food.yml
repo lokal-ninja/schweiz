@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.367360000000005
 longitude: 8.5461737
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Theaterstrasse"
 housenumber: 18

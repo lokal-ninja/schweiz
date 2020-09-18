@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.4063263
 longitude: 8.8259396
-postcode: 8492
+postcode: "8492"
 city: Schalchen-Wila
 street: "Lammetstrasse"
 housenumber: 4

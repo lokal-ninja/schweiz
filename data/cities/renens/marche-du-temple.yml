@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.536342000000005
 longitude: 6.5884616000000005
-postcode: 
+postcode: ""
 city: Renens
 street: "Avenue du Temple"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.4238681
 longitude: 8.4023002
-postcode: 8955
+postcode: "8955"
 city: Oetwil an der Limmat
 street: "Limmattalstrasse"
 housenumber: 64

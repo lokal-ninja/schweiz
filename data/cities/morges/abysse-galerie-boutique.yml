@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.507660200000004
 longitude: 6.4974778
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Rue Louis de Savoie"
 housenumber: 88

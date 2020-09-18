@@ -1,12 +1,12 @@
 id: 4975423621
 type: node
 shop: Optiker
-latitude: 47.2116138
-longitude: 7.788941500000001
-postcode: 4900
+latitude: 47.211585
+longitude: 7.7888491
+postcode: "4900"
 city: Langenthal
-street: ""
-housenumber: 
+street: "Marktgasse"
+housenumber: 17
 phone: ""
 opening_hours: ""
 website: ""

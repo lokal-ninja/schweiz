@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3763899
 longitude: 8.5591687
-postcode: 8044
+postcode: "8044"
 city: Zürich
 street: "Vorderberg"
 housenumber: 11

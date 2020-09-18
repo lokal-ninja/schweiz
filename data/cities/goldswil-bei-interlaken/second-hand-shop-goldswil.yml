@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.697817
 longitude: 7.879304100000001
-postcode: 3805
+postcode: "3805"
 city: Goldswil bei Interlaken
 street: "Hauptstrasse"
 housenumber: 61

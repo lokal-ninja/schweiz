@@ -3,7 +3,7 @@ type: node
 shop: Pyrotechnik
 latitude: 47.462532200000005
 longitude: 9.045774900000001
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Mattstrasse"
 housenumber: 5

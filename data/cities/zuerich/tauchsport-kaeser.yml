@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 47.369603500000004
 longitude: 8.5283672
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Stauffacherquai"
 housenumber: 54

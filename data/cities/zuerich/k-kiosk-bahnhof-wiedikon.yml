@@ -1,9 +1,9 @@
 id: 301817173
 type: node
 shop: Kiosk
-latitude: 47.371452000000005
+latitude: 47.371451500000006
 longitude: 8.5237697
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 80

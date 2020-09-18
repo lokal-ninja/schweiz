@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.323728800000005
 longitude: 8.7675827
-postcode: 8614
+postcode: "8614"
 city: Bertschikon
 street: "Medikerstrasse"
 housenumber: 21

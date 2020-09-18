@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.4314867
 longitude: 8.5629454
-postcode: 8152
+postcode: "8152"
 city: Glattbrugg
 street: "Schaffhauserstrasse"
 housenumber: 

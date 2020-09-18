@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4407469
 longitude: 9.475758
-postcode: 9034
+postcode: "9034"
 city: Eggersriet
 street: "Heidenerstrasse"
 housenumber: 30

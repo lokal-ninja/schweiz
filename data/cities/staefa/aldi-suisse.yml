@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.241494800000005
 longitude: 8.7183709
-postcode: 8712
+postcode: "8712"
 city: Stäfa
 street: "Häldelistrasse"
 housenumber: 11

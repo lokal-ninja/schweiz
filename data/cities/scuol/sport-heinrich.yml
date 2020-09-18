@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.7967377
 longitude: 10.296562600000001
-postcode: 7550
+postcode: "7550"
 city: Scuol
 street: "Stradun"
 housenumber: 400

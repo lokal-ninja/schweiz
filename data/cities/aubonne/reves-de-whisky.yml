@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.496177200000005
 longitude: 6.388611200000001
-postcode: 1170
+postcode: "1170"
 city: Aubonne
 street: "Rue Bourg-de-Four"
 housenumber: 16

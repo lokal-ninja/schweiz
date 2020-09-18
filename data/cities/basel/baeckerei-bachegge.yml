@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5660721
 longitude: 7.5894415
-postcode: 4057
+postcode: "4057"
 city: Basel
 street: "Erasmusplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.0792925
 longitude: 9.476979700000001
-postcode: 9478
+postcode: "9478"
 city: Azmoos
 street: "Poststrasse"
 housenumber: 45

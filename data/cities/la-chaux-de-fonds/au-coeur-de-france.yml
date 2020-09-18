@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.1012216
 longitude: 6.833301700000001
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Rue de la Promenade"
 housenumber: 19

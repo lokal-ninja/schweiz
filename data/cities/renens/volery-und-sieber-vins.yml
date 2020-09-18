@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.5375859
 longitude: 6.591037900000001
-postcode: 1020
+postcode: "1020"
 city: Renens
 street: "Chemin de Borjod"
 housenumber: 35

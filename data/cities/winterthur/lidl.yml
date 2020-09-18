@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4860898
 longitude: 8.7043465
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "In der Au"
 housenumber: 10

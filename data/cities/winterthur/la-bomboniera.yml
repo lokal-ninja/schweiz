@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.489314400000005
 longitude: 8.7035444
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "Zürcherstrasse"
 housenumber: 165

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.033399300000006
 longitude: 8.2801648
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Gallusstrasse"
 housenumber: 3

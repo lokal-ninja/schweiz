@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.0990959
 longitude: 7.083034400000001
-postcode: 1920
+postcode: "1920"
 city: Martigny
 street: "Route du Levant"
 housenumber: 96

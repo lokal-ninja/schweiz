@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.5177111
 longitude: 6.627610700000001
-postcode: 1000
+postcode: "1000"
 city: Lausanne
 street: "Avenue Louis-Ruchonnet"
 housenumber: 1

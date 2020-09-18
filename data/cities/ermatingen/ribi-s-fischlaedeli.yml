@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6674457
 longitude: 9.0834018
-postcode: 8272
+postcode: "8272"
 city: Ermatingen
 street: "Schönhaldenstrasse"
 housenumber: 15

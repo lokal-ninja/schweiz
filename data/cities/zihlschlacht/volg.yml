@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5197252
 longitude: 9.2590664
-postcode: 8588
+postcode: "8588"
 city: Zihlschlacht
 street: "Hauptstrasse"
 housenumber: 30

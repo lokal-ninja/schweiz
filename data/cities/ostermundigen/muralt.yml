@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9574018
 longitude: 7.4944439
-postcode: 3072
+postcode: "3072"
 city: Ostermundigen
 street: "Bernstrasse"
 housenumber: 104

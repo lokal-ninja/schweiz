@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.872582
 longitude: 8.952800400000001
-postcode: 6864
+postcode: "6864"
 city: Arzo
 street: "Via Ferdinando Bustelli"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.425606200000004
 longitude: 7.8988158
-postcode: 4496
+postcode: "4496"
 city: Kilchberg
 street: "Hauptstrasse"
 housenumber: 15

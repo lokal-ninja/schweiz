@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.200213700000006
 longitude: 6.1487118
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Place du Bourg-de-Four"
 housenumber: 22

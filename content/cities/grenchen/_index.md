@@ -1,6 +1,6 @@
 ---
 title: Grenchen
 url: /grenchen/
-latitude: 47.1911495
-longitude: 7.396719900000001
+latitude: 46.888298400000004
+longitude: 7.2539319
 ---

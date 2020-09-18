@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.545152300000005
 longitude: 6.561389500000001
-postcode: 1030
+postcode: "1030"
 city: Bussigny
 street: "chemin de Bas-de-Plan"
 housenumber: 1

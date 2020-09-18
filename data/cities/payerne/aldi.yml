@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8265509
 longitude: 6.927499200000001
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Zone Industrielle La Palaz"
 housenumber: 8B

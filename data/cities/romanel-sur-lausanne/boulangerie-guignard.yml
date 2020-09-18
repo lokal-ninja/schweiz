@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.5628679
 longitude: 6.604158900000001
-postcode: 1032
+postcode: "1032"
 city: Romanel-sur-Lausanne
 street: "Route de Lausanne"
 housenumber: 3

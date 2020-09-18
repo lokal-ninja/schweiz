@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 46.317845000000005
 longitude: 6.9376894
-postcode: 1860
+postcode: "1860"
 city: Aigle
 street: "Chemin Sous-le-Grand-Pré"
 housenumber: 4

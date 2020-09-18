@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.943989900000005
 longitude: 7.414754500000001
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Schlossstrasse"
 housenumber: 91a

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.5620957
 longitude: 9.127374600000001
-postcode: 8570
+postcode: "8570"
 city: Weinfelden
 street: "Amriswilerstrasse"
 housenumber: 65

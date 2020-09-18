@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.3706309
 longitude: 7.357094600000001
-postcode: 2800
+postcode: "2800"
 city: Delémont
 street: "Route de Bâle"
 housenumber: 165

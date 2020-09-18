@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.1174
 longitude: 8.3921085
-postcode: 6037
+postcode: "6037"
 city: Root
 street: "Bahnhofstrasse"
 housenumber: 16

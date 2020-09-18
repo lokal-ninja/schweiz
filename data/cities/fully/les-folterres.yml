@@ -1,12 +1,12 @@
 id: 209875926
 type: way
-shop: Allgemein
+shop: Feinkost
 latitude: 46.125258200000005
 longitude: 7.0869014
-postcode: 1926
+postcode: "1926"
 city: Fully
 street: "Chemin du Rhône"
 housenumber: 135
 phone: "+41 27 746 13 13"
 opening_hours: "Mo-Su 10:00-20:30"
-website: "http://www.folterres.ch"
+website: "https://www.folterres.ch/"

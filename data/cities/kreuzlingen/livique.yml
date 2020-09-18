@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 47.638367800000005
 longitude: 9.2026296
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Leubernstrasse"
 housenumber: 3
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.livique.ch/"

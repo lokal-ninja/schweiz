@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.0201306
 longitude: 7.4457770000000005
-postcode: 3053
+postcode: "3053"
 city: Münchenbuchsee
 street: "Obedorfstrasse"
 housenumber: 35

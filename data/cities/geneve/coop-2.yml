@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2061895
 longitude: 6.1162444
-postcode: 
+postcode: ""
 city: Genève
 street: "Avenue d'Aïre"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.1919151
 longitude: 7.7038910000000005
-postcode: 3360
+postcode: "3360"
 city: Herzogenbuchsee
 street: "Wangenstrasse"
 housenumber: 44

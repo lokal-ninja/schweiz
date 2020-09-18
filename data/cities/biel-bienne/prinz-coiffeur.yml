@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.135919400000006
 longitude: 7.24708
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Alexander-Schöni-Strasse"
 housenumber: 4

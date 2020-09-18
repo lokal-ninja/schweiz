@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.3123097
 longitude: 7.7843343
-postcode: 3942
+postcode: "3942"
 city: Niedergesteln
 street: "Schulhausstrasse"
 housenumber: 2

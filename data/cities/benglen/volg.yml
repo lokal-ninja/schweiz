@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3608801
 longitude: 8.633074800000001
-postcode: 8121
+postcode: "8121"
 city: Benglen
 street: "Gerlisbrunnenstrasse"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.377763200000004
 longitude: 8.5400323
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 

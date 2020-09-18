@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4191554
 longitude: 8.5074985
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Wehntalerstrasse"
 housenumber: 540

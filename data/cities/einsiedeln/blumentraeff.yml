@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.1274504
 longitude: 8.7442689
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Hauptstrasse"
 housenumber: 8

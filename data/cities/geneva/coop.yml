@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.193306500000006
 longitude: 6.1612764
-postcode: 
+postcode: ""
 city: Geneva
 street: "Route de Florissant"
 housenumber: 56

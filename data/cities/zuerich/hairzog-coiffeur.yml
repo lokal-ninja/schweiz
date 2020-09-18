@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.401858600000004
 longitude: 8.5441398
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Ringstrasse"
 housenumber: 21

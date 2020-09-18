@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.8480846
 longitude: 9.5310282
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Obere Gasse"
 housenumber: 24

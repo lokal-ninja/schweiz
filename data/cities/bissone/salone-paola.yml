@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.949556300000005
 longitude: 8.965119000000001
-postcode: 6816
+postcode: "6816"
 city: Bissone
 street: "Via Maroggia"
 housenumber: 33

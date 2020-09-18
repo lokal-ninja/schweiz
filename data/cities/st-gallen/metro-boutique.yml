@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4243274
 longitude: 9.375991200000001
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Multergasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3156504
 longitude: 8.5811899
-postcode: 8700
+postcode: "8700"
 city: Küsnacht
 street: "Untere Wiltisgasse"
 housenumber: 20

@@ -1,12 +1,12 @@
-id: 4843837963
+id: 2277009908
 type: node
 shop: Kiosk
-latitude: 47.3793462
-longitude: 8.5305645
-postcode: 8004
+latitude: 47.3683867
+longitude: 8.534157500000001
+postcode: "8002"
 city: Zürich
-street: "Lagerstrasse"
-housenumber: 76
+street: "Stockerstrasse"
+housenumber: 47
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.kkiosk.ch/de/"

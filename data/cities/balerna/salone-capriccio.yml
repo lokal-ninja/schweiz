@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8492465
 longitude: 9.007520600000001
-postcode: 6828
+postcode: "6828"
 city: Balerna
 street: "Via San Gottardo"
 housenumber: 65

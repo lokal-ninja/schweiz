@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.8055487
 longitude: 7.161969300000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Grand-Rue"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.3656748
 longitude: 8.547563400000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Theaterstrasse"
 housenumber: 6

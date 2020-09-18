@@ -1,4 +1,4 @@
 ---
-title: "LIVIQUE"
+title: "Livique"
 url: /oberentfelden/livique/
 ---

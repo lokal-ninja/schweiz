@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.375396300000006
 longitude: 8.486781500000001
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Albisriederstrasse"
 housenumber: 347

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.6586817
 longitude: 6.8775674
-postcode: 1678
+postcode: "1678"
 city: Siviriez
 street: "Route de Romont"
 housenumber: 9

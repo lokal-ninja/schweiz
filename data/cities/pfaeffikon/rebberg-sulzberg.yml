@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.3783107
 longitude: 8.7803632
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon
 street: "Auenhof"
 housenumber: 

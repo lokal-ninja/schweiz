@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.401150300000005
 longitude: 8.405005300000001
-postcode: 8953
+postcode: "8953"
 city: Dietikon
 street: "Schöneggstrasse"
 housenumber: 34

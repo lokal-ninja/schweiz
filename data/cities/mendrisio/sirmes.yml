@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 45.8701354
 longitude: 8.984335
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Beroldingen"
 housenumber: 18

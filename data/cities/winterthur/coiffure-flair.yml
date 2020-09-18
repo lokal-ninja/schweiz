@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5017951
 longitude: 8.719201100000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Wartstrasse"
 housenumber: 31

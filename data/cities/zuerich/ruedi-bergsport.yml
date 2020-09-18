@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.371468300000004
 longitude: 8.525222600000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5128232
 longitude: 9.432511400000001
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "St.Gallerstrasse"
 housenumber: 6

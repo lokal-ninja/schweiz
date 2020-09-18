@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4780649
 longitude: 7.8135567
-postcode: 4450
+postcode: "4450"
 city: Sissach
 street: "Unter der Fluh"
 housenumber: 22

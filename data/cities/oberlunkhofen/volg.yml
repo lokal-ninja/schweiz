@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3115311
 longitude: 8.392017000000001
-postcode: 8917
+postcode: "8917"
 city: Oberlunkhofen
 street: "Zürcherstrasse"
 housenumber: 10

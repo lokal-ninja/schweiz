@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.689944600000004
 longitude: 7.671402400000001
-postcode: 3700
+postcode: "3700"
 city: Spiez
 street: "Thunstrasse"
 housenumber: 32

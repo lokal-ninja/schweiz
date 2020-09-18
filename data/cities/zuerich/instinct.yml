@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.3635378
 longitude: 8.564335100000001
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Streulistrasse"
 housenumber: 66

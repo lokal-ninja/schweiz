@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.506235100000005
 longitude: 8.5934155
-postcode: 8424
+postcode: "8424"
 city: Embrach
 street: "Dorfstrasse"
 housenumber: 79

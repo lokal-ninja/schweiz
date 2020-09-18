@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 46.8207697
 longitude: 7.1520466
-postcode: 1763
+postcode: "1763"
 city: Granges-Paccot
 street: "Route des Grives"
 housenumber: 6

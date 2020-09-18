@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.3895671
 longitude: 6.222603800000001
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Route de Signy"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.6495575
 longitude: 8.9342138
-postcode: 8265
+postcode: "8265"
 city: Mammern
 street: "Zehntenstrasse"
 housenumber: 6

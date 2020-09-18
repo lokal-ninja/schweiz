@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.252139500000006
 longitude: 8.7689556
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Im Zentrum"
 housenumber: 2

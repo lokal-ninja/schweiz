@@ -1,12 +1,12 @@
-id: 4342407034
+id: 2663868342
 type: node
 shop: Supermarkt
-latitude: 47.56513
-longitude: 7.6178131
-postcode: 4058
+latitude: 47.570592500000004
+longitude: 7.573368200000001
+postcode: "4056"
 city: Basel
-street: "Bäumlihofstrasse"
-housenumber: 132/134
+street: "Vogesenplatz"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00"
-website: "https://www.coop.ch/de/services/standorte-und-oeffnungszeiten/detail.html/coop-supermarkt-basel-baeumlihof?id=1077"
+opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+website: ""

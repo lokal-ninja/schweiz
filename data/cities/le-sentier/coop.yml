@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6069557
 longitude: 6.2328038
-postcode: 1347
+postcode: "1347"
 city: Le Sentier
 street: "Chemin de Rivaboux"
 housenumber: 

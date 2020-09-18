@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.933398000000004
 longitude: 7.4197151
-postcode: 3097
+postcode: "3097"
 city: Köniz
 street: "Waldeggstrasse"
 housenumber: 30

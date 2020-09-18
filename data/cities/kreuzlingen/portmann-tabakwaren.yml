@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.655601100000005
 longitude: 9.1687904
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Konstanzerstrasse"
 housenumber: 6

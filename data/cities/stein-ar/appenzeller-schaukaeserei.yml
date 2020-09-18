@@ -3,10 +3,10 @@ type: node
 shop: Käse
 latitude: 47.373519
 longitude: 9.344769600000001
-postcode: 9063
+postcode: "9063"
 city: Stein AR
 street: "Dorf"
 housenumber: 711
-phone: ""
+phone: "+41 71 368 50 70"
 opening_hours: "May-Oct: Mo-Su 09:00-18:30; Nov-Apr: Mo-Su 09:00-17:30"
 website: "https://www.schaukaeserei.ch/"

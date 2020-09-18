@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5069316
 longitude: 8.086725300000001
-postcode: 5076
+postcode: "5076"
 city: Bözen
 street: "Söhrenhof"
 housenumber: 2

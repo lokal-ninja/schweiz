@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.727918700000004
 longitude: 7.136245000000001
-postcode: 1733
+postcode: "1733"
 city: Treyvaux
 street: "Route d'Arconciel"
 housenumber: 9

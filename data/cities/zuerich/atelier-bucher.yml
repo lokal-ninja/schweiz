@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.3700466
 longitude: 8.5125502
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 257

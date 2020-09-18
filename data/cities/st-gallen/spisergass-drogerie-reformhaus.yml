@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4244441
 longitude: 9.3785995
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Spisergasse"
 housenumber: 34

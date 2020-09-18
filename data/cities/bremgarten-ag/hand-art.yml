@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.35133930000001
 longitude: 8.3427658
-postcode: 5620
+postcode: "5620"
 city: Bremgarten AG
 street: "Rechengasse"
 housenumber: 17

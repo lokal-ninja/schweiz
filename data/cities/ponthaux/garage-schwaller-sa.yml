@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8199527
 longitude: 7.0433889
-postcode: 1772
+postcode: "1772"
 city: Ponthaux
 street: "Route des Trois-Sapins"
 housenumber: 2

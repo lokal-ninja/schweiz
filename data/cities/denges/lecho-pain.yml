@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.5237781
 longitude: 6.540353700000001
-postcode: 1026
+postcode: "1026"
 city: Denges
 street: "Route du Lac"
 housenumber: 4

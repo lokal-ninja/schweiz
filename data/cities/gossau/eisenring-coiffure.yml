@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4149897
 longitude: 9.2686984
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "St. Gallerstrasse"
 housenumber: 219

@@ -3,10 +3,10 @@ type: node
 shop: Reifen
 latitude: 47.4162204
 longitude: 7.081732000000001
-postcode: 2900
+postcode: "2900"
 city: Porrentruy
 street: "Route de Courgenay"
-housenumber: 21
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

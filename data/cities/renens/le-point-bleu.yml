@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.532873
 longitude: 6.5779616
-postcode: 1022
+postcode: "1022"
 city: Renens
 street: "Avenue de la Gare"
 housenumber: 31

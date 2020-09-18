@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.2019431
 longitude: 6.1514135
-postcode: 1211
+postcode: "1211"
 city: Genève
 street: "Rue de Rive"
 housenumber: 16

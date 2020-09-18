@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.413569300000006
 longitude: 8.5452657
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Wattstrasse"
 housenumber: 15

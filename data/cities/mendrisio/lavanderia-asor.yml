@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 45.8700229
 longitude: 8.984168
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Beroldingen"
 housenumber: 28

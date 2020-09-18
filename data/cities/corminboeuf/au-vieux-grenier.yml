@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.8079246
 longitude: 7.1029998
-postcode: 1720
+postcode: "1720"
 city: Corminboeuf
 street: "Route du Centre"
 housenumber: 13

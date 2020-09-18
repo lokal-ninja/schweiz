@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.4108766
 longitude: 8.4520386
-postcode: 8103
+postcode: "8103"
 city: Unterengstringen
 street: "Hönggerstrasse"
 housenumber: 15

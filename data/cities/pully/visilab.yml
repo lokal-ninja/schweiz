@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.5110551
 longitude: 6.659790800000001
-postcode: 1009
+postcode: "1009"
 city: Pully
 street: ""
 housenumber: 

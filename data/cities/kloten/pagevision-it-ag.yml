@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.4529532
 longitude: 8.583174600000001
-postcode: 8302
+postcode: "8302"
 city: Kloten
 street: "Kirchgasse"
 housenumber: 33

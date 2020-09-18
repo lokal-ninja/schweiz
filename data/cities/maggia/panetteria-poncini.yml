@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.245336
 longitude: 8.707425500000001
-postcode: 6673
+postcode: "6673"
 city: Maggia
 street: ""
 housenumber: 

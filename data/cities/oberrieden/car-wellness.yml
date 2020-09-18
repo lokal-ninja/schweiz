@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.2789717
 longitude: 8.5742268
-postcode: 
+postcode: ""
 city: Oberrieden
 street: "Hubstrasse"
 housenumber: 5

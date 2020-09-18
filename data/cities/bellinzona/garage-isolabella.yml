@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.2022117
 longitude: 9.0216235
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Via Pizzo di Claro"
 housenumber: 11

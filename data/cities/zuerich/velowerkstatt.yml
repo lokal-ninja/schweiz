@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.380201400000004
 longitude: 8.5050948
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 437

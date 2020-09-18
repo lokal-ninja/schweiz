@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.542767100000006
 longitude: 6.6589605
-postcode: 1066
+postcode: "1066"
 city: Epalinges
 street: "Chemin des Croisettes"
 housenumber: 22

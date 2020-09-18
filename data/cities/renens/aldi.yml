@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5286424
 longitude: 6.5918877
-postcode: 1020
+postcode: "1020"
 city: Renens
 street: "Avenue de Longemalle"
 housenumber: 1

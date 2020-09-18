@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2258013
 longitude: 8.8163949
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Fischmarktstrasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.484909
 longitude: 7.8480477
-postcode: 4462
+postcode: "4462"
 city: Rickenbach
 street: "Neuhof"
 housenumber: 17

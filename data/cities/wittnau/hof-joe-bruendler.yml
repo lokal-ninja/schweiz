@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.47696800000001
 longitude: 7.969963300000001
-postcode: 5064
+postcode: "5064"
 city: Wittnau
 street: "Hauptstrasse"
 housenumber: 100

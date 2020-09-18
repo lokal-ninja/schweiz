@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0997758
 longitude: 6.824442400000001
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Avenue Léopold-Robert"
 housenumber: 64

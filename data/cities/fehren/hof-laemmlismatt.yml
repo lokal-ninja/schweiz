@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4015416
 longitude: 7.5806003
-postcode: 4234
+postcode: "4234"
 city: Fehren
 street: "Hof Lämmlismatt"
 housenumber: 31

@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 47.0237733
 longitude: 8.299918
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Industriestrasse"
-housenumber: 
+housenumber: 15
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.mediamarkt.ch/"

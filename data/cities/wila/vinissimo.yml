@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4175112
 longitude: 8.8438896
-postcode: 8492
+postcode: "8492"
 city: Wila
 street: "Eggelerstrasse"
 housenumber: 8

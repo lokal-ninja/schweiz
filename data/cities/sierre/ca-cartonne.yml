@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 46.2904038
 longitude: 7.5250094
-postcode: 3960
+postcode: "3960"
 city: Sierre
 street: "Route de Sion"
 housenumber: 14

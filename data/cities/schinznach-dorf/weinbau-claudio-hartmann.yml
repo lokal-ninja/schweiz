@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.444471400000005
 longitude: 8.1369779
-postcode: 5107
+postcode: "5107"
 city: Schinznach-Dorf
 street: "Talbachweg"
 housenumber: 2

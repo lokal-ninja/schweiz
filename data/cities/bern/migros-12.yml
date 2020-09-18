@@ -1,12 +1,12 @@
-id: 5246013503
+id: 3302216152
 type: node
-shop: Lebensmittel
-latitude: 46.9477904
-longitude: 7.440056200000001
-postcode: 3011
+shop: Supermarkt
+latitude: 46.9474846
+longitude: 7.383221000000001
+postcode: "3027"
 city: Bern
-street: "Christoffel-Unterführung"
-housenumber: 
+street: "Riedbachstrasse"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-22:00"
-website: ""
+opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-bethlehem"

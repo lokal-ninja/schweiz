@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 45.8692834
 longitude: 8.979533100000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Stefano Franscini"
 housenumber: 10

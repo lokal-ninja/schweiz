@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.2952263
 longitude: 8.5643232
-postcode: 8800
+postcode: "8800"
 city: Thalwil
 street: "Gotthardstrasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.424987300000005
 longitude: 9.435079400000001
-postcode: 9037
+postcode: "9037"
 city: Speicherschwendi
 street: "Bachstrasse"
 housenumber: 1

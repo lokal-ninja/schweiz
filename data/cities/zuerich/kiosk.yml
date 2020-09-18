@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.3619423
 longitude: 8.526639600000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bederstrasse"
 housenumber: 93

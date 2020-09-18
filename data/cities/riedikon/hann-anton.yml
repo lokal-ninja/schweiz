@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3313003
 longitude: 8.7129721
-postcode: 8616
+postcode: "8616"
 city: Riedikon
 street: "Turicaphonstrasse"
 housenumber: 33

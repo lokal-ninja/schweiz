@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.401787500000005
 longitude: 8.5005802
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Limmattalstrasse"
 housenumber: 164

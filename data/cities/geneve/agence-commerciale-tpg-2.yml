@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 46.2017175
 longitude: 6.1534567000000004
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rond-Point de Rive"
 housenumber: 1

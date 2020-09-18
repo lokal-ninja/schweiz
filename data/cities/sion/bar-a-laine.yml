@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 46.230015200000004
 longitude: 7.3611548
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Avenue des Mayennets"
 housenumber: 12

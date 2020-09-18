@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.185073
 longitude: 6.836965500000001
-postcode: 1873
+postcode: "1873"
 city: Les Crosets
 street: "Route des Crosets"
 housenumber: 61

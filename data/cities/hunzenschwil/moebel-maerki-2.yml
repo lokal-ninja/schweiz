@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.387457600000005
 longitude: 8.127907
-postcode: 5502
+postcode: "5502"
 city: Hunzenschwil
 street: "Hauptstrasse"
 housenumber: 24

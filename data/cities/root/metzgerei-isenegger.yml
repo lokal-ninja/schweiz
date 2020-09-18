@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.1128871
 longitude: 8.3879266
-postcode: 6037
+postcode: "6037"
 city: Root
 street: "Luzernerstrasse"
 housenumber: 26

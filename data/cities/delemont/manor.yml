@@ -1,12 +1,12 @@
-id: 5638170239
+id: 7450557432
 type: node
-shop: Supermarkt
-latitude: 47.3643106
-longitude: 7.349944700000001
-postcode: 2800
+shop: Warenhaus
+latitude: 47.3642717
+longitude: 7.3496978
+postcode: "2800"
 city: Delémont
 street: "Avenue de la Gare"
 housenumber: 27
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.manor.ch/de/store-finder/store/DEL"

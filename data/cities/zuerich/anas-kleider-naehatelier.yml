@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.3745169
 longitude: 8.5026679
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Gutstrasse"
 housenumber: 162

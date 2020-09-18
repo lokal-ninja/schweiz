@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.8488691
 longitude: 7.1895005
-postcode: 3186
+postcode: "3186"
 city: Düdingen
 street: "Hauptstrasse"
 housenumber: 36

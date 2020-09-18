@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.276573600000006
 longitude: 8.4486413
-postcode: 8910
+postcode: "8910"
 city: Affoltern am Albis
 street: "Obere Bahnhofstrasse"
 housenumber: 17

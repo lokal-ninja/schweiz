@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.746645400000006
 longitude: 7.642429600000001
-postcode: 3626
+postcode: "3626"
 city: Hünibach
 street: "Staatsstrasse"
 housenumber: 156

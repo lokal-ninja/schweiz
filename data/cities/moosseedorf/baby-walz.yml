@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.0160008
 longitude: 7.4900234
-postcode: 3302
+postcode: "3302"
 city: Moosseedorf
 street: "Gewerbestrasse"
 housenumber: 11

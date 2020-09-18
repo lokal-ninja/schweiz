@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4546702
 longitude: 9.0477527
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Toggenburgerstrasse"
 housenumber: 146

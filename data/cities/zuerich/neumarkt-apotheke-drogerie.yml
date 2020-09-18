@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 47.388597000000004
 longitude: 8.4874205
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Altstetterstrasse"
 housenumber: 145
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.achillea.ch/"
+website: "https://achillea.ch/standorte/neumarkt-apotheke-drogerie"

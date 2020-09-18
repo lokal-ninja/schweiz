@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5816147
 longitude: 9.1687776
-postcode: 8572
+postcode: "8572"
 city: Berg
 street: "Bahnhofstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.3032575
 longitude: 8.7645859
-postcode: 8625
+postcode: "8625"
 city: Gossau
 street: "Rebhaldenstrasse"
 housenumber: 35

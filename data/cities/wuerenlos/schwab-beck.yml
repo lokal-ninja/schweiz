@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.443941
 longitude: 8.3613426
-postcode: 5436
+postcode: "5436"
 city: Würenlos
 street: "Landstrasse"
 housenumber: 56

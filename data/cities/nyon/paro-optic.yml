@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.388477300000005
 longitude: 6.220504600000001
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Chemin de la Fontaine"
 housenumber: 1

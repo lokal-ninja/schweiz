@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.667434300000004
 longitude: 8.587045
-postcode: 6487
+postcode: "6487"
 city: Göschenen
 street: "Gotthardstrasse"
 housenumber: 42

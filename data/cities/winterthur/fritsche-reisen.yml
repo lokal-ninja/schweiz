@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 47.4995484
 longitude: 8.7304402
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 38
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.fritschereisen.ch/"

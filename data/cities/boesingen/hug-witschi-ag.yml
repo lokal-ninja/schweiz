@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.901161800000004
 longitude: 7.230211300000001
-postcode: 3178
+postcode: "3178"
 city: Bösingen
 street: "Auriedstrasse"
 housenumber: 10

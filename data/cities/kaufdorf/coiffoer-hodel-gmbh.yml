@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.8390573
 longitude: 7.499047300000001
-postcode: 3126
+postcode: "3126"
 city: Kaufdorf
 street: "Alpenstrasse"
 housenumber: 18

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.385943000000005
 longitude: 8.4994235
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Baslerstrasse"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-letzipark/"

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4932595
 longitude: 7.8251748
-postcode: 4451
+postcode: "4451"
 city: Wintersingen
 street: "Hauptstrasse"
 housenumber: 89

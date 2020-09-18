@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.374965800000005
 longitude: 8.078087
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Mittlere Dorfstrasse"
 housenumber: 2

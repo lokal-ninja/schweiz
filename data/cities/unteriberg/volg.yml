@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.05975350000001
 longitude: 8.802323300000001
-postcode: 8842
+postcode: "8842"
 city: Unteriberg
 street: "Schmalzgrubenstrasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.611151500000005
 longitude: 8.726123900000001
-postcode: 8475
+postcode: "8475"
 city: Ossingen
 street: "Mitteldorfstrasse"
 housenumber: 21

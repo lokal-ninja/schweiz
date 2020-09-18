@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 45.8500869
 longitude: 9.0076601
-postcode: 6828
+postcode: "6828"
 city: Balerna
 street: "Via San Gottardo"
 housenumber: 100

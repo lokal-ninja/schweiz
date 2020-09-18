@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3444835
 longitude: 8.702346
-postcode: 8612
+postcode: "8612"
 city: Uster
 street: "Seestrasse"
 housenumber: 113

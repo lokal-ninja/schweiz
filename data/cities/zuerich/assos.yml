@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3830733
 longitude: 8.5301045
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Langstrasse"
 housenumber: 

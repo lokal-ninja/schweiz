@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.388332600000005
 longitude: 8.4873267
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Altstetterstrasse"
 housenumber: 145

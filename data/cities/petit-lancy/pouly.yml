@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.1872526
 longitude: 6.126120800000001
-postcode: 1212
+postcode: "1212"
 city: Petit-Lancy
 street: "Esplanade de Pont-Rouge"
 housenumber: 4-6

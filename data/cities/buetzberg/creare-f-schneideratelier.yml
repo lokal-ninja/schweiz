@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 47.2125295
 longitude: 7.7410094
-postcode: 4922
+postcode: "4922"
 city: Bützberg
 street: "Bernstrasse"
 housenumber: 58b

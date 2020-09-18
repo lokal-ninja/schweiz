@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 47.132127000000004
 longitude: 8.7446474
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Zürichstrasse"
 housenumber: 42
 phone: "+41 55 412 72 72"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "http://www.expert-kaelin.ch"
+opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00"
+website: "https://www.expert-kaelin.ch/"

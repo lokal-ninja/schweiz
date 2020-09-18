@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.4769209
 longitude: 6.4234926
-postcode: 1163
+postcode: "1163"
 city: Etoy
 street: "La Tuilière"
 housenumber: 10

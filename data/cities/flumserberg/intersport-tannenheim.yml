@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.0895845
 longitude: 9.302440500000001
-postcode: 8897
+postcode: "8897"
 city: Flumserberg
 street: "Flumserbergstrasse"
 housenumber: 134

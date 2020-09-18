@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.611688400000006
 longitude: 7.061438000000001
-postcode: 1635
+postcode: "1635"
 city: La Tour-de-Trême
 street: "Rue de l'Ancien-Comté"
 housenumber: 4

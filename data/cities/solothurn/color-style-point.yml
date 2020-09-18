@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.209290100000004
 longitude: 7.5306351000000005
-postcode: 4500
+postcode: "4500"
 city: Solothurn
 street: "Hermesbühlstrasse"
 housenumber: 4a

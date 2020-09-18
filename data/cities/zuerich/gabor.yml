@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.378421900000006
 longitude: 8.5385003
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 

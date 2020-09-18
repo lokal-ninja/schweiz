@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.203818500000004
 longitude: 6.1445806
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue de la Confédération"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.469629000000005
 longitude: 8.301604600000001
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Mellingerstrasse"
 housenumber: 58

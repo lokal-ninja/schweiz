@@ -1,5 +1,5 @@
 ---
-title: Erlinsbach (AG)
+title: Erlinsbach AG
 url: /erlinsbach-ag/
 latitude: 
 longitude: 

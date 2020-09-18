@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.363259600000006
 longitude: 8.8253509
-postcode: 8335
+postcode: "8335"
 city: Hittnau
 street: "Jakob Stutz-Strasse"
 housenumber: 75
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:30-20:00, Sa 06:30-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-hittnau"

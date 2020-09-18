@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.4085618
 longitude: 9.2821725
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "Industriestrasse"
 housenumber: 135

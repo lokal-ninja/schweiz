@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2436924
 longitude: 8.4614753
-postcode: 8932
+postcode: "8932"
 city: Mettmenstetten
 street: "Bahnhofstrasse"
 housenumber: 6/8

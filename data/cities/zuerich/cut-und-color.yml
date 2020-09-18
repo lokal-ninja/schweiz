@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.37432200000001
 longitude: 8.544562500000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Zähringerstrasse"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://www.cutandcolor.ch/de/coiffeur-zuerich-zaehringerstrasse"
+website: "https://www.cutandcolor.ch/de/coiffeur-zuerich-zaehringerstrasse"

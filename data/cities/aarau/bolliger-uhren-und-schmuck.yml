@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.392563
 longitude: 8.0441073
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Rathausgasse"
 housenumber: 23

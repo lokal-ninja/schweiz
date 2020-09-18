@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.169806300000005
 longitude: 8.7971783
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: ""
 housenumber: 

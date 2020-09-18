@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.845006700000006
 longitude: 9.4815903
-postcode: 7012
+postcode: "7012"
 city: Felsberg
 street: "Rheinstrasse"
 housenumber: 19

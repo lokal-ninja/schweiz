@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.498642600000004
 longitude: 8.729111600000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Kirchplatz"
 housenumber: 1

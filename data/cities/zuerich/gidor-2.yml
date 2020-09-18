@@ -1,12 +1,12 @@
 id: 2028881394
 type: node
 shop: Friseur
-latitude: 47.388003000000005
-longitude: 8.4859506
-postcode: 8048
+latitude: 47.388028500000004
+longitude: 8.485974
+postcode: "8048"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 676
 phone: ""
 opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-altstetten/"

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.190266900000005
 longitude: 6.132817
-postcode: 1227
+postcode: "1227"
 city: Genève
 street: "Rue Eugène-Marziano"
 housenumber: 15

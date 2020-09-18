@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.9923919
 longitude: 6.930774400000001
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue des Terreaux"
 housenumber: 2

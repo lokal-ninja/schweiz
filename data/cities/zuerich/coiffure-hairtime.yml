@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3603992
 longitude: 8.5323249
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Traubenstrasse"
 housenumber: 1

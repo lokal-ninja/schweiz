@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.4117806
 longitude: 8.543148
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Hofwiesenstrasse"
 housenumber: 363
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-19:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-bahnhof-oerlikon/"

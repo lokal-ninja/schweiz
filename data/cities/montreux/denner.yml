@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.431685800000004
 longitude: 6.9098006000000005
-postcode: 1820
+postcode: "1820"
 city: Montreux
 street: "Place du Marché"
 housenumber: 6b

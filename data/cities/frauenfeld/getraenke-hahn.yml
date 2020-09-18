@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.5653676
 longitude: 8.9062757
-postcode: 8500
+postcode: "8500"
 city: Frauenfeld
 street: "Langfeldstrasse"
 housenumber: 58

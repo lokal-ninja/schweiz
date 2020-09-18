@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.478047100000005
 longitude: 9.4934996
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 53

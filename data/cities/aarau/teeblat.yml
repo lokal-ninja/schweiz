@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3922845
 longitude: 8.0439405
-postcode: 
+postcode: ""
 city: Aarau
 street: "Milchgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0156994
 longitude: 8.666485900000001
-postcode: 6432
+postcode: "6432"
 city: Rickenbach
 street: "Rickenbachstrasse"
 housenumber: 

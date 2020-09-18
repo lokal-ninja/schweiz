@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.605245800000006
 longitude: 6.2333618
-postcode: 1347
+postcode: "1347"
 city: Le Sentier
 street: "Route Neuve"
 housenumber: 15

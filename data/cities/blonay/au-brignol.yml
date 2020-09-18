@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.4637777
 longitude: 6.8960499
-postcode: 1807
+postcode: "1807"
 city: Blonay
 street: "Route de Tercier"
 housenumber: 19

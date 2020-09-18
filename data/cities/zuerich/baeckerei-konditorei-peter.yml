@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4094654
 longitude: 8.5633677
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Tramstrasse"
 housenumber: 235

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.4794199
 longitude: 8.7036809
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "Steigstrasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3529235
 longitude: 8.5257318
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Brunaustrasse"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.4136316
 longitude: 9.19569
-postcode: 9230
+postcode: "9230"
 city: Flawil
 street: "Waldau"
 housenumber: 1

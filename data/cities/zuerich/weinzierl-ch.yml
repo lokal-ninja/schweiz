@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3966969
 longitude: 8.540538
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 127

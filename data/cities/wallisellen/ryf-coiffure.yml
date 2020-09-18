@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.410413500000004
 longitude: 8.5950866
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Richtiplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.ryfofswitzerland.ch/richti.html"

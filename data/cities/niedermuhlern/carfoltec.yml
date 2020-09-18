@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.8623531
 longitude: 7.4605592000000005
-postcode: 3087
+postcode: "3087"
 city: Niedermuhlern
 street: "Mühlerain"
 housenumber: 152A

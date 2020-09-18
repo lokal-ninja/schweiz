@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.602024500000006
 longitude: 8.275645
-postcode: 5330
+postcode: "5330"
 city: Rietheim
 street: "Hauptstrasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.2866494
 longitude: 8.1493106
-postcode: 5732
+postcode: "5732"
 city: Zetzwil
 street: "Hauptstrasse"
 housenumber: 11

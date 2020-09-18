@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.3329832
 longitude: 9.3991669
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Rütistrasse"
 housenumber: 8

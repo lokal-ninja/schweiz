@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.3208701
 longitude: 8.7948474
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Bahnhofstrasse"
 housenumber: 49

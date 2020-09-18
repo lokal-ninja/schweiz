@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.051182700000005
 longitude: 8.301189200000001
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Pfistergasse"
 housenumber: 31

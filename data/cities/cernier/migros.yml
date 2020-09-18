@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0580675
 longitude: 6.901479200000001
-postcode: 2053
+postcode: "2053"
 city: Cernier
 street: "Rue de Comble-Emine"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 45.8505946
 longitude: 9.0068871
-postcode: 6828
+postcode: "6828"
 city: Balerna
 street: "Via San Gottardo"
 housenumber: 71

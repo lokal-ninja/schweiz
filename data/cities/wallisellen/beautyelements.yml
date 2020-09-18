@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.403407300000005
 longitude: 8.6034538
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Am Wasser"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.278558100000005
 longitude: 8.759805
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Binzikerstrasse"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.2397471
 longitude: 8.733336000000001
-postcode: 8712
+postcode: "8712"
 city: Stäfa
 street: "Tränkebachstrasse"
 housenumber: 42

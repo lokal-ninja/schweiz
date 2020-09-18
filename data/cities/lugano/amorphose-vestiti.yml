@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.011782700000005
 longitude: 8.9585193
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Monte Brè"
 housenumber: 12

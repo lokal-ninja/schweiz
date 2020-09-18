@@ -3,10 +3,10 @@ type: node
 shop: Spirituosen
 latitude: 47.557571800000005
 longitude: 7.586883800000001
-postcode: 4051
+postcode: "4051"
 city: Basel
 street: "Schneidergasse"
 housenumber: 27
 phone: "+41 61 338 90 91"
-opening_hours: "Di: 09:30-18:30, Mi-Fr: 08:30-18:30, Sa: 08:30-18:00"
+opening_hours: "Tu 09:30-18:30; We-Fr 08:30-18:30; Sa 08:30-18:00"
 website: "https://ullrich.ch"

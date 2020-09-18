@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3892235
 longitude: 9.5628502
-postcode: 9437
+postcode: "9437"
 city: Marbach
 street: "Rorschacherstrasse"
 housenumber: 136

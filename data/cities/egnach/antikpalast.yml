@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.537236400000005
 longitude: 9.3901416
-postcode: 9322
+postcode: "9322"
 city: Egnach
 street: "Buch"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.5082479
 longitude: 6.4972409
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Grand-Rue"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.416447000000005
 longitude: 9.2514904
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "St. Gallerstrasse"
 housenumber: 72

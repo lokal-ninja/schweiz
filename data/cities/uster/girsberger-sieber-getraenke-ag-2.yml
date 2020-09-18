@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.3412973
 longitude: 8.715384
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Riedikerstrasse"
 housenumber: 5

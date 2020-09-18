@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.498848800000005
 longitude: 8.7276296
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Metzggasse"
 housenumber: 17

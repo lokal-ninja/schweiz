@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.097717700000004
 longitude: 9.3527532
-postcode: 8890
+postcode: "8890"
 city: Flums
 street: "Lochrietstrasse"
 housenumber: 18

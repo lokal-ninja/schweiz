@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4627971
 longitude: 7.858116000000001
-postcode: 4460
+postcode: "4460"
 city: Gelterkinden
 street: "Rünenbergerstrasse"
 housenumber: 2

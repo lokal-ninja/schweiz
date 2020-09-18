@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3277469
 longitude: 9.221582
-postcode: 9105
+postcode: "9105"
 city: Schönengrund
 street: "Hauptstrasse"
 housenumber: 34

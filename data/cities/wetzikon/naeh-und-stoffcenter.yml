@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.329099500000005
 longitude: 8.8034783
-postcode: 8623
+postcode: "8623"
 city: Wetzikon
 street: "Binzackerstrasse"
 housenumber: 2

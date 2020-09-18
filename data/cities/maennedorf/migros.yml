@@ -1,12 +1,12 @@
 id: 386270747
 type: node
 shop: Supermarkt
-latitude: 47.253027200000005
-longitude: 8.6957473
-postcode: 8708
+latitude: 47.2530088
+longitude: 8.6957821
+postcode: "8708"
 city: Männedorf
 street: "Alte Landstrasse"
 housenumber: 262
 phone: "+41 44 921 60 40"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Fr 08:00-20:00, Sa 07:30-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-maennedorf"

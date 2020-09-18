@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.047350900000005
 longitude: 8.3055429
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Kauffmannweg"
 housenumber: 8

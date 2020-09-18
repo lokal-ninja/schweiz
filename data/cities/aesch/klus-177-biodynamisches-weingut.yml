@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.466121400000006
 longitude: 7.5772548
-postcode: 4147
+postcode: "4147"
 city: Aesch
 street: "Klusstrasse"
 housenumber: 177

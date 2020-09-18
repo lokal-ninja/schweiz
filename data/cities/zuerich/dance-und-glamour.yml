@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.368602
 longitude: 8.5008509
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 431

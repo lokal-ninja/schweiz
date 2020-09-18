@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.4421581
 longitude: 8.6282127
-postcode: 8303
+postcode: "8303"
 city: Bassersdorf
 street: "Bahnhofstrasse"
 housenumber: 1

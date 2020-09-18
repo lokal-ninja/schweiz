@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.3501489
 longitude: 8.051528900000001
-postcode: 5036
+postcode: "5036"
 city: Oberentfelden
 street: "Industriestrasse"
 housenumber: 43

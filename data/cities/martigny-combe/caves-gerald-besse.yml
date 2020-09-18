@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 46.0819071
 longitude: 7.0479927
-postcode: 1921
+postcode: "1921"
 city: Martigny-Combe
 street: "Route de la Combe"
 housenumber: 

@@ -1,9 +1,9 @@
 id: 340229986
 type: node
-shop: Zeitungen
+shop: Kiosk
 latitude: 47.421682700000005
 longitude: 8.5498597
-postcode: 8052
+postcode: "8052"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 509

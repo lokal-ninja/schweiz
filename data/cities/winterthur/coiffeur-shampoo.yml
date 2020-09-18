@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4998262
 longitude: 8.7333578
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "General-Guisan-Strasse"
 housenumber: 43

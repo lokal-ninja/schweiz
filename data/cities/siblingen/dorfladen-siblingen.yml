@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.71476070000001
 longitude: 8.5176321
-postcode: 8225
+postcode: "8225"
 city: Siblingen
 street: "Hauptstrasse"
 housenumber: 70A

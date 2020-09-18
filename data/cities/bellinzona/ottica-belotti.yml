@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.191046400000005
 longitude: 9.0215371
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Piazza Teatro"
 housenumber: 

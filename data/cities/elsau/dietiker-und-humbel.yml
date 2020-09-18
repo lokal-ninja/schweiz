@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.502273
 longitude: 8.784453800000001
-postcode: 8352
+postcode: "8352"
 city: Elsau
 street: "Im Halbiacker"
 housenumber: 5a

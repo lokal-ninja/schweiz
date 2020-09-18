@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6997422
 longitude: 10.0939718
-postcode: 7530
+postcode: "7530"
 city: Zernez
 street: "Via Sura"
 housenumber: 

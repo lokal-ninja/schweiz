@@ -1,12 +1,12 @@
-id: 4860115697
+id: 7494365347
 type: node
 shop: Kleidung
-latitude: 47.386493200000004
-longitude: 8.499056900000001
-postcode: 8048
+latitude: 47.557737700000004
+longitude: 7.588517100000001
+postcode: "4001"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Freie Strasse"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.wefashion.ch/"

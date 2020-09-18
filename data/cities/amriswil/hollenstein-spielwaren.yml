@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.5461638
 longitude: 9.3016611
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Romanshornerstrasse"
 housenumber: 10

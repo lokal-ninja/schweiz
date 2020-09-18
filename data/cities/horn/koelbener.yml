@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4956538
 longitude: 9.463539800000001
-postcode: 9326
+postcode: "9326"
 city: Horn
 street: "Seestrasse"
 housenumber: 77

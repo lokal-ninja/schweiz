@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.1520286
 longitude: 7.281874800000001
-postcode: 2504
+postcode: "2504"
 city: Biel/Bienne
 street: "Längfeldweg"
 housenumber: 97

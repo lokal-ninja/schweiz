@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.401556600000006
 longitude: 8.1279856
-postcode: 5102
+postcode: "5102"
 city: Rupperswil
 street: "Dorfstrasse"
 housenumber: 12

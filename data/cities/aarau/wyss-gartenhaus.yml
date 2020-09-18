@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.3985451
 longitude: 8.065536100000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Neumattstrasse"
 housenumber: 7

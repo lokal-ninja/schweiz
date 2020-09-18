@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6593972
 longitude: 8.860606800000001
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: ""
 housenumber: 

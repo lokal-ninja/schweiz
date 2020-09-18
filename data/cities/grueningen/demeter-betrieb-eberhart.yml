@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2907023
 longitude: 8.7595358
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Roggesbüel"
 housenumber: 2

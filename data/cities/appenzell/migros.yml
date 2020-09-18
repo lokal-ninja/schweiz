@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.334867
 longitude: 9.406876200000001
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Zielstrasse"
 housenumber: 42

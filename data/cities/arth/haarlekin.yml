@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0629441
 longitude: 8.5222517
-postcode: 6415
+postcode: "6415"
 city: Arth
 street: "Gotthardstrasse"
 housenumber: 10

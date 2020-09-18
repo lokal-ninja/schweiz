@@ -1,12 +1,12 @@
-id: 7283569730
+id: 2440101426
 type: node
-shop: Kiosk
-latitude: 47.692842500000005
-longitude: 8.6232822
-postcode: 8200
+shop: Lebensmittel
+latitude: 47.7029884
+longitude: 8.6454584
+postcode: "8200"
 city: Schaffhausen
-street: "Mühlenstrasse"
-housenumber: 96
-phone: "0041792848830"
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-schaffhausen-rheinfall/?_o=sl"
+street: "Grubenstrasse"
+housenumber: 80
+phone: ""
+opening_hours: "Mo-Su 06:00-22:00"
+website: "https://www.migrolino.ch/de/standorte/socar-schaffhausen-grubenstrasse/"

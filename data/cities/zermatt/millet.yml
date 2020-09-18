@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.022078400000005
 longitude: 7.7475044
-postcode: 3920
+postcode: "3920"
 city: Zermatt
 street: "Hofmattstrasse"
 housenumber: 2

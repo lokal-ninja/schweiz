@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.524055700000005
 longitude: 8.788488000000001
-postcode: 8542
+postcode: "8542"
 city: Wiesendangen
 street: "Attikerstrasse"
 housenumber: 12

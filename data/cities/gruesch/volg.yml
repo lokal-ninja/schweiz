@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9816316
 longitude: 9.6482188
-postcode: 7214
+postcode: "7214"
 city: Grüsch
 street: "Landstrass"
 housenumber: 

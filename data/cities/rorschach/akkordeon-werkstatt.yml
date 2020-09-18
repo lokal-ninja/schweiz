@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.4775288
 longitude: 9.4891967
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Kirchstrasse"
 housenumber: 52

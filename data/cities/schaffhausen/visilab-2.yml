@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.697477400000004
 longitude: 8.6334937
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Fronwagplatz"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.373465200000005
 longitude: 8.524775
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Grüngasse"
 housenumber: 21

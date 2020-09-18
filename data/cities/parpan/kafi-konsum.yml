@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 46.760262100000006
 longitude: 9.5577874
-postcode: 7075
+postcode: "7076"
 city: Parpan
 street: "Hauptstrasse"
-housenumber: 23
+housenumber: 23b
 phone: ""
 opening_hours: ""
 website: ""

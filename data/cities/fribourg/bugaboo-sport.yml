@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.8059682
 longitude: 7.1628971
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Rue du Pont-Suspendu"
 housenumber: 4

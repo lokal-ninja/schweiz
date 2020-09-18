@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 46.8890722
 longitude: 7.3675503
-postcode: 3145
+postcode: "3145"
 city: Niederscherli
 street: "Oberriedgässli"
 housenumber: 6

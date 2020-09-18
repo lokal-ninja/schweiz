@@ -1,12 +1,12 @@
-id: 3622702536
+id: 3906395211
 type: node
-shop: Einkaufszentrum
-latitude: 47.034088100000005
-longitude: 8.2693685
-postcode: 6010
+shop: Supermarkt
+latitude: 47.0336981
+longitude: 8.2828336
+postcode: "6010"
 city: Kriens
-street: "Obernauerstrasse"
-housenumber: 
+street: "Luzernerstrasse"
+housenumber: 28-30
 phone: ""
 opening_hours: ""
 website: ""

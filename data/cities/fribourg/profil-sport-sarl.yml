@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.7939987
 longitude: 7.143467500000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Route de la Glâne"
 housenumber: 26A

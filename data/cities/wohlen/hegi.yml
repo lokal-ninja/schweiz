@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.357714
 longitude: 8.2711944
-postcode: 5610
+postcode: "5610"
 city: Wohlen
 street: "Schützenmattweg"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4592625
 longitude: 7.8369992
-postcode: 4461
+postcode: "4461"
 city: Böckten
 street: "Vogelsangweg"
 housenumber: 15

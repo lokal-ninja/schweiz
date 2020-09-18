@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.011892800000005
 longitude: 8.9674668
-postcode: 6962
+postcode: "6962"
 city: Viganello
 street: "Via Guggirolo"
 housenumber: 2

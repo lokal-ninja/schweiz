@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3256406
 longitude: 8.178421400000001
-postcode: 5705
+postcode: "5705"
 city: Hallwil
 street: "Rebenhübel"
 housenumber: 156

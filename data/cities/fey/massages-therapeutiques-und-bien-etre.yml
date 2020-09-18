@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 46.6752765
 longitude: 6.681208000000001
-postcode: 1044
+postcode: "1044"
 city: Fey
 street: "Rue de la Mécanique"
 housenumber: 6

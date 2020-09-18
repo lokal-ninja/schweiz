@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8219937
 longitude: 7.3479611
-postcode: 3150
+postcode: "3150"
 city: Schwarzenburg
 street: "Ringgenmatt"
 housenumber: 6

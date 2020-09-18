@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.5173527
 longitude: 6.5042742
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Avenue de Plan"
 housenumber: 

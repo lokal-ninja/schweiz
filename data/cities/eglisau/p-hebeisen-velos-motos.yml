@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5725825
 longitude: 8.5229207
-postcode: 8193
+postcode: "8193"
 city: Eglisau
 street: "Zürcherstrasse"
 housenumber: 17

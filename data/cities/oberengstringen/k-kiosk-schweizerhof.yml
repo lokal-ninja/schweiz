@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.4106268
 longitude: 8.457989600000001
-postcode: 8102
+postcode: "8102"
 city: Oberengstringen
 street: "Zürcherstrasse"
 housenumber: 149

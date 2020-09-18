@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.987281100000004
 longitude: 7.3863674
-postcode: 3043
+postcode: "3043"
 city: Uettligen
 street: "Ortschwabenstrasse"
 housenumber: 4

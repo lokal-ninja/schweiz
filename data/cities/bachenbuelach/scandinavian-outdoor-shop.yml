@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.500523900000005
 longitude: 8.5451051
-postcode: 8184
+postcode: "8184"
 city: Bachenbülach
 street: "Zürichstrasse"
 housenumber: 22

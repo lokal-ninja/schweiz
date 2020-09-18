@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.252855600000004
 longitude: 7.6510942
-postcode: 4537
+postcode: "4537"
 city: Wiedlisbach
 street: "Baselstrasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.3887986
 longitude: 8.4943592
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Hohlstrasse"
 housenumber: 489

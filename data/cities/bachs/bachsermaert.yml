@@ -3,7 +3,7 @@ type: way
 shop: Bioladen
 latitude: 47.5267732
 longitude: 8.4384712
-postcode: 8164
+postcode: "8164"
 city: Bachs
 street: "Bachsertalstrasse"
 housenumber: 14

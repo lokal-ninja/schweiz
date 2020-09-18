@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.294865400000006
 longitude: 8.564190100000001
-postcode: 8800
+postcode: "8800"
 city: Thalwil
 street: "Gotthardstrasse"
 housenumber: 17

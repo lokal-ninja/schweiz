@@ -3,7 +3,7 @@ type: node
 shop: Partyzubehör
 latitude: 47.3904902
 longitude: 8.4799483
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 742

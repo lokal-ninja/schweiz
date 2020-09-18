@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.4199682
 longitude: 8.5044691
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Wehntalerstrasse"
 housenumber: 574

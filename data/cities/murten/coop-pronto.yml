@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.9373586
 longitude: 7.141765100000001
-postcode: 3280
+postcode: "3280"
 city: Murten
 street: "Löwenberg"
 housenumber: 48

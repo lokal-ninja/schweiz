@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.501394700000006
 longitude: 7.852288100000001
-postcode: 4463
+postcode: "4463"
 city: Buus
 street: "Leimen"
 housenumber: 7

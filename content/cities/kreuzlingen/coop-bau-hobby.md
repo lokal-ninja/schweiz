@@ -1,4 +1,4 @@
 ---
-title: "Coop Bau + Hobby"
+title: "Coop Bau+Hobby"
 url: /kreuzlingen/coop-bau-hobby/
 ---

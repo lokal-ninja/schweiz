@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.413214800000006
 longitude: 9.2484736
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "Bedastrasse"
 housenumber: 3

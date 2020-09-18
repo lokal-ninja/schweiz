@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.1968893
 longitude: 9.308341
-postcode: 9657
+postcode: "9657"
 city: Unterwasser
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.3544805
 longitude: 8.057362600000001
-postcode: 5036
+postcode: "5036"
 city: Oberentfelden
 street: "Ausserfeldstrasse"
 housenumber: 20

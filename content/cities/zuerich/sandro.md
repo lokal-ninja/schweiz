@@ -1,4 +1,4 @@
 ---
-title: "sandro"
+title: "Sandro"
 url: /zuerich/sandro/
 ---

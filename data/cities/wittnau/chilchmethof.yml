@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.480419600000005
 longitude: 7.9681809
-postcode: 5064
+postcode: "5064"
 city: Wittnau
 street: "Chilchmethof"
 housenumber: 430

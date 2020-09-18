@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3853012
 longitude: 8.5290289
-postcode: 
+postcode: ""
 city: Zürich
 street: "Heinrichstrasse"
 housenumber: 95

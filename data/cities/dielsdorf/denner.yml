@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.480122200000004
 longitude: 8.4634119
-postcode: 8175
+postcode: "8175"
 city: Dielsdorf
 street: "Ruchwiesenstrasse"
 housenumber: 2

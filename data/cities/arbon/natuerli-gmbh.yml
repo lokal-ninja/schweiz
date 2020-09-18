@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.515526
 longitude: 9.436116700000001
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Hauptstrasse"
 housenumber: 5

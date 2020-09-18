@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.499318800000005
 longitude: 8.7292156
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Kirchplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 46.836343
 longitude: 7.5115087
-postcode: 3126
+postcode: "3126"
 city: Gelterfingen
 street: "Moos"
 housenumber: 72

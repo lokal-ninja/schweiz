@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.408777300000004
 longitude: 8.5448575
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Baumackerstrasse"
 housenumber: 24

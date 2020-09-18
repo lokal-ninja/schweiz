@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.873669400000004
 longitude: 7.5601311
-postcode: 3110
+postcode: "3110"
 city: Münsingen
 street: "Alte Bahnhofstrasse"
 housenumber: 13

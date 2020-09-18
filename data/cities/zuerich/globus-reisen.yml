@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 47.3759049
 longitude: 8.536746200000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Usteristrasse"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: ""
+website: "https://www.hotelplan.ch/globus-reisen-zuerich"

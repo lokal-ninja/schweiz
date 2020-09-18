@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.354601800000005
 longitude: 8.5577322
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Seefeldstrasse"
 housenumber: 187

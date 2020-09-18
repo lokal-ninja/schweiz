@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4056761
 longitude: 8.5377686
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Hofwiesenstrasse"
 housenumber: 250

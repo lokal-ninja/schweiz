@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.4805585
 longitude: 8.4856365
-postcode: 8155
+postcode: "8155"
 city: Niederhasli
 street: "Dorfstrasse"
 housenumber: 13a

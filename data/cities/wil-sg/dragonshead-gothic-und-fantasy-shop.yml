@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.461831700000005
 longitude: 9.0413891
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Säntisstrasse"
 housenumber: 2a

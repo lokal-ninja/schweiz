@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.321439500000004
 longitude: 9.430794800000001
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Pöppelstrasse"
 housenumber: 4

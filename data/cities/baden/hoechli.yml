@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4759803
 longitude: 8.3065344
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Langhaus"
 housenumber: 1

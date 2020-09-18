@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.6056157
 longitude: 6.232579800000001
-postcode: 1347
+postcode: "1347"
 city: Le Sentier
 street: "Route Neuve"
 housenumber: 12

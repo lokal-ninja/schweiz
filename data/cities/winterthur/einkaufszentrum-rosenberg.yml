@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.5192314
 longitude: 8.719950500000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Schaffhauserstrasse"
 housenumber: 152

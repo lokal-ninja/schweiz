@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1894396
 longitude: 7.7915257
-postcode: 4932
+postcode: "4932"
 city: Lotzwil
 street: "Huttwilstrasse"
 housenumber: 24

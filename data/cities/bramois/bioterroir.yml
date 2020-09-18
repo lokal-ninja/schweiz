@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 46.2379693
 longitude: 7.3955222
-postcode: 1967
+postcode: "1967"
 city: Bramois
 street: "Route de Préjeux"
 housenumber: 17

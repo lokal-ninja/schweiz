@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.475666800000006
 longitude: 7.8142991
-postcode: 4450
+postcode: "4450"
 city: Sissach
 street: "Fluhberg"
 housenumber: 19

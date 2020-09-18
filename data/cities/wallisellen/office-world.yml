@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4080914
 longitude: 8.594591000000001
-postcode: 8301
+postcode: "8301"
 city: Wallisellen
 street: "Neue Winterthurerstrasse"
 housenumber: 99

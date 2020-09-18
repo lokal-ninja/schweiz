@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.394330100000005
 longitude: 8.529813500000001
-postcode: 8037
+postcode: "8037"
 city: Zürich
 street: "Scheffelstrasse"
 housenumber: 16

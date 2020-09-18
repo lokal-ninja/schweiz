@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.876588600000005
 longitude: 6.9574499
-postcode: 1565
+postcode: "1565"
 city: Vallon
 street: "Carignan"
 housenumber: 2

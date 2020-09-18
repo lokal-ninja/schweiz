@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 47.3286211
 longitude: 7.222631000000001
-postcode: 2854
+postcode: "2854"
 city: Bassecourt
 street: "Berlincourt"
 housenumber: 89

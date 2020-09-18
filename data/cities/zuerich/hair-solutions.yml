@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4138735
 longitude: 8.539439
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Max-Bill-Platz"
 housenumber: 7

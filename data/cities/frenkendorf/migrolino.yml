@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.501427
 longitude: 7.7191958000000005
-postcode: 4402
+postcode: "4402"
 city: Frenkendorf
 street: "Güterstrasse"
-housenumber: 
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00, So 07:00-23:00"
-website: ""
+opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
+website: "https://www.migrolino.ch/de/standorte/migrolino-frenkendorf/"

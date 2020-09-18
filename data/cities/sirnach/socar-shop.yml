@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4641874
 longitude: 8.9935458
-postcode: 8370
+postcode: "8370"
 city: Sirnach
 street: "Flurstrasse"
 housenumber: 8

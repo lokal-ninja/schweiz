@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.426000200000004
 longitude: 8.5471195
-postcode: 8052
+postcode: "8052"
 city: Zürich
 street: "Glatttalstrasse"
 housenumber: 75

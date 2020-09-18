@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.371879500000006
 longitude: 8.540065100000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Augustinergasse"
 housenumber: 14

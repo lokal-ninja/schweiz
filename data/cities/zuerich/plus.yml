@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.4048345
 longitude: 8.5719429
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Saatlenstrasse"
 housenumber: 12

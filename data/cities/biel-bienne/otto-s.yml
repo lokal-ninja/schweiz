@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1442716
 longitude: 7.251223
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Rue Georg-Friedrich-Heilmann / Georg-Friedrich-Heilmann-Strasse"
 housenumber: 39

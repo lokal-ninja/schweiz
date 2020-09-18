@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.061035600000004
 longitude: 7.6239439
-postcode: 3400
+postcode: "3400"
 city: Burgdorf
 street: "Kirchbergstrasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.258408100000004
 longitude: 8.8480474
-postcode: 8630
+postcode: "8630"
 city: Rüti
 street: "Rapperswilerstrasse"
 housenumber: 9

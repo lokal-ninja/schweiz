@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.413662200000005
 longitude: 8.1653868
-postcode: 5103
+postcode: "5103"
 city: Wildegg
 street: "Lenzburgerstrasse"
 housenumber: 12

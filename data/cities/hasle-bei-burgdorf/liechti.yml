@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.0159837
 longitude: 7.652114
-postcode: 3415
+postcode: "3415"
 city: Hasle bei Burgdorf
 street: "Dorfstrasse"
 housenumber: 13

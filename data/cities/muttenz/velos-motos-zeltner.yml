@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5242032
 longitude: 7.6457417
-postcode: 4132
+postcode: "4132"
 city: Muttenz
 street: "Hauptstrasse"
 housenumber: 31

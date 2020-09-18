@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1272643
 longitude: 8.746488600000001
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Hauptstrasse"
 housenumber: 35

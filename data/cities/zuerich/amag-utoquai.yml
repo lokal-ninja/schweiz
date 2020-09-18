@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3623515
 longitude: 8.5477223
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Utoquai"
 housenumber: 47/49

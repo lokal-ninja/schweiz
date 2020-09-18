@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5312302
 longitude: 9.8728833
-postcode: 7503
+postcode: "7503"
 city: Samedan
 street: "Cho d'Punt"
 housenumber: 10

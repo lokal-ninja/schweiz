@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.5614049
 longitude: 7.5738336
-postcode: 4055
+postcode: "4055"
 city: Basel
 street: "Spalenring"
 housenumber: 6

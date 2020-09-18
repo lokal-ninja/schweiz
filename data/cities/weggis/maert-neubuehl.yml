@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.0338617
 longitude: 8.425803
-postcode: 6353
+postcode: "6353"
 city: Weggis
 street: "Luzernerstrasse"
 housenumber: 44

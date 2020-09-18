@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.184372100000004
 longitude: 8.0128494
-postcode: 6243
+postcode: "6243"
 city: Egolzwil
 street: "Kirchmatt"
 housenumber: 10

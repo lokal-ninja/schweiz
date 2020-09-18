@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.289923900000005
 longitude: 7.9428334000000005
-postcode: 4800
+postcode: "4800"
 city: Zofingen
 street: "Untere Grabenstrasse"
 housenumber: 14

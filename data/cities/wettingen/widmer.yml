@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.4627076
 longitude: 8.3142908
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Seminarstrasse"
 housenumber: 77

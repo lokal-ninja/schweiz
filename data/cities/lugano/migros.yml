@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.991315400000005
 longitude: 8.9435175
-postcode: 
+postcode: ""
 city: Lugano
 street: ""
 housenumber: 

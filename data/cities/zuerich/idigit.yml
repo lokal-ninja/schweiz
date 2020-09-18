@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.4030234
 longitude: 8.546873
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 239

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3714809
 longitude: 8.0028491
-postcode: 5012
+postcode: "5012"
 city: Schönenwerd
 street: "Schmiedengasse"
 housenumber: 1

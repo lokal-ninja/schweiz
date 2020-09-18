@@ -1,12 +1,12 @@
-id: 4379763122
+id: 6063274102
 type: node
 shop: Tiere
-latitude: 47.4962249
-longitude: 8.7551995
-postcode: 8404
+latitude: 47.495314900000004
+longitude: 8.7506391
+postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 24
+street: "Scheideggstrasse"
+housenumber: 35
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: "https://www.fressnapf.ch/"

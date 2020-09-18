@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2639804
 longitude: 8.4293858
-postcode: 8912
+postcode: "8912"
 city: Obfelden
 street: "Dorfstrasse"
 housenumber: 46

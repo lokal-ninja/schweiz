@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.399640000000005
 longitude: 9.6386078
-postcode: 9443
+postcode: "9443"
 city: Widnau
 street: "Diepoldsauerstrasse"
 housenumber: 15

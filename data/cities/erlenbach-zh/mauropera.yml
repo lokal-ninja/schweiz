@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.304809000000006
 longitude: 8.5912287
-postcode: 8703
+postcode: "8703"
 city: Erlenbach (ZH)
 street: "Bahnhofstrasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3683094
 longitude: 8.494906400000001
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Triemlistrasse"
 housenumber: 181

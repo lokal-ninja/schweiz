@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.828485900000004
 longitude: 9.2880426
-postcode: 7018
+postcode: "7018"
 city: Flims-Waldhaus
 street: "Promenada"
 housenumber: 33

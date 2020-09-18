@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.989060200000004
 longitude: 6.9019801
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue des Draizes"
 housenumber: 51

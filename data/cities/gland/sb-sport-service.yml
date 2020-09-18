@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.4153059
 longitude: 6.273543
-postcode: 1196
+postcode: "1196"
 city: Gland
 street: "Avenue du Mont-Blanc"
 housenumber: 37

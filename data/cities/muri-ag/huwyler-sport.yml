@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.264356400000004
 longitude: 8.341984700000001
-postcode: 5630
+postcode: "5630"
 city: Muri (AG)
 street: "Aettenbergstrasse"
 housenumber: 6

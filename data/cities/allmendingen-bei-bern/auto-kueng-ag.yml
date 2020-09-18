@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.915862000000004
 longitude: 7.520803300000001
-postcode: 3112
+postcode: "3112"
 city: Allmendingen bei Bern
 street: "Thunstrasse"
 housenumber: 16

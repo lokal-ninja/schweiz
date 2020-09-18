@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.957222300000005
 longitude: 7.443812200000001
-postcode: 3013
+postcode: "3013"
 city: Bern
 street: ""
 housenumber: 

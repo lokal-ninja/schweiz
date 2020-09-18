@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.429712
 longitude: 8.9638735
-postcode: 8374
+postcode: "8374"
 city: Dussnang
 street: "Kurhausstrasse"
 housenumber: 25

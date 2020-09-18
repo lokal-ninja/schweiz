@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4370988
 longitude: 9.195501400000001
-postcode: 9203
+postcode: "9203"
 city: Niederwil SG
 street: "Ergeten"
 housenumber: 10

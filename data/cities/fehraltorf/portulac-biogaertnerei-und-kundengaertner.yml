@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.386703000000004
 longitude: 8.738155
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Eggwisenstrasse"
 housenumber: 1

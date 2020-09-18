@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 46.621707300000004
 longitude: 8.0184473
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: "Kirchbodenstrasse"
 housenumber: 25

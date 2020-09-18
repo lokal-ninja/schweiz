@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.926897800000006
 longitude: 7.4353075
-postcode: 3095
+postcode: "3095"
 city: Köniz
 street: "Bellevuestrasse"
 housenumber: 56

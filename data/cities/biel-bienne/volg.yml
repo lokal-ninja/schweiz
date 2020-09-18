@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1469609
 longitude: 7.282176300000001
-postcode: 2504
+postcode: "2504"
 city: Biel/Bienne
 street: "Büttenbergstrasse"
 housenumber: 39

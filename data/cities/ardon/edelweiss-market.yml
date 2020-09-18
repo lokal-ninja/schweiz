@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2105775
 longitude: 7.2546024000000005
-postcode: 1957
+postcode: "1957"
 city: Ardon
 street: "Rue du Châble"
 housenumber: 19

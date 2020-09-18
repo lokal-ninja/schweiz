@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 45.9171988
 longitude: 8.9854994
-postcode: 6818
+postcode: "6818"
 city: Melano
 street: "Via Cantonale"
 housenumber: 3

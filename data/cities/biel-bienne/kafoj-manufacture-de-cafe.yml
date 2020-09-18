@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.141049300000006
 longitude: 7.246215100000001
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Kirchgässli"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4463026
 longitude: 7.558752200000001
-postcode: 4224
+postcode: "4224"
 city: Nenzlingen
 street: "Hauptstrasse"
 housenumber: 29

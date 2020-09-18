@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.0012477
 longitude: 8.9777073
-postcode: 6976
+postcode: "6976"
 city: Lugano
 street: "Contrada Vecchio Municipio"
 housenumber: 1

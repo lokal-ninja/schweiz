@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.180329900000004
 longitude: 7.8066876
-postcode: 3924
+postcode: "3924"
 city: St. Niklaus
 street: "Eya"
 housenumber: 61

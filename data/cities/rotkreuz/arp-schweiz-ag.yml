@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.1464483
 longitude: 8.4327688
-postcode: 6343
+postcode: "6343"
 city: Rotkreuz
 street: "Birkenstrasse"
 housenumber: 43b

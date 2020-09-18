@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2536326
 longitude: 8.7694319
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Hof Breitlen"
 housenumber: 5

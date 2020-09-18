@@ -1,12 +1,12 @@
 id: 671908257
 type: node
 shop: Supermarkt
-latitude: 46.943087000000006
-longitude: 7.426433
-postcode: 3007
+latitude: 46.9430804
+longitude: 7.426461400000001
+postcode: "3007"
 city: Bern
 street: "Brunnmattstrasse"
 housenumber: 44
 phone: ""
-opening_hours: "Mo-We 14:00-18:30; Th-Fr 10:00-12:00, 14:00-18:30; Sa 10:00-14:00; Su off"
+opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00"
 website: "https://www.caritas-bern.ch/was-wir-tun/caritas-markt-guenstig-und-gesund"

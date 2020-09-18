@@ -1,4 +1,4 @@
 ---
-title: " EP Plüss GmbH"
+title: "EP Plüss GmbH"
 url: /safenwil/ep-pluess-gmbh/
 ---

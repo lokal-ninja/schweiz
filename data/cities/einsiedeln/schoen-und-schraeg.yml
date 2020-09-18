@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.126909500000004
 longitude: 8.7480142
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Hauptstrasse"
 housenumber: 54

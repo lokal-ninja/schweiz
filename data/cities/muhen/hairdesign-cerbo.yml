@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.3293752
 longitude: 8.0555295
-postcode: 5037
+postcode: "5037"
 city: Muhen
 street: "Hauptstrasse"
 housenumber: 60

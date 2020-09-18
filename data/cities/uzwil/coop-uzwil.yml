@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4357823
 longitude: 9.1383878
-postcode: 9240
+postcode: "9240"
 city: Uzwil
 street: "Wattstrasse"
 housenumber: 1

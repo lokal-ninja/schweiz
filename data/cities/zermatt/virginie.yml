@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.0191327
 longitude: 7.7455940000000005
-postcode: 3920
+postcode: "3920"
 city: Zermatt
 street: "Oberdorfstrasse"
 housenumber: 9

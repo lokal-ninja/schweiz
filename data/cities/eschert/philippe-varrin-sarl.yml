@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2790236
 longitude: 7.394002800000001
-postcode: 2743
+postcode: "2743"
 city: Eschert
 street: "Route Principale"
 housenumber: 9

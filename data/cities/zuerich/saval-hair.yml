@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.369624
 longitude: 8.5206861
-postcode: 
+postcode: ""
 city: Zürich
 street: "Zurlindenstrasse"
 housenumber: 58

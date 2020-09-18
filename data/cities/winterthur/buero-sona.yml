@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.504582400000004
 longitude: 8.7551743
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Talwiesenstrasse"
 housenumber: 1

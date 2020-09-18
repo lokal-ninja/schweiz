@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.7134015
 longitude: 6.3815755
-postcode: 1337
+postcode: "1337"
 city: Vallorbe
 street: "Rue des Eterpaz"
 housenumber: 5a

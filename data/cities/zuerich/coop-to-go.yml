@@ -1,12 +1,12 @@
-id: 4847512312
+id: 4424654351
 type: node
 shop: Lebensmittel
-latitude: 47.3827233
-longitude: 8.5297563
-postcode: 8005
+latitude: 47.378877900000006
+longitude: 8.53956
+postcode: "8001"
 city: Zürich
-street: "Neugasse"
-housenumber: 50-52
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00; Sa 07:00-22:00"
+opening_hours: "Mo-Fr 05:00-22:00; Sa-Su 07:00-22:00"
 website: ""

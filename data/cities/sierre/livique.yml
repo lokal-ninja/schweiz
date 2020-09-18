@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.2805606
 longitude: 7.509953500000001
-postcode: 3960
+postcode: "3960"
 city: Sierre
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.636794200000004
 longitude: 6.8331565
-postcode: 1670
+postcode: "1670"
 city: Ursy
 street: "Route de Moudon"
 housenumber: 30

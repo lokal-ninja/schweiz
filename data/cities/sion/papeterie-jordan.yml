@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.230476200000005
 longitude: 7.363833100000001
-postcode: 1951
+postcode: "1951"
 city: Sion
 street: "Rue de la Dixence"
 housenumber: 21

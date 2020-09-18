@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.367331300000004
 longitude: 8.547347
-postcode: 
+postcode: "8001"
 city: Zürich
 street: "Stadelhoferstrasse"
 housenumber: 28
 phone: "+41 44 281 92 92"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:30-17:00"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 07:30-16:00"
 website: "https://www.johnbaker.ch/"

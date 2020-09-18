@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.225718300000004
 longitude: 8.9429864
-postcode: 8716
+postcode: "8716"
 city: Schmerikon
 street: "Hauptstrasse"
 housenumber: 29

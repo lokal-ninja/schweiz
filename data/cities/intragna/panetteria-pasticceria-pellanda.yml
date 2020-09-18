@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.176721500000006
 longitude: 8.701296600000001
-postcode: 6655
+postcode: "6655"
 city: Intragna
 street: ""
 housenumber: 

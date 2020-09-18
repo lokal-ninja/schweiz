@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.108841700000006
 longitude: 7.9271085
-postcode: 3906
+postcode: "3906"
 city: Saas-Fee
 street: "Obere Dorfstrasse"
 housenumber: 43

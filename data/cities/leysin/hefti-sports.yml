@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.347179700000005
 longitude: 7.017541700000001
-postcode: 1854
+postcode: "1854"
 city: Leysin
 street: "Route du Belvédère"
 housenumber: 3

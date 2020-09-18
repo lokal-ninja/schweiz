@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.16227060000001
 longitude: 9.473071200000001
-postcode: 9470
+postcode: "9470"
 city: Buchs
 street: "Groffeldstrasse"
 housenumber: 11

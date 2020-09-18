@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4970804
 longitude: 8.7271938
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Turmhaldenstrasse"
 housenumber: 6

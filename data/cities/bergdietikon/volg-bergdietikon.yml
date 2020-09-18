@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.390802400000005
 longitude: 8.3894635
-postcode: 8962
+postcode: "8962"
 city: Bergdietikon
 street: "Bergstrasse"
 housenumber: 37

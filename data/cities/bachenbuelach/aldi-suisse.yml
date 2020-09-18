@@ -1,12 +1,12 @@
 id: 5274374491
 type: node
 shop: Supermarkt
-latitude: 47.504513200000005
-longitude: 8.543118
-postcode: 8184
+latitude: 47.505531500000004
+longitude: 8.540344600000001
+postcode: "8184"
 city: Bachenbülach
 street: "Grabenstrasse"
-housenumber: 1
+housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-suisse.ch"

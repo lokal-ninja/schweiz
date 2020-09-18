@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.448092800000005
 longitude: 7.764142700000001
-postcode: 4433
+postcode: "4433"
 city: Ramlinsburg
 street: "Eggstrasse"
 housenumber: 9

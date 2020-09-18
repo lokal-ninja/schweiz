@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.992815400000005
 longitude: 6.9255613
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue de l'Ecluse"
 housenumber: 30 - 38

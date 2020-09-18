@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.2076353
 longitude: 6.144271000000001
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Rue Lissignol"
 housenumber: 10

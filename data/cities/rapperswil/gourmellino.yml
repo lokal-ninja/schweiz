@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2257149
 longitude: 8.817382700000001
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Alpenstrasse"
 housenumber: 3

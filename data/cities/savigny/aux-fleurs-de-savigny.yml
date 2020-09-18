@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.5381182
 longitude: 6.732535100000001
-postcode: 1073
+postcode: "1073"
 city: Savigny
 street: "Route d'Oron"
 housenumber: 2

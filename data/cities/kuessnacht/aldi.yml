@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.10717
 longitude: 8.4501896
-postcode: 6403
+postcode: "6403"
 city: Küssnacht
 street: "Zugerstrasse"
 housenumber: 66

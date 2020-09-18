@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.1661769
 longitude: 8.9995857
-postcode: 6528
+postcode: "6528"
 city: Camorino
 street: "In Tirada"
 housenumber: 5

@@ -1,12 +1,12 @@
-id: 4005509089
+id: 659662619
 type: node
 shop: Raumausstattung
-latitude: 47.3722987
-longitude: 8.523721
-postcode: 8004
+latitude: 47.374573600000005
+longitude: 8.5218453
+postcode: "8004"
 city: Zürich
-street: "Freyastrasse"
-housenumber: 21
+street: "Badenerstrasse"
+housenumber: 156
 phone: ""
-opening_hours: "Tu-Fr 11:30-18:30; Sa 11:00-17:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
 website: "http://www.editionpopulaire.ch/"

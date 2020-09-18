@@ -1,12 +1,12 @@
-id: 4838594348
+id: 5026288937
 type: node
 shop: Kleidung
-latitude: 47.3884358
-longitude: 8.4870949
-postcode: 8048
+latitude: 47.3864443
+longitude: 8.499036
+postcode: "8048"
 city: Zürich
-street: "Altstetterstrasse"
-housenumber: 145
+street: "Baslerstrasse"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
+opening_hours: ""
 website: "https://www.zebrafashion.com/"

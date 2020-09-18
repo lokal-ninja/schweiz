@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.5002708
 longitude: 8.7306158
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Stadthausstrasse"
 housenumber: 41

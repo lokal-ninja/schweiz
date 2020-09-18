@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 46.164493
 longitude: 6.0973515
-postcode: 1258
+postcode: "1258"
 city: Perly
 street: "Route de Base"
 housenumber: 45

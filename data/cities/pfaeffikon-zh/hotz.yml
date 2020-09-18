@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.3668254
 longitude: 8.782814100000001
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon ZH
 street: "Hochstrasse"
 housenumber: 6

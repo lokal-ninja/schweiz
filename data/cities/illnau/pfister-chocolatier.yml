@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 47.4109501
 longitude: 8.7236659
-postcode: 8308
+postcode: "8308"
 city: Illnau
 street: "Kempttalstrasse"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.5852936
 longitude: 7.9614523
-postcode: 3823
+postcode: "3823"
 city: Kleine Scheidegg
 street: "Kleine Scheidegg"
 housenumber: 354 D

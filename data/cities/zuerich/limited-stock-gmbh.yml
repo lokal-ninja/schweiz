@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.3722001
 longitude: 8.5455073
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Spiegelgasse"
 housenumber: 22

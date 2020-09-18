@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.358151500000005
 longitude: 8.5180317
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Giesshübelstrasse"
 housenumber: 65

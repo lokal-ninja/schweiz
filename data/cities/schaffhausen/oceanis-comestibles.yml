@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.699678500000005
 longitude: 8.6319393
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Mühlentalstrasse"
 housenumber: 4

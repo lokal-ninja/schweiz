@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8225556
 longitude: 7.3021
-postcode: 1714
+postcode: "1714"
 city: Heitenried
 street: "Spisi"
 housenumber: 9

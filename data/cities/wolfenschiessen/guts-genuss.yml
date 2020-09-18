@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.9083532
 longitude: 8.3963388
-postcode: 6386
+postcode: "6386"
 city: Wolfenschiessen
 street: "Kirchweg"
 housenumber: 3

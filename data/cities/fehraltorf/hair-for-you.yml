@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3859136
 longitude: 8.7512256
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Bahnhofstrasse"
 housenumber: 12

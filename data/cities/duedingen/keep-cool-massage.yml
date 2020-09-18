@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 46.848156
 longitude: 7.190449800000001
-postcode: 3186
+postcode: "3186"
 city: Düdingen
 street: "Hauptstrasse"
 housenumber: 20

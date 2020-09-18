@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.3749321
 longitude: 8.0779946
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Mittlere Dorfstrasse"
 housenumber: 2

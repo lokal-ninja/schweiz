@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4094793
 longitude: 8.545904400000001
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Welchogasse"
 housenumber: 4

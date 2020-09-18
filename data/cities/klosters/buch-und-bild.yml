@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.8669968
 longitude: 9.882112900000001
-postcode: 7250
+postcode: "7250"
 city: Klosters
 street: "Alte Bahnhofstrasse"
 housenumber: 3

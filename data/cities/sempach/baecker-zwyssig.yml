@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.136186200000004
 longitude: 8.191229700000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Stadtstrasse"
 housenumber: 20

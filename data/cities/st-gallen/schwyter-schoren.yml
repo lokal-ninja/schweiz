@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4258315
 longitude: 9.360906
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Schorenstrasse"
 housenumber: 42

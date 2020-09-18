@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.404703500000004
 longitude: 8.5751383
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Winterthurerstrasse"
 housenumber: 557

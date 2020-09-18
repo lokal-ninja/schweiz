@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.204143900000005
 longitude: 6.2400017000000005
-postcode: 74100
+postcode: "74100"
 city: Ville-la-Grand
 street: "Rue Albert Hénon"
 housenumber: 3

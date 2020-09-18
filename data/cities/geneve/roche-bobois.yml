@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.2030571
 longitude: 6.1519538
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue de la Tour-Maîtresse"
 housenumber: 1

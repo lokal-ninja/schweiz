@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.986998400000004
 longitude: 8.3110909
-postcode: 6052
+postcode: "6052"
 city: Hergiswil (NW)
 street: "Schulhausstrasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.3686341
 longitude: 8.7796233
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon
 street: "Kempttalstrasse"
 housenumber: 48

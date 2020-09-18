@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 46.2051929
 longitude: 6.143384800000001
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue de la Tour de l'Ile"
 housenumber: 4

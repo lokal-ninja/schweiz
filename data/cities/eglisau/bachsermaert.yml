@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.576445
 longitude: 8.5220736
-postcode: 8193
+postcode: "8193"
 city: Eglisau
 street: "Obergass"
 housenumber: 1

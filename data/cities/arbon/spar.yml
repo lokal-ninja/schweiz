@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5197555
 longitude: 9.4238324
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Romanshornerstrasse"
 housenumber: 60

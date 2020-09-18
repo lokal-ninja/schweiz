@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.422448700000004
 longitude: 8.539838300000001
-postcode: 
+postcode: "8052"
 city: Zürich
 street: "Seebacherstrasse"
-housenumber: 
+housenumber: 100
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.mad-hair-ingold.ch/"

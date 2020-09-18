@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2984924
 longitude: 9.087571500000001
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Bahnhofstrasse"
 housenumber: 20

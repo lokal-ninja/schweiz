@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.3796576
 longitude: 8.4891156
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Freilagerstrasse"
 housenumber: 55

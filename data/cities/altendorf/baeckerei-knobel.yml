@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.192410300000006
 longitude: 8.830905300000001
-postcode: 8852
+postcode: "8852"
 city: Altendorf
 street: "Churerstrasse"
 housenumber: 3

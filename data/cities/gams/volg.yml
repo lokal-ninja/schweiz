@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2039424
 longitude: 9.4425991
-postcode: 9473
+postcode: "9473"
 city: Gams
 street: "Haagerstrasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.231813800000005
 longitude: 8.6610604
-postcode: 8820
+postcode: "8820"
 city: Wädenswil
 street: "Muslistrasse"
 housenumber: 1

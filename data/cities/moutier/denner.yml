@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.278373
 longitude: 7.3702934
-postcode: 2740
+postcode: "2740"
 city: Moutier
 street: "Rue du Moulin"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.382292500000005
 longitude: 9.070687600000001
-postcode: 9601
+postcode: "9601"
 city: Lütisburg Station
 street: "Lerchenfeld"
 housenumber: 2014

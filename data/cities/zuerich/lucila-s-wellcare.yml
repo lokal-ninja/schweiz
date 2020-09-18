@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 47.3587818
 longitude: 8.527105500000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Waffenplatzstrasse"
 housenumber: 53
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-18:30"
 website: ""

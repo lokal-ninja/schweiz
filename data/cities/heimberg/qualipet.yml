@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 46.780076900000005
 longitude: 7.6074552
-postcode: 3627
+postcode: "3627"
 city: Heimberg
 street: "Blümlisalpstrasse"
 housenumber: 42

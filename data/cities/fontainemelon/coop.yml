@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0575324
 longitude: 6.8933511
-postcode: 
+postcode: ""
 city: Fontainemelon
 street: "Avenue Robert"
 housenumber: 

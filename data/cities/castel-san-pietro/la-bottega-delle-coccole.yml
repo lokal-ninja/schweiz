@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.8614601
 longitude: 9.0095872
-postcode: 6874
+postcode: "6874"
 city: Castel San Pietro
 street: "Via Fontana"
 housenumber: 7

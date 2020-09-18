@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3824654
 longitude: 8.2439883
-postcode: 5605
+postcode: "5605"
 city: Dottikon
 street: "Wohlerstrasse"
 housenumber: 8

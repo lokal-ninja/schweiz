@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.412370100000004
 longitude: 9.442218800000001
-postcode: 9042
+postcode: "9042"
 city: Speicher
 street: "Dorf"
 housenumber: 5

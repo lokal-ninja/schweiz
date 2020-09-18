@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.544100500000006
 longitude: 9.2760028
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Im Vorland"
 housenumber: 3a

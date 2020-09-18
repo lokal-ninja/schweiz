@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0900704
 longitude: 8.4004394
-postcode: 6044
+postcode: "6044"
 city: Udligenswil
 street: "Dorfstrasse"
 housenumber: 3

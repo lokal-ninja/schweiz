@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.824940500000004
 longitude: 7.501328600000001
-postcode: 3128
+postcode: "3128"
 city: Kirchenthurnen
 street: "Hellgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.966087
 longitude: 6.859835800000001
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue Haute"
 housenumber: 19

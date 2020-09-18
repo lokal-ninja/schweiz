@@ -1,12 +1,12 @@
-id: 3315683897
+id: 506648228
 type: node
 shop: Supermarkt
-latitude: 47.0528339
-longitude: 8.282553
-postcode: 6003
+latitude: 47.0431572
+longitude: 8.3115279
+postcode: "6005"
 city: Luzern
-street: "Bernstrasse"
-housenumber: 110
+street: "Brünigstrasse"
+housenumber: 16-18
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: "Mo-We 08:00-18:30; Th-Fr 08:00-20:00; Sa 08:00-16:00"
 website: ""

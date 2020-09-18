@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2373429
 longitude: 6.078582600000001
-postcode: 1217
+postcode: "1217"
 city: Meyrin
 street: "Promenade des Champs-Fréchets"
 housenumber: 15

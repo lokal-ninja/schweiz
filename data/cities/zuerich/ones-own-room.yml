@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.3766491
 longitude: 8.5233612
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Anwandstrasse"
 housenumber: 30

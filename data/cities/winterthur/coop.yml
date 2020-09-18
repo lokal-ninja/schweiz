@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5008483
 longitude: 8.7259378
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Bankstrasse"
 housenumber: 8/12

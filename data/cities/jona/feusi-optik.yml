@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.231518200000004
 longitude: 8.8375233
-postcode: 8645
+postcode: "8645"
 city: Jona
 street: "Molkereistrasse"
 housenumber: 5

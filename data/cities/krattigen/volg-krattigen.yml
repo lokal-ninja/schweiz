@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6609928
 longitude: 7.7239323
-postcode: 3704
+postcode: "3704"
 city: Krattigen
 street: "Dorfstrasse"
 housenumber: 9

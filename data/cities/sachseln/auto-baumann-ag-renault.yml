@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.869378600000005
 longitude: 8.239994300000001
-postcode: 6072
+postcode: "6072"
 city: Sachseln
 street: "Brünigstrasse"
 housenumber: 95

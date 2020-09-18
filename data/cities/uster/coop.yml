@@ -1,12 +1,12 @@
-id: 221873918
-type: way
+id: 4176799676
+type: node
 shop: Supermarkt
-latitude: 47.345085100000006
-longitude: 8.7305201
-postcode: 8610
+latitude: 47.3551942
+longitude: 8.7130633
+postcode: "8610"
 city: Uster
-street: "Aathalstrasse"
-housenumber: 40
+street: "Winterthurerstrasse"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.coop.ch/"

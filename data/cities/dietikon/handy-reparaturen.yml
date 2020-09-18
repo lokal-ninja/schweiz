@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.420203400000005
 longitude: 8.395398700000001
-postcode: 8953
+postcode: "8953"
 city: Dietikon
 street: "Riedstrasse"
 housenumber: 14

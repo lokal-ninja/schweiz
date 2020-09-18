@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3919839
 longitude: 8.046692700000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Kasinostrasse"
 housenumber: 30

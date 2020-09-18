@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3701055
 longitude: 8.552664700000001
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Steinwiesstrasse"
 housenumber: 30

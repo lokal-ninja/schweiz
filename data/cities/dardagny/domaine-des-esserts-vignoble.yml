@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.204947000000004
 longitude: 5.9879933
-postcode: 1283
+postcode: "1283"
 city: Dardagny
 street: "Chemin de Chafalet"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 46.8931114
 longitude: 7.497745900000001
-postcode: 3123
+postcode: "3123"
 city: Belp
 street: "Eggenweg"
 housenumber: 2a

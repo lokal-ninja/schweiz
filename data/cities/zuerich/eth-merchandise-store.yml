@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3773269
 longitude: 8.5475089
-postcode: 8092
+postcode: "8092"
 city: Zürich
 street: "Sonneggstrasse"
 housenumber: 3

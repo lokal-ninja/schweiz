@@ -1,6 +1,6 @@
 ---
 title: Stein
 url: /stein/
-latitude: 47.311875300000004
-longitude: 9.5350883
+latitude: 46.682702600000006
+longitude: 9.188509400000001
 ---

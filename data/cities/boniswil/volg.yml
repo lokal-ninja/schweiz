@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.3157804
 longitude: 8.1848387
-postcode: 5706
+postcode: "5706"
 city: Boniswil
 street: "Dinkelhof"
 housenumber: 2

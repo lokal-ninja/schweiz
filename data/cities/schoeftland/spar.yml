@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.311901500000005
 longitude: 8.049966300000001
-postcode: 5040
+postcode: "5040"
 city: Schöftland
 street: "Holzikerstrasse"
 housenumber: 8

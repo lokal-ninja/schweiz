@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.3156496
 longitude: 8.1837155
-postcode: 5706
+postcode: "5706"
 city: Boniswil
 street: "Oberdorfstrasse"
 housenumber: 2

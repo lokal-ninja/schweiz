@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.599531600000006
 longitude: 8.508167400000001
-postcode: 8196
+postcode: "8196"
 city: Wil (ZH)
 street: "Bahnhofstrasse"
 housenumber: 57

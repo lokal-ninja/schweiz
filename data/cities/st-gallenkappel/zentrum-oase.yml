@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.252192400000006
 longitude: 8.9747907
-postcode: 8735
+postcode: "8735"
 city: St. Gallenkappel
 street: "Industrieweg"
 housenumber: 10b

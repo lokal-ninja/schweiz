@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.5757107
 longitude: 8.5240632
-postcode: 8193
+postcode: "8193"
 city: Eglisau
 street: "Untergass"
 housenumber: 2

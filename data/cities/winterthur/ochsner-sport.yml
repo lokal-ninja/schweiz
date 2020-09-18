@@ -1,12 +1,12 @@
 id: 2324730444
 type: node
 shop: Sport
-latitude: 47.497887600000006
-longitude: 8.724127000000001
-postcode: 8400
+latitude: 47.497897
+longitude: 8.724116500000001
+postcode: "8400"
 city: Winterthur
 street: "Archplatz"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su, PH off"
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
+website: "https://www.ochsnersport.ch/"

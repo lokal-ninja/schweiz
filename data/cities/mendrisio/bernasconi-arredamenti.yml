@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 45.8735347
 longitude: 8.9789609
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Francesco Borromini"
 housenumber: 3

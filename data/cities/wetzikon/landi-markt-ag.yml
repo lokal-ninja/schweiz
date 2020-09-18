@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.331707
 longitude: 8.7956987
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Motorenstrasse"
 housenumber: 87

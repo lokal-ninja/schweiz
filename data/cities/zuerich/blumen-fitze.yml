@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3721685
 longitude: 8.539582900000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Augustinergasse"
 housenumber: 20

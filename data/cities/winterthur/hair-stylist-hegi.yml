@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.503557
 longitude: 8.7635457
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Else-Züblin-Strasse"
 housenumber: 91

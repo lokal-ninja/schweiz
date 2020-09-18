@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3325752
 longitude: 8.8085193
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Stationsstrasse"
 housenumber: 58

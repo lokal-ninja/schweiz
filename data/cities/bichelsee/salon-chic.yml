@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.449519300000006
 longitude: 8.9266383
-postcode: 8363
+postcode: "8363"
 city: Bichelsee
 street: "Auenstrasse"
 housenumber: 1b

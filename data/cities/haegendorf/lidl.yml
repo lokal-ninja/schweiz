@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3352504
 longitude: 7.8505203
-postcode: 4614
+postcode: "4614"
 city: Hägendorf
 street: "Industriestrasse Ost"
 housenumber: 5

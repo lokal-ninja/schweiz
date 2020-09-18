@@ -1,12 +1,12 @@
-id: 4853416512
+id: 4853416519
 type: node
 shop: Kleidung
-latitude: 47.368962700000004
-longitude: 8.538251500000001
-postcode: 8001
+latitude: 47.3733681
+longitude: 8.5310714
+postcode: "8004"
 city: Zürich
-street: "Talstrasse"
-housenumber: 20
+street: "Werdstrasse"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
 website: ""

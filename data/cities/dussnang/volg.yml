@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4296401
 longitude: 8.9646375
-postcode: 8374
+postcode: "8374"
 city: Dussnang
 street: "Kurhausstrasse"
 housenumber: 19

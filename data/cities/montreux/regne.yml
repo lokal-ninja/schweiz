@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.432197
 longitude: 6.911077700000001
-postcode: 1820
+postcode: "1820"
 city: Montreux
 street: "Rue de la Paix"
 housenumber: 11

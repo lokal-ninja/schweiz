@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2259137
 longitude: 8.8173347
-postcode: 8640
+postcode: "8640"
 city: Rapperswil (SG)
 street: "Alpenstrasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.6429297
 longitude: 6.5781523
-postcode: 1377
+postcode: "1377"
 city: Oulens-sous-Echallens
 street: "Rue du Centre"
 housenumber: 20

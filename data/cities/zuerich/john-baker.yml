@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3764107
 longitude: 8.5263373
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Molkenstrasse"
 housenumber: 15

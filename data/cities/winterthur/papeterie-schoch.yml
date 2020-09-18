@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.499192900000004
 longitude: 8.7257996
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Untertor"
 housenumber: 7

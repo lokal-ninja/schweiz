@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4780193
 longitude: 9.495201100000001
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.4978016
 longitude: 8.7208015
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Bahnmeisterweg"
 housenumber: 12

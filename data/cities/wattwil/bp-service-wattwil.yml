@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.2978913
 longitude: 9.091833000000001
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Ebnaterstrasse"
 housenumber: 63

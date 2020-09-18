@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.9951602
 longitude: 7.285100600000001
-postcode: 3035
+postcode: "3035"
 city: Frieswil
 street: "Hauptstrasse"
 housenumber: 23

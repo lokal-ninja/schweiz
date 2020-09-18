@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5053047
 longitude: 8.104426
-postcode: 5077
+postcode: "5077"
 city: Elfingen
 street: "Hofmatt"
 housenumber: 131

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.1677071
 longitude: 9.001865500000001
-postcode: 6512
+postcode: "6512"
 city: Giubiasco
 street: "Via Campagna"
 housenumber: 1

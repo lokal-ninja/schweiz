@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.1323305
 longitude: 8.7524911
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Etzelstrasse"
 housenumber: 4

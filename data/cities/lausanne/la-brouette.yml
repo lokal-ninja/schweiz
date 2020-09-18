@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 46.5280891
 longitude: 6.615811000000001
-postcode: 1004
+postcode: "1004"
 city: Lausanne
 street: "Avenue d'Echallens"
 housenumber: 79
 phone: ""
-opening_hours: "Mo 15:00-20:00; Tu-Fr 10:00--20:00; Sa 10:00-19:00"
+opening_hours: "Mo, Tu, Th 15:00-19:30; We, Fr 10:00-13:00, 15:00-19:30; Sa 09:00-19:00"
 website: "http://labrouette.ch/"

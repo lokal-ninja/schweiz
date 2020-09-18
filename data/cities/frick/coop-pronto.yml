@@ -1,12 +1,12 @@
 id: 164957124
 type: way
 shop: Lebensmittel
-latitude: 47.5110674
-longitude: 8.0174787
-postcode: 5070
+latitude: 47.5110893
+longitude: 8.0174835
+postcode: "5070"
 city: Frick
 street: "Hauptstrasse"
 housenumber: 15
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 08:00-22:00"
+website: "https://www.coop-pronto.ch/de/"

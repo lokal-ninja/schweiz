@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.923950100000006
 longitude: 7.3769157000000005
-postcode: 3172
+postcode: "3172"
 city: Köniz
 street: "Freiburgstrasse"
 housenumber: 571

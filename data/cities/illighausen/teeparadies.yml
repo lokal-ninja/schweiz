@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6032889
 longitude: 9.2077708
-postcode: 8574
+postcode: "8574"
 city: Illighausen
 street: "Tannenweg"
 housenumber: 2

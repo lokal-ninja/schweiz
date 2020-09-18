@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.3770977
 longitude: 8.5350652
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Kasernenstrasse"
 housenumber: 95

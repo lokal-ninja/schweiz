@@ -3,10 +3,10 @@ type: node
 shop: Wein
 latitude: 47.476589000000004
 longitude: 8.7041448
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "Zürcherstrasse"
 housenumber: 322
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.moevenpick-wein.com/de/moevenpick-wein-winterthur"

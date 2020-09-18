@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.461988500000004
 longitude: 6.8438606
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Avenue de la Gare"
 housenumber: 12

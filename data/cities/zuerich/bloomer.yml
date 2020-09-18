@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.373165
 longitude: 8.5153494
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Idastrasse"
 housenumber: 28

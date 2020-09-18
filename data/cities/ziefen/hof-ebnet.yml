@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4323871
 longitude: 7.691413900000001
-postcode: 4417
+postcode: "4417"
 city: Ziefen
 street: "Hof Ebnet"
 housenumber: 217

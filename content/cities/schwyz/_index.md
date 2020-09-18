@@ -1,6 +1,6 @@
 ---
 title: Schwyz
 url: /schwyz/
-latitude: 47.0571976
-longitude: 8.7222073
+latitude: 47.0211848
+longitude: 8.6535598
 ---

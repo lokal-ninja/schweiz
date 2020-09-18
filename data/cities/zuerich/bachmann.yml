@@ -1,12 +1,12 @@
-id: 4915582733
+id: 693318643
 type: node
 shop: Konditorei
-latitude: 47.3589075
-longitude: 8.523129
-postcode: 8045
+latitude: 47.376541100000004
+longitude: 8.539448700000001
+postcode: "8001"
 city: Zürich
-street: ""
-housenumber: 
+street: "Bahnhofstrasse"
+housenumber: 89
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "http://www.confiserie.ch/"
+opening_hours: "Mo-Fr 06:45-20:00; Sa 07:00-20:00; Su 10:00-18:00; PH closed"
+website: "https://www.confiserie.ch/de/zuerich-bahnhofstrasse"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.423946900000004
 longitude: 8.5024855
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Weidmannstrasse"
 housenumber: 8

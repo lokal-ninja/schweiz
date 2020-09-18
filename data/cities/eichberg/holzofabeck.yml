@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3454282
 longitude: 9.5243719
-postcode: 9453
+postcode: "9453"
 city: Eichberg
 street: "Härdlistrasse"
 housenumber: 89

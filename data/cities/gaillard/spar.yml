@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.1921514
 longitude: 6.210892800000001
-postcode: 74240
+postcode: "74240"
 city: Gaillard
 street: "Rue de Genève"
 housenumber: 118

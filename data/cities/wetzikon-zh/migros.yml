@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.3280334
 longitude: 8.7997978
-postcode: 8620
+postcode: "8620"
 city: Wetzikon (ZH)
 street: "Bahnhofstrasse"
 housenumber: 151
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-wetzikon-zueri-oberland-maert"

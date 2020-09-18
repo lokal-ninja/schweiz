@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.948982400000006
 longitude: 7.440375
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Bahnhofplatz"
 housenumber: 

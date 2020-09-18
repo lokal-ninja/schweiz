@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.435957
 longitude: 9.6388311
-postcode: 9434
+postcode: "9434"
 city: Au SG
 street: "Bahnhofstrasse"
 housenumber: 4

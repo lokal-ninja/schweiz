@@ -1,12 +1,12 @@
-id: 28882469
-type: way
+id: 2633498569
+type: node
 shop: Supermarkt
-latitude: 47.4744365
-longitude: 8.213010500000001
-postcode: 5210
+latitude: 47.481551200000006
+longitude: 8.211314400000001
+postcode: "5210"
 city: Windisch
-street: "Hauserstrasse"
-housenumber: 41
+street: "Bahnhofstrasse"
+housenumber: 6a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 7:30-18:00; PH off"
 website: ""

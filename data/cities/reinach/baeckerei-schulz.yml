@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.254268200000006
 longitude: 8.1866765
-postcode: 5734
+postcode: "5734"
 city: Reinach
 street: "Neudorfstrasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.4948113
 longitude: 8.238543400000001
-postcode: 5412
+postcode: "5412"
 city: Vogelsang
 street: "Aarestrasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.383805
 longitude: 8.5316948
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Fierzgasse"
 housenumber: 21

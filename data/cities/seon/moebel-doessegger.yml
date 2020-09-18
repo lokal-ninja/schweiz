@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.3545274
 longitude: 8.160263800000001
-postcode: 5703
+postcode: "5703"
 city: Seon
 street: "Aarauerstrasse"
 housenumber: 4

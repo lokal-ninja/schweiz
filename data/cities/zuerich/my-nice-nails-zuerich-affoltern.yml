@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.422322400000006
 longitude: 8.5049027
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Nettie-Sutro-Strasse"
 housenumber: 9

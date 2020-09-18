@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 47.3969187
 longitude: 8.481346700000001
-postcode: 8064
+postcode: "8064"
 city: Zürich
 street: "Bändlistrasse"
 housenumber: 93

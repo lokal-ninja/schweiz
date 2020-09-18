@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.378804900000006
 longitude: 9.537569900000001
-postcode: 9450
+postcode: "9450"
 city: Altstätten
 street: "Breite"
 housenumber: 45

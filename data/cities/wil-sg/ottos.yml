@@ -1,12 +1,12 @@
 id: 7143253370
 type: node
-shop: Supermarkt
+shop: Warenhaus
 latitude: 47.4553358
 longitude: 9.0482429
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Toggenburgerstrasse"
 housenumber: 132
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.ottos.ch/"

@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 46.5959331
 longitude: 7.907630500000001
-postcode: 3822
+postcode: "3822"
 city: Lauterbrunnen
 street: "Auf der Fuhren"
 housenumber: 456d

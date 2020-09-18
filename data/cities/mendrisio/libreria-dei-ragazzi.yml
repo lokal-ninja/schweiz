@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 45.868406500000006
 longitude: 8.985266300000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Gismonda"
 housenumber: 9

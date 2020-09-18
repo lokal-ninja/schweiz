@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.3650218
 longitude: 8.565498700000001
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Asylstrasse"
 housenumber: 133

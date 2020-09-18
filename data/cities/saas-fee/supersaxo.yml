@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.1124748
 longitude: 7.9328129
-postcode: 3906
+postcode: "3906"
 city: Saas-Fee
 street: "Parkstrasse"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5671174
 longitude: 9.1065267
-postcode: 8570
+postcode: "8570"
 city: Weinfelden
 street: "Pestalozzistrasse"
 housenumber: 18

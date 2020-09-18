@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.893435800000006
 longitude: 6.937585400000001
-postcode: 1544
+postcode: "1544"
 city: Gletterens
 street: "Route de la Muraille"
 housenumber: 14

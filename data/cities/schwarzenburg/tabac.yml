@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 46.817377400000005
 longitude: 7.342423800000001
-postcode: 3150
+postcode: "3150"
 city: Schwarzenburg
 street: "Dorfplatz"
 housenumber: 22

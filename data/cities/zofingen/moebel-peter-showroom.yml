@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.2940502
 longitude: 7.9299971000000005
-postcode: 4800
+postcode: "4800"
 city: Zofingen
 street: "Areal Bleiche"
 housenumber: 24

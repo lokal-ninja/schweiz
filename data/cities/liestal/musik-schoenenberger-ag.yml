@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.4847473
 longitude: 7.7340602
-postcode: 4410
+postcode: "4410"
 city: Liestal
 street: "Rathausstrasse"
 housenumber: 6

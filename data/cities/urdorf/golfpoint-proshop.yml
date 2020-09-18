@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.383042700000004
 longitude: 8.4193838
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Riedmatten"
 housenumber: 

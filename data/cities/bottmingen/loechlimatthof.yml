@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5191201
 longitude: 7.567118600000001
-postcode: 4103
+postcode: "4103"
 city: Bottmingen
 street: "Therwilerstrasse"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5215077
 longitude: 8.793467600000001
-postcode: 8542
+postcode: "8542"
 city: Wiesendangen
 street: "Dorfstrasse"
 housenumber: 93

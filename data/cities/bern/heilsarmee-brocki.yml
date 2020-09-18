@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.9471609
 longitude: 7.3939854
-postcode: 3027
+postcode: "3027"
 city: Bern
 street: "Bümplizstrasse"
 housenumber: 35

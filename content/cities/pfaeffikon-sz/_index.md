@@ -1,5 +1,5 @@
 ---
-title: Pfäffikon (SZ)
+title: Pfäffikon SZ
 url: /pfaeffikon-sz/
 latitude: 
 longitude: 

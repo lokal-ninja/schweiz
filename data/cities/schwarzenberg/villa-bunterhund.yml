@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.015911
 longitude: 8.189069
-postcode: 6103
+postcode: "6103"
 city: Schwarzenberg
 street: "Lifelen"
 housenumber: 1

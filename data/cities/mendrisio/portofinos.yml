@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.8695188
 longitude: 8.9797387
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Stefano Franscini"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5473299
 longitude: 8.1825426
-postcode: 5318
+postcode: "5318"
 city: Mandach
 street: "Schlössli"
 housenumber: 69

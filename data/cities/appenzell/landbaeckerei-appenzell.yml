@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3345921
 longitude: 9.4058948
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Zielstrasse"
 housenumber: 25

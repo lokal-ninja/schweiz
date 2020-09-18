@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1350502
 longitude: 7.2442672
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Bahnhofstrasse"
 housenumber: 15

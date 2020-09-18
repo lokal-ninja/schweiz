@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 47.51036250000001
 longitude: 8.758644
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Stadlerstrasse"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
 website: ""

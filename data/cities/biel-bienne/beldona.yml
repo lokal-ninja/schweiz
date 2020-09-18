@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.13595
 longitude: 7.245883200000001
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Bahnhofstrasse"
 housenumber: 46

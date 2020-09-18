@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.3977367
 longitude: 8.041250400000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Küttigerstrasse"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.31738
 longitude: 6.936088300000001
-postcode: 1860
+postcode: "1860"
 city: Aigle
 street: "Chemin Sous-le-Grand-Pré"
 housenumber: 4

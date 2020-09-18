@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.275240000000004
 longitude: 8.6236989
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "General-Wille-Strasse"
 housenumber: 249

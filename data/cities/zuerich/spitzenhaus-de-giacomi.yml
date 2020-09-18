@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.3682333
 longitude: 8.545804
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Torgasse"
 housenumber: 11

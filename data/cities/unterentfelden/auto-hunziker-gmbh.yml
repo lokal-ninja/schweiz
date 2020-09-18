@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3614608
 longitude: 8.0510616
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Mönchmattweg"
 housenumber: 3

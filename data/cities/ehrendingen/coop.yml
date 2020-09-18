@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.494296600000006
 longitude: 8.3410211
-postcode: 5420
+postcode: "5420"
 city: Ehrendingen
 street: "Dorfstrasse"
 housenumber: 19

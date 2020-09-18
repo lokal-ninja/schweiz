@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.460801100000005
 longitude: 9.040587
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Wilenstrasse"
 housenumber: 10

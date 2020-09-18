@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4994147
 longitude: 8.9503708
-postcode: 9545
+postcode: "9545"
 city: Wängi
 street: "Frauenfelderstrasse"
 housenumber: 29

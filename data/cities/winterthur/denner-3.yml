@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.496801100000006
 longitude: 8.7466073
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Grüzefeldstrasse"
 housenumber: 24

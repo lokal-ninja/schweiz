@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.202446800000004
 longitude: 9.0307794
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Via Gerretta"
 housenumber: 15

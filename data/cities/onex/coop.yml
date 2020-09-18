@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.187479
 longitude: 6.1046981
-postcode: 1213
+postcode: "1213"
 city: Onex
 street: "Rue des Bossons"
 housenumber: 17-19

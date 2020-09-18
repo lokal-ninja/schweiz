@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2124411
 longitude: 6.125401800000001
-postcode: 
+postcode: ""
 city: Genève
 street: "Avenue Ernest-Pictet"
 housenumber: 18

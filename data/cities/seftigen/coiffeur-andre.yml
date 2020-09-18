@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.787077000000004
 longitude: 7.540258100000001
-postcode: 3662
+postcode: "3662"
 city: Seftigen
 street: "Dorfstrasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.363751900000004
 longitude: 8.7888863
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon ZH
 street: "Hochstrasse"
 housenumber: 75

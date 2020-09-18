@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.439385900000005
 longitude: 9.3945294
-postcode: 9008
+postcode: "9008"
 city: St. Gallen
 street: "Heiligkreuzstrasse"
 housenumber: 41

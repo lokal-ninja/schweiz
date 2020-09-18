@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.389947400000004
 longitude: 8.0669219
-postcode: 5033
+postcode: "5033"
 city: Buchs
 street: "Aarauerstrasse"
 housenumber: 30

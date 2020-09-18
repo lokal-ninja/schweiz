@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.937203700000005
 longitude: 7.3926745
-postcode: 3018
+postcode: "3018"
 city: Bern
 street: "Statthalterstrasse"
 housenumber: 101
-phone: "+41 31 382 66 68"
+phone: "+41 31 382 66 68"
 opening_hours: "Mo 13:30-17:30; Tu-Fr 10:00-12:00,13:30-17:30; Sa 10:00-17:00"
 website: ""

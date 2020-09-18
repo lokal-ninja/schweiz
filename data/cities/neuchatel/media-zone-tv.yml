@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.9925155
 longitude: 6.925759800000001
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue de l'Écluse"
 housenumber: 27

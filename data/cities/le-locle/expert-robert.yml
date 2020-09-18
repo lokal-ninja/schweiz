@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0576303
 longitude: 6.748906000000001
-postcode: 2400
+postcode: "2400"
 city: Le Locle
 street: "Rue Daniel JeanRichard"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.417279900000004
 longitude: 6.281568200000001
-postcode: 1196
+postcode: "1196"
 city: Gland
 street: "Route Suisse"
 housenumber: 40

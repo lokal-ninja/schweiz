@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.635288800000005
 longitude: 8.771230000000001
-postcode: 
+postcode: ""
 city: Guntalingen
 street: "Dorfstrasse"
 housenumber: 58

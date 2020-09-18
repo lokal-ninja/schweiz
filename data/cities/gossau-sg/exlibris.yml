@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.416208700000006
 longitude: 9.2500377
-postcode: 9200
+postcode: "9200"
 city: Gossau SG
 street: "St. Gallerstrasse"
 housenumber: 53

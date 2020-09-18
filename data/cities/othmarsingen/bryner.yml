@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.3993308
 longitude: 8.2192114
-postcode: 5504
+postcode: "5504"
 city: Othmarsingen
 street: "Heuerweg"
 housenumber: 1

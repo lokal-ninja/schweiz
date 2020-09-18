@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6670225
 longitude: 6.313587200000001
-postcode: 1343
+postcode: "1343"
 city: Les Charbonnières
 street: "Route Mouthe"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.0238383
 longitude: 8.9665525
-postcode: 6963
+postcode: "6963"
 city: Pregassona
 street: "Via alla Bozzoreda"
 housenumber: 43

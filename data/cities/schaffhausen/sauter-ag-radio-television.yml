@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6960021
 longitude: 8.6367946
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Vordergasse"
 housenumber: 31

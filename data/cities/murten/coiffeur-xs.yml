@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.919912000000004
 longitude: 7.1079556
-postcode: 3280
+postcode: "3280"
 city: Murten
 street: "Merlachfeld"
 housenumber: 101

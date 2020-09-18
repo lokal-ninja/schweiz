@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.3458636
 longitude: 8.7393332
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Aathalstrasse"
 housenumber: 74

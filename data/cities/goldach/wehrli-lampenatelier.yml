@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.4778753
 longitude: 9.4729507
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Blumenstrasse"
 housenumber: 66

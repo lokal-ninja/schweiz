@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.278601300000005
 longitude: 8.4539197
-postcode: 8910
+postcode: "8910"
 city: Affoltern am Albis
 street: "Alte Dorfstrasse"
 housenumber: 21

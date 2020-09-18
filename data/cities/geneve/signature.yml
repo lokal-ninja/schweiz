@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.1917837
 longitude: 6.1443747
-postcode: 1205
+postcode: "1205"
 city: Genève
 street: "Place des Augustins"
 housenumber: 3

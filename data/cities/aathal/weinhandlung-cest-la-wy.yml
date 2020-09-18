@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3352127
 longitude: 8.7673714
-postcode: 8607
+postcode: "8607"
 city: Aathal
 street: "Gstalderstrasse"
 housenumber: 1

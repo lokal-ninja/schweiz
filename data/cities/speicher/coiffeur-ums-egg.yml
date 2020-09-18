@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4158648
 longitude: 9.4346945
-postcode: 9042
+postcode: "9042"
 city: Speicher
 street: "Obere Hinterwies"
 housenumber: 2

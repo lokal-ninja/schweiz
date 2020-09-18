@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6235906
 longitude: 8.037134100000001
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: "Dorfstrasse"
 housenumber: 123

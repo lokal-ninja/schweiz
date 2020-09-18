@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.4097353
 longitude: 9.3356888
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Rittmeyerstrasse"
 housenumber: 15

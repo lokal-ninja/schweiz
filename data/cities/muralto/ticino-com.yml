@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.1726588
 longitude: 8.8000858
-postcode: 6600
+postcode: "6600"
 city: Muralto
 street: "Via Stazione"
 housenumber: 5

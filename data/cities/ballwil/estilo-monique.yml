@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1563238
 longitude: 8.325773700000001
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Linggenhalde"
 housenumber: 3

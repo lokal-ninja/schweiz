@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.192337200000004
 longitude: 8.851203100000001
-postcode: 8853
+postcode: "8853"
 city: Lachen
 street: "Kirchplatz"
 housenumber: 5

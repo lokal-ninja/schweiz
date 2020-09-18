@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.3713507
 longitude: 8.515960100000001
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Aemtlerstrasse"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-wiedikon/"

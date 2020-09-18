@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 46.9714382
 longitude: 7.3557129
-postcode: 3033
+postcode: "3033"
 city: Wohlen bei Bern
 street: "Hauptstrasse"
 housenumber: 19

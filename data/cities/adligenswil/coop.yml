@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0718449
 longitude: 8.3643856
-postcode: 6043
+postcode: "6043"
 city: Adligenswil
 street: "Im Zentrum"
 housenumber: 3

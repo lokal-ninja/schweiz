@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.400483300000005
 longitude: 7.5148071000000005
-postcode: 4246
+postcode: "4246"
 city: Wahlen
 street: "Grindelstrasse"
 housenumber: 8a

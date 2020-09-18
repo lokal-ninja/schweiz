@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 45.9052638
 longitude: 8.9713721
-postcode: 6826
+postcode: "6826"
 city: Riva San Vitale
 street: "Piazza Grande"
 housenumber: 15

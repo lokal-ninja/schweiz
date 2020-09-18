@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.276300000000006
 longitude: 7.6660203000000005
-postcode: 4704
+postcode: "4704"
 city: Wolfisberg
 street: "Waldengässli"
 housenumber: 16

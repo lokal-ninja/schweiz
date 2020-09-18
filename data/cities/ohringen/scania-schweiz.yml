@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.526988700000004
 longitude: 8.707055800000001
-postcode: 8472
+postcode: "8472"
 city: Ohringen
 street: "Aspstrasse"
 housenumber: 13

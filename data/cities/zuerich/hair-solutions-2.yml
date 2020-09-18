@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3844754
 longitude: 8.5428124
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Weinbergstrasse"
 housenumber: 91

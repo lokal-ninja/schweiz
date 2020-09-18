@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 47.273182500000004
 longitude: 8.4428936
-postcode: 8910
+postcode: "8910"
 city: Affoltern am Albis
 street: "Obfelderstrasse"
 housenumber: 19
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.jumbo.ch/de/filialen/jumbo-affoltern-am-albis"

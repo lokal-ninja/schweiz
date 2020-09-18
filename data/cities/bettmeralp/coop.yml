@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.387741000000005
 longitude: 8.0586293
-postcode: 3992
+postcode: "3992"
 city: Bettmeralp
 street: ""
 housenumber: 

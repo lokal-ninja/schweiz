@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 45.8478865
 longitude: 9.0220407
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Via Lischée"
 housenumber: 

@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 47.376173800000004
 longitude: 8.5397139
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://www.rituals.com/de-ch/"

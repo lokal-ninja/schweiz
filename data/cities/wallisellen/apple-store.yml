@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.408022700000004
 longitude: 8.595924400000001
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Neue Winterthurerstrasse"
 housenumber: 99

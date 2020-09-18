@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.518364500000004
 longitude: 6.500395500000001
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Chemin de la Grosse-Pierre"
 housenumber: 

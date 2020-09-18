@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.978207000000005
 longitude: 8.335959
-postcode: 6362
+postcode: "6362"
 city: Stansstad
 street: "Stanserstrasse"
 housenumber: 

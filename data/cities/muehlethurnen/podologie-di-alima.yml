@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.8143412
 longitude: 7.5114656
-postcode: 3127
+postcode: "3127"
 city: Mühlethurnen
 street: "Bahnhofstrasse"
 housenumber: 31

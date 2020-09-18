@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.3019599
 longitude: 9.0851316
-postcode: 9630
+postcode: "9630"
 city: Wattwil
 street: "Schomattenstrasse"
 housenumber: 8

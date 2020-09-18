@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.6254422
 longitude: 8.046773
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: "Ischweg"
 housenumber: 1

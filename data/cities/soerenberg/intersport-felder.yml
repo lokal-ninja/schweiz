@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.8226281
 longitude: 8.0326941
-postcode: 6174
+postcode: "6174"
 city: Sörenberg
 street: "Rothornstrasse"
 housenumber: 14A

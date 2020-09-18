@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.276200200000005
 longitude: 7.404954900000001
-postcode: 1966
+postcode: "1966"
 city: Botyre
 street: "Route de Botyre"
 housenumber: 38

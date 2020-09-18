@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.755601500000004
 longitude: 7.6296759000000005
-postcode: 3601
+postcode: "3601"
 city: Thun
 street: "Bahnhofstrasse"
 housenumber: 12

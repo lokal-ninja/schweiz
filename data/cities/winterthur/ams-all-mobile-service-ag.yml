@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.4975724
 longitude: 8.727622100000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Technikumstrasse"
 housenumber: 59

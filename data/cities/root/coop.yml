@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1177013
 longitude: 8.3918528
-postcode: 6037
+postcode: "6037"
 city: Root
 street: "Bahnhofstrasse"
 housenumber: 17

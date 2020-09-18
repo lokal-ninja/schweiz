@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 46.0165275
 longitude: 8.9124212
-postcode: 6934
+postcode: "6934"
 city: Bioggio
 street: "Via della Posta"
 housenumber: 23

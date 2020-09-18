@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8567595
 longitude: 8.9877762
-postcode: 6877
+postcode: "6877"
 city: Coldrerio
 street: "Via San Gottardo"
 housenumber: 29

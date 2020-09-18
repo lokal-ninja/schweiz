@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3662159
 longitude: 8.7826228
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon ZH
 street: "Tumbelenstrasse"
 housenumber: 17

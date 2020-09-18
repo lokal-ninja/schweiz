@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.928808700000005
 longitude: 7.5105117
-postcode: 3073
+postcode: "3073"
 city: Gümligen
 street: "Feldstrasse"
 housenumber: 3

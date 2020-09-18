@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.4693449
 longitude: 8.3188797
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 17

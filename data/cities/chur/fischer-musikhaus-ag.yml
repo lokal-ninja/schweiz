@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 46.848217600000005
 longitude: 9.531376400000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Obere Gasse"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.7977476
 longitude: 7.146736700000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Passage du Cardinal"
 housenumber: 1

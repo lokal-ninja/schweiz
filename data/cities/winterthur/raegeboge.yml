@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.500230300000005
 longitude: 8.7224918
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Rudolfstrasse"
 housenumber: 13

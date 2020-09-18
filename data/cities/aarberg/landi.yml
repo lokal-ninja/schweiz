@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.0517698
 longitude: 7.281145800000001
-postcode: 3270
+postcode: "3270"
 city: Aarberg
 street: "Chräjeninsel"
 housenumber: 16

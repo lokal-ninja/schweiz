@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.015886900000005
 longitude: 8.9567036
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Giuseppe Bagutti"
 housenumber: 22

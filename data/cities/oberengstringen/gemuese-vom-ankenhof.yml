@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.411039800000005
 longitude: 8.4639627
-postcode: 8102
+postcode: "8102"
 city: Oberengstringen
 street: "Ankenhofstrasse"
 housenumber: 12.2

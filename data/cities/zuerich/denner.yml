@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4032811
 longitude: 8.498072500000001
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Regensdorferstrasse"
 housenumber: 16

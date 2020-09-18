@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.907359
 longitude: 7.637438400000001
-postcode: 3506
+postcode: "3506"
 city: Grosshöchstetten
 street: "Bernstrasse"
 housenumber: 3

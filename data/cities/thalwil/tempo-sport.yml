@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2944886
 longitude: 8.5650926
-postcode: 8800
+postcode: "8800"
 city: Thalwil
 street: "Gotthardstrasse"
 housenumber: 12

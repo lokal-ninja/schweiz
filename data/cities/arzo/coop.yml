@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 45.8740274
 longitude: 8.945694900000001
-postcode: 6864
+postcode: "6864"
 city: Arzo
-street: ""
-housenumber: 
+street: "Via Andrea Salvatore Aglio"
+housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.956724
 longitude: 7.462174900000001
-postcode: 3014
+postcode: "3014"
 city: Bern
 street: "Papiermühlestrasse"
 housenumber: 28a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3745198
 longitude: 8.5206088
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 171

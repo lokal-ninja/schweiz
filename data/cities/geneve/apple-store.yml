@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.202268800000006
 longitude: 6.150276300000001
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue de Rive (les Rues Basses)"
 housenumber: 4

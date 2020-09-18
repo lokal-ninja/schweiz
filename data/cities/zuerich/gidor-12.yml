@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.409742
 longitude: 8.5464442
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 352
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.gidor.ch/"
+website: "https://www.gidor.ch/filiale/zuerich-sternen-oerlikon/"

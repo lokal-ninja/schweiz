@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.6070642
 longitude: 6.5225083
-postcode: 1305
+postcode: "1305"
 city: Penthalaz
 street: "Chemin du Canal"
 housenumber: 3

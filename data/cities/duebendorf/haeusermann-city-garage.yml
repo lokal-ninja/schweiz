@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4009657
 longitude: 8.614925000000001
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "In Huebwiesen"
 housenumber: 11

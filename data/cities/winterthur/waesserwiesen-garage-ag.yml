@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.515448000000006
 longitude: 8.681261300000001
-postcode: 8408
+postcode: "8408"
 city: Winterthur
 street: "Wässerwiesenstrasse"
 housenumber: 95

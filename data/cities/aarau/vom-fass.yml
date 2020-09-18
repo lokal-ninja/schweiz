@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.392576600000005
 longitude: 8.044907
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Pelzgasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.352865200000004
 longitude: 7.153555600000001
-postcode: 1865
+postcode: "1865"
 city: Les Diablerets
 street: "Route du Pillon"
 housenumber: 

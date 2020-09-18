@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 46.9467663
 longitude: 7.435241700000001
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Seilerstrasse"
 housenumber: 4

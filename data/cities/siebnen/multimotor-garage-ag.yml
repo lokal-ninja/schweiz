@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.175739
 longitude: 8.9135252
-postcode: 8854
+postcode: "8854"
 city: Siebnen
 street: "Glarnerstrasse"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5120699
 longitude: 8.106314300000001
-postcode: 5077
+postcode: "5077"
 city: Elfingen
 street: "Rütihof"
 housenumber: 66

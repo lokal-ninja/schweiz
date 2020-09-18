@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.174636
 longitude: 7.540672900000001
-postcode: 4573
+postcode: "4573"
 city: Lohn-Ammannsegg
 street: "Heinibühlstrasse"
 housenumber: 32

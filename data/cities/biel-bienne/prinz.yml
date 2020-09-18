@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1351662
 longitude: 7.246972700000001
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Güterstrasse"
 housenumber: 19

@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.3956372
 longitude: 8.6061099
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Zürichstrasse"
 housenumber: 89
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://find.shell.com/ch/fuel/10023358-shell-sonnental/de_CH"

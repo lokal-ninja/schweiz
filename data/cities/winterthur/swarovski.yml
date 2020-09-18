@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 47.499340700000005
 longitude: 8.725559200000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Untertor"
 housenumber: 16
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.swarovski.com/de-CH/"

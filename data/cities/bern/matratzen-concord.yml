@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 46.944762700000005
 longitude: 7.4226359
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Effingerstrasse"
 housenumber: 111

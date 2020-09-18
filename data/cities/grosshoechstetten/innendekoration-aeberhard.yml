@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 46.9076
 longitude: 7.6372178
-postcode: 3506
+postcode: "3506"
 city: Grosshöchstetten
 street: "Bernstrasse"
 housenumber: 5

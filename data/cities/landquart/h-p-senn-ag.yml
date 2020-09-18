@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.967580600000005
 longitude: 9.5624854
-postcode: 7302
+postcode: "7302"
 city: Landquart
 street: "Kantonsstrasse"
 housenumber: 21

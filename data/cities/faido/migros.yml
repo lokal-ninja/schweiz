@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.4779593
 longitude: 8.8001178
-postcode: 6760
+postcode: "6760"
 city: Faido
 street: "Via Pian della Croce"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.448479400000004
 longitude: 7.883756900000001
-postcode: 4492
+postcode: "4492"
 city: Tecknau
 street: "Alte Landstrasse"
 housenumber: 9

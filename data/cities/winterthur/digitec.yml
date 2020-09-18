@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.4970269
 longitude: 8.7150507
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Zürcherstrasse"
 housenumber: 42

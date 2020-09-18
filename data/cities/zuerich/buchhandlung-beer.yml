@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.3716619
 longitude: 8.5409976
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "St. Peterhofstatt"
 housenumber: 10

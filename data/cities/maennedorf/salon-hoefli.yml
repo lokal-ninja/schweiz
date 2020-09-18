@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2606855
 longitude: 8.6945073
-postcode: 8708
+postcode: "8708"
 city: Männedorf
 street: "Appisbergstrasse"
 housenumber: 5

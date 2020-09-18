@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.172451
 longitude: 8.103257300000001
-postcode: 6210
+postcode: "6210"
 city: Sursee
 street: "Bahnhofstrasse"
 housenumber: 25

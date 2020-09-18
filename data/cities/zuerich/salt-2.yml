@@ -1,12 +1,12 @@
-id: 2966681837
+id: 446784535
 type: node
 shop: Handy
-latitude: 47.366402300000004
-longitude: 8.5475156
-postcode: 8001
+latitude: 47.3842512
+longitude: 8.531096100000001
+postcode: "8005"
 city: Zürich
-street: "Gottfried-Keller-Strasse"
-housenumber: 7
+street: "Langstrasse"
+housenumber: 241
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-17:00"
+opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-17:00"
 website: "https://www.salt.ch/"

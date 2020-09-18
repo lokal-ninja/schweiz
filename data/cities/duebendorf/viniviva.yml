@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.3874567
 longitude: 8.6209358
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Oberdorfstrasse"
 housenumber: 113

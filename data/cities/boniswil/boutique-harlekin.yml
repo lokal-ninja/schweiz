@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.316003200000004
 longitude: 8.1841258
-postcode: 5706
+postcode: "5706"
 city: Boniswil
 street: "Leutwilerstrasse"
 housenumber: 16

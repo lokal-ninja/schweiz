@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.343969
 longitude: 8.7016769
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Seefeldstrasse"
 housenumber: 5

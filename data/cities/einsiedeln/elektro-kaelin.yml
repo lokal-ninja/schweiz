@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1291622
 longitude: 8.7409143
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Spitalstrasse"
 housenumber: 13

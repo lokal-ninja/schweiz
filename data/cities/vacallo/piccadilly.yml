@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 45.843245700000004
 longitude: 9.037292500000001
-postcode: 6833
+postcode: "6833"
 city: Vacallo
 street: "Via del Breggia"
 housenumber: 13

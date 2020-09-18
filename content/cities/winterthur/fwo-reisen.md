@@ -1,4 +1,4 @@
 ---
-title: "FWO REISEN"
+title: "FWO Reisen"
 url: /winterthur/fwo-reisen/
 ---

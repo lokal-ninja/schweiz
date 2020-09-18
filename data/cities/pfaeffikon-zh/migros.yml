@@ -1,12 +1,12 @@
 id: 301656130
 type: node
 shop: Supermarkt
-latitude: 47.3684366
-longitude: 8.7808247
-postcode: 8330
+latitude: 47.368537200000006
+longitude: 8.7809413
+postcode: "8330"
 city: Pfäffikon ZH
 street: "Turmstrasse"
 housenumber: 9
 phone: "+41 43 288 63 11"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://filialen.migros.ch/de/Pfaeffikon-ZH/0094340"
+opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-pfaeffikon-zh"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4107629
 longitude: 9.366614100000001
-postcode: 9012
+postcode: "9012"
 city: St. Gallen
 street: "Teufenerstrasse"
 housenumber: 150

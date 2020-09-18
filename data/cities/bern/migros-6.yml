@@ -1,12 +1,12 @@
-id: 667410777
+id: 536764788
 type: node
 shop: Supermarkt
-latitude: 46.940068700000005
-longitude: 7.4319625
-postcode: 3007
+latitude: 46.939578600000004
+longitude: 7.4812674
+postcode: "3015"
 city: Bern
-street: "Seftigenstrasse"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-17:00"
-website: "https://filialen.migros.ch/"
+street: "Jupiterstrasse"
+housenumber: 15
+phone: "+41 58 567 65 00"
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-murifeld"

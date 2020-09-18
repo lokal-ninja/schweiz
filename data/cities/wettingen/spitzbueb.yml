@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4630981
 longitude: 8.3137281
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Seminarstrasse"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5147896
 longitude: 7.778863800000001
-postcode: 4422
+postcode: "4422"
 city: Arisdorf
 street: "Egghof"
 housenumber: 137

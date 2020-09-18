@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 45.870040200000005
 longitude: 8.9888972
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazza del Ponte"
 housenumber: 8

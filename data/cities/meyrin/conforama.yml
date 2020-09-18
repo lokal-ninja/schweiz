@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.226866300000005
 longitude: 6.074154
-postcode: 
+postcode: ""
 city: Meyrin
 street: "Rue des Entreprises"
 housenumber: 14

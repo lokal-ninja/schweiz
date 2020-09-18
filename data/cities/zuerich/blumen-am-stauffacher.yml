@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3730398
 longitude: 8.5275497
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Zweierstrasse"
 housenumber: 3

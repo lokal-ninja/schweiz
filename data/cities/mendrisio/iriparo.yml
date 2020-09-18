@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 45.8702169
 longitude: 8.9865777
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazzale alla Valle"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1263808
 longitude: 6.926954
-postcode: 2616
+postcode: "2616"
 city: Renan
 street: "Grand rue"
 housenumber: 22

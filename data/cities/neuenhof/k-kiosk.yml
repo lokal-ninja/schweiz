@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.4504874
 longitude: 8.3308795
-postcode: 5432
+postcode: "5432"
 city: Neuenhof
 street: "Hardstrasse"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 45.923777
 longitude: 8.9186394
-postcode: 6922
+postcode: "6922"
 city: Morcote
 street: "Riva dal Garavèll"
 housenumber: 20

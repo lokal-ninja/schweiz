@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.445606000000005
 longitude: 8.3608721
-postcode: 5436
+postcode: "5436"
 city: Würenlos
 street: "Landstrasse"
 housenumber: 39

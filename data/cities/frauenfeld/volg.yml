@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5474389
 longitude: 8.9094463
-postcode: 8500
+postcode: "8500"
 city: Frauenfeld
 street: "Thundorferstrasse"
 housenumber: 118

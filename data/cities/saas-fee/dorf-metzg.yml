@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 46.109315300000006
 longitude: 7.927992700000001
-postcode: 3906
+postcode: "3906"
 city: Saas-Fee
 street: "Bielmattenstrasse"
 housenumber: 2

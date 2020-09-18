@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.3392654
 longitude: 9.5237136
-postcode: 9453
+postcode: "9453"
 city: Eichberg
 street: "Kamorstrasse"
 housenumber: 18

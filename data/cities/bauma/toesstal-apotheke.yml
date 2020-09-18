@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.3671991
 longitude: 8.8791788
-postcode: 8494
+postcode: "8494"
 city: Bauma
 street: "Dorfstrasse"
 housenumber: 42

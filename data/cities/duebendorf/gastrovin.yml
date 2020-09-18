@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.402407000000004
 longitude: 8.617217700000001
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Kriesbachstrasse"
 housenumber: 4

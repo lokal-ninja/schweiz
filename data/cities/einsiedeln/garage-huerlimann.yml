@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.131674600000004
 longitude: 8.7443981
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Zürichstrasse"
 housenumber: 38

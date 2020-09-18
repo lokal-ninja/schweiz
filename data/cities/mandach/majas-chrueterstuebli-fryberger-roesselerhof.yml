@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.546278300000004
 longitude: 8.1857936
-postcode: 5318
+postcode: "5318"
 city: Mandach
 street: "Schattengasse"
 housenumber: 10

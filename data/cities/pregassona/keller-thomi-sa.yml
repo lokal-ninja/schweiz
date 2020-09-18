@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 46.0184322
 longitude: 8.974046900000001
-postcode: 6963
+postcode: "6963"
 city: Pregassona
 street: "Strada di Pregassona"
 housenumber: 15

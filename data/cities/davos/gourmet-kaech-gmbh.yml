@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 46.8014281
 longitude: 9.8340183
-postcode: 7270
+postcode: "7270"
 city: Davos
 street: "Promenade"
 housenumber: 89

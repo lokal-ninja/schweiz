@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.537181800000006
 longitude: 7.5716711000000005
-postcode: 4102
+postcode: "4102"
 city: Binningen
 street: "Oberwilerstrasse"
 housenumber: 16-20

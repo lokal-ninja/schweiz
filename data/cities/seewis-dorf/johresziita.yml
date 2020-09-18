@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.989429400000006
 longitude: 9.637590000000001
-postcode: 7212
+postcode: "7212"
 city: Seewis Dorf
 street: "Schlossstrasse"
 housenumber: 5

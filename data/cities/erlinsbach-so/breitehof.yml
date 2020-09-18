@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.394410900000004
 longitude: 8.0089617
-postcode: 5015
+postcode: "5015"
 city: Erlinsbach (SO)
 street: "Gösgerstrasse"
 housenumber: 39

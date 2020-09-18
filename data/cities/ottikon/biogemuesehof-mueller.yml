@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2942121
 longitude: 8.778371400000001
-postcode: 8626
+postcode: "8626"
 city: Ottikon
 street: "Grüningerstrasse"
 housenumber: 147

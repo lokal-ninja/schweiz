@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.396881300000004
 longitude: 9.580587600000001
-postcode: 9445
+postcode: "9445"
 city: Rebstein
 street: "Staatsstrasse"
 housenumber: 128

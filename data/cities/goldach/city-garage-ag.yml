@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.47879450000001
 longitude: 9.4681951
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "St. Gallerstrasse"
 housenumber: 76

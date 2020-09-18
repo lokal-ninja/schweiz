@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.191878300000006
 longitude: 6.137259
-postcode: 1227
+postcode: "1227"
 city: Carouge
 street: "Route des Acacias"
 housenumber: 10

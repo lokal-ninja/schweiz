@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.2705981
 longitude: 9.0110056
-postcode: 8727
+postcode: "8727"
 city: Walde
 street: "Oberrickenstrasse"
 housenumber: 13

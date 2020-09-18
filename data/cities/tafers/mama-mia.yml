@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.811149
 longitude: 7.2162873
-postcode: 1712
+postcode: "1712"
 city: Tafers
 street: "Schwarzseestrasse"
 housenumber: 29

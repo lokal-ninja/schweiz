@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.3091139
 longitude: 8.525524
-postcode: 8134
+postcode: "8134"
 city: Adliswil
 street: "Albisstrasse"
 housenumber: 33

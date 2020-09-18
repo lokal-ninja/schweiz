@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 47.551428900000005
 longitude: 7.537883900000001
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Baslerstrasse"
 housenumber: 26

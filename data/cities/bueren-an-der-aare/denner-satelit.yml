@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.139127300000006
 longitude: 7.3660380000000005
-postcode: 3294
+postcode: "3294"
 city: Büren an der Aare
 street: "Aarbergstrasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.041060400000006
 longitude: 9.434174200000001
-postcode: 8887
+postcode: "8887"
 city: Mels
 street: "Grossfeldstrasse"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.8458984
 longitude: 9.015835000000001
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Viale al Ponte"
 housenumber: 1

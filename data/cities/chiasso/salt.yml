@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 45.833071600000004
 longitude: 9.031644100000001
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Corso San Gottardo"
 housenumber: 25

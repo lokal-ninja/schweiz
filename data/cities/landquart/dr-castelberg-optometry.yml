@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9678873
 longitude: 9.5596888
-postcode: 7302
+postcode: "7302"
 city: Landquart
 street: "Bahnhofstrasse"
 housenumber: 38

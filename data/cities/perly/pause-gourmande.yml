@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.154753
 longitude: 6.0940460000000005
-postcode: 1258
+postcode: "1258"
 city: Perly
 street: "Route de Saint-Julien"
 housenumber: 285

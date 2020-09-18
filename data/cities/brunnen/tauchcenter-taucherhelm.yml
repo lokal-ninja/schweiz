@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 46.9977402
 longitude: 8.5693544
-postcode: 6440
+postcode: "6440"
 city: Brunnen
 street: "Gersauerstrasse"
 housenumber: 100

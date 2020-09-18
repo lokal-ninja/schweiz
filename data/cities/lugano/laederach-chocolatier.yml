@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 46.004707200000006
 longitude: 8.9505338
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Pessina"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3889791
 longitude: 8.1705824
-postcode: 
+postcode: ""
 city: Lenzburg
 street: "Augustin Keller-Strasse"
 housenumber: 20

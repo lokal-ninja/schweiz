@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4820524
 longitude: 8.0724689
-postcode: 5079
+postcode: "5079"
 city: Zeihen
 street: "Schwarzacherhof"
 housenumber: 1

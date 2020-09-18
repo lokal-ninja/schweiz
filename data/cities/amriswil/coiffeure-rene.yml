@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5475167
 longitude: 9.3015963
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Bahnhofstrasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.3779301
 longitude: 8.510499000000001
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Albisriederplatz"
 housenumber: 1

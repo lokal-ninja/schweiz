@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.777739700000005
 longitude: 6.6432127
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue de la Plaine"
 housenumber: 21

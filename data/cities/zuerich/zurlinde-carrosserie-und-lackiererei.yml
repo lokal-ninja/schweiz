@@ -1,9 +1,9 @@
 id: 4961745841
 type: node
 shop: Autowerkstatt
-latitude: 47.374747400000004
+latitude: 47.374746900000005
 longitude: 8.518326
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Meinrad-Lienert-Strasse"
 housenumber: 10

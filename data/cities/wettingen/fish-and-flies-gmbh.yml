@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 47.4642647
 longitude: 8.3296996
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 122

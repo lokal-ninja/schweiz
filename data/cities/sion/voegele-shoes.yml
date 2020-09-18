@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.2310846
 longitude: 7.3629772
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Rue du Scex"
 housenumber: 2

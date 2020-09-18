@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6018807
 longitude: 8.6477083
-postcode: 8453
+postcode: "8453"
 city: Alten
 street: "Marthalerstrasse"
 housenumber: 31

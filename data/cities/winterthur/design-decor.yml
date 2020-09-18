@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.498153900000005
 longitude: 8.7285654
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Steinberggasse"
 housenumber: 37

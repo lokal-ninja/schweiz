@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.1870398
 longitude: 6.126995
-postcode: 1212
+postcode: "1212"
 city: Grand-Lancy
 street: "Esplanade de Pont-Rouge"
 housenumber: 2

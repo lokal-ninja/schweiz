@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.051368700000005
 longitude: 8.2710413
-postcode: 6014
+postcode: "6014"
 city: Luzern
 street: "Luzernerstrasse"
 housenumber: 

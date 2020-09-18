@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4758882
 longitude: 8.303656700000001
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Bruggerstrasse"
 housenumber: 37F

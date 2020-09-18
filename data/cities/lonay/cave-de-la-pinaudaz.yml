@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.5240372
 longitude: 6.5135509
-postcode: 
+postcode: ""
 city: Lonay
 street: "Chemin des Vignes"
 housenumber: 12

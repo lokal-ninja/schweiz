@@ -1,12 +1,12 @@
 id: 258510437
 type: way
 shop: Lebensmittel
-latitude: 47.4585061
-longitude: 9.0483297
-postcode: 9500
+latitude: 47.458534900000004
+longitude: 9.0483201
+postcode: "9500"
 city: Wil SG
 street: "Toggenburgerstrasse"
 housenumber: 103
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
+website: "https://www.coop-pronto.ch/"

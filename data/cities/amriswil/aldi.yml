@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.547897500000005
 longitude: 9.2756895
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Schrofenstrasse"
 housenumber: 18

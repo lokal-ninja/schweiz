@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 46.231808400000006
 longitude: 7.3603348
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Rue de la Porte-Neuve"
 housenumber: 7

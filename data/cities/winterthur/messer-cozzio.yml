@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.4998986
 longitude: 8.7304279
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 8

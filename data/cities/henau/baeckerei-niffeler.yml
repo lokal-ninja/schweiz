@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.45252300000001
 longitude: 9.118714
-postcode: 9247
+postcode: "9247"
 city: Henau
 street: "Felseggstrasse"
 housenumber: 1

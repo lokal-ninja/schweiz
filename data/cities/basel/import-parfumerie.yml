@@ -1,12 +1,12 @@
-id: 376382300
-type: way
-shop: Kosmetik
-latitude: 47.5469614
-longitude: 7.5888378
-postcode: 4053
+id: 7479697386
+type: node
+shop: Parfümerie
+latitude: 47.5412679
+longitude: 7.619359200000001
+postcode: "4052"
 city: Basel
-street: "Güterstrasse"
-housenumber: 115
+street: "St. Jakobs-Strasse"
+housenumber: 397
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.impo.ch/"

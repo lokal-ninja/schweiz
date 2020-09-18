@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.2392071
 longitude: 7.7701441
-postcode: 4912
+postcode: "4912"
 city: Aarwangen
 street: "Langenthalstrasse"
 housenumber: 11

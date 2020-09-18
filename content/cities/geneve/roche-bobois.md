@@ -1,4 +1,4 @@
 ---
-title: "Roche-Bobois"
+title: "Roche Bobois"
 url: /geneve/roche-bobois/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.491285600000005
 longitude: 7.541074600000001
-postcode: 4106
+postcode: "4106"
 city: Therwil
 street: "Weisser Markstein"
 housenumber: 16

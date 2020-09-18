@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.7789921
 longitude: 6.6389939
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue du Milieu"
 housenumber: 25

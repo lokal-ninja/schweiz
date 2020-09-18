@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4115653
 longitude: 9.3666906
-postcode: 9012
+postcode: "9012"
 city: St. Gallen
 street: "Teufenerstrasse"
 housenumber: 143

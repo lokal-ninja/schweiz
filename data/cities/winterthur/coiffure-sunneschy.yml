@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.507401900000005
 longitude: 8.698312900000001
-postcode: 8408
+postcode: "8408"
 city: Winterthur
 street: "Eckwiesenstrasse"
 housenumber: 20
 phone: "+41 52 222 33 76"
-opening_hours: "Mo - Sa nach Vereinbarung"
+opening_hours: "Mo - Fr:  08.00 Uhr - 19.00 Uhr / Sa: 08.00 Uhr - 14.00 Uhr"
 website: "https://coiffure-sunneschy.ch/"

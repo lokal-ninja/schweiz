@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.8016213
 longitude: 9.832611100000001
-postcode: 7270
+postcode: "7270"
 city: Davos
 street: "Promenade"
 housenumber: 105

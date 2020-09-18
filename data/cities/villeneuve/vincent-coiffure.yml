@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.3977359
 longitude: 6.92584
-postcode: 
+postcode: ""
 city: Villeneuve
 street: "Grand Rue"
 housenumber: 8

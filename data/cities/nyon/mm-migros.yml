@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.388205500000005
 longitude: 6.2203736
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Chemin de la Fontaine"
 housenumber: 5

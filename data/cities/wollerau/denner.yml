@@ -1,12 +1,12 @@
-id: 5471311144
+id: 5513256743
 type: node
 shop: Supermarkt
-latitude: 47.1919107
-longitude: 8.7215272
-postcode: 8832
+latitude: 47.1964113
+longitude: 8.722622900000001
+postcode: "8832"
 city: Wollerau
-street: "Roosstrasse"
-housenumber: 
+street: "Wächlenstrasse"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: "Mo-Sa 07:30-20:00; PH off"
 website: "https://www.denner.ch/"

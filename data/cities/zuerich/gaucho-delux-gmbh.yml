@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.362720800000005
 longitude: 8.5277755
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bederstrasse"
 housenumber: 77

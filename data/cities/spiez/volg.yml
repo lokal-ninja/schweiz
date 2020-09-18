@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.683517
 longitude: 7.6667651
-postcode: 3700
+postcode: "3700"
 city: Spiez
 street: "Faulenbachweg"
 housenumber: 91

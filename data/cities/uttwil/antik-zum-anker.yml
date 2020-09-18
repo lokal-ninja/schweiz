@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 47.581934700000005
 longitude: 9.343673200000001
-postcode: 8592
+postcode: "8592"
 city: Uttwil
 street: "Romanshornerstrasse"
 housenumber: 14

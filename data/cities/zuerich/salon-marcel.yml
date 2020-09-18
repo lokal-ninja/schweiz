@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4100952
 longitude: 8.5438883
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schulstrasse"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5355952
 longitude: 8.7301131
-postcode: 8472
+postcode: "8472"
 city: Seuzach
 street: "Winterthurerstrasse"
 housenumber: 5

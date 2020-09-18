@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.3489258
 longitude: 8.7211777
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Freiestrasse"
 housenumber: 11

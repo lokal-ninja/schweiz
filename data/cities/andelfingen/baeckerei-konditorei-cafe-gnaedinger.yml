@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.594749300000004
 longitude: 8.6799633
-postcode: 8450
+postcode: "8450"
 city: Andelfingen
 street: "Thurtalstrasse"
 housenumber: 8

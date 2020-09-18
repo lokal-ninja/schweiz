@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.469742700000005
 longitude: 8.317590800000001
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 8

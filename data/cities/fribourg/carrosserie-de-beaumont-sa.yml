@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.794501700000005
 longitude: 7.1446797
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Route de la Glâne"
 housenumber: 16

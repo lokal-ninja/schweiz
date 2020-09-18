@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 47.3849509
 longitude: 8.5318219
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Limmatplatz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00"
-website: ""
+website: "https://www.qualipet.ch/"

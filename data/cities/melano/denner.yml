@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.919854300000004
 longitude: 8.9847173
-postcode: 6818
+postcode: "6818"
 city: Melano
 street: "VIa Cantonale"
 housenumber: 114b

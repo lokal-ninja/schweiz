@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.8259467
 longitude: 6.924594000000001
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Zone Industrielle La Palaz"
 housenumber: 

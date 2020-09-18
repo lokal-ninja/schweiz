@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3290078
 longitude: 9.347602
-postcode: 9108
+postcode: "9108"
 city: Gonten
 street: "Dorfstrasse"
 housenumber: 32

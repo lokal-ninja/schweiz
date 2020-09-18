@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.5621908
 longitude: 7.5731463
-postcode: 4055
+postcode: "4055"
 city: Basel
 street: "Burgfelderstrasse"
 housenumber: 9

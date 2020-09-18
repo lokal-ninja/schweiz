@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 47.463941500000004
 longitude: 7.8794450000000005
-postcode: 4066
+postcode: "4066"
 city: Ormalingen
 street: "Weidhof"
 housenumber: 203
 phone: "+41 61 981 46 50"
-opening_hours: "Mo-Sa: 8-12 Uhr und 13-18 Uhr; Onlineshop"
+opening_hours: "Mo-Sa 08:00-12:00,13:00-18:00"
 website: "http://www.schaer-weidhof.ch/"

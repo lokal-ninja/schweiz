@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5455319
 longitude: 8.7070483
-postcode: 8442
+postcode: "8442"
 city: Hettlingen
 street: "Stationsstrasse"
 housenumber: 21

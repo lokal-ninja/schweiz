@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9036671
 longitude: 7.2394698
-postcode: 3177
+postcode: "3177"
 city: Laupen BE
 street: "Krautgasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5043225
 longitude: 8.71921
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Schützenstrasse"
 housenumber: 39

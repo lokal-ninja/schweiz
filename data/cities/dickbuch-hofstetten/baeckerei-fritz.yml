@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4968701
 longitude: 8.8308827
-postcode: 8354
+postcode: "8354"
 city: Dickbuch (Hofstetten)
 street: "Dickbuch"
 housenumber: 434

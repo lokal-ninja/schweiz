@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.1683712
 longitude: 8.761202500000001
-postcode: 6616
+postcode: "6616"
 city: Losone
 street: "Via Mezzana"
 housenumber: 22

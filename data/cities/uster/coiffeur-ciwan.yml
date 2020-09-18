@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.358534500000005
 longitude: 8.7096636
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Loren-Allee"
 housenumber: 18

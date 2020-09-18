@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.3723861
 longitude: 7.8512225
-postcode: 4633
+postcode: "4633"
 city: Hauenstein-Ifenthal
 street: "Rankbrünnelistrasse"
 housenumber: 1

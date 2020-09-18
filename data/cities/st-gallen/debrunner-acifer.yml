@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.4105543
 longitude: 9.344380600000001
-postcode: 9014
+postcode: "9014"
 city: St. Gallen
 street: "Hechtackerstrasse"
 housenumber: 33

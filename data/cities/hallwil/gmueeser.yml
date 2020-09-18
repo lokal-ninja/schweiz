@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.323940900000004
 longitude: 8.1798553
-postcode: 5705
+postcode: "5705"
 city: Hallwil
 street: "Breiten"
 housenumber: 114

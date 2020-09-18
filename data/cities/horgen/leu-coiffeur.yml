@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2592675
 longitude: 8.5986857
-postcode: 8810
+postcode: "8810"
 city: Horgen
 street: "Löwengasse"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.367393400000005
 longitude: 8.534348600000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bleicherweg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.4572051
 longitude: 9.7920628
-postcode: 7513
+postcode: "7513"
 city: Silvaplana
 street: "Via vers Chardens"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6347394
 longitude: 8.6553732
-postcode: 8460
+postcode: "8460"
 city: Marthalen
 street: "Güeterstrass"
 housenumber: 3

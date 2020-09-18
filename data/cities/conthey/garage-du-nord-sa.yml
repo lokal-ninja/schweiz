@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.214350200000005
 longitude: 7.293234600000001
-postcode: 1964
+postcode: "1964"
 city: Conthey
 street: "Route de Sécheron"
 housenumber: 2

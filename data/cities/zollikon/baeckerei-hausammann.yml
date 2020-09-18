@@ -1,12 +1,12 @@
 id: 50279366
 type: way
 shop: Bäckerei
-latitude: 47.337578300000004
-longitude: 8.575975600000001
-postcode: 8702
+latitude: 47.3375767
+longitude: 8.5759895
+postcode: "8702"
 city: Zollikon
 street: "Alte Landstrasse"
 housenumber: 93
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-17:00, Su 08:00-17:00"
+website: "http://www.zopfbeck.ch/fil.zol.html"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3796242
 longitude: 8.5274649
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Langstrasse"
 housenumber: 125

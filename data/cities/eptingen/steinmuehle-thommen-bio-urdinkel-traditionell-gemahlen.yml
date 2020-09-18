@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.385480900000005
 longitude: 7.8128605
-postcode: 4458
+postcode: "4458"
 city: Eptingen
 street: "Dangern"
 housenumber: 131

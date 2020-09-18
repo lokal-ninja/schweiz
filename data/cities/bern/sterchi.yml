@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9489395
 longitude: 7.393710700000001
-postcode: 3027
+postcode: "3027"
 city: Bern
 street: "Bethlehemstrasse"
 housenumber: 2

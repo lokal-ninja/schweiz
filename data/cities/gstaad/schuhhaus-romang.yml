@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.47404
 longitude: 7.285964000000001
-postcode: 3780
+postcode: "3780"
 city: Gstaad
 street: "Promenade"
 housenumber: 53

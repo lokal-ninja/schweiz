@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.5235422
 longitude: 6.6306674
-postcode: 1004
+postcode: "1004"
 city: Lausanne
 street: "Rue Pré-du-Marché"
 housenumber: 6

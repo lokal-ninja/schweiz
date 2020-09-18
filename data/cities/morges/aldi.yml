@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.516536
 longitude: 6.5059507000000005
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Rue de Lausanne"
 housenumber: 47a

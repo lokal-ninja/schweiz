@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.389219100000005
 longitude: 9.5617274
-postcode: 9450
+postcode: "9450"
 city: Lüchingen
 street: "Rorschacherstrasse"
 housenumber: 133

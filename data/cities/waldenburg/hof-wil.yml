@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.387469800000005
 longitude: 7.7395421
-postcode: 4437
+postcode: "4437"
 city: Waldenburg
 street: "Wil"
 housenumber: 1

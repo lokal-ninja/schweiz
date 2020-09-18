@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.3214333
 longitude: 7.6923447000000005
-postcode: 3957
+postcode: "3957"
 city: Erschmatt
 street: "Dorfplatz"
 housenumber: 8

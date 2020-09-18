@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.374378
 longitude: 8.5028819
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Gutstrasse"
 housenumber: 160

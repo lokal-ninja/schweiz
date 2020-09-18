@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.488964
 longitude: 8.7123459
-postcode: 8406
+postcode: "8406"
 city: Winterthur
 street: "Strittackerstrasse"
 housenumber: 15

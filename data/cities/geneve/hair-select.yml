@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.192886900000005
 longitude: 6.1608065000000005
-postcode: 
+postcode: ""
 city: Genève
 street: "Avenue Eugène-Pittard"
 housenumber: 3

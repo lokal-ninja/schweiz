@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 45.842861500000005
 longitude: 8.9742455
-postcode: 6883
+postcode: "6883"
 city: Novazzano
 street: "Via Casate"
 housenumber: 12

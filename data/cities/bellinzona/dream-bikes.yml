@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.211308200000005
 longitude: 9.039103500000001
-postcode: 6500
+postcode: "6500"
 city: Bellinzona
 street: "Via del Bosco"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4051315
 longitude: 8.1729499
-postcode: 5702
+postcode: "5702"
 city: Niederlenz
 street: "Wildeggerstrasse"
 housenumber: 5

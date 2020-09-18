@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3327
 longitude: 8.8822037
-postcode: 8344
+postcode: "8344"
 city: Bäretswil
 street: "Bettswilerstrasse"
 housenumber: 58

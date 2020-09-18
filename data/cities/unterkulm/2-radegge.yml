@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.317168900000006
 longitude: 8.1132656
-postcode: 5726
+postcode: "5726"
 city: Unterkulm
 street: "Hauptstrasse"
 housenumber: 96

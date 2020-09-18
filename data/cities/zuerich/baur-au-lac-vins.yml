@@ -3,10 +3,10 @@ type: node
 shop: Wein
 latitude: 47.3781541
 longitude: 8.5400814
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-21:00, Sa-Su 09:00-20:00"
+website: "https://www.bauraulacvins.ch/de/filiale-shopville-zurich-hauptbahnhof.html"

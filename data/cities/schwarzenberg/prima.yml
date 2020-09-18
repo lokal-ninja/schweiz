@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0174691
 longitude: 8.173240700000001
-postcode: 6103
+postcode: "6103"
 city: Schwarzenberg
 street: "Mattstrasse"
 housenumber: 1

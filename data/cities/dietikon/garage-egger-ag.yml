@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3971875
 longitude: 8.4233045
-postcode: 8953
+postcode: "8953"
 city: Dietikon
 street: "Zürcherstrasse"
 housenumber: 232

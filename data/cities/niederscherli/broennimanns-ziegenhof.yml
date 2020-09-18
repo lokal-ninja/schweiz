@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.878299600000005
 longitude: 7.4293443
-postcode: 3145
+postcode: "3145"
 city: Niederscherli
 street: "Wuhrweg"
 housenumber: 24

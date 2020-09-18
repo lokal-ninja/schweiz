@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3191457
 longitude: 8.7921116
-postcode: 
+postcode: ""
 city: Wetzikon
 street: "Bahnhofstrasse"
 housenumber: 11

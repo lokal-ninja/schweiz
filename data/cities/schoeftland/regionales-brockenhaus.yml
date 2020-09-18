@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.3150374
 longitude: 8.0526497
-postcode: 5040
+postcode: "5040"
 city: Schöftland
 street: "Aarauerstrasse"
 housenumber: 44

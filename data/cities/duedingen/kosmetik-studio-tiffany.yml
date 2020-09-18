@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.8563301
 longitude: 7.1839772
-postcode: 3186
+postcode: "3186"
 city: Düdingen
 street: "Bonnstrasse"
 housenumber: 49

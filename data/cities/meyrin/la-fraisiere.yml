@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.229292
 longitude: 6.0877717
-postcode: 1217
+postcode: "1217"
 city: Meyrin
 street: "Chemin H-C Forestier"
 housenumber: 10

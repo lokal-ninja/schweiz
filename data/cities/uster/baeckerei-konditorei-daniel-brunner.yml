@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.351710100000005
 longitude: 8.7220302
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Brunnenstrasse"
 housenumber: 30

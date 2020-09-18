@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.336742300000004
 longitude: 6.891427800000001
-postcode: 1896
+postcode: "1896"
 city: Vouvry
 street: "Avenue de Savoie"
 housenumber: 4

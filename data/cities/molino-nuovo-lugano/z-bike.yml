@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.0159619
 longitude: 8.9587363
-postcode: 6900
+postcode: "6900"
 city: Molino Nuovo (Lugano)
 street: "Via Vignola"
 housenumber: 14

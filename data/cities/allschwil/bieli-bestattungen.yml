@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.55191
 longitude: 7.545750000000001
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Baslerstrasse"
 housenumber: 136

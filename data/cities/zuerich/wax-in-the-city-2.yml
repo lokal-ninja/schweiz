@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.409896200000006
 longitude: 8.546401900000001
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 354

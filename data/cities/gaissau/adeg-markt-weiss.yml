@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4646757
 longitude: 9.5950778
-postcode: 6974
+postcode: "6974"
 city: Gaißau
 street: "Rheinstraße"
 housenumber: 1

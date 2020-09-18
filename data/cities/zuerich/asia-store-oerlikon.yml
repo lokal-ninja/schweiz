@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.412636500000005
 longitude: 8.544936100000001
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Affolternstrasse"
 housenumber: 10

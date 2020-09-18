@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.9587106
 longitude: 7.4551604000000005
-postcode: 3014
+postcode: "3014"
 city: Bern
 street: "Breitenrainplatz"
 housenumber: 28

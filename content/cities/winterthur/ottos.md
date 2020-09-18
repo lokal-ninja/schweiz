@@ -1,4 +1,4 @@
 ---
-title: "Otto’s"
+title: "Otto's"
 url: /winterthur/ottos/
 ---

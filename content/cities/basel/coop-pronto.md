@@ -1,4 +1,4 @@
 ---
-title: "COOP Pronto"
+title: "Coop Pronto"
 url: /basel/coop-pronto/
 ---

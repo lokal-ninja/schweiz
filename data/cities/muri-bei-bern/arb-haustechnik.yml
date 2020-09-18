@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 46.9306775
 longitude: 7.486792500000001
-postcode: 3074
+postcode: "3074"
 city: Muri bei Bern
 street: "Thunstrasse"
 housenumber: 84

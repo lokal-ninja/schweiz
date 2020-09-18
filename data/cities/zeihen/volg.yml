@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.475396700000005
 longitude: 8.0836096
-postcode: 5079
+postcode: "5079"
 city: Zeihen
 street: "Oberzeiherstrasse"
 housenumber: 1

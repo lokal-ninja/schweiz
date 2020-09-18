@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3580525
 longitude: 8.5235267
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Kalanderplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5047301
 longitude: 7.518925
-postcode: 4105
+postcode: "4105"
 city: Biel-Benken
 street: "Kirchgasse"
 housenumber: 16

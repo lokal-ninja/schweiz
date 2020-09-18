@@ -1,12 +1,12 @@
-id: 1598955385
+id: 697447471
 type: node
 shop: Supermarkt
-latitude: 47.555347000000005
-longitude: 7.6147800000000005
-postcode: 4052
+latitude: 47.568184900000006
+longitude: 7.5698764
+postcode: "4056"
 city: Basel
-street: "Zürcherstrasse"
-housenumber: 160
+street: "Lachenstrasse"
+housenumber: 1
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00, Su 09:00-18:00"
+website: "https://filialen.migros.ch/de/migros-partner-basel-lachenstrasse"

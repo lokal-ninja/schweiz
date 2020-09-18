@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.873158000000004
 longitude: 7.560152100000001
-postcode: 3110
+postcode: "3110"
 city: Münsingen
 street: "Bahnhofplatz"
 housenumber: 5
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-muensingen"

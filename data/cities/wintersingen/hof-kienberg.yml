@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.489323500000005
 longitude: 7.8285800000000005
-postcode: 4451
+postcode: "4451"
 city: Wintersingen
 street: "Hof Kienberg"
 housenumber: 

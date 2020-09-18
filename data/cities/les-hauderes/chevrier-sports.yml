@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.0815409
 longitude: 7.508276
-postcode: 1984
+postcode: "1984"
 city: Les Haudères
 street: "Route Principale"
 housenumber: 56

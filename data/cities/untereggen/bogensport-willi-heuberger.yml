@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4509441
 longitude: 9.44632
-postcode: 9033
+postcode: "9033"
 city: Untereggen
 street: "Mittlerhof"
 housenumber: 25

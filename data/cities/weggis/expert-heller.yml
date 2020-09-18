@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.031927200000005
 longitude: 8.4314879
-postcode: 6353
+postcode: "6353"
 city: Weggis
 street: "Seestrasse"
 housenumber: 16

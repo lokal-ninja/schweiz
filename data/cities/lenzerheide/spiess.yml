@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.7253593
 longitude: 9.5580277
-postcode: 7078
+postcode: "7078"
 city: Lenzerheide
 street: "Voa Principala"
 housenumber: 34

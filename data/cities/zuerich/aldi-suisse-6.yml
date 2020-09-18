@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3838311
 longitude: 8.4978671
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 565

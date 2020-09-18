@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.431003700000005
 longitude: 9.6381475
-postcode: 9434
+postcode: "9434"
 city: Au SG
 street: "Nollenhornstrasse"
 housenumber: 7

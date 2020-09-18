@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.949135500000004
 longitude: 7.440034000000001
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Bahnhofplatz"
 housenumber: 10

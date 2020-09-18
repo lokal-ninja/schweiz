@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0001023
 longitude: 6.9179792
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Route de Pierre-à-Bot"
 housenumber: 30

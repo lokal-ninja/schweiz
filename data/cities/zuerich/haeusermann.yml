@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.395372
 longitude: 8.4861482
-postcode: 8064
+postcode: "8064"
 city: Zürich
 street: "Bernerstrasse Nord"
 housenumber: 188
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-18:00"
 website: "https://www.haeusermann.com/"

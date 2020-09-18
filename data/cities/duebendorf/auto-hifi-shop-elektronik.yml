@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.3969712
 longitude: 8.6135675
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Zürichstrasse"
 housenumber: 30

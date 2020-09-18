@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.228336500000005
 longitude: 8.8218916
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Kniestrasse"
 housenumber: 31

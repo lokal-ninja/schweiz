@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.225321
 longitude: 8.941958600000001
-postcode: 8716
+postcode: "8716"
 city: Schmerikon
 street: "Hauptstrasse"
 housenumber: 15

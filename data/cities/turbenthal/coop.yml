@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.439939900000006
 longitude: 8.8441583
-postcode: 8488
+postcode: "8488"
 city: Turbenthal
 street: "Hofwiesweg"
 housenumber: 2

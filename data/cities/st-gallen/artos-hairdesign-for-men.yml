@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.424454100000005
 longitude: 9.378761200000001
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Spisergasse"
 housenumber: 36

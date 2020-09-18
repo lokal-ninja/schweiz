@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.526156300000004
 longitude: 8.2145451
-postcode: 5234
+postcode: "5234"
 city: Villigen
 street: "Mandacherstrasse"
 housenumber: 1

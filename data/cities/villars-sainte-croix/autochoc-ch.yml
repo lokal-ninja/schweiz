@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.562688300000005
 longitude: 6.5655467000000005
-postcode: 1029
+postcode: "1029"
 city: Villars-Sainte-Croix
 street: "La Croix-du-Péage"
 housenumber: 2

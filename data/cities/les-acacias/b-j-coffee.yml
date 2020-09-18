@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 46.1912492
 longitude: 6.1291262
-postcode: 1227
+postcode: "1227"
 city: Les Acacias
 street: "Route des Acacias"
 housenumber: 43

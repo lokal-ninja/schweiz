@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.2130779
 longitude: 7.789676900000001
-postcode: 4900
+postcode: "4900"
 city: Langenthal
 street: "Marktgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.c-and-a.com/ch/"

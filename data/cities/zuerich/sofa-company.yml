@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.363531900000005
 longitude: 8.5127755
-postcode: 8045
+postcode: "8045"
 city: Zürich
 street: "Räffelstrasse"
 housenumber: 26

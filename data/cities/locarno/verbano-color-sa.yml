@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.1701975
 longitude: 8.776442600000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Vallemaggia"
 housenumber: 87

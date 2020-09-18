@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.516887200000006
 longitude: 8.3650897
-postcode: 5425
+postcode: "5425"
 city: Schneisingen
 street: "Dorfstrasse"
 housenumber: 9

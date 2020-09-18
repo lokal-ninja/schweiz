@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.8637269
 longitude: 8.7685248
-postcode: 6465
+postcode: "6465"
 city: Unterschächen
 street: "Klausenstrasse"
 housenumber: 25

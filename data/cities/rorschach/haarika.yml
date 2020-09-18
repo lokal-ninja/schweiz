@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4777019
 longitude: 9.491916100000001
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Signalstrasse"
 housenumber: 8

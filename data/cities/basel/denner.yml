@@ -1,12 +1,12 @@
-id: 1517612090
+id: 804534298
 type: node
 shop: Supermarkt
-latitude: 47.566673
-longitude: 7.590623000000001
-postcode: 4057
+latitude: 47.5671248
+longitude: 7.5948273
+postcode: "4057"
 city: Basel
-street: "Klybeckstrasse"
-housenumber: 45
-phone: "+41 61 691 64 11"
+street: "Hammerstrasse"
+housenumber: 129
+phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
 website: ""

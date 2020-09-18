@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 47.107801800000004
 longitude: 6.8305382
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Rue des Moulins"
 housenumber: 7

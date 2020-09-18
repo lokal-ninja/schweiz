@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.3568859
 longitude: 8.0466004
-postcode: 3983
+postcode: "3983"
 city: Mörel
 street: "Furkastrasse"
 housenumber: 31

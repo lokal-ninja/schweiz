@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.657657
 longitude: 8.853238000000001
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: "Wagenhauserstrasse"
 housenumber: 37

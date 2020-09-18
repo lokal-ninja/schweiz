@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9254407
 longitude: 7.3781805
-postcode: 
+postcode: ""
 city: Köniz
 street: "Freiburgstrasse"
 housenumber: 553

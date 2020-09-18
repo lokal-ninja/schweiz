@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4437184
 longitude: 8.1305761
-postcode: 5108
+postcode: "5108"
 city: Oberflachs
 street: "Winzerweg"
 housenumber: 19

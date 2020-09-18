@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.464582
 longitude: 9.0439127
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Obere Bahnhofstrasse"
 housenumber: 25

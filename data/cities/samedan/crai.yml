@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.532732100000004
 longitude: 9.8691016
-postcode: 7503
+postcode: "7503"
 city: Samedan
 street: "San Bastiaun"
 housenumber: 18

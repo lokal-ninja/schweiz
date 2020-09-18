@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.7994312
 longitude: 7.151719300000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Rue du Simplon"
 housenumber: 5

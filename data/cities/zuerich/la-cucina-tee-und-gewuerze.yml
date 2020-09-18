@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.3777914
 longitude: 8.533214300000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Lagerstrasse"
 housenumber: 18a

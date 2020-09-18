@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.3192759
 longitude: 7.9886672
-postcode: 3900
+postcode: "3900"
 city: Brig
 street: "Bahnhofplatz"
 housenumber: 1

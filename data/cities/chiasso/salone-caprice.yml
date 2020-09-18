@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8367924
 longitude: 9.024547100000001
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Corso San Gottardo"
 housenumber: 92

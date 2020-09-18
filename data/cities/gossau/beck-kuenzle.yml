@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4161555
 longitude: 9.2516216
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "Kirchstrasse"
 housenumber: 3

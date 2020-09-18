@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.6065856
 longitude: 6.231901400000001
-postcode: 1347
+postcode: "1347"
 city: Le Sentier
 street: "Route Neuve"
 housenumber: 7Bis

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3970551
 longitude: 8.4490051
-postcode: 8952
+postcode: "8952"
 city: Schlieren
 street: "Zürcherstrasse"
 housenumber: 6

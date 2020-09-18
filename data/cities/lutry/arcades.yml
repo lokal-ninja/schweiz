@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.502555400000006
 longitude: 6.684848100000001
-postcode: 1095
+postcode: "1095"
 city: Lutry
 street: "Grand-Rue"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8576294
 longitude: 9.5209931
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Ringstrasse"
 housenumber: 91

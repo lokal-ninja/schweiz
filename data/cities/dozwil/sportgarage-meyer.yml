@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5773078
 longitude: 9.3189604
-postcode: 8582
+postcode: "8582"
 city: Dozwil
 street: "Kesswilerstrasse"
 housenumber: 9

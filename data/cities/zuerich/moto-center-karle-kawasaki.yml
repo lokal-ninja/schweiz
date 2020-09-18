@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.3791565
 longitude: 8.529515400000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Militärstrasse"
 housenumber: 90

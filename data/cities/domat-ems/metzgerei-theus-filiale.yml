@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.8322129
 longitude: 9.443478200000001
-postcode: 7013
+postcode: "7013"
 city: Domat/Ems
 street: "Reichenauerstrasse"
 housenumber: 23

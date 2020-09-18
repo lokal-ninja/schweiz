@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.8547662
 longitude: 8.9924967
-postcode: 6877
+postcode: "6877"
 city: Coldrerio
 street: "Via Mercole"
 housenumber: 

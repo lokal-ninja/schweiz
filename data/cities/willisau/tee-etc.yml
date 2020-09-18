@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.1203987
 longitude: 7.9901895000000005
-postcode: 6130
+postcode: "6130"
 city: Willisau
 street: "Hauptgasse"
 housenumber: 29

@@ -3,10 +3,10 @@ type: way
 shop: Instrumente
 latitude: 47.545992600000005
 longitude: 7.5555105000000005
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Binningerstrasse"
 housenumber: 152
 phone: "+41 61 272 33 90"
 opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-17:00"
-website: "https://www.musikhug.ch/"
+website: "https://www.musikhug.ch/standorte/basel/"

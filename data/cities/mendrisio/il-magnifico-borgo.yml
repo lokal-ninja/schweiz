@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 45.869548800000004
 longitude: 8.9899936
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Industria"
 housenumber: 5

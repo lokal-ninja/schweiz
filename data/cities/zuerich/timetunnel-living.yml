@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.385775900000006
 longitude: 8.5215236
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Viaduktstrasse"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.507546500000004
 longitude: 8.722940900000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Schaffhauserstrasse"
 housenumber: 39

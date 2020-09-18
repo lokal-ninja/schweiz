@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.5456658
 longitude: 6.550136
-postcode: 1030
+postcode: "1030"
 city: Bussigny
 street: "Chemin de la Chocolatière"
 housenumber: 2

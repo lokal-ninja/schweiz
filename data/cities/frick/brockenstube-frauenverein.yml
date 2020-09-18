@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.507972800000005
 longitude: 8.0212857
-postcode: 5070
+postcode: "5070"
 city: Frick
 street: "Kaistenbergstrasse"
 housenumber: 2

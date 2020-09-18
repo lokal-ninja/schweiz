@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.8198377
 longitude: 6.9334017
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Rue de Guillermaux"
 housenumber: 27

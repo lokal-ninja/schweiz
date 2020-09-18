@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5160393
 longitude: 9.4358783
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Kapellgasse"
 housenumber: 1

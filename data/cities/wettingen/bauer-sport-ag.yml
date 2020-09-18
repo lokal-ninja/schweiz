@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.465212300000005
 longitude: 8.328514700000001
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 109

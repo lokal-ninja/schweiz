@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.3948471
 longitude: 8.6029616
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Stettbachstrasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.354695400000004
 longitude: 8.555378000000001
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Dufourstrasse"
 housenumber: 167

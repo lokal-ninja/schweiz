@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 46.774859000000006
 longitude: 7.6156931000000005
-postcode: 3613
+postcode: "3613"
 city: Steffisburg
 street: "Bernstrasse"
 housenumber: 115

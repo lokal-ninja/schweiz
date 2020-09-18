@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9323345
 longitude: 7.503523800000001
-postcode: 3073
+postcode: "3073"
 city: Gümligen
 street: "Füllerichstrasse"
 housenumber: 53

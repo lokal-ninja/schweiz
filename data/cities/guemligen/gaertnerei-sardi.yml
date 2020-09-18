@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.940323400000004
 longitude: 7.4965691
-postcode: 3073
+postcode: "3073"
 city: Gümligen
 street: "Wiesenstrasse"
 housenumber: 27

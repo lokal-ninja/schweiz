@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3877022
 longitude: 8.5397604
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Stampfenbachstrasse"
 housenumber: 152

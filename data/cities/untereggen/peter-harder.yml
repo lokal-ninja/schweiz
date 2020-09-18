@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4498765
 longitude: 9.4421133
-postcode: 9033
+postcode: "9033"
 city: Untereggen
 street: "Im Böhler"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 46.202283800000004
 longitude: 6.1502072000000005
-postcode: 1200
+postcode: "1200"
 city: Genève
 street: "Rue de Rive (les Rues Basses)"
 housenumber: 4

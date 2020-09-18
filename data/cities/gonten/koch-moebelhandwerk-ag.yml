@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.3246935
 longitude: 9.342342700000001
-postcode: 9108
+postcode: "9108"
 city: Gonten
 street: "Dorfstrasse"
 housenumber: 59

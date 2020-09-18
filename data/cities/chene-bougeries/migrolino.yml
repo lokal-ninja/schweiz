@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.2037661
 longitude: 6.1869632
-postcode: 
+postcode: ""
 city: Chêne-Bougeries
 street: "Chemin de la Gradelle"
 housenumber: 40b

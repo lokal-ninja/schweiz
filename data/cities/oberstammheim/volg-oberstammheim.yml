@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6321913
 longitude: 8.7994856
-postcode: 8477
+postcode: "8477"
 city: Oberstammheim
 street: "Hauptstrasse"
 housenumber: 68

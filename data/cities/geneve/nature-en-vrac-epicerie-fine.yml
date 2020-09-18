@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.2098555
 longitude: 6.1398150000000005
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Place des Grottes"
 housenumber: 1

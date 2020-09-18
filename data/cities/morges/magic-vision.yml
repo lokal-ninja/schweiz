@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.5100336
 longitude: 6.4974812
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Rue des Fossés"
 housenumber: 4

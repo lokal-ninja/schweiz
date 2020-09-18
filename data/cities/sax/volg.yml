@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.229623100000005
 longitude: 9.455200600000001
-postcode: 9468
+postcode: "9468"
 city: Sax
 street: "Gaditsch"
 housenumber: 13

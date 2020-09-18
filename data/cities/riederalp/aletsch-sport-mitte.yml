@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.378284
 longitude: 8.0339013
-postcode: 3987
+postcode: "3987"
 city: Riederalp
 street: "Bahnhofstrasse"
 housenumber: 4

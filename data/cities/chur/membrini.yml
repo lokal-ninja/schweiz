@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.8484484
 longitude: 9.52975
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Untere Gasse"
 housenumber: 26

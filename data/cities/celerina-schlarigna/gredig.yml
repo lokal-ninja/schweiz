@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.5123042
 longitude: 9.8592875
-postcode: 7505
+postcode: "7505"
 city: Celerina / Schlarigna
 street: "Via Maistra"
 housenumber: 80

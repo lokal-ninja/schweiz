@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.4726927
 longitude: 9.512851300000001
-postcode: 7447
+postcode: "7447"
 city: Cresta/Avers
 street: ""
 housenumber: 

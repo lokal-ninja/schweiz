@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.3713951
 longitude: 8.5284469
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Hallwylstrasse"
 housenumber: 40

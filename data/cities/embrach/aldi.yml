@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5165537
 longitude: 8.5943967
-postcode: 8424
+postcode: "8424"
 city: Embrach
 street: "Industriestrasse"
 housenumber: 4

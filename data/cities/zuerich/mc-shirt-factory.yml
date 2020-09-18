@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.374577
 longitude: 8.5452978
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Mühlegasse"
 housenumber: 25

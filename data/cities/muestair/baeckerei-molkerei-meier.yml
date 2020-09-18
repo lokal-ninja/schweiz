@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.6278383
 longitude: 10.446454000000001
-postcode: 7537
+postcode: "7537"
 city: Müstair
 street: "Via Maistra"
 housenumber: 

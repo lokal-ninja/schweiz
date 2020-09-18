@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9041949
 longitude: 6.9304114000000006
-postcode: 1544
+postcode: "1544"
 city: Gletterens
 street: "Route des Grèves"
 housenumber: 18

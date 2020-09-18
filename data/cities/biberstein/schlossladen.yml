@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.413648200000004
 longitude: 8.0827633
-postcode: 5023
+postcode: "5023"
 city: Biberstein
 street: ""
 housenumber: 

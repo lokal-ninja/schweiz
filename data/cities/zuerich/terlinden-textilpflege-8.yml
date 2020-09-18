@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3675775
 longitude: 8.534165900000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Bleicherweg"
 housenumber: 54

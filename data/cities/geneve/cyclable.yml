@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.203175300000005
 longitude: 6.1394025
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue de l'Arquebuse"
 housenumber: 9

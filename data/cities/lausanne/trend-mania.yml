@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.521111100000006
 longitude: 6.628581400000001
-postcode: 1003
+postcode: "1003"
 city: Lausanne
 street: "Rue du Port-Franc"
 housenumber: 9

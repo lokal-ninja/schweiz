@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3494375
 longitude: 8.7176794
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Poststrasse"
 housenumber: 7A

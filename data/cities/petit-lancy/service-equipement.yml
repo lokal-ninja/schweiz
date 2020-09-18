@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 46.193309600000006
 longitude: 6.1115043
-postcode: 1213
+postcode: "1213"
 city: Petit-Lancy
 street: "Chemin Louis-Hubert"
 housenumber: 2

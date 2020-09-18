@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.1074805
 longitude: 6.8313299
-postcode: 2300
+postcode: "2300"
 city: La Chaux-de-Fonds
 street: "Rue de la Charrière"
 housenumber: 8a

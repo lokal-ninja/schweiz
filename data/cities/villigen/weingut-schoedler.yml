@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5257031
 longitude: 8.216570200000001
-postcode: 5234
+postcode: "5234"
 city: Villigen
 street: "Kumetstrasse"
 housenumber: 15

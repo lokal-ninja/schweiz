@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6592439
 longitude: 8.8593092
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: ""
 housenumber: 

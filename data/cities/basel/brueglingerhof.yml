@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5346758
 longitude: 7.6140848000000005
-postcode: 4052
+postcode: "4052"
 city: Basel
 street: "Vorder Brüglingen"
 housenumber: 5

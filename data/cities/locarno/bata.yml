@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 46.1698158
 longitude: 8.7972643
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via alla Ramogna"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
 website: "https://www.bata.ch/"

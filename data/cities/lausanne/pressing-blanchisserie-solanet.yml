@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.524616800000004
 longitude: 6.6314082
-postcode: 1004
+postcode: "1004"
 city: Lausanne
 street: "Rue du Valentin"
 housenumber: 16

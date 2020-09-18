@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.370277300000005
 longitude: 7.9722882
-postcode: 5013
+postcode: "5013"
 city: Niedergösgen
 street: "Oltnerstrasse"
 housenumber: 94

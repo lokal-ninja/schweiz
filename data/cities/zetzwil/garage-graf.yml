@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2856382
 longitude: 8.149902500000001
-postcode: 5732
+postcode: "5732"
 city: Zetzwil
 street: "Brühlstrasse"
 housenumber: 328

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.040832900000005
 longitude: 9.066872700000001
-postcode: 8750
+postcode: "8750"
 city: Glarus
 street: "Kirchstrasse"
 housenumber: 20

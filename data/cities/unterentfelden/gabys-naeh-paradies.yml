@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.3679672
 longitude: 8.0434581
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Jurastrasse"
 housenumber: 16

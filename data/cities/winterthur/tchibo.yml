@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.499647100000004
 longitude: 8.7282773
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 56

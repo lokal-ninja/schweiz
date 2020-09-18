@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.4857748
 longitude: 8.451996000000001
-postcode: 8157
+postcode: "8157"
 city: Dielsdorf
 street: "Wehntalerstrasse"
 housenumber: 4
 phone: "+41 44 854 06 04"
-opening_hours: "06:00-22:00; Su 07:00-22:00"
-website: "https://filialen.migros.ch/de/Dielsdorf/4797088"
+opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
+website: "https://www.migrolino.ch/de/standorte/migrol-dielsdorf-wehntalerstrasse/"

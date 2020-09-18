@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.374669600000004
 longitude: 8.4961503
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Letzigraben"
 housenumber: 149

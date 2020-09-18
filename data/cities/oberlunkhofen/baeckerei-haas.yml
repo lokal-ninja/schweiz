@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3112001
 longitude: 8.390295
-postcode: 8917
+postcode: "8917"
 city: Oberlunkhofen
 street: "Zugerstrasse"
 housenumber: 18b

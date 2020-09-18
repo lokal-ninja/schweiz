@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.8490101
 longitude: 9.531731500000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Kornplatz"
 housenumber: 2

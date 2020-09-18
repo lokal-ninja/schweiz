@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3432565
 longitude: 8.530201
-postcode: 8038
+postcode: "8038"
 city: Zürich
 street: "Albisstrasse"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8352966
 longitude: 9.0279254
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Piazza Col. Costantino Bernasconi"
 housenumber: 2

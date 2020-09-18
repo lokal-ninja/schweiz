@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4383308
 longitude: 8.4729685
-postcode: 8105
+postcode: "8105"
 city: Regensdorf
 street: "Feldstrasse"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.2032851
 longitude: 6.1380081
-postcode: 1204
+postcode: "1204"
 city: Geneva
 street: "Rue du Stand"
 housenumber: 38

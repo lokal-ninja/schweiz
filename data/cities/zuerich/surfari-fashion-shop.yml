@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3735051
 longitude: 8.5315169
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Kasernenstrasse"
 housenumber: 1

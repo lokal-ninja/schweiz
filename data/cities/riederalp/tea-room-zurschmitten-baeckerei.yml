@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.3774226
 longitude: 8.032642000000001
-postcode: 3987
+postcode: "3987"
 city: Riederalp
 street: "Aletschpromenade"
 housenumber: 70

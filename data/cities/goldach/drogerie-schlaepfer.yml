@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.474658600000005
 longitude: 9.4655175
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Hauptstrasse"
 housenumber: 14

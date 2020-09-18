@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.473733200000005
 longitude: 8.308405200000001
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Theaterplatz"
 housenumber: 3

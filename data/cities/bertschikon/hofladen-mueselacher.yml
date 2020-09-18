@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.323726900000004
 longitude: 8.754887
-postcode: 8614
+postcode: "8614"
 city: Bertschikon
 street: "Usterstrasse"
 housenumber: 41

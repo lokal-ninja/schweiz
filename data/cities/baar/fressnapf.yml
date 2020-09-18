@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 47.1924153
 longitude: 8.523125700000001
-postcode: 6330
+postcode: "6340"
 city: Baar
 street: "Zugerstrasse"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: ""
+website: "https://www.fressnapf.ch/"

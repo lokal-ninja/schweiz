@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2015851
 longitude: 8.5174119
-postcode: 6340
+postcode: "6340"
 city: Baar
 street: "Gewerbestrasse"
 housenumber: 1

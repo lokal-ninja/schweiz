@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.1718309
 longitude: 8.800622800000001
-postcode: 6600
+postcode: "6600"
 city: Muralto
 street: "Piazza Stazione"
 housenumber: 2

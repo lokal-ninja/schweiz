@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.886275700000006
 longitude: 7.499671800000001
-postcode: 3123
+postcode: "3123"
 city: Belp
 street: "Sägetstrasse"
 housenumber: 33

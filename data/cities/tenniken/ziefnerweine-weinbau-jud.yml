@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4383003
 longitude: 7.817415800000001
-postcode: 4456
+postcode: "4456"
 city: Tenniken
 street: "Rosenmattweg"
 housenumber: 110

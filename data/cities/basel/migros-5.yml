@@ -1,12 +1,12 @@
-id: 315880785
-type: way
+id: 761492253
+type: node
 shop: Supermarkt
-latitude: 47.561370000000004
-longitude: 7.592352900000001
-postcode: 4058
+latitude: 47.5586733
+longitude: 7.6018528000000005
+postcode: "4058"
 city: Basel
-street: "Greifengasse"
-housenumber: 19
+street: "Grenzacherstrasse"
+housenumber: 62-64
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-basel-juniors-market"

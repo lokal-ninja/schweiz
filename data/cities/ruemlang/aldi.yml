@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4504741
 longitude: 8.538190100000001
-postcode: 8153
+postcode: "8153"
 city: Rümlang
 street: "Hofwisenstrasse"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.4779822
 longitude: 9.4927425
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Mariabergstrasse"
 housenumber: 6

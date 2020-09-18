@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4045843
 longitude: 8.6027754
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Zwirnereistrasse"
 housenumber: 7/9

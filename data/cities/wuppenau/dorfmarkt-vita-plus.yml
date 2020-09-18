@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4991592
 longitude: 9.108493600000001
-postcode: 9514
+postcode: "9514"
 city: Wuppenau
 street: "Nollenstrasse"
 housenumber: 1

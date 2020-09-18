@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.041400800000005
 longitude: 8.1837187
-postcode: 6102
+postcode: "6102"
 city: Malters
 street: "Hellbühlstrasse"
 housenumber: 24

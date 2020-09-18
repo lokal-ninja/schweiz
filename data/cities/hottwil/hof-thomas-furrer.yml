@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5478894
 longitude: 8.1620428
-postcode: 5277
+postcode: "5277"
 city: Hottwil
 street: "Dorfstrasse"
 housenumber: 20

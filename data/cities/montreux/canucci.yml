@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.433702600000004
 longitude: 6.910329900000001
-postcode: 1820
+postcode: "1820"
 city: Montreux
 street: "Grand'Rue"
 housenumber: 40

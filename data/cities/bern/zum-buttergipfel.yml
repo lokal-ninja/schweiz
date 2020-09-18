@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9547523
 longitude: 7.4515314
-postcode: 3013
+postcode: "3013"
 city: Bern
 street: "Viktoriastrasse"
 housenumber: 72

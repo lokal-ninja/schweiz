@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.0740969
 longitude: 8.4384871
-postcode: 6403
+postcode: "6403"
 city: Küssnacht
 street: "Breitenstrasse"
 housenumber: 1

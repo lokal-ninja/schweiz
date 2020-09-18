@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.798091500000005
 longitude: 7.184586100000001
-postcode: 1717
+postcode: "1717"
 city: Sankt Urser
 street: "Römerswil"
 housenumber: 11

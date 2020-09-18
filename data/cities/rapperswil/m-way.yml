@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.2256994
 longitude: 8.819995
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Tiefenaustrasse"
 housenumber: 1
 phone: "+41 55 505 21 00"
 opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://m-way.ch/de/shops/m-way-shop-rapperswil.html"
+website: "https://m-way.ch/m-way-shop-rapperswil/"

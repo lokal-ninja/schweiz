@@ -1,12 +1,12 @@
-id: 1110775524
+id: 3646127494
 type: node
 shop: Parfümerie
-latitude: 47.3712625
-longitude: 8.538510500000001
-postcode: 8001
+latitude: 47.3743351
+longitude: 8.5383406
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
-housenumber: 35
+housenumber: 71
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.marionnaud.ch/"

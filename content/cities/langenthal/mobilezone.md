@@ -1,4 +1,4 @@
 ---
-title: "mobilezone"
+title: "Mobilezone"
 url: /langenthal/mobilezone/
 ---

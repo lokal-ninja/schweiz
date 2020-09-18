@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.419908500000005
 longitude: 8.508089100000001
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "In Böden"
 housenumber: 174

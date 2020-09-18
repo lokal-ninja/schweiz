@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.155172
 longitude: 8.3158107
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Hochdorfstrasse"
 housenumber: 9

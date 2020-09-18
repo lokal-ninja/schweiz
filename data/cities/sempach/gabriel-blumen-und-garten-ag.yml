@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.1301569
 longitude: 8.192526800000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Haldenmatt"
 housenumber: 1

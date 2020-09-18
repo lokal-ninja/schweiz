@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.9565463
 longitude: 7.444774400000001
-postcode: 3013
+postcode: "3013"
 city: Bern
 street: "Lorrainestrasse"
 housenumber: 15

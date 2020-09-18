@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.5630746
 longitude: 9.3766701
-postcode: 8590
+postcode: "8590"
 city: Romanshorn
 street: "Alleestrasse"
 housenumber: 41

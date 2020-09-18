@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.548115300000006
 longitude: 9.3021236
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Bahnhofstrasse"
 housenumber: 25

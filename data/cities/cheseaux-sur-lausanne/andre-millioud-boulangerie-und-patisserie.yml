@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.5859925
 longitude: 6.604855400000001
-postcode: 1030
+postcode: "1030"
 city: Cheseaux-sur-Lausanne
 street: "Route d'Yverdon"
 housenumber: 1

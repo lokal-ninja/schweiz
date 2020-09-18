@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0486347
 longitude: 8.3051814
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Pilatusstrasse"
 housenumber: 24

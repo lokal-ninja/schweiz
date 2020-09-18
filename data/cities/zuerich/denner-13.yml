@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3584946
 longitude: 8.5863177
-postcode: 8053
+postcode: "8053"
 city: Zürich
 street: "Witikonerstrasse"
 housenumber: 299

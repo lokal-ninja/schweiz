@@ -1,12 +1,12 @@
 id: 42855908
 type: way
 shop: Supermarkt
-latitude: 47.354285000000004
-longitude: 8.4364557
-postcode: 8903
+latitude: 47.354282500000004
+longitude: 8.4364425
+postcode: "8903"
 city: Birmensdorf (ZH)
 street: "Zürcherstrasse"
 housenumber: 15
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 8:00 - 18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-birmensdorf"

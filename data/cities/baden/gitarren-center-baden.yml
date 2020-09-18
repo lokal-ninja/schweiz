@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.4771001
 longitude: 8.3047506
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Bruggerstrasse"
 housenumber: 46

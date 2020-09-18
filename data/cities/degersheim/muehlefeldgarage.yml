@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.375309200000004
 longitude: 9.2025144
-postcode: 9113
+postcode: "9113"
 city: Degersheim
 street: "Mühlefeldstrasse"
 housenumber: 23

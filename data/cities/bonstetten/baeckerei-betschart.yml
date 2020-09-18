@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.315405500000004
 longitude: 8.468289200000001
-postcode: 8906
+postcode: "8906"
 city: Bonstetten
 street: "Burgwies"
 housenumber: 5

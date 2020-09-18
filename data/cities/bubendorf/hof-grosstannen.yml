@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4301928
 longitude: 7.725784000000001
-postcode: 4416
+postcode: "4416"
 city: Bubendorf
 street: "Grosstannen"
 housenumber: 44

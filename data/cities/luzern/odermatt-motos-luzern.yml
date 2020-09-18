@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.047514
 longitude: 8.258292
-postcode: 6014
+postcode: "6014"
 city: Luzern
 street: "Schrotmättli"
 housenumber: 13

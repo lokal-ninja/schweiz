@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.0232505
 longitude: 7.747897900000001
-postcode: 3920
+postcode: "3920"
 city: Zermatt
 street: "Bahnhofstrasse"
 housenumber: 3

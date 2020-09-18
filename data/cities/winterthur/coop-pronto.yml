@@ -1,12 +1,12 @@
-id: 4127859163
+id: 4127859161
 type: node
 shop: Lebensmittel
-latitude: 47.5163646
-longitude: 8.6800441
-postcode: 8408
+latitude: 47.494976900000005
+longitude: 8.7567888
+postcode: "8404"
 city: Winterthur
-street: "Wülflingerstrasse"
-housenumber: 394
+street: "Rudolf-Diesel-Strasse"
+housenumber: 13
 phone: ""
 opening_hours: "Mo-Su 06:00-23:00"
-website: ""
+website: "https://www.coop-pronto.ch/"

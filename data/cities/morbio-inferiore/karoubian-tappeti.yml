@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 45.8459048
 longitude: 9.0156345
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Viale al Ponte"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3873698
 longitude: 8.135270100000001
-postcode: 5502
+postcode: "5502"
 city: Hunzenschwil
 street: "Hauptstrasse"
 housenumber: 2

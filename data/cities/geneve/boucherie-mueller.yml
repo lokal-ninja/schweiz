@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.209963300000005
 longitude: 6.139964
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Place des Grottes"
 housenumber: 1

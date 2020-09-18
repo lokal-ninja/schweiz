@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.171373700000004
 longitude: 8.5171835
-postcode: 6300
+postcode: "6300"
 city: Zug
 street: "Poststrasse"
 housenumber: 30

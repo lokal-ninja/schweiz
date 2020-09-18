@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.440625100000005
 longitude: 8.8433983
-postcode: 8488
+postcode: "8488"
 city: Turbenthal
 street: "Tösstalstrasse"
 housenumber: 67

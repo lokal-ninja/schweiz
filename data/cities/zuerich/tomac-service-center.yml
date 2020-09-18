@@ -1,9 +1,9 @@
 id: 1569581047
 type: node
 shop: Computer
-latitude: 47.3750659
+latitude: 47.375065400000004
 longitude: 8.518453800000001
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Seebahnstrasse"
 housenumber: 157

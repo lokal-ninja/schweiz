@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.384464300000005
 longitude: 8.6634399
-postcode: 8604
+postcode: "8604"
 city: Volketswil
 street: "Stationsstrasse"
 housenumber: 53

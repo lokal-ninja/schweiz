@@ -1,12 +1,12 @@
 id: 675161680
 type: node
-shop: Möbel
+shop: Raumausstattung
 latitude: 47.4994894
 longitude: 8.7242773
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Stadthausstrasse"
 housenumber: 145
 phone: ""
 opening_hours: "Mo 10:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: ""
+website: "https://www.cachet.ch/"

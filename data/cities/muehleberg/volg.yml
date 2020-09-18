@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.9523054
 longitude: 7.258377
-postcode: 3203
+postcode: "3203"
 city: Mühleberg
 street: "Murtenstrasse"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.214486
 longitude: 8.635422
-postcode: 8820
+postcode: "8820"
 city: wädenswil
 street: "Mugerenstrasse"
 housenumber: 23

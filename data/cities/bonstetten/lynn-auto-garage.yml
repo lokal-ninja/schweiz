@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.3154338
 longitude: 8.464837000000001
-postcode: 8906
+postcode: "8906"
 city: Bonstetten
 street: "Chapfstrasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.335158500000006
 longitude: 8.8694483
-postcode: 8344
+postcode: "8344"
 city: Bäretswil
 street: "Zelgstrasse"
 housenumber: 9

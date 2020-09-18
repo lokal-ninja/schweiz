@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.459943700000004
 longitude: 6.8440881000000005
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Rue des Deux Marchés"
 housenumber: 22

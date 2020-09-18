@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.477876300000005
 longitude: 9.4960491
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 20

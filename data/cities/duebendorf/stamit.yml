@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 47.4032709
 longitude: 8.6091833
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Ueberlandstrasse"
 housenumber: 137

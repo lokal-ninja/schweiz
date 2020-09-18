@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.468868500000006
 longitude: 8.2103707
-postcode: 5212
+postcode: "5212"
 city: Hausen
 street: "Unterdorfstrasse"
 housenumber: 4
 phone: "+41 56 460 60 30"
 opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "http://www.ch.euromaster.ch/reifenwechsel/aargau/hausen/5719-euromaster-hausen"
+website: "https://filialen.euromaster.ch/22-euromaster-hausen"

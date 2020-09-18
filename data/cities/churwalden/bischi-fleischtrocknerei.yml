@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.7843193
 longitude: 9.5408656
-postcode: 7075
+postcode: "7075"
 city: Churwalden
 street: "Hauptstraße"
 housenumber: 64

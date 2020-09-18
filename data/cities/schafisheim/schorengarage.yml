@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3865795
 longitude: 8.136272700000001
-postcode: 5503
+postcode: "5503"
 city: Schafisheim
 street: "Seetalstrasse"
 housenumber: 2

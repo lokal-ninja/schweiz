@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1724994
 longitude: 7.342740200000001
-postcode: 2542
+postcode: "2542"
 city: Pieterlen
 street: "Leugeneweg"
 housenumber: 8

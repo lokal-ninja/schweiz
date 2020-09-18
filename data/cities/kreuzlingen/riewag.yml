@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.6475601
 longitude: 9.171535500000001
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Sonnenhof"
 housenumber: 3

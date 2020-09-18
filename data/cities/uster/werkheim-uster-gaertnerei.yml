@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3453754
 longitude: 8.7150424
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Apothekerstrasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.407741900000005
 longitude: 8.5852897
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Ueberlandstrasse"
 housenumber: 381

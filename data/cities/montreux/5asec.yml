@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.431608600000004
 longitude: 6.9110553
-postcode: 1820
+postcode: "1820"
 city: Montreux
 street: "Rue de la Paix"
 housenumber: 3

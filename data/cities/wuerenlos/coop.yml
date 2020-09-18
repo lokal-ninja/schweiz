@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4430149
 longitude: 8.362439
-postcode: 5436
+postcode: "5436"
 city: Würenlos
 street: "Poststrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.1980914
 longitude: 6.0581564000000006
-postcode: 1242
+postcode: "1242"
 city: Satigny
 street: "Route de la Maison-Carrée"
 housenumber: 32

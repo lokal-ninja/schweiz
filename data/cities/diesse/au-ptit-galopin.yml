@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.113578200000006
 longitude: 7.115878400000001
-postcode: 2517
+postcode: "2517"
 city: Diesse
 street: "Chemin Neuf"
 housenumber: 2

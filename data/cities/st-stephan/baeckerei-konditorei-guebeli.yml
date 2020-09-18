@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.508563800000005
 longitude: 7.3959615
-postcode: 3772
+postcode: "3772"
 city: St. Stephan
 street: "Lenkstrasse"
 housenumber: 75

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.5309692
 longitude: 8.6740461
-postcode: 8413
+postcode: "8413"
 city: Neftenbach
 street: "Seuzachstrasse"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.845898500000004
 longitude: 7.1891201
-postcode: 3186
+postcode: "3186"
 city: Düdingen
 street: "Am Bach"
 housenumber: 5

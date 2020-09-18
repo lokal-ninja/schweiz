@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.5266973
 longitude: 6.650923000000001
-postcode: 1012
+postcode: "1012"
 city: Lausanne
 street: "Avenue de Béthusy"
 housenumber: 89

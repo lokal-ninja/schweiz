@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.2570179
 longitude: 8.796146400000001
-postcode: 8633
+postcode: "8633"
 city: Wolfhausen
 street: "Oberwolfhauserstrasse"
 housenumber: 8
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-16:00; Mo off"
+opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-16:00; "
 website: ""

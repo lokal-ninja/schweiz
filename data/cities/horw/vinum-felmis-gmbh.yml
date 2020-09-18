@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.021171800000005
 longitude: 8.325939700000001
-postcode: 6048
+postcode: "6048"
 city: Horw
 street: "Kastanienbaumstrasse"
 housenumber: 91

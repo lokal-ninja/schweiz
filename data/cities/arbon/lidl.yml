@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4990158
 longitude: 9.420822000000001
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Pündtstrasse"
 housenumber: 7

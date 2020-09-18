@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.317494800000006
 longitude: 9.2835088
-postcode: 9107
+postcode: "9107"
 city: Urnäsch
 street: "Tüfenbergstrasse"
 housenumber: 2
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+41 71 364 18 04"
+opening_hours: "Mo,Tu,Th,Fr 06:15-12:15,14:00-18:30;We 06:00-12:15;Sa 06:15-15:00;May-Oct:Su 07:00-11:00"
+website: "https://baeckerei-gerig.ch/"

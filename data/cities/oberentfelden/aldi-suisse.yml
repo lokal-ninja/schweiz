@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3572022
 longitude: 8.0559492
-postcode: 5036
+postcode: "5036"
 city: Oberentfelden
 street: "Feldstrasse"
 housenumber: 5

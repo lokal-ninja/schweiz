@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.589617100000005
 longitude: 6.770685200000001
-postcode: 1083
+postcode: "1083"
 city: Mézières
 street: "Chemin du Petit Dévin"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.5059618
 longitude: 8.303238
-postcode: 3988
+postcode: "3988"
 city: Ulrichen
 street: "Furkastrasse"
 housenumber: 4

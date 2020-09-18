@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9916989
 longitude: 8.5262575
-postcode: 6442
+postcode: "6442"
 city: Gersau
 street: "Dorfstrasse"
 housenumber: 17

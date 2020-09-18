@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4987483
 longitude: 8.7279582
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Metzggasse"
 housenumber: 12

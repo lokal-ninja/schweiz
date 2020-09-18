@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.1715372
 longitude: 8.169631
-postcode: 6222
+postcode: "6222"
 city: Gunzwil
 street: "Emmenwilerstrasse"
 housenumber: 7

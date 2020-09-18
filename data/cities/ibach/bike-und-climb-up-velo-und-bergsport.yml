@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.0106316
 longitude: 8.643591800000001
-postcode: 6438
+postcode: "6438"
 city: Ibach
 street: "Gotthardstrasse"
 housenumber: 62

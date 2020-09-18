@@ -1,12 +1,12 @@
-id: 1598954903
+id: 1322305936
 type: node
 shop: Supermarkt
-latitude: 47.55521
-longitude: 7.6138463000000005
-postcode: 4052
+latitude: 47.545220300000004
+longitude: 7.5887102
+postcode: "4053"
 city: Basel
-street: "Farnsburgerstrasse"
-housenumber: 37
+street: "Güterstrasse"
+housenumber: 125
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

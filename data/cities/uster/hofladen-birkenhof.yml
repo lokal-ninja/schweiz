@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.3339322
 longitude: 8.7255129
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Wührestrasse"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.140194
 longitude: 7.2465118
-postcode: 2504
+postcode: "2504"
 city: Biel/Bienne
 street: "Marktgasse"
 housenumber: 17

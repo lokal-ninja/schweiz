@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4981767
 longitude: 8.7957186
-postcode: 8352
+postcode: "8352"
 city: Elsau
 street: "St. Gallerstrasse"
 housenumber: 56

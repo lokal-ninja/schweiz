@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 46.1951029
 longitude: 6.153530300000001
-postcode: 1206
+postcode: "1206"
 city: Genève
 street: "Rue de l'Athénée"
 housenumber: 34

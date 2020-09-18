@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.056828800000005
 longitude: 8.3110493
-postcode: 6004
+postcode: "6004"
 city: Luzern
 street: "Löwenplatz"
 housenumber: 11

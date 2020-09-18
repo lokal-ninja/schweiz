@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.528362900000005
 longitude: 8.6108388
-postcode: 6780
+postcode: "6780"
 city: Airolo
 street: "Via della Stazione"
 housenumber: 

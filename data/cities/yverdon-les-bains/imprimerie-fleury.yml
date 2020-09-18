@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 46.7605638
 longitude: 6.6448054
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue des Petits Champs"
 housenumber: 13

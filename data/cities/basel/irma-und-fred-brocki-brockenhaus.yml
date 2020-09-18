@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.5628103
 longitude: 7.5960254
-postcode: 4057
+postcode: "4057"
 city: Basel
 street: "Claramattweg"
 housenumber: 16

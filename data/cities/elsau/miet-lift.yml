@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 47.499598600000006
 longitude: 8.7908863
-postcode: 8352
+postcode: "8352"
 city: Elsau
 street: "Im Nägelibaum"
 housenumber: 10

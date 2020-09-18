@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.1752235
 longitude: 6.871008700000001
-postcode: 1874
+postcode: "1874"
 city: Champéry
 street: "Route de la Fin"
 housenumber: 11

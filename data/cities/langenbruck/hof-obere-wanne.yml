@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.343876800000004
 longitude: 7.7568089
-postcode: 4438
+postcode: "4438"
 city: Langenbruck
 street: "Wannenweg"
 housenumber: 138

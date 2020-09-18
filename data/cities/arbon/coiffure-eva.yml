@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5102193
 longitude: 9.4253272
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "St. Gallerstrasse"
 housenumber: 49

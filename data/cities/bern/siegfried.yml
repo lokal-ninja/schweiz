@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.939757500000006
 longitude: 7.3888014
-postcode: 3018
+postcode: "3018"
 city: Bern
 street: "Bottigenstrasse"
 housenumber: 22

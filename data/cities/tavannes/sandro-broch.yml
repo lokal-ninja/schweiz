@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.220469800000004
 longitude: 7.2006876
-postcode: 2710
+postcode: "2710"
 city: Tavannes
 street: "Grand-Rue"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.4661325
 longitude: 8.3263183
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Landstrasse"
 housenumber: 89

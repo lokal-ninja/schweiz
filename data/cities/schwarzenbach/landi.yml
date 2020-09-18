@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.109614500000006
 longitude: 7.8307533000000005
-postcode: 4953
+postcode: "4953"
 city: Schwarzenbach
 street: "Bernstrasse"
 housenumber: 62

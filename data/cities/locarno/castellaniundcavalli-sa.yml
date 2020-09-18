@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.1677903
 longitude: 8.790095500000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via Bartolomeo Varenna"
 housenumber: 5

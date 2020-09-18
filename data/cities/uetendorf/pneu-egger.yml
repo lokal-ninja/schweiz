@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 46.7783959
 longitude: 7.5909655
-postcode: 3661
+postcode: "3661"
 city: Uetendorf
 street: ""
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.282738
 longitude: 7.070719700000001
-postcode: 1882
+postcode: "1882"
 city: Gryon
 street: "Place de Barboleuse"
 housenumber: 10

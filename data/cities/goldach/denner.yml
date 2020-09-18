@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.473434600000004
 longitude: 9.4659402
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Konsumstrasse"
 housenumber: 3

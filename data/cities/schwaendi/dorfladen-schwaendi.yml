@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0049828
 longitude: 9.0672592
-postcode: 8762
+postcode: "8762"
 city: Schwändi
 street: "Plätzli"
 housenumber: 23

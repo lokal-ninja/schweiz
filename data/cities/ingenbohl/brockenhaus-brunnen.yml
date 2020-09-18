@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.997410800000004
 longitude: 8.5986417
-postcode: 6440
+postcode: "6440"
 city: Ingenbohl
 street: "Kirchenriedweg"
 housenumber: 43

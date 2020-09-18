@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.634281200000004
 longitude: 6.8370310000000005
-postcode: 1670
+postcode: "1670"
 city: Ursy
 street: "Route de Romont"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3777526
 longitude: 8.422702600000001
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Reppischtalstrasse"
 housenumber: 2a

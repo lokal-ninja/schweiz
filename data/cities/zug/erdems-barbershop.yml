@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1691833
 longitude: 8.514806
-postcode: 6300
+postcode: "6300"
 city: Zug
 street: "Schmidgasse"
 housenumber: 10

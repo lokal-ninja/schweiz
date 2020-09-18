@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.65945180000001
 longitude: 8.8591216
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: "Rathausplatz"
 housenumber: 15

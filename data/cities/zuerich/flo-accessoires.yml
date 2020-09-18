@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.3547754
 longitude: 8.5564826
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Säntisstrasse"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.9863562
 longitude: 6.893916600000001
-postcode: 2034
+postcode: "2034"
 city: Peseux
 street: "Rue des Pralaz"
 housenumber: 11

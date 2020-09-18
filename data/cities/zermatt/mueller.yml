@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.023526800000006
 longitude: 7.747675
-postcode: 3920
+postcode: "3920"
 city: Zermatt
 street: "Bahnhofplatz"
 housenumber: 1

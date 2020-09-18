@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.820387100000005
 longitude: 8.4057017
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Klosterstrasse"
 housenumber: 8

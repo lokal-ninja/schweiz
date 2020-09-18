@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 47.3762471
 longitude: 8.539311300000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 87
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00"
-website: ""
+website: "https://www.yves-rocher.ch/"

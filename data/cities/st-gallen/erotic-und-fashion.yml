@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 47.4251548
 longitude: 9.3722285
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Bahnhofstrasse"
 housenumber: 13

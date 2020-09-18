@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.6860087
 longitude: 7.8930489
-postcode: 3806
+postcode: "3806"
 city: Bönigen
 street: "Interlakenstrasse"
 housenumber: 1

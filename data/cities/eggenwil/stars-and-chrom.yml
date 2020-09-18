@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.3623807
 longitude: 8.3457919
-postcode: 5445
+postcode: "5445"
 city: Eggenwil
 street: "Eggenwilerstrasse"
 housenumber: 6

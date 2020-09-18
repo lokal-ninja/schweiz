@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3669894
 longitude: 8.0429733
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Feuerwehrweg"
 housenumber: 1

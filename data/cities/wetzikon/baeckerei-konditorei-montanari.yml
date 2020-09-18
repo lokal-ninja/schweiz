@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3309318
 longitude: 8.7868872
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Dorfstrasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.4975302
 longitude: 9.840132500000001
-postcode: 7500
+postcode: "7500"
 city: St. Moritz
 street: "Via Serlas"
 housenumber: 24

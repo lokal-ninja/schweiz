@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 45.8377703
 longitude: 9.0340349
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Via Como"
 housenumber: 

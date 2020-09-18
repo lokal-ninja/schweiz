@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.516046900000006
 longitude: 9.4335886
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Hauptstrasse"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.6290751
 longitude: 9.7450604
-postcode: 7482
+postcode: "7482"
 city: Bergün/Bravuogn
 street: "Plaz"
 housenumber: 63

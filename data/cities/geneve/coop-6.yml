@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.209729700000004
 longitude: 6.1435681
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Place de Cornavin"
 housenumber: 14

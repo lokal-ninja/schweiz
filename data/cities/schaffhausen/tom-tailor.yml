@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6961443
 longitude: 8.6356061
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Vordergasse"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.033894700000005
 longitude: 8.282012100000001
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Luzernerstrasse"
 housenumber: 26

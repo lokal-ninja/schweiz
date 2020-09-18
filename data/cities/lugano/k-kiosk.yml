@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.0056695
 longitude: 8.9464696
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.2045734
 longitude: 6.1262333
-postcode: 1203
+postcode: "1203"
 city: Genève
 street: "Rue de Saint-Jean"
 housenumber: 9

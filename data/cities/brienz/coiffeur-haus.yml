@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.7541151
 longitude: 8.034290200000001
-postcode: 
+postcode: ""
 city: Brienz
 street: "Hauptstrasse"
 housenumber: 114

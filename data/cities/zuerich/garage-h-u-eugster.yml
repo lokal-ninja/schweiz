@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.3899978
 longitude: 8.5346557
-postcode: 8037
+postcode: "8037"
 city: Zürich
 street: "Nordstrasse"
 housenumber: 116-124

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0587594
 longitude: 8.8007297
-postcode: 8842
+postcode: "8842"
 city: Unteriberg
 street: "Oberibergstrasse"
 housenumber: 5

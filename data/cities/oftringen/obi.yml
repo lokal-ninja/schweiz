@@ -1,12 +1,12 @@
 id: 6534082702
 type: node
 shop: Baumarkt
-latitude: 47.308511100000004
-longitude: 7.928556400000001
-postcode: 4665
+latitude: 47.307924400000005
+longitude: 7.9294985
+postcode: "4665"
 city: Oftringen
 street: "Ackerweg"
 housenumber: 2
 phone: "+41 58 567 43 00"
-opening_hours: ""
-website: "https://www.obi.ch/"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; PH off"
+website: "https://www.obi.ch/de/baumarkt/oftringen/"

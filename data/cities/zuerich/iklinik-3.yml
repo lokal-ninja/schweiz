@@ -1,12 +1,12 @@
-id: 5026288940
+id: 5265071543
 type: node
 shop: Handy
-latitude: 47.3865119
-longitude: 8.498755300000001
-postcode: 8048
+latitude: 47.375954
+longitude: 8.5396104
+postcode: "8001"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Bahnhofstrasse"
+housenumber: 94
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3933303
 longitude: 8.528525400000001
-postcode: 8037
+postcode: "8037"
 city: Zürich
 street: "Röschibachstrasse"
 housenumber: 75

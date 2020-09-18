@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.426223300000004
 longitude: 7.4181023
-postcode: 4245
+postcode: "4245"
 city: Kleinlützel
 street: "Im Winkel"
 housenumber: 23

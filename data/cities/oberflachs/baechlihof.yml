@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.439813
 longitude: 8.1360065
-postcode: 5108
+postcode: "5108"
 city: Oberflachs
 street: "Bächlihof"
 housenumber: 

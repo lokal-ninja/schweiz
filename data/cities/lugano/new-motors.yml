@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 46.0190445
 longitude: 8.9603334
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Giacomo Brentani"
 housenumber: 11

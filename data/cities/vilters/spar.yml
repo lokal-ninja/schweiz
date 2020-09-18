@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0248366
 longitude: 9.451376600000001
-postcode: 7324
+postcode: "7324"
 city: Vilters
 street: "Sarganserstrasse"
 housenumber: 

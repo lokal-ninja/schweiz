@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3611251
 longitude: 9.074395500000001
-postcode: 9606
+postcode: "9606"
 city: Bütschwil
 street: "Landstrasse"
 housenumber: 28

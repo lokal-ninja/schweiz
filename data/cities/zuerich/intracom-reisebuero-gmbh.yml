@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.3588699
 longitude: 8.5270908
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Waffenplatzstrasse"
 housenumber: 51

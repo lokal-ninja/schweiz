@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4921554
 longitude: 8.552055900000001
-postcode: 8185
+postcode: "8185"
 city: Winkel
 street: "Seebnerstrasse"
 housenumber: 14

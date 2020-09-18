@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.8479958
 longitude: 9.5307593
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Goldgasse"
 housenumber: 23

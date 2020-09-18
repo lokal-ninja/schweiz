@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3943978
 longitude: 8.826984600000001
-postcode: 8330
+postcode: "8330"
 city: Hermatswil
 street: "Hermatswilerstrasse"
 housenumber: 68

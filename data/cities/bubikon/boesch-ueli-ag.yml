@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.259860200000006
 longitude: 8.8237669
-postcode: 8608
+postcode: "8608"
 city: Bubikon
 street: "Rütistrasse"
 housenumber: 70

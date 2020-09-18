@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3888741
 longitude: 8.6952691
-postcode: 8604
+postcode: "8604"
 city: Volketswil
 street: "Pfäffikerstrasse"
 housenumber: 4

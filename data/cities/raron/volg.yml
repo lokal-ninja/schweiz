@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.3044488
 longitude: 7.801253900000001
-postcode: 3942
+postcode: "3942"
 city: Raron
 street: "Bahnhofstrasse"
 housenumber: 6

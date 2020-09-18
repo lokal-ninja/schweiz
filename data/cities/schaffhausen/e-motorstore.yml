@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.7172652
 longitude: 8.6663306
-postcode: 8207
+postcode: "8207"
 city: Schaffhausen
 street: "Industriestrasse"
 housenumber: 2b

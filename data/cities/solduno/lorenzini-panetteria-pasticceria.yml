@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.1702333
 longitude: 8.7791444
-postcode: 6600
+postcode: "6600"
 city: Solduno
 street: "Piazza Solduno"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1835266
 longitude: 7.3672035000000005
-postcode: 2543
+postcode: "2543"
 city: Lengnau BE
 street: "Solothurnstrasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3227386
 longitude: 8.0539097
-postcode: 5042
+postcode: "5042"
 city: Hirschthal
 street: "Hauptstrasse"
 housenumber: 38

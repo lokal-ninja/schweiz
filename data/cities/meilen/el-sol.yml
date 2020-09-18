@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.269438400000006
 longitude: 8.641111500000001
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "Kirchgasse"
 housenumber: 35

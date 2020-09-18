@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.386208200000006
 longitude: 8.5399779
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Stampfenbachstrasse"
 housenumber: 138

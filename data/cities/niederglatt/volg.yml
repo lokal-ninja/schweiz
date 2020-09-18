@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4917189
 longitude: 8.5033159
-postcode: 
+postcode: ""
 city: Niederglatt
 street: "Grafschaftstrasse"
 housenumber: 1

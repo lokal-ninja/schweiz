@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5288966
 longitude: 8.314755400000001
-postcode: 5426
+postcode: "5426"
 city: Lengnau
 street: "Weststrasse"
 housenumber: 

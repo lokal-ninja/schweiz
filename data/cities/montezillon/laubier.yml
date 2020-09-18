@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9858782
 longitude: 6.8376277000000005
-postcode: 2037
+postcode: "2037"
 city: Montezillon
 street: "Les Murailles"
 housenumber: 5

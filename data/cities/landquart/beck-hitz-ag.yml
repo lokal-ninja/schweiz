@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9671297
 longitude: 9.5558185
-postcode: 7302
+postcode: "7302"
 city: Landquart
 street: "Bahnhofplatz"
 housenumber: 2

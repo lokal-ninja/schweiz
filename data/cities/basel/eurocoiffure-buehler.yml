@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.551573000000005
 longitude: 7.5908378
-postcode: 4051
+postcode: "4051"
 city: Basel
 street: "Elisabethenstrasse"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3359912
 longitude: 8.767831600000001
-postcode: 8607
+postcode: "8607"
 city: Aathal-Seegräben
 street: "Zürichstrasse"
 housenumber: 27

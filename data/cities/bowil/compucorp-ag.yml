@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.902378500000005
 longitude: 7.696970100000001
-postcode: 3533
+postcode: "3533"
 city: Bowil
 street: "Kemisstrasse"
 housenumber: 20

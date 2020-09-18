@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.2703775
 longitude: 8.64517
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "Kühgasse"
 housenumber: 

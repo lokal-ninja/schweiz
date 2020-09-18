@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.4395013
 longitude: 9.0752421
-postcode: 9536
+postcode: "9536"
 city: Schwarzenbach SG
 street: "Jonschwilerstrasse"
 housenumber: 20

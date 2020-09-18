@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.1914364
 longitude: 6.137140700000001
-postcode: 1227
+postcode: "1227"
 city: Geneve
 street: "Rue Gustave-Revilliod"
 housenumber: 4

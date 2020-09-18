@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3898834
 longitude: 9.2764266
-postcode: 9100
+postcode: "9100"
 city: Herisau
 street: "Bahnhofplatz"
 housenumber: 5

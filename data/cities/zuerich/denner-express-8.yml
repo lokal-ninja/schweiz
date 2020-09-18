@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.387188200000004
 longitude: 8.486199800000001
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Lindenplatz"
 housenumber: 4

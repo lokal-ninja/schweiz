@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4509659
 longitude: 9.602132000000001
-postcode: 9428
+postcode: "9428"
 city: Walzenhausen
 street: "Dorf"
 housenumber: 85

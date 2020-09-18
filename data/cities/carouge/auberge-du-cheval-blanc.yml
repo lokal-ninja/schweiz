@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.1875664
 longitude: 6.140337700000001
-postcode: 
+postcode: ""
 city: Carouge
 street: "Place de l'Octroi"
 housenumber: 15

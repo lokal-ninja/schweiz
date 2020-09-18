@@ -1,12 +1,12 @@
-id: 4869996404
+id: 4512105568
 type: node
 shop: Bäckerei
-latitude: 47.3657784
-longitude: 8.547692900000001
-postcode: 8001
+latitude: 47.411464300000006
+longitude: 8.543737700000001
+postcode: "8050"
 city: Zürich
-street: "Goethestrasse"
-housenumber: 14
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 07:00-19:00"
+website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-oerlikon-bahnhof-pum/"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7160578
 longitude: 8.6645882
-postcode: 8207
+postcode: "8207"
 city: Schaffhausen
 street: "Gennersbrunnerstrasse"
 housenumber: 63

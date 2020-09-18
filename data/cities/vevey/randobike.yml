@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.4641815
 longitude: 6.8440643
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Chaussée de la Guinguette"
 housenumber: 3

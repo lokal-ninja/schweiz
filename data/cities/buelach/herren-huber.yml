@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5189108
 longitude: 8.5395707
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Kasernenstrasse"
 housenumber: 6

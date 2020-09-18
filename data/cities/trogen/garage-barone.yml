@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.403033400000005
 longitude: 9.4550432
-postcode: 9043
+postcode: "9043"
 city: Trogen
 street: "Buchenweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3490783
 longitude: 8.7200171
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Freiestrasse"
 housenumber: 4

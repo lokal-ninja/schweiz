@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.295782900000006
 longitude: 8.2275662
-postcode: 5616
+postcode: "5616"
 city: Meisterschwanden
 street: "Hauptstrasse"
 housenumber: 10

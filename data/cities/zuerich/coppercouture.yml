@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.360542900000006
 longitude: 8.5267712
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Schulhausstrasse"
 housenumber: 56

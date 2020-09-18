@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 47.6964793
 longitude: 8.6341912
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Vordergasse"
 housenumber: 78

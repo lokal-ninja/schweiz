@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.3923295
 longitude: 8.0524875
-postcode: 5001
+postcode: "5001"
 city: Aarau
 street: "Bahnhofstrasse"
 housenumber: 86

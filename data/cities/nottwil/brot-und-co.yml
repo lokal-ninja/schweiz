@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.137028900000004
 longitude: 8.1332163
-postcode: 6207
+postcode: "6207"
 city: Nottwil
 street: "Kantonsstrasse"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.5038367
 longitude: 8.7219408
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Neuwiesenstrasse"
 housenumber: 69

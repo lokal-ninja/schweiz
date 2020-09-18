@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.4944696
 longitude: 7.6189834
-postcode: 4144
+postcode: "4144"
 city: Arlesheim
 street: "Postplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:30-19:00; Sa 07:30-17:00"
-website: ""
+website: "https://www.konditorei-buchmann.ch/"

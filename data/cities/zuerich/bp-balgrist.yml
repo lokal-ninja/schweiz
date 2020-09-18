@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.3534438
 longitude: 8.5768921
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Forchstrasse"
 housenumber: 351

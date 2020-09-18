@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 46.9478311
 longitude: 7.436485200000001
-postcode: 3000
+postcode: "3000"
 city: Bern
 street: "Schanzenstrasse"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:30; Su 10:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 06:00-21:30; PH off"
+website: "https://filialen.migros.ch/de/migros-daily-bern-welle-7-2"

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 45.870178700000004
 longitude: 8.9867563
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazzale alla Valle"
 housenumber: 

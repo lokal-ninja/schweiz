@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.307543
 longitude: 8.1914865
-postcode: 5706
+postcode: "5706"
 city: Boniswil
 street: "Weidweg"
 housenumber: 1

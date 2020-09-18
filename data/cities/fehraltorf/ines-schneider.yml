@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.4001108
 longitude: 8.7560527
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Reitenbach"
 housenumber: 31

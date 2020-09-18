@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.3191864
 longitude: 8.188346600000001
-postcode: 5706
+postcode: "5706"
 city: Boniswil
 street: "Seengerstrasse"
 housenumber: 23

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.3845879
 longitude: 8.5427582
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Weinbergstrasse"
 housenumber: 93
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-13:00"
-website: "http://www.gipfeli.ch/"
+website: "https://gipfeli.ch/standorte/standortweinbergstrasse93/"

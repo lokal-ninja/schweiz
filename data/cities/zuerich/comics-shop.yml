@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.372861400000005
 longitude: 8.544988700000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Froschaugasse"
 housenumber: 7

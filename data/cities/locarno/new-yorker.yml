@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.170734100000004
 longitude: 8.799206400000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via alla Ramogna"
 housenumber: 12

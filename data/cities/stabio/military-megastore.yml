@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 45.844234300000004
 longitude: 8.9275614
-postcode: 6855
+postcode: "6855"
 city: Stabio
 street: "Via Gaggiolo"
 housenumber: 33a

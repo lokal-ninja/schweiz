@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3907261
 longitude: 8.54522
-postcode: 8006
+postcode: "8006"
 city: Zürich
 street: "Winterthurerstrasse"
 housenumber: 83

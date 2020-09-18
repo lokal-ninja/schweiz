@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6925134
 longitude: 6.912314
-postcode: 1680
+postcode: "1680"
 city: Romont (FR)
 street: "Avenue de la Gare"
 housenumber: 7

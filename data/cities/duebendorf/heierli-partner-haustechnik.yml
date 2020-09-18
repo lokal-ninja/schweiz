@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.4008909
 longitude: 8.6157781
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "In Huebwiesen"
 housenumber: 9

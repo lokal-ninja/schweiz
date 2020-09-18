@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.528738100000005
 longitude: 8.611605800000001
-postcode: 6780
+postcode: "6780"
 city: Airolo
 street: "Via San Gottardo"
 housenumber: 38

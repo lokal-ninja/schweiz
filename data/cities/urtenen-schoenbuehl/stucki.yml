@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.018453
 longitude: 7.5035819
-postcode: 3322
+postcode: "3322"
 city: Urtenen-Schönbühl
 street: "Hindelbankstrasse"
 housenumber: 12

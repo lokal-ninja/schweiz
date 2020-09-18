@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.225644100000004
 longitude: 8.944980600000001
-postcode: 8716
+postcode: "8716"
 city: Schmerikon
 street: "Bahnhofstrasse"
 housenumber: 6

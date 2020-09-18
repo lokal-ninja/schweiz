@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.8097295
 longitude: 7.4756374
-postcode: 3132
+postcode: "3132"
 city: Riggisberg
 street: "Hintere Gasse"
 housenumber: 17

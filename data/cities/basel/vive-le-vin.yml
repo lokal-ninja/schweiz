@@ -3,10 +3,10 @@ type: node
 shop: Wein
 latitude: 47.5650254
 longitude: 7.5830019
-postcode: 4056
+postcode: "4056"
 city: Basel
 street: "St.Johanns-Vorstadt"
 housenumber: 51
 phone: ""
 opening_hours: "We,Fr 13:00-18:30; Sa 10:00-17:00"
-website: "www.vivelevin.ch"
+website: "https://www.vivelevin.ch/"

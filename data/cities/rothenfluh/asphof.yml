@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.483975300000004
 longitude: 7.904898200000001
-postcode: 4467
+postcode: "4467"
 city: Rothenfluh
 street: "Asphof"
 housenumber: 109

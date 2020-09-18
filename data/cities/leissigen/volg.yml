@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6542734
 longitude: 7.7728365
-postcode: 3706
+postcode: "3706"
 city: Leissigen
 street: "Dorfstrasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.327732000000005
 longitude: 9.221736700000001
-postcode: 9105
+postcode: "9105"
 city: Schönengrund
 street: "Hauptstrasse"
 housenumber: 34

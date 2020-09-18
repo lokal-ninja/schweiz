@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.481187600000005
 longitude: 8.4868057
-postcode: 8155
+postcode: "8155"
 city: Niederhasli
 street: "Zentrumweg"
 housenumber: 1

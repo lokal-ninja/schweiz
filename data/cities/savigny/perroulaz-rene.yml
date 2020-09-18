@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 46.5385421
 longitude: 6.7321692
-postcode: 1073
+postcode: "1073"
 city: Savigny
 street: "Route du Petit Versailles"
 housenumber: 1

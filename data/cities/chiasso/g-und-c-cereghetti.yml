@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 45.8373806
 longitude: 9.0230452
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Via Baldassare Fontana"
 housenumber: 2

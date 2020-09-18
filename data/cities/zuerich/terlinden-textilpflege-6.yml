@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.344298200000004
 longitude: 8.5302968
-postcode: 8038
+postcode: "8038"
 city: Zürich
 street: "Etzelstrasse"
 housenumber: 2

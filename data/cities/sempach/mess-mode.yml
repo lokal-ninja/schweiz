@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1359818
 longitude: 8.191282000000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Stadtstrasse"
 housenumber: 26

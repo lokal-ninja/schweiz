@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4760982
 longitude: 8.3065662
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Langhaus"
 housenumber: 2

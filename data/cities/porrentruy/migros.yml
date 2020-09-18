@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.4162539
 longitude: 7.0781001
-postcode: 2900
+postcode: "2900"
 city: Porrentruy
 street: "Faubourg Saint-Germain"
-housenumber: 2
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/fr/supermarche-migros-porrentruy"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.479638
 longitude: 9.4693439
-postcode: 9403
+postcode: "9403"
 city: Goldach
 street: "Thannstrasse"
 housenumber: 2

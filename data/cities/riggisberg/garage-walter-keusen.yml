@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8076999
 longitude: 7.480012800000001
-postcode: 3132
+postcode: "3132"
 city: Riggisberg
 street: "Halbbachweg"
 housenumber: 12

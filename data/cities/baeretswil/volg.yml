@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3357216
 longitude: 8.857016900000001
-postcode: 8344
+postcode: "8344"
 city: Bäretswil
 street: "Alte Bettswilerstrasse"
 housenumber: 8

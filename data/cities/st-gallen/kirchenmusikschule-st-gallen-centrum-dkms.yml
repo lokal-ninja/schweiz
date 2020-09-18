@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.422237700000004
 longitude: 9.3763213
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Auf dem Damm"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 46.1810795
 longitude: 8.8505675
-postcode: 6598
+postcode: "6598"
 city: Tenero-Contra
 street: "Via al Giardino"
 housenumber: 2

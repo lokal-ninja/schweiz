@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.5144718
 longitude: 8.5400427
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Erachfeldstrasse"
 housenumber: 15b

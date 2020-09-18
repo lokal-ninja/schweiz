@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.397629
 longitude: 8.6066268
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Ringwiesenstrasse"
 housenumber: 17

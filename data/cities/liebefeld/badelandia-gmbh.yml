@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 46.9339937
 longitude: 7.4206979
-postcode: 3097
+postcode: "3097"
 city: Liebefeld
 street: "Wilkerstrasse"
 housenumber: 20

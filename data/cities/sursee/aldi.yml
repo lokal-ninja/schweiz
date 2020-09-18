@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.170493900000004
 longitude: 8.0952582
-postcode: 6210
+postcode: "6210"
 city: Sursee
 street: "Umfahrungsstrasse"
 housenumber: 1

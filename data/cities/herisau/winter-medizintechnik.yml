@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.3861391
 longitude: 9.2848538
-postcode: 9100
+postcode: "9100"
 city: Herisau
 street: "Oberdorfstrasse"
 housenumber: 68

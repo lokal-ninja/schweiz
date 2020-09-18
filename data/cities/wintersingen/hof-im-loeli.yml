@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.502612000000006
 longitude: 7.8264516
-postcode: 4451
+postcode: "4451"
 city: Wintersingen
 street: "Hof im Löli"
 housenumber: 1

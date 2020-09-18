@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.2231491
 longitude: 6.0604148
-postcode: 
+postcode: ""
 city: Meyrin
 street: "Chemin de l'Epinglier"
 housenumber: 15

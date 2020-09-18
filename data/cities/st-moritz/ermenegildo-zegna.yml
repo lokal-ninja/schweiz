@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.497149900000004
 longitude: 9.838729500000001
-postcode: 7500
+postcode: "7500"
 city: St. Moritz
 street: "Via Serlas"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.9297571
 longitude: 7.5625996
-postcode: 3076
+postcode: "3076"
 city: Worb
 street: "Bahnhofplatz"
 housenumber: 1

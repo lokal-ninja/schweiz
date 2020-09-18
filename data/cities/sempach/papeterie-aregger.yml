@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.136023800000004
 longitude: 8.1912699
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Stadtstrasse"
 housenumber: 24

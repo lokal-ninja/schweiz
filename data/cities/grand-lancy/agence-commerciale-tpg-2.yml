@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 46.174432700000004
 longitude: 6.130438300000001
-postcode: 1212
+postcode: "1212"
 city: Grand-Lancy
 street: "Route de la Chapelle"
 housenumber: 1

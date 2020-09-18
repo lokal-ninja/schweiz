@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.9151541
 longitude: 7.3601163000000005
-postcode: 3173
+postcode: "3173"
 city: Köniz
 street: "Wangentalstrasse"
 housenumber: 245

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.281642000000005
 longitude: 8.620059000000001
-postcode: 8706
+postcode: "8706"
 city: Feldmeilen
 street: "Bünishoferstrasse"
 housenumber: 152

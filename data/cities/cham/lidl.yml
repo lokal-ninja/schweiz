@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1878801
 longitude: 8.4777518
-postcode: 6330
+postcode: "6330"
 city: Cham
 street: "Hinterbergstrasse"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.940124100000006
 longitude: 7.3909849
-postcode: 3018
+postcode: "3018"
 city: Bern
 street: "Bernstrasse"
 housenumber: 101

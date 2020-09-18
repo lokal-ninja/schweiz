@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.418399
 longitude: 7.8312097000000005
-postcode: 4447
+postcode: "4447"
 city: Känerkinden
 street: "Sonnenberg"
 housenumber: 33

@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 47.4099456
 longitude: 8.543650000000001
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schulstrasse"
 housenumber: 37
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-17:00"
 website: ""

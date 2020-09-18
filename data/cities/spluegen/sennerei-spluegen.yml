@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.552353200000006
 longitude: 9.3234819
-postcode: 7435
+postcode: "7435"
 city: Splügen
 street: ""
 housenumber: 

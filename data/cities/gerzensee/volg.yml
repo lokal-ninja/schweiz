@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.839645000000004
 longitude: 7.543748900000001
-postcode: 3115
+postcode: "3115"
 city: Gerzensee
 street: "Spielgasse"
 housenumber: 5

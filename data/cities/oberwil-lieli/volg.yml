@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3416106
 longitude: 8.3965335
-postcode: 8966
+postcode: "8966"
 city: Oberwil-Lieli
 street: "Grossächerstrasse"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.183394500000006
 longitude: 7.883570700000001
-postcode: 6147
+postcode: "6147"
 city: Altbüron
 street: "Linden"
 housenumber: 2

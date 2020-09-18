@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.1895119
 longitude: 7.7887181000000005
-postcode: 4932
+postcode: "4932"
 city: Lotzwil
 street: "Bahnhofstrasse"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 46.8838522
 longitude: 7.383857000000001
-postcode: 3145
+postcode: "3145"
 city: Niederscherli
 street: "Schwarzenburgstrasse"
 housenumber: 854

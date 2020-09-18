@@ -3,9 +3,9 @@ type: node
 shop: Metzgerei
 latitude: 46.8367401
 longitude: 9.451944600000001
-postcode: 7013
+postcode: "7013"
 city: Domat/Ems
-street: "Gassa Sutó / Untere Bahnhofstrasse"
+street: "Gassa sutò"
 housenumber: 6
 phone: "+41 81 633 11 74"
 opening_hours: ""

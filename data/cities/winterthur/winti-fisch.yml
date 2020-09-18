@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.5031611
 longitude: 8.7511436
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Frauenfelderstrasse"
 housenumber: 108

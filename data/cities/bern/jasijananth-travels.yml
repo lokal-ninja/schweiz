@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.9445369
 longitude: 7.411644300000001
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Freiburgstrasse"
 housenumber: 111b

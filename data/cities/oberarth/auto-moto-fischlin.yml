@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.0548644
 longitude: 8.5428735
-postcode: 6414
+postcode: "6414"
 city: Oberarth
 street: "Gutwindeweg"
 housenumber: 24

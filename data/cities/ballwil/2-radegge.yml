@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.154409900000005
 longitude: 8.316661100000001
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Bahnhofstrasse"
 housenumber: 

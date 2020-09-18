@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.065884800000006
 longitude: 7.2945355
-postcode: 3250
+postcode: "3250"
 city: Lyss
 street: "Südstrasse"
 housenumber: 3

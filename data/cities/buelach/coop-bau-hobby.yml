@@ -1,12 +1,12 @@
 id: 34561448
 type: way
 shop: Baumarkt
-latitude: 47.507421900000004
-longitude: 8.541171700000001
-postcode: 8180
+latitude: 47.5074235
+longitude: 8.5411681
+postcode: "8180"
 city: Bülach
 street: "Feldstrasse"
 housenumber: 88
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.bauundhobby.ch"
+opening_hours: ""
+website: "https://www.bauundhobby.ch/"

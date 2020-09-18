@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.343570400000004
 longitude: 6.1414423000000005
-postcode: 01220
+postcode: "01220"
 city: Divonne-les-Bains
 street: "Avenue du Crêt d'Eau"
 housenumber: 691

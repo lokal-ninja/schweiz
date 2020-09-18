@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.6404203
 longitude: 6.576848600000001
-postcode: 1377
+postcode: "1377"
 city: Oulens-sous-Echallens
 street: "Route de Bettens"
 housenumber: 24

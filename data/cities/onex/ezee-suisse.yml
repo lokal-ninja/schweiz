@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.185111600000006
 longitude: 6.1003078
-postcode: 1213
+postcode: "1213"
 city: Onex
 street: "Avenue du Bois-de-la-Chapelle"
 housenumber: 106

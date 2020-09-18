@@ -1,5 +1,5 @@
 ---
-title: Wetzikon (ZH)
+title: Wetzikon ZH
 url: /wetzikon-zh/
 latitude: 
 longitude: 

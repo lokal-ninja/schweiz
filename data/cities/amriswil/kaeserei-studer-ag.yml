@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.556058900000004
 longitude: 9.3261132
-postcode: 8580
+postcode: "8580"
 city: Amriswil
 street: "Romanshornerstrasse"
 housenumber: 253

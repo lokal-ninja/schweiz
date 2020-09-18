@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.473532500000005
 longitude: 9.111843700000001
-postcode: 9524
+postcode: "9524"
 city: Zuzwil (SG)
 street: "Herbergstrasse"
 housenumber: 12

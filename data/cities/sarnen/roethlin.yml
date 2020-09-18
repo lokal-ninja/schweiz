@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.894934400000004
 longitude: 8.2474029
-postcode: 6060
+postcode: "6060"
 city: Sarnen
 street: "Bahnhofplatz"
 housenumber: 1

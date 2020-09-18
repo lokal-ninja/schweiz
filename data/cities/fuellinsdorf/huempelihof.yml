@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.500626700000005
 longitude: 7.734630500000001
-postcode: 4144
+postcode: "4144"
 city: Füllinsdorf
 street: "Hümpelihof"
 housenumber: 7

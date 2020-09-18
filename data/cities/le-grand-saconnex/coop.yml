@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.231103600000004
 longitude: 6.118873300000001
-postcode: 
+postcode: ""
 city: Le Grand-Saconnex
 street: "Chemin Edouard-Sarasin"
 housenumber: 28

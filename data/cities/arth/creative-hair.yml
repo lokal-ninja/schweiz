@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.062609300000005
 longitude: 8.5229212
-postcode: 6415
+postcode: "6415"
 city: Arth
 street: "Rathausplatz"
 housenumber: 4

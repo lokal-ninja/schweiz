@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.371511000000005
 longitude: 8.5438574
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Münstergasse"
 housenumber: 21

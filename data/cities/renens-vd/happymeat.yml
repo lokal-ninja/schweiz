@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.538558900000005
 longitude: 6.583699
-postcode: 1020
+postcode: "1020"
 city: Renens (VD)
 street: "Avenue de l'Église Catholique"
 housenumber: 1

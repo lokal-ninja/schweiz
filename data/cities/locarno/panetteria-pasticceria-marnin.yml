@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.168714200000004
 longitude: 8.7925201
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via San Francesco"
 housenumber: 8

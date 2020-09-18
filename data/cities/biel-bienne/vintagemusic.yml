@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.1427198
 longitude: 7.246733600000001
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "Obergasse"
 housenumber: 31

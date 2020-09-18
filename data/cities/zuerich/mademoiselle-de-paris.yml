@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.3684458
 longitude: 8.5116552
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Friesenbergstrasse"
 housenumber: 40

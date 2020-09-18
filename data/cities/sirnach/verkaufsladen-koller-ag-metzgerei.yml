@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.4622778
 longitude: 8.9970379
-postcode: 8370
+postcode: "8370"
 city: Sirnach
 street: "Kirchplatz"
 housenumber: 5

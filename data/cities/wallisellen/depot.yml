@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 47.408246500000004
 longitude: 8.594670800000001
-postcode: 8301
+postcode: "8301"
 city: Wallisellen
 street: "Neue Winterthurerstrasse"
 housenumber: 99
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.depot-online.ch/"
+website: "https://www.depot-online.com/ch/de/"

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.2236272
 longitude: 6.0527448
-postcode: 1242
+postcode: "1242"
 city: Satigny
 street: "Rue du Pré-de-la-Fontaine"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 45.861342400000005
 longitude: 9.007938600000001
-postcode: 6874
+postcode: "6874"
 city: Castel San Pietro
 street: "Largo Bernasconi"
 housenumber: 

@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 47.212521200000005
 longitude: 7.7892526
-postcode: 
+postcode: "4900"
 city: Langenthal
-street: ""
-housenumber: 
+street: "Marktgasse"
+housenumber: 12
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.hotelplan.ch/hotelplan-langenthal"

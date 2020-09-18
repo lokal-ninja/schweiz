@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 46.4473277
 longitude: 6.15554
-postcode: 1265
+postcode: "1265"
 city: Saint-Cergue
 street: "Route de France"
 housenumber: 14

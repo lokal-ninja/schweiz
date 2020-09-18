@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0741181
 longitude: 8.289485800000001
-postcode: 6032
+postcode: "6032"
 city: Emmen
 street: "Rosenaustrasse"
 housenumber: 2

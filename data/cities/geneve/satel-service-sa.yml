@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 46.2233007
 longitude: 6.1484562
-postcode: 1202
+postcode: "1202"
 city: Genève
 street: "Rue de Lausanne"
 housenumber: 145

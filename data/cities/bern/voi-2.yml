@@ -1,12 +1,12 @@
-id: 5243199320
+id: 563138869
 type: node
-shop: Lebensmittel
-latitude: 46.945195700000006
-longitude: 7.390276600000001
-postcode: 3018
+shop: Supermarkt
+latitude: 46.945448400000004
+longitude: 7.462831700000001
+postcode: "3006"
 city: Bern
-street: "Mühledorfstrasse"
-housenumber: 15
+street: "Schossshaldenstrasse"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00"
-website: ""
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su off; PH off"
+website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-bern-schosshalde"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.933383600000006
 longitude: 7.5036085
-postcode: 3073
+postcode: "3073"
 city: Gümligen
 street: "Turbenweg"
 housenumber: 1

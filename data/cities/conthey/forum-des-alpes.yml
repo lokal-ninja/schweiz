@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.2239233
 longitude: 7.302950300000001
-postcode: 1964
+postcode: "1964"
 city: Conthey
 street: "Route des Rottes"
 housenumber: 15

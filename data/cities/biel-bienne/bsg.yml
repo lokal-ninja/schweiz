@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.1314286
 longitude: 7.235556600000001
-postcode: 
+postcode: ""
 city: Biel/Bienne
 street: "Badhausstrasse"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 46.2185834
 longitude: 7.3511262
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Route de la Drague"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.9791946
 longitude: 7.457821900000001
-postcode: 3048
+postcode: "3048"
 city: Worblaufen
 street: "Tiefenaustrasse"
 housenumber: 2

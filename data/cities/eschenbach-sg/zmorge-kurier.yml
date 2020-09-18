@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.245296800000006
 longitude: 8.8837992
-postcode: 8733
+postcode: "8733"
 city: Eschenbach (SG)
 street: "Sonnenbüel"
 housenumber: 1

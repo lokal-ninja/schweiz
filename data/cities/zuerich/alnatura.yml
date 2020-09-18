@@ -1,12 +1,12 @@
-id: 4314993996
+id: 3582021500
 type: node
 shop: Supermarkt
-latitude: 47.4090111
-longitude: 8.5435046
-postcode: 8050
+latitude: 47.4033485
+longitude: 8.4979498
+postcode: "8049"
 city: Zürich
-street: "Baumackerstrasse"
-housenumber: 35
+street: "Kappenbühlweg"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://alnatura.migros.ch/"
+opening_hours: "Mo-Sa 08:00-19:00; PH off"
+website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-zuerich-hoengg"

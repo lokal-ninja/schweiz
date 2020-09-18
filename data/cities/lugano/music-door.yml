@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.0114071
 longitude: 8.9594482
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Madonetta"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 46.774973
 longitude: 8.3443909
-postcode: 3862
+postcode: "3862"
 city: Innertkirchen
 street: "Engstlen"
 housenumber: 514

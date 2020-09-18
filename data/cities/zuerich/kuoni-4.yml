@@ -1,12 +1,12 @@
-id: 5629318415
+id: 4915582619
 type: node
 shop: Reisebüro
-latitude: 47.375602300000004
-longitude: 8.539432
-postcode: 8001
+latitude: 47.3576265
+longitude: 8.5235786
+postcode: "8045"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 88
+street: "Kalanderplatz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-bahnhofstrasse/"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-sihlcity/"

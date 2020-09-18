@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.258219700000005
 longitude: 8.8511991
-postcode: 8630
+postcode: "8630"
 city: Rüti (ZH)
 street: "Werkstrasse"
 housenumber: 2a

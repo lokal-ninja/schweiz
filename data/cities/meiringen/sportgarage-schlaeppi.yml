@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.728083600000005
 longitude: 8.1717065
-postcode: 3860
+postcode: "3860"
 city: Meiringen
 street: "Hausenstrasse"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.3989872
 longitude: 8.5328382
-postcode: 8057
+postcode: "8057"
 city: Zürich
 street: "Hofwiesenstrasse"
 housenumber: 135

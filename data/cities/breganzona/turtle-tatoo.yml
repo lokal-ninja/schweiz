@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.0059698
 longitude: 8.9287173
-postcode: 6932
+postcode: "6932"
 city: Breganzona
 street: "Via Avv. B. Leoni"
 housenumber: 

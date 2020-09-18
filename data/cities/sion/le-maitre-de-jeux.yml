@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 46.232715600000006
 longitude: 7.3674254
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Rue du Scex"
 housenumber: 49

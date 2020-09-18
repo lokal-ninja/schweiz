@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.915849800000004
 longitude: 7.9356439000000005
-postcode: 6182
+postcode: "6182"
 city: Escholzmatt
 street: "Hauptstrasse"
 housenumber: 81

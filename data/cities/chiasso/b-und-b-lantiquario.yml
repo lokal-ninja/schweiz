@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 45.8378947
 longitude: 9.0231095
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Via Dante Alighieri"
 housenumber: 21

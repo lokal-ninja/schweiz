@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.774599
 longitude: 9.2076589
-postcode: 7130
+postcode: "7130"
 city: Ilanz
 street: "Poststrasse"
 housenumber: 4

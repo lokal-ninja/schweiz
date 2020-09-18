@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 45.869756800000005
 longitude: 8.9893062
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Largo Mario Soldini"
 housenumber: 1

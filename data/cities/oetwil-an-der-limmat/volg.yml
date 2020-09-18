@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.428188000000006
 longitude: 8.3942092
-postcode: 8955
+postcode: "8955"
 city: Oetwil an der Limmat
 street: "Alte Landstrasse"
 housenumber: 12

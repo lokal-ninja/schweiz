@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.365160200000005
 longitude: 7.154084500000001
-postcode: 2882
+postcode: "2882"
 city: Saint-Ursanne
 street: "Rue du 23-Juin"
 housenumber: 92

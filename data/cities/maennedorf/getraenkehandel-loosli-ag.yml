@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.257580000000004
 longitude: 8.6833158
-postcode: 8708
+postcode: "8708"
 city: Männedorf
 street: "Gerbeweg"
 housenumber: 5

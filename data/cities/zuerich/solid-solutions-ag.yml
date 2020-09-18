@@ -3,7 +3,7 @@ type: node
 shop: Software
 latitude: 47.389953600000005
 longitude: 8.492687100000001
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Hohlstrasse"
 housenumber: 534

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.372586000000005
 longitude: 8.5242336
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: ""
 housenumber: 

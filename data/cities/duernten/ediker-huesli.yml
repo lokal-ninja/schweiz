@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.286338900000004
 longitude: 8.843194
-postcode: 8635
+postcode: "8635"
 city: Dürnten
 street: "Tammelstrasse"
 housenumber: 1

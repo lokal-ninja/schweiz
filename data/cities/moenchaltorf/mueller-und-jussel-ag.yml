@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.310506000000004
 longitude: 8.7190812
-postcode: 8617
+postcode: "8617"
 city: Mönchaltorf
 street: "Seestrasse"
 housenumber: 1

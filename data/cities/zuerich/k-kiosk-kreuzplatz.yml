@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.364940700000005
 longitude: 8.554152400000001
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Theaterstrasse"
 housenumber: 

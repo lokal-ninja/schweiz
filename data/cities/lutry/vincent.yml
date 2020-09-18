@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.505797900000005
 longitude: 6.688513400000001
-postcode: 1095
+postcode: "1095"
 city: Lutry
 street: "Route de l'Ancienne Ciblerie"
 housenumber: 2

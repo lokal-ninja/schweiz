@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4938857
 longitude: 7.653908
-postcode: 4145
+postcode: "4145"
 city: Gempen
 street: "Schönmatt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.8481916
 longitude: 9.5297061
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Untere Gasse"
 housenumber: 32

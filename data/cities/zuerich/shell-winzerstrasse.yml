@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.401023800000004
 longitude: 8.491591600000001
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Winzerstrasse"
 housenumber: 38

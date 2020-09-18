@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.570823000000004
 longitude: 7.575237400000001
-postcode: 4056
+postcode: "4056"
 city: Basel
 street: "Voltastrasse"
 housenumber: 99

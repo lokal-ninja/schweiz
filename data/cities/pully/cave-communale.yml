@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.5094932
 longitude: 6.6618127000000005
-postcode: 1009
+postcode: "1009"
 city: Pully
 street: "Avenue Samson Reymondin"
 housenumber: 1

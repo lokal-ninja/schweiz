@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4227512
 longitude: 8.6014429
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Alte Winterthurerstrasse"
 housenumber: 117

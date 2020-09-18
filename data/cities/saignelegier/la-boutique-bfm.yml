@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.2541882
 longitude: 7.002248600000001
-postcode: 2350
+postcode: "2350"
 city: Saignelégier
 street: "Chemin des Buissons"
 housenumber: 8

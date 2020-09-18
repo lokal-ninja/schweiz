@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.822839800000004
 longitude: 8.033334100000001
-postcode: 6174
+postcode: "6174"
 city: Sörenberg
 street: "Rothorncenter"
 housenumber: 1

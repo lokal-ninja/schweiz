@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5441031
 longitude: 9.3756518
-postcode: 9322
+postcode: "9322"
 city: Egnach
 street: "Romanshornerstrasse"
 housenumber: 113

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.245782600000005
 longitude: 8.4585386
-postcode: 8932
+postcode: "8932"
 city: Mettmenstetten
 street: "Untere Fischbachstrasse"
 housenumber: 2

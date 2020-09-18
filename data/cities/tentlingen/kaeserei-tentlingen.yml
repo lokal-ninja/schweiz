@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.769926600000005
 longitude: 7.196795900000001
-postcode: 1734
+postcode: "1734"
 city: Tentlingen
 street: "Käsereistrasse"
 housenumber: 3

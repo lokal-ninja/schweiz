@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0934279
 longitude: 8.299410400000001
-postcode: 6032
+postcode: "6032"
 city: Emmen
 street: ""
 housenumber: 

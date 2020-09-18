@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4899355
 longitude: 8.901297900000001
-postcode: 8533
+postcode: "8533"
 city: Aadorf
 street: "Chatelstrasse"
 housenumber: 5

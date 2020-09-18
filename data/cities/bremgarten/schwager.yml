@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.351055300000006
 longitude: 8.3421126
-postcode: 5620
+postcode: "5620"
 city: Bremgarten
 street: "Marktgasse"
 housenumber: 14

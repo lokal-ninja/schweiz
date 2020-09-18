@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.732326
 longitude: 7.2911815
-postcode: 1716
+postcode: "1716"
 city: Plaffeien
 street: "Rüttistrasse"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.478367000000006
 longitude: 8.2125304
-postcode: 5210
+postcode: "5210"
 city: Windisch
 street: "Klosterzelgstrasse"
 housenumber: 15

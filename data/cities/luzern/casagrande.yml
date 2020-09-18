@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.053527
 longitude: 8.307911800000001
-postcode: 6004
+postcode: "6004"
 city: Luzern
 street: "Grendelstrasse"
 housenumber: 6

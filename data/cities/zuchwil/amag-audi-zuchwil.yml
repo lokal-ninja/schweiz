@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.202368
 longitude: 7.5721094
-postcode: 4528
+postcode: "4528"
 city: Zuchwil
 street: "Langfeldstrasse"
 housenumber: 30

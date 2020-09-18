@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.5842667
 longitude: 7.6497497
-postcode: 3714
+postcode: "3714"
 city: Frutigen
 street: "Kanderstegstrasse"
 housenumber: 46

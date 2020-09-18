@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.784938600000004
 longitude: 9.1929742
-postcode: 7154
+postcode: "7154"
 city: Ruschein
 street: "Via sut Catieni"
 housenumber: 7b

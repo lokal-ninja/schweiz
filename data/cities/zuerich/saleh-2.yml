@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.373912700000005
 longitude: 8.5283678
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Stauffacherstrasse"
 housenumber: 37

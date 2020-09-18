@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.872248400000004
 longitude: 8.9876086
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Stella"
 housenumber: 21

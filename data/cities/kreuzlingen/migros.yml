@@ -1,12 +1,12 @@
-id: 1012741733
+id: 837957539
 type: node
 shop: Supermarkt
-latitude: 47.648107100000004
-longitude: 9.1758628
-postcode: 8280
+latitude: 47.642084800000006
+longitude: 9.195751900000001
+postcode: "8280"
 city: Kreuzlingen
-street: "Hauptstrasse"
-housenumber: 63
-phone: "+41 71 421 44 11"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-18:00"
-website: ""
+street: "Bleichestrasse"
+housenumber: 15
+phone: "+41 58 712 75 00"
+opening_hours: ""
+website: "https://filialen.migros.ch/de/migros-supermarkt-kreuzlingen-seepark"

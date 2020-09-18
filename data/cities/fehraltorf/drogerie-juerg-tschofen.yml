@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.3867278
 longitude: 8.7546651
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Grundstrasse"
 housenumber: 1

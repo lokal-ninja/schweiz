@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 46.8610721
 longitude: 9.5320011
-postcode: 7006
+postcode: "7006"
 city: Chur
 street: "Saluferstrasse"
 housenumber: 7

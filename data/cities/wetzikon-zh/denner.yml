@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3315245
 longitude: 8.8076053
-postcode: 8623
+postcode: "8623"
 city: Wetzikon (ZH)
 street: "Bahnhofstrasse"
 housenumber: 255

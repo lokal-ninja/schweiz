@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.137403000000006
 longitude: 7.922421300000001
-postcode: 6144
+postcode: "6144"
 city: Zell
 street: "St. Urbanstrasse"
 housenumber: 9

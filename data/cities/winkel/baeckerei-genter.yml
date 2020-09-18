@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4922425
 longitude: 8.5521547
-postcode: 8185
+postcode: "8185"
 city: Winkel
 street: "Seebnerstrasse"
 housenumber: 14

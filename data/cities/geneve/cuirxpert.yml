@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.2238854
 longitude: 6.1310761000000005
-postcode: 1209
+postcode: "1209"
 city: Genève
 street: "Chemin du Petit-Saconnex"
 housenumber: 5

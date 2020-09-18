@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5889255
 longitude: 8.5995335
-postcode: 8416
+postcode: "8416"
 city: Flaach
 street: "Thurhof"
 housenumber: 3

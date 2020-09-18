@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.367917000000006
 longitude: 8.6794118
-postcode: 8606
+postcode: "8606"
 city: Greifensee
 street: "Meierwis"
 housenumber: 

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.499784700000006
 longitude: 8.730634100000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 3
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www2.hm.com/de_ch/"

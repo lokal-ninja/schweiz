@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.407313800000004
 longitude: 9.6094921
-postcode: 9436
+postcode: "9436"
 city: Balgach
 street: "Hauptstrasse"
 housenumber: 32

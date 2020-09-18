@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.343148500000005
 longitude: 8.5303176
-postcode: 8038
+postcode: "8038"
 city: Zürich
 street: "Albisstrasse"
 housenumber: 54

@@ -1,6 +1,6 @@
 ---
-title: Biel/VS
+title: Biel VS
 url: /biel-vs/
-latitude: 
-longitude: 
+latitude: 46.455888900000005
+longitude: 8.2166061
 ---

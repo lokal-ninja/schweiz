@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.5223303
 longitude: 6.5662301
-postcode: 1024
+postcode: "1024"
 city: Ecublens (VD)
 street: "Route Louis-Favre"
 housenumber: 10A

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.3756439
 longitude: 8.5367499
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Löwenstrasse"
 housenumber: 37
 phone: "+41 58 576 35 00"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-18:00"
-website: "https://www.globus.ch/"
+website: "https://www.globus.ch/filialsuche/store/301"

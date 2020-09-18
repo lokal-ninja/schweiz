@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.2286687
 longitude: 7.357943100000001
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Rue des Creusets"
 housenumber: 26

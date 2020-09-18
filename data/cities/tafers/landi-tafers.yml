@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8228373
 longitude: 7.2088663
-postcode: 1712
+postcode: "1712"
 city: Tafers
 street: "Dorfschaftstrasse"
 housenumber: 2

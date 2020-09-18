@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.240145500000004
 longitude: 8.7192255
-postcode: 8712
+postcode: "8712"
 city: Stäfa
 street: "Bahnhofstrasse"
 housenumber: 5

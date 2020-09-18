@@ -1,4 +1,4 @@
 ---
-title: "Rio-Getränkemarkt‎"
+title: "Rio Getränkemarkt"
 url: /adliswil/rio-getraenkemarkt/
 ---

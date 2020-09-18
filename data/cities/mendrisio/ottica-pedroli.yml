@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 45.8701962
 longitude: 8.9866743
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazzale alla Valle"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.8318122
 longitude: 7.403460900000001
-postcode: 3089
+postcode: "3089"
 city: Hinterfultigen
 street: "Rossgrabenstrasse"
 housenumber: 6

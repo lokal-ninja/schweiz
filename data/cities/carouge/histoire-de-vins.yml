@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.185123100000006
 longitude: 6.141210200000001
-postcode: 1227
+postcode: "1227"
 city: Carouge
 street: "Rue Saint-Joseph"
 housenumber: 35

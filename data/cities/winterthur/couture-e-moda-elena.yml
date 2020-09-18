@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.505264700000005
 longitude: 8.7178252
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Wülflingerstrasse"
 housenumber: 34

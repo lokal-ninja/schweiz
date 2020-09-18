@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 46.761849100000006
 longitude: 7.2095677
-postcode: 1735
+postcode: "1735"
 city: Giffers
 street: "Dorfplatz"
 housenumber: 1

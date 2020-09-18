@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.571567900000005
 longitude: 6.6031686
-postcode: 1032
+postcode: "1032"
 city: Vernand-sur-Lausanne
 street: "Chemin de Camarès"
 housenumber: 1

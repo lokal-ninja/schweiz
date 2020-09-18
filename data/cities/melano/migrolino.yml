@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 45.931624
 longitude: 8.9742361
-postcode: 6818
+postcode: "6818"
 city: Melano
 street: "Via Cantonale"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5094014
 longitude: 7.804857900000001
-postcode: 4132
+postcode: "4312"
 city: Magden
 street: "Zelglihof"
 housenumber: 243

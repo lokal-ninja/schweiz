@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 47.3914369
 longitude: 8.1679039
-postcode: 5600
+postcode: "5600"
 city: Lenzburg
 street: "Industriestrasse"
 housenumber: 9

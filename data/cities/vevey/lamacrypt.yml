@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.4622716
 longitude: 6.8427638
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Avenue de la Gare"
 housenumber: 23

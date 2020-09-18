@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.0499632
 longitude: 8.5483097
-postcode: 6410
+postcode: "6410"
 city: Goldau
 street: "Parkstrasse"
 housenumber: 9

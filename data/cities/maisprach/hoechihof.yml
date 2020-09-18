@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.528924100000005
 longitude: 7.842961700000001
-postcode: 4464
+postcode: "4464"
 city: Maisprach
 street: "Höchihof"
 housenumber: 119

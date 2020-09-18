@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6225758
 longitude: 7.0562569
-postcode: 1630
+postcode: "1630"
 city: Bulle
 street: "Rue du Château-d'En-Bas"
 housenumber: 15

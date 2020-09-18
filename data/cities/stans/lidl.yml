@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.967722
 longitude: 8.357572600000001
-postcode: 6370
+postcode: "6370"
 city: Stans
 street: "Mühlebachstrasse"
 housenumber: 2

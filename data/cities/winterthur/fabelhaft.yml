@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 47.4982969
 longitude: 8.741337900000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Hermannstrasse"
 housenumber: 8

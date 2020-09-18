@@ -1,12 +1,12 @@
-id: 4827130212
+id: 1127649950
 type: node
 shop: Kiosk
-latitude: 47.386546800000005
-longitude: 8.498604400000001
-postcode: 8048
+latitude: 47.385912100000006
+longitude: 8.5488084
+postcode: "8006"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Winterthurerstrasse"
+housenumber: 2-4
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.kkiosk.ch/de/"

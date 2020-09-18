@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.472782900000006
 longitude: 7.8178805
-postcode: 4450
+postcode: "4450"
 city: Sissach
 street: "Letten"
 housenumber: 17

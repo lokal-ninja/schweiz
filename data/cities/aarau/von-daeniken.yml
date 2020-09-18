@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.390517100000004
 longitude: 8.0449403
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Vordere Vorstadt"
 housenumber: 26

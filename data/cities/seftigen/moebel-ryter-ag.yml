@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.7901919
 longitude: 7.522268400000001
-postcode: 3662
+postcode: "3662"
 city: Seftigen
 street: "Seftigenstrasse"
 housenumber: 59

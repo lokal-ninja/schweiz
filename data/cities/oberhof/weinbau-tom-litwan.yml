@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4495542
 longitude: 8.0113097
-postcode: 5062
+postcode: "5062"
 city: Oberhof
 street: "Moosstrasse"
 housenumber: 280

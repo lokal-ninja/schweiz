@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.9742613
 longitude: 7.4851349
-postcode: 3063
+postcode: "3063"
 city: Ittigen
 street: "Talweg"
 housenumber: 6
 phone: "+41 58 567 82 00"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 07:30-17:00"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 07:30-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-ittigen"

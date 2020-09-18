@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.4267113
 longitude: 9.3825233
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Rorschacherstrasse"
 housenumber: 45

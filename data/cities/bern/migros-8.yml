@@ -1,12 +1,12 @@
-id: 2915808789
+id: 540757239
 type: node
 shop: Supermarkt
-latitude: 46.9475415
-longitude: 7.4380791
-postcode: 3011
+latitude: 46.965756400000004
+longitude: 7.463634300000001
+postcode: "3014"
 city: Bern
-street: "Bubenbergplatz"
-housenumber: 8
+street: "Wankdorffeldstrasse"
+housenumber: 71
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su off"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-winkelried"

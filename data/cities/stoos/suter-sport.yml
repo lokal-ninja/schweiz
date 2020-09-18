@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.977109500000005
 longitude: 8.6662281
-postcode: 6433
+postcode: "6433"
 city: Stoos
 street: "Sportweg"
 housenumber: 44

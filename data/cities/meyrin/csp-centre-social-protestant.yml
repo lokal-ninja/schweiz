@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.227536300000004
 longitude: 6.0651143
-postcode: 1217
+postcode: "1217"
 city: Meyrin
 street: "Rue Alphonse-Large"
 housenumber: 19

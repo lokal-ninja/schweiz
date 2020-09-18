@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.458764200000005
 longitude: 6.8477285000000006
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Rue d'Italie"
 housenumber: 58

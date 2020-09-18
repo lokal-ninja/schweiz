@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.434232200000004
 longitude: 8.8529512
-postcode: 8488
+postcode: "8488"
 city: Turbenthal
 street: "St. Gallerstrasse 18"
 housenumber: 18

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.3849582
 longitude: 8.422136700000001
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Birmensdorferstrasse"
-housenumber: 
+housenumber: 87
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-urdorf-spitzacker"

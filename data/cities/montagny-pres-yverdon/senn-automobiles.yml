@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.794074
 longitude: 6.6286982000000005
-postcode: 1442
+postcode: "1442"
 city: Montagny-près-Yverdon
 street: "Le Bey"
 housenumber: 28

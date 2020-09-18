@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2644202
 longitude: 8.9600009
-postcode: 8638
+postcode: "8638"
 city: Goldingen
 street: "Laupenstrasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.6225365
 longitude: 7.0561696000000005
-postcode: 1630
+postcode: "1630"
 city: Bulle
 street: "Rue du Château d'en Bas"
 housenumber: 15

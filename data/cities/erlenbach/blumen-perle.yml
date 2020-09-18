@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3044079
 longitude: 8.5912349
-postcode: 8703
+postcode: "8703"
 city: Erlenbach
 street: "Bahnhofstrasse"
 housenumber: 

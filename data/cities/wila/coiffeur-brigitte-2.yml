@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4114969
 longitude: 8.8593092
-postcode: 8492
+postcode: "8492"
 city: Wila
 street: "Tablat"
 housenumber: 1027

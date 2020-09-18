@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.991337200000004
 longitude: 6.9291812
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue du Seyon"
 housenumber: 

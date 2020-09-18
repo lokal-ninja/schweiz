@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.2113481
 longitude: 6.2323721
-postcode: 1241
+postcode: "1241"
 city: Puplinge
 street: "Rue de Graman"
 housenumber: 87

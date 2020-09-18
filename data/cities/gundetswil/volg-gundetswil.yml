@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.539711100000005
 longitude: 8.8226081
-postcode: 8543
+postcode: "8543"
 city: Gundetswil
 street: "Hauptstrasse"
 housenumber: 12

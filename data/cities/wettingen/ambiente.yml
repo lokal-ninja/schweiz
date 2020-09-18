@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4603496
 longitude: 8.3157029
-postcode: 5430
+postcode: "5430"
 city: Wettingen
 street: "Seminarstrasse"
 housenumber: 116

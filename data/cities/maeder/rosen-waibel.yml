@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.3555366
 longitude: 9.6176438
-postcode: 6841
+postcode: "6841"
 city: Mäder
 street: "Leha"
 housenumber: 1

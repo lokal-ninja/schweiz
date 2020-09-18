@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5059315
 longitude: 6.688551400000001
-postcode: 1095
+postcode: "1095"
 city: Lutry
 street: "Route de l'Ancienne Ciblerie"
 housenumber: 2

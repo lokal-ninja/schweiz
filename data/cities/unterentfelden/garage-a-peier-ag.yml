@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.361704100000004
 longitude: 8.0512858
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Suhrenmattstrasse"
 housenumber: 50

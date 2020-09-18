@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.522421300000005
 longitude: 6.9461367
-postcode: 1619
+postcode: "1619"
 city: Les Paccots
 street: "Route des Paccots"
 housenumber: 238

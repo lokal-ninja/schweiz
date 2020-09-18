@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1284013
 longitude: 7.2410693
-postcode: 2503
+postcode: "2503"
 city: Biel/Bienne
 street: "Aarbergstrasse"
 housenumber: 32

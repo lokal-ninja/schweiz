@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.377218400000004
 longitude: 8.5344367
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Lagerstrasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.967801900000005
 longitude: 7.4866269
-postcode: 3072
+postcode: "3072"
 city: Ostermundigen
 street: "Untere Zollgasse"
 housenumber: 81

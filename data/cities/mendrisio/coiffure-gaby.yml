@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 45.8706444
 longitude: 8.988377400000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via San Damiano"
 housenumber: 2

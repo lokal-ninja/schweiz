@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.1810218
 longitude: 7.8838835000000005
-postcode: 6147
+postcode: "6147"
 city: Altbüron
 street: "Bühl"
 housenumber: 10

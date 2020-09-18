@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.522255900000005
 longitude: 6.6301939
-postcode: 1003
+postcode: "1003"
 city: Lausanne
 street: "Rue William-Haldimand"
 housenumber: 13

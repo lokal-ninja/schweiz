@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.9733499
 longitude: 7.485362500000001
-postcode: 3063
+postcode: "3063"
 city: Ittigen
 street: "Worblentalstrasse"
 housenumber: 103

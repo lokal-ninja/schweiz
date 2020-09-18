@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.526868300000004
 longitude: 8.2177003
-postcode: 5234
+postcode: "5234"
 city: Villigen
 street: "Schürmattstrasse"
 housenumber: 4

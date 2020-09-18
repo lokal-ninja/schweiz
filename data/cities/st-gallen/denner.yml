@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4101208
 longitude: 9.335609700000001
-postcode: 9014
+postcode: "9014"
 city: St. Gallen
 street: "Fürstenlandstrasse"
 housenumber: 157

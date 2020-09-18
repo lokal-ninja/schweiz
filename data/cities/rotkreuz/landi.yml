@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1418667
 longitude: 8.4281433
-postcode: 6343
+postcode: "6343"
 city: Rotkreuz
 street: "Poststrasse"
 housenumber: 3

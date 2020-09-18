@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.2255939
 longitude: 8.8191846
-postcode: 8640
+postcode: "8640"
 city: Rapperswil
 street: "Untere Bahnhofstrasse"
 housenumber: 10

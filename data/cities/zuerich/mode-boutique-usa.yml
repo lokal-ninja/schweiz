@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3744613
 longitude: 8.5223393
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 144

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9480878
 longitude: 7.449708
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Kramgasse"
 housenumber: 54

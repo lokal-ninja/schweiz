@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.936846
 longitude: 7.416392200000001
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Könizstrasse"
 housenumber: 121

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 46.101354400000005
 longitude: 7.0730991
-postcode: 1920
+postcode: "1920"
 city: Martigny
 street: "Place Centrale"
 housenumber: 

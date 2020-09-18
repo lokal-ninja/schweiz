@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.2043892
 longitude: 6.144277000000001
-postcode: 1204
+postcode: "1204"
 city: Genève
 street: "Rue du Rhône"
 housenumber: 4

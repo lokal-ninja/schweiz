@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.2346908
 longitude: 6.1240679
-postcode: 
+postcode: ""
 city: Le Grand-Saconnex
 street: "Route de Ferney"
 housenumber: 194

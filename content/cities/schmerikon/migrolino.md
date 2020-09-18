@@ -1,4 +1,4 @@
 ---
-title: "migrolino"
+title: "Migrolino"
 url: /schmerikon/migrolino/
 ---

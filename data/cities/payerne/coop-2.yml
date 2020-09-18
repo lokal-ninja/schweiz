@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8223306
 longitude: 6.9420826
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Place Général Guisan"
 housenumber: 1

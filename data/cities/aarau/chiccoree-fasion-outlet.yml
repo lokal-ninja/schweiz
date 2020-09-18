@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3923287
 longitude: 8.047006300000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Kasinostrasse"
 housenumber: 19

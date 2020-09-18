@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2592149
 longitude: 8.1840142
-postcode: 5734
+postcode: "5734"
 city: Reinach
 street: "Sandgasse"
 housenumber: 23

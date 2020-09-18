@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 47.4975904
 longitude: 8.7160045
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Eduard-Steiner-Strasse"
 housenumber: 1

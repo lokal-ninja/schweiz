@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.361935300000006
 longitude: 8.045973400000001
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Binzmattweg"
 housenumber: 8

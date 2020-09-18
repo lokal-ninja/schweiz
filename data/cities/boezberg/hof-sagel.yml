@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4856142
 longitude: 8.1632387
-postcode: 5225
+postcode: "5225"
 city: Bözberg
 street: "Sagel"
 housenumber: 1

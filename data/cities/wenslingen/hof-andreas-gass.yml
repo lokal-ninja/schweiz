@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4391059
 longitude: 7.910428700000001
-postcode: 4493
+postcode: "4493"
 city: Wenslingen
 street: "Dorfstrasse"
 housenumber: 11

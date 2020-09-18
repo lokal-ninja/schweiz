@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.003625500000005
 longitude: 8.6203049
-postcode: 6440
+postcode: "6440"
 city: Ingenbohl
 street: "Gätzlistrasse"
 housenumber: 9

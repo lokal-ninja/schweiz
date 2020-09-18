@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.3783429
 longitude: 8.5095709
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Badenerstrasse"
 housenumber: 355

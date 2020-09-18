@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1274512
 longitude: 8.7468807
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Schmiedenstrasse"
 housenumber: 6

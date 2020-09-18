@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.4781886
 longitude: 7.282731500000001
-postcode: 3780
+postcode: "3780"
 city: Gstaad
 street: "Untergstaadstrasse"
 housenumber: 3

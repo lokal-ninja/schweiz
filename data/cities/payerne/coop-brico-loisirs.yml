@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.824598
 longitude: 6.930936300000001
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: ""
 housenumber: 

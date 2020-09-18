@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.413845800000004
 longitude: 8.5316097
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Binzmühlestrasse"
 housenumber: 210

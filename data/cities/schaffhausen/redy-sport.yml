@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.708071600000004
 longitude: 8.6279514
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Lochstrasse"
 housenumber: 18

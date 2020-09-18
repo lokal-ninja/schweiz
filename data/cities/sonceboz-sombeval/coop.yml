@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1948664
 longitude: 7.1779469
-postcode: 2605
+postcode: "2605"
 city: Sonceboz-Sombeval
 street: "Rue de la Gare"
 housenumber: 7

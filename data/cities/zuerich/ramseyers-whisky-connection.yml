@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.3635085
 longitude: 8.5338027
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "General-Wille-Strasse"
 housenumber: 8

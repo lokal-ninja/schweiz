@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.0354509
 longitude: 8.2972768
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Arsenalstrasse"
 housenumber: 42

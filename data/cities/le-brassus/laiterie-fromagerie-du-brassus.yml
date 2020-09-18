@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5815494
 longitude: 6.2115846
-postcode: 1348
+postcode: "1348"
 city: Le Brassus
 street: "Le Rocher"
 housenumber: 4

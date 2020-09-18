@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.682244600000004
 longitude: 9.315857900000001
-postcode: 7107
+postcode: "7107"
 city: Safien Platz
 street: "Tahlstrasse"
 housenumber: 23

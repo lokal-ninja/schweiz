@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.6098742
 longitude: 9.263732800000001
-postcode: 8595
+postcode: "8595"
 city: Altnau
 street: "Thoracker"
 housenumber: 5

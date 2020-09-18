@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.6599992
 longitude: 8.0537629
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: ""
 housenumber: 

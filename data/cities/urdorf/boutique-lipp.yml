@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.384309900000005
 longitude: 8.422336900000001
-postcode: 8902
+postcode: "8902"
 city: Urdorf
 street: "Birmensdorferstrasse"
 housenumber: 79

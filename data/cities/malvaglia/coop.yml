@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.412362300000005
 longitude: 8.9775627
-postcode: 6713
+postcode: "6713"
 city: Malvaglia
 street: ""
 housenumber: 

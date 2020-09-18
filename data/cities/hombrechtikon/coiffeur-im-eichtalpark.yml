@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2494339
 longitude: 8.7771121
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Eichtalstrasse"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.3932214
 longitude: 6.2372760000000005
-postcode: 1260
+postcode: "1260"
 city: Nyon
 street: "Route d'Oulteret"
 housenumber: 44

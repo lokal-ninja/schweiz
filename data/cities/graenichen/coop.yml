@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3587093
 longitude: 8.098717
-postcode: 5722
+postcode: "5722"
 city: Gränichen
 street: "Mitteldorfstrasse"
 housenumber: 30

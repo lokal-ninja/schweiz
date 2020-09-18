@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4774509
 longitude: 9.4930459
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Mariabergstrasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.872011400000005
 longitude: 8.9877211
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Stella"
 housenumber: 14

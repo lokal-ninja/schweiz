@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0493906
 longitude: 8.546427600000001
-postcode: 6410
+postcode: "6410"
 city: Goldau
 street: "Bahnhofsstrasse"
 housenumber: 13

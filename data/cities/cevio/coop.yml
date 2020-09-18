@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.3184478
 longitude: 8.6018477
-postcode: 6675
+postcode: "6675"
 city: Cevio
 street: "Via Cantonale"
 housenumber: 11

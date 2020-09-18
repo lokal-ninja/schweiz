@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 46.945283100000005
 longitude: 7.2427603000000005
-postcode: 3205
+postcode: "3205"
 city: Gümmenen
 street: "Austrasse"
 housenumber: 10

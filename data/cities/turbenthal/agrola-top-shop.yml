@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4411129
 longitude: 8.8398534
-postcode: 8488
+postcode: "8488"
 city: Turbenthal
 street: "Kanalwiese"
 housenumber: 1

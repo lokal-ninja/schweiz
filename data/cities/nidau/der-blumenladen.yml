@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.126663300000004
 longitude: 7.2401318
-postcode: 2560
+postcode: "2560"
 city: Nidau
 street: "Hauptstrasse"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.3911814
 longitude: 8.0454871
-postcode: 5001
+postcode: "5001"
 city: Aarau
 street: "Hintere Vorstadt"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.554743300000005
 longitude: 6.569156700000001
-postcode: 1023
+postcode: "1023"
 city: Crissier
 street: "Chemin du Closalet"
 housenumber: 7

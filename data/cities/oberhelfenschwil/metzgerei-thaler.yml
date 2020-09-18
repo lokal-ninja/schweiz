@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.3547725
 longitude: 9.112589700000001
-postcode: 9621
+postcode: "9621"
 city: Oberhelfenschwil
 street: "Dorfstrasse"
 housenumber: 11

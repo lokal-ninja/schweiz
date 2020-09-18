@@ -1,12 +1,12 @@
-id: 2628338280
+id: 4956927766
 type: node
 shop: Kopieren
-latitude: 47.3671726
-longitude: 8.5613648
-postcode: 8032
+latitude: 47.370508400000006
+longitude: 8.516656000000001
+postcode: "8003"
 city: Zürich
-street: "Asylstrasse"
-housenumber: 71
-phone: "+41 44 258 90 60"
-opening_hours: "Mo-Fr 08:00-12:00; 13:00-17:30"
+street: "Birmensdorferstrasse"
+housenumber: 191
+phone: ""
+opening_hours: "Mo-Th 08:00-12:00, 13:00-17:30; Fr 08:00-12:00, 13:00-17:00; Sa 09:00-14:00"
 website: "https://speich.ch/"

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.470385300000004
 longitude: 8.2098108
-postcode: 5210
+postcode: "5210"
 city: Windisch
 street: ""
 housenumber: 

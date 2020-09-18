@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.297105300000005
 longitude: 8.561173
-postcode: 8800
+postcode: "8800"
 city: Thalwil
 street: "Alte Landstrasse"
 housenumber: 158

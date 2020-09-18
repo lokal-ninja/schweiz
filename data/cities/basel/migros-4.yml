@@ -1,12 +1,12 @@
-id: 102261217
-type: way
+id: 707688659
+type: node
 shop: Supermarkt
-latitude: 47.5493643
-longitude: 7.6070146
-postcode: 4052
+latitude: 47.568362400000005
+longitude: 7.5794364000000005
+postcode: "4056"
 city: Basel
-street: "Hardstrasse"
-housenumber: 105
+street: "Mülhauserstrasse"
+housenumber: 70-72
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-basel-muelhauser"

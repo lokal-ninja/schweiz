@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5620229
 longitude: 7.3751489
-postcode: 3770
+postcode: "3770"
 city: Zweisimmen
 street: "Thunstrasse"
 housenumber: 29c

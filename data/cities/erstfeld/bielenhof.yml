@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.8049492
 longitude: 8.6593078
-postcode: 6472
+postcode: "6472"
 city: Erstfeld
 street: "Wilerstrasse"
 housenumber: 67

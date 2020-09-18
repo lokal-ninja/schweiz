@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.391467600000006
 longitude: 8.4887528
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Altstetterplatz"
 housenumber: 11
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 05:00-21:00, Sa 06:00-18:00"
+website: "https://brezelkoenig.ch/de/"

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.425928500000005
 longitude: 8.4975331
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Mühlackerstrasse"
 housenumber: 122

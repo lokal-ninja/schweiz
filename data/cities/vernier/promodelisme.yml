@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.220233300000004
 longitude: 6.079163100000001
-postcode: 1214
+postcode: "1214"
 city: Vernier
 street: "Chemin de l'Emeraude"
 housenumber: 8

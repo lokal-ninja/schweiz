@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.830550200000005
 longitude: 9.2848059
-postcode: 7018
+postcode: "7018"
 city: Flims
 street: "Promenada"
 housenumber: 10

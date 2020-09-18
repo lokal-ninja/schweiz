@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.334404500000005
 longitude: 9.1316468
-postcode: 9125
+postcode: "9125"
 city: Brunnadern
 street: "Dorfstrasse"
 housenumber: 31

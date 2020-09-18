@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4100132
 longitude: 9.6258201
-postcode: 9435
+postcode: "9435"
 city: Heerbrugg
 street: "Bahnhofstrasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.15569
 longitude: 8.7674188
-postcode: 6612
+postcode: "6612"
 city: Ascona
 street: "Via Borgo"
 housenumber: 39

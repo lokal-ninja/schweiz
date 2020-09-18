@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.595241
 longitude: 6.609264100000001
-postcode: 1037
+postcode: "1037"
 city: Etagnières
 street: "Route en Rambuz"
 housenumber: 19

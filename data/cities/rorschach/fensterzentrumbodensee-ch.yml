@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 47.477590500000005
 longitude: 9.497818800000001
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 1

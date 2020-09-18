@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.5071406
 longitude: 9.432124700000001
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Textilstrasse"
 housenumber: 1

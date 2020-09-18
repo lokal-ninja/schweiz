@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.003896000000005
 longitude: 8.9521643
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Via Canova"
 housenumber: 

@@ -1,9 +1,9 @@
 id: 1924110430
 type: node
 shop: Lebensmittel
-latitude: 47.369687600000006
+latitude: 47.3696871
 longitude: 8.5199335
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 141

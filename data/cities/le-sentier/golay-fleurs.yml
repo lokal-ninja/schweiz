@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.6063197
 longitude: 6.2293893
-postcode: 1347
+postcode: "1347"
 city: Le Sentier
 street: "Grand-Rue"
 housenumber: 17 bis

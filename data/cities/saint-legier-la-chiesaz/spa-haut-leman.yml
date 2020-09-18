@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 46.4798453
 longitude: 6.865823700000001
-postcode: 1806
+postcode: "1806"
 city: Saint-Légier-La Chiésaz
 street: "Route de Fenil"
 housenumber: 62

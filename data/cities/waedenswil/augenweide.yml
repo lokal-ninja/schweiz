@@ -1,12 +1,12 @@
 id: 171905705
 type: way
 shop: Optiker
-latitude: 47.2292604
-longitude: 8.6733847
-postcode: 8820
+latitude: 47.2292397
+longitude: 8.6733708
+postcode: "8820"
 city: Wädenswil
 street: "Gerbestrasse"
 housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH closed"
+phone: "+41 44 780 14 24"
+opening_hours: ""
 website: "http://www.augenweide.ch/"

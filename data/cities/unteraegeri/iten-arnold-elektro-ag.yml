@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.137481900000004
 longitude: 8.581444900000001
-postcode: 6314
+postcode: "6314"
 city: Unterägeri
 street: "Zugerstrasse"
 housenumber: 25

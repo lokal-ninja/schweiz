@@ -1,12 +1,12 @@
-id: 4518003937
+id: 318410382
 type: node
 shop: Lebensmittel
-latitude: 47.3797666
-longitude: 8.5279036
-postcode: 8004
+latitude: 47.419806400000006
+longitude: 8.5563058
+postcode: "8052"
 city: Zürich
-street: "Langstrasse"
-housenumber: 134
-phone: "+41 44 350 27 23"
-opening_hours: "Su-Th 06:00-23:00; Fr-Sa 00:00-24:00"
-website: "https://www.migrolino.ch/"
+street: "Thurgauerstrasse"
+housenumber: 100
+phone: ""
+opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
+website: "https://www.migrolino.ch/de/standorte/migrol-service-thurgauerstrasse/"

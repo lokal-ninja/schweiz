@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.478734
 longitude: 8.1739748
-postcode: 5213
+postcode: "5213"
 city: Villnachern
 street: "Schryberhof"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1361368
 longitude: 7.2537697
-postcode: 2503
+postcode: "2503"
 city: Biel/Bienne
 street: "Mattenstrasse"
 housenumber: 83

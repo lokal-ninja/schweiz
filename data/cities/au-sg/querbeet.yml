@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4331745
 longitude: 9.634981900000001
-postcode: 9434
+postcode: "9434"
 city: Au SG
 street: "Hauptstrasse"
 housenumber: 63

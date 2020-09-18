@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.3916374
 longitude: 8.0604572
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Aeschbachweg"
 housenumber: 12

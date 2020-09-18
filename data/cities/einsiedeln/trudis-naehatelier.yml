@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.128826600000004
 longitude: 8.7464622
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Eisenbahnstrasse"
 housenumber: 6

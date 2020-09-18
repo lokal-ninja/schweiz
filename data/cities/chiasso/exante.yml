@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 45.8343855
 longitude: 9.0291864
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Corso San Gottardo"
 housenumber: 46a

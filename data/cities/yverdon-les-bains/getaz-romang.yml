@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.7834963
 longitude: 6.6255091
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue des Uttins"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2588978
 longitude: 8.1817619
-postcode: 5734
+postcode: "5734"
 city: Reinach
 street: "Sandgasse"
 housenumber: 

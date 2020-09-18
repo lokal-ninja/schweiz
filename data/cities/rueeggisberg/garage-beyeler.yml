@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8215591
 longitude: 7.416601000000001
-postcode: 3088
+postcode: "3088"
 city: Rüeggisberg
 street: "Brügglenstrasse"
 housenumber: 34

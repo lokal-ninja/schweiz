@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 47.377660500000005
 longitude: 9.5382403
-postcode: 9450
+postcode: "9450"
 city: Altstätten
 street: "Gerbergasse"
 housenumber: 5

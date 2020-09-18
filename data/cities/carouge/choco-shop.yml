@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.1811894
 longitude: 6.140689200000001
-postcode: 1227
+postcode: "1227"
 city: Carouge
 street: "Rue Ancienne"
 housenumber: 60

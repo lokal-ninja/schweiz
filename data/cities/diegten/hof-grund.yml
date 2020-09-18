@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4190685
 longitude: 7.8122188
-postcode: 4457
+postcode: "4457"
 city: Diegten
 street: "Hof Grund"
 housenumber: 8

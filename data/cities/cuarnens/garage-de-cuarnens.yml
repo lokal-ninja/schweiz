@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6247819
 longitude: 6.442116100000001
-postcode: 1148
+postcode: "1148"
 city: Cuarnens
 street: "Route de Cossonay"
 housenumber: 8

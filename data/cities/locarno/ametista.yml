@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.1685038
 longitude: 8.791798100000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via dell'Ospedale"
 housenumber: 12

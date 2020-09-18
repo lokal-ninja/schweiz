@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.5184519
 longitude: 6.5003910000000005
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Chemin de la Grosse-Pierre"
 housenumber: 

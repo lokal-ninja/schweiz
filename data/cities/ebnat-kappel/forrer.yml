@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2601911
 longitude: 9.126770800000001
-postcode: 9642
+postcode: "9642"
 city: Ebnat-Kappel
 street: "Hofstrasse"
 housenumber: 4

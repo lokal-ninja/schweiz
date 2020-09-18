@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.4157147
 longitude: 6.2728935
-postcode: 1196
+postcode: "1196"
 city: Gland
 street: "Avenue du Mont-Blanc"
 housenumber: 35

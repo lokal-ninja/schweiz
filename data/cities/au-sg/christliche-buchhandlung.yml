@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.433030800000004
 longitude: 9.6348797
-postcode: 9434
+postcode: "9434"
 city: Au SG
 street: "Hauptstrasse"
 housenumber: 63

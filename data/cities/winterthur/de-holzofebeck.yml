@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4993971
 longitude: 8.7272271
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 51

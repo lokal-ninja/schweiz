@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 47.361258
 longitude: 8.5478749
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Bellerivestrasse"
 housenumber: 2
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "24/7"
+website: "https://www.migrol.ch/de/"

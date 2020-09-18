@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3426331
 longitude: 8.667312200000001
-postcode: 8124
+postcode: "8124"
 city: Maur
 street: "Fällandenstrasse"
 housenumber: 19

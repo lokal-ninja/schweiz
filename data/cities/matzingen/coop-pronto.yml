@@ -1,12 +1,12 @@
 id: 4864085733
 type: node
 shop: Lebensmittel
-latitude: 47.526318700000004
-longitude: 8.922726800000001
-postcode: 9548
+latitude: 47.5262704
+longitude: 8.9229012
+postcode: "9548"
 city: Matzingen
 street: "Frauenfelderstrasse"
 housenumber: 93
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
+website: "https://www.coop-pronto.ch/"

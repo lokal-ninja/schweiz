@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.3187736
 longitude: 7.988729
-postcode: 3900
+postcode: "3900"
 city: Brig
 street: "Nordstrasse"
 housenumber: 2

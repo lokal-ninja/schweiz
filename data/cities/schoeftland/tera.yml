@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.3058658
 longitude: 8.0513245
-postcode: 5040
+postcode: "5040"
 city: Schöftland
 street: "Dorfstrasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2117749
 longitude: 7.509304800000001
-postcode: 4512
+postcode: "4512"
 city: Bellach
 street: "Grederstrasse"
 housenumber: 29

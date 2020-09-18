@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4738581
 longitude: 8.3111242
-postcode: 5408
+postcode: "5408"
 city: Ennetbaden
 street: "Sonnenbergstrasse"
 housenumber: 53

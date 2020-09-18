@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.4992766
 longitude: 8.730249800000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 21

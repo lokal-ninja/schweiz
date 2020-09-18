@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.369052200000006
 longitude: 8.555968
-postcode: 8032
+postcode: "8032"
 city: Zürich
 street: "Hottingerstrasse"
 housenumber: 53

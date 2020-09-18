@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.8617706
 longitude: 9.8925538
-postcode: 7250
+postcode: "7250"
 city: Klosters
 street: "Doggilochstrasse"
 housenumber: 96

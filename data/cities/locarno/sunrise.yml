@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.170686800000006
 longitude: 8.799136200000001
-postcode: 6600
+postcode: "6600"
 city: Locarno
 street: "Via alla Ramogna"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 45.868883700000005
 longitude: 8.984869900000001
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Giuseppe Motta"
 housenumber: 26a

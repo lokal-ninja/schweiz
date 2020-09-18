@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 45.8509687
 longitude: 8.9838655
-postcode: 6877
+postcode: "6877"
 city: Coldrerio
 street: "Via Fornasette"
 housenumber: 12

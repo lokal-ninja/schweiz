@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.2316656
 longitude: 8.837901
-postcode: 8645
+postcode: "8645"
 city: Rapperswil-Jona
 street: "Molkereistrasse"
 housenumber: 18

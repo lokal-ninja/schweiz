@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.1854644
 longitude: 6.144065100000001
-postcode: 
+postcode: ""
 city: Carouge
 street: "Avenue Cardinal-Mermillod"
 housenumber: 40

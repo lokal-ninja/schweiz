@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4323494
 longitude: 8.7633182
-postcode: 8484
+postcode: "8484"
 city: Weisslingen
 street: "Dorfstrasse"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.225897100000005
 longitude: 8.948843400000001
-postcode: 8716
+postcode: "8716"
 city: Schmerikon
 street: "Seegartenstrasse"
 housenumber: 

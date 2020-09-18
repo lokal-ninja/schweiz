@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5404259
 longitude: 8.0999687
-postcode: 5085
+postcode: "5085"
 city: Sulz
 street: "Langemattstrasse"
 housenumber: 2

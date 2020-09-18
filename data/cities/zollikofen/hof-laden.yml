@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.0063461
 longitude: 7.4441297
-postcode: 3052
+postcode: "3052"
 city: Zollikofen
 street: "Aegelseeweg"
 housenumber: 39

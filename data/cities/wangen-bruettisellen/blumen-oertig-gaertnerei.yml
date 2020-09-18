@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.412326400000005
 longitude: 8.6294967
-postcode: 8602
+postcode: "8602"
 city: Wangen-Brüttisellen
 street: "Altwiesenstrasse"
 housenumber: 29

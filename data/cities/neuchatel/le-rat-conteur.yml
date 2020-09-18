@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.9952078
 longitude: 6.942344800000001
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue de la pierre à Mazel"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 46.6006324
 longitude: 7.076901500000001
-postcode: 1635
+postcode: "1635"
 city: La Tour-de-Trême
 street: "Route du Closalet"
 housenumber: 26

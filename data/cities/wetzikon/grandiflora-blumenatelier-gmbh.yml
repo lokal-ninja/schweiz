@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.326855
 longitude: 8.7952695
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Usterstrasse"
 housenumber: 29

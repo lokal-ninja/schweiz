@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.1571013
 longitude: 6.0962765
-postcode: 1258
+postcode: "1258"
 city: Perly
 street: "Route de Saint-Julien"
 housenumber: 264

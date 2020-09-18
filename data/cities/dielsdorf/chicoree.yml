@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4801591
 longitude: 8.4635548
-postcode: 8175
+postcode: "8175"
 city: Dielsdorf
 street: "Ruchwiesenstrasse"
 housenumber: 2

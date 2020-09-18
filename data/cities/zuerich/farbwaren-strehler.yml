@@ -1,12 +1,12 @@
-id: 6311315071
+id: 6311310786
 type: node
 shop: Farben
-latitude: 47.3711263
-longitude: 8.5199969
-postcode: 8003
+latitude: 47.3711605
+longitude: 8.5200432
+postcode: "8003"
 city: Zürich
-street: "Zentralstrasse"
+street: "Zweierstrasse"
 housenumber: 130
 phone: "+41 44 462 09 03"
-opening_hours: "Mo-Fr 08:30-12:00, Mo-Fr 13:30-18:30, Sa 8:30-13:00"
-website: "http://www.strehlerfarben.ch"
+opening_hours: "Mo-Fr 08:30-12:00, 13:30-18:30; Sa 08:30-13:00"
+website: "http://www.strehlerfarben.ch/"

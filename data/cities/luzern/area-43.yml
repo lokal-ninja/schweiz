@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.046029600000004
 longitude: 8.305478800000001
-postcode: 6003
+postcode: "6003"
 city: Luzern
 street: "Habsburgerstrasse"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.287814600000004
 longitude: 8.452056500000001
-postcode: 8910
+postcode: "8910"
 city: Affoltern am Albis
 street: "Zürichstrasse"
 housenumber: 187

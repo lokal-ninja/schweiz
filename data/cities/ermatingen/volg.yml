@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.669215400000006
 longitude: 9.083736700000001
-postcode: 8272
+postcode: "8272"
 city: Ermatingen
 street: "Hauptstrasse"
 housenumber: 123

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0439452
 longitude: 6.9008976
-postcode: 2046
+postcode: "2046"
 city: Fontaines
 street: "Grand-Rue"
 housenumber: 14

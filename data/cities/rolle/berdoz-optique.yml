@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.457233800000004
 longitude: 6.3375140000000005
-postcode: 1180
+postcode: "1180"
 city: Rolle
 street: "Grand-Rue"
 housenumber: 76b

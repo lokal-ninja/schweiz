@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5116585
 longitude: 6.6597508
-postcode: 1009
+postcode: "1009"
 city: Pully
 street: ""
 housenumber: 

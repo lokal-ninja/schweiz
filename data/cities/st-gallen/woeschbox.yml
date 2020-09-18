@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.437515100000006
 longitude: 9.377697300000001
-postcode: 9010
+postcode: "9010"
 city: St. Gallen
 street: "Guisanstrasse"
 housenumber: 65

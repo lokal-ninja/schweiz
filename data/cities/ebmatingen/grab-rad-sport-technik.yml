@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3501096
 longitude: 8.6422416
-postcode: 8123
+postcode: "8123"
 city: Ebmatingen
 street: "Steinmüristrasse"
 housenumber: 2

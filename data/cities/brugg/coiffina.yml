@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.483333200000004
 longitude: 8.208279000000001
-postcode: 5200
+postcode: "5200"
 city: Brugg
 street: "Hauptstrasse"
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://coiffina.ch/salons/brugg/"

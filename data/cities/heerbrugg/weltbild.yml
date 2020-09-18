@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4109861
 longitude: 9.6258906
-postcode: 9435
+postcode: "9435"
 city: Heerbrugg
 street: "Marktstrasse"
 housenumber: 4

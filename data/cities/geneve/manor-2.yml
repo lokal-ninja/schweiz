@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 46.207586400000004
 longitude: 6.1430223
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Rue Cornavin"
 housenumber: 6

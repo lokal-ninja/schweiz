@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.285250500000004
 longitude: 8.7515956
-postcode: 8627
+postcode: "8627"
 city: Grüningen
 street: "Niggenberg"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.4002214
 longitude: 8.4333835
-postcode: 8952
+postcode: "8952"
 city: Schlieren
 street: "Rietbachstrasse"
 housenumber: 13

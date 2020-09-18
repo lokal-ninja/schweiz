@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4127346
 longitude: 8.257015500000001
-postcode: 5512
+postcode: "5512"
 city: Wohlenschwil
 street: "Hauptstrasse"
 housenumber: 21

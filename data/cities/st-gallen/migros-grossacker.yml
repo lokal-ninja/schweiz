@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4313942
 longitude: 9.3963374
-postcode: 9000
+postcode: "9000"
 city: St.Gallen
 street: "Rorschacherstrasse"
 housenumber: 150

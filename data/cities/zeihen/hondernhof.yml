@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.464728400000006
 longitude: 8.0861052
-postcode: 5079
+postcode: "5079"
 city: Zeihen
 street: "Hondern"
 housenumber: 5

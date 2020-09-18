@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6167717
 longitude: 8.0296251
-postcode: 3818
+postcode: "3818"
 city: Grindelwald
 street: "Sandweg"
 housenumber: 8

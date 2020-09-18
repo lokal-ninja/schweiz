@@ -3,10 +3,10 @@ type: node
 shop: Textil
 latitude: 47.4991824
 longitude: 8.7302525
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obergasse"
 housenumber: 19
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.alja.ch/"

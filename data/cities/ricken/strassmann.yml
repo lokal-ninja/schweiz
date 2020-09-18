@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.262100700000005
 longitude: 9.044299
-postcode: 8726
+postcode: "8726"
 city: Ricken
 street: "Uznacherstrasse"
 housenumber: 5

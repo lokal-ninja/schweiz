@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 46.4537337
 longitude: 6.8590187
-postcode: 1814
+postcode: "1814"
 city: La Tour-de-Peilz
 street: "Rue du Collège"
 housenumber: 8

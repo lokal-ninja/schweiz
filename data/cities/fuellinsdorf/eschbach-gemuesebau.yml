@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.5207757
 longitude: 7.739516500000001
-postcode: 4414
+postcode: "4414"
 city: Füllinsdorf
 street: "Im Leimen"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.494620100000006
 longitude: 7.785498100000001
-postcode: 4423
+postcode: "4423"
 city: Hersberg
 street: "Grienweg"
 housenumber: 1

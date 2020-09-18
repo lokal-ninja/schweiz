@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.365331100000006
 longitude: 8.5475291
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Theaterstrasse"
 housenumber: 3

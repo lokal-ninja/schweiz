@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4108819
 longitude: 9.625986600000001
-postcode: 9435
+postcode: "9435"
 city: Heerbrugg
 street: "Marktstrasse"
 housenumber: 4

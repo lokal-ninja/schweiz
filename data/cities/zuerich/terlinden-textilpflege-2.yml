@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3673012
 longitude: 8.5481079
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 

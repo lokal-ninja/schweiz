@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.498604300000004
 longitude: 8.7309195
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Unterer Graben"
 housenumber: 5

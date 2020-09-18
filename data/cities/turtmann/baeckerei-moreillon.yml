@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.3016401
 longitude: 7.702857700000001
-postcode: 3946
+postcode: "3946"
 city: Turtmann
 street: "Kantonstrasse"
 housenumber: 

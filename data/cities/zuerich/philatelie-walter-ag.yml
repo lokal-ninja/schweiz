@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 47.368046500000005
 longitude: 8.5459402
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Rämistrasse"
 housenumber: 7

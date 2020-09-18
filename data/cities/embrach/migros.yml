@@ -1,12 +1,12 @@
 id: 178988286
 type: way
 shop: Supermarkt
-latitude: 47.5103061
-longitude: 8.592388600000001
-postcode: 8424
+latitude: 47.510300400000006
+longitude: 8.5923809
+postcode: "8424"
 city: Embrach
 street: "Bülacherstrasse"
 housenumber: 17
 phone: "+41 43 266 45 11"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.migros.ch/"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-embrach"

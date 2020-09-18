@@ -1,12 +1,12 @@
 id: 3502539193
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 47.392671
 longitude: 8.044851000000001
-postcode: 
+postcode: "5000"
 city: Aarau
 street: "Pelzgasse"
 housenumber: 13
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30; Sa 8:00-16:00; Su off"
-website: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-16:00; Su off"
+website: "https://reformhaus.ch/"

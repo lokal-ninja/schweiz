@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.0763102
 longitude: 9.4832894
-postcode: 9477
+postcode: "9477"
 city: Trübbach
 street: "Hauptstrasse"
 housenumber: 7

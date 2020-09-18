@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.3810926
 longitude: 8.677065500000001
-postcode: 8604
+postcode: "8604"
 city: Volketswil
 street: "Brunnenstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3887014
 longitude: 8.7438984
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Luppmenstrasse"
 housenumber: 17

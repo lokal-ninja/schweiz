@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.386475600000004
 longitude: 8.4991398
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Baslerstrasse"
 housenumber: 50

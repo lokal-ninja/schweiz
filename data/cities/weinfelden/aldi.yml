@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.568474200000004
 longitude: 9.095694400000001
-postcode: 8570
+postcode: "8570"
 city: Weinfelden
 street: "Weststrasse"
 housenumber: 22

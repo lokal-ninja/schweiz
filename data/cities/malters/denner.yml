@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0387129
 longitude: 8.1835602
-postcode: 6102
+postcode: "6102"
 city: Malters
 street: "Hellbühlstrasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.5502097
 longitude: 7.5808119000000005
-postcode: 4054
+postcode: "4054"
 city: Basel
 street: "Bachlettenstrasse"
 housenumber: 7

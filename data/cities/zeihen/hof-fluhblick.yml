@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4682125
 longitude: 8.1085458
-postcode: 5079
+postcode: "5079"
 city: Zeihen
 street: "Iberg"
 housenumber: 5

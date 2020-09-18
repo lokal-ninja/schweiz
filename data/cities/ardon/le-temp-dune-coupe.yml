@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.210970800000005
 longitude: 7.2561355
-postcode: 1957
+postcode: "1957"
 city: Ardon
 street: "Rue des Grand-Vergers"
 housenumber: 4

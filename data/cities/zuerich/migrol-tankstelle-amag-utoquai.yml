@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 47.3625248
 longitude: 8.5480473
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Utoquai"
 housenumber: 47
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "24/7"
+website: "https://www.migrol.ch/de/"

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.136394
 longitude: 8.191832100000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Oberstadt"
 housenumber: 11

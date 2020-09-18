@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.499306600000004
 longitude: 8.7309331
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Unterer Graben"
 housenumber: 27

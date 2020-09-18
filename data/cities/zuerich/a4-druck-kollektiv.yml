@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.3777899
 longitude: 8.5281593
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Dienerstrasse"
 housenumber: 19

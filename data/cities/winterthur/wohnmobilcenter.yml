@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.503525700000004
 longitude: 8.722342000000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Neuwiesenstrasse"
 housenumber: 42

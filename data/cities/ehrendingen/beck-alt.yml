@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.508243400000005
 longitude: 8.3404878
-postcode: 5420
+postcode: "5420"
 city: Ehrendingen
 street: "Böndlern"
 housenumber: 

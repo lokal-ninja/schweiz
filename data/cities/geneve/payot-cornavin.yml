@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.210672200000005
 longitude: 6.1428691
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Place de Cornavin"
 housenumber: 7

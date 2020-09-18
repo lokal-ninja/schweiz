@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.391197600000005
 longitude: 8.7432791
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Allmendstrasse"
 housenumber: 18

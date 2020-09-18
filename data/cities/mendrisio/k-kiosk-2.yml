@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 45.8689394
 longitude: 8.9785676
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: ""
 housenumber: 

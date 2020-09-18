@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.5245704
 longitude: 8.7986047
-postcode: 8542
+postcode: "8542"
 city: Wiesendangen
 street: "Herrentrottenstrasse"
 housenumber: 2

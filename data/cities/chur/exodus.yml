@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.8481205
 longitude: 9.530108100000001
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Obere Gasse"
 housenumber: 48

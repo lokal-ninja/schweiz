@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.1215989
 longitude: 7.260519100000001
-postcode: 2555
+postcode: "2555"
 city: Brügg BE
 street: "Römerstrasse"
 housenumber: 16

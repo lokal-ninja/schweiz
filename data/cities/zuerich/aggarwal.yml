@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3761577
 longitude: 8.524227400000001
-postcode: 
+postcode: ""
 city: Zürich
 street: "Anwandstrasse"
 housenumber: 27

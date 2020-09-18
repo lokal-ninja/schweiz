@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4638058
 longitude: 7.8363699
-postcode: 4461
+postcode: "4461"
 city: Böckten
 street: "Bündtenweg"
 housenumber: 4

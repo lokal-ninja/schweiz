@@ -1,4 +1,4 @@
 ---
-title: "COOP"
+title: "Coop"
 url: /graenichen/coop/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.940929000000004
 longitude: 7.1459194
-postcode: 3280
+postcode: "3280"
 city: Murten
 street: "Grande Ferme"
 housenumber: 22

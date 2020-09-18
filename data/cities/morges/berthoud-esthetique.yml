@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.518137
 longitude: 6.506752700000001
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Avenue de Plan"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4079527
 longitude: 8.5472573
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schwamendingenstrasse"
 housenumber: 10

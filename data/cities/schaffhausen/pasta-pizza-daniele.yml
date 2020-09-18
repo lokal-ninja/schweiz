@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.696769800000006
 longitude: 8.633298100000001
-postcode: 8200
+postcode: "8200"
 city: Schaffhausen
 street: "Fronwagplatz"
 housenumber: 7

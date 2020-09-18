@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3488976
 longitude: 8.7204966
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Freiestrasse"
 housenumber: 10

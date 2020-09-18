@@ -1,12 +1,12 @@
-id: 3533942562
+id: 2722038533
 type: node
 shop: Bäckerei
-latitude: 47.3550127
-longitude: 8.556925
-postcode: 8008
+latitude: 47.3895768
+longitude: 8.5388646
+postcode: "8006"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 178
+street: "Schaffhauserstrasse"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-15:00; Su 07:30-13:00"
-website: "http://baeckereiwuest.ch/"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 07:30-17:00"
+website: "https://baeckereiwuest.ch/"

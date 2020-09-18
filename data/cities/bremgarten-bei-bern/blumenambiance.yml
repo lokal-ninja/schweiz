@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.9747044
 longitude: 7.423264700000001
-postcode: 3047
+postcode: "3047"
 city: Bremgarten bei Bern
 street: "Kalchackerstrasse"
 housenumber: 119

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.412973
 longitude: 9.3356324
-postcode: 9014
+postcode: "9014"
 city: St. Gallen
 street: "Zürcher Strasse"
 housenumber: 204

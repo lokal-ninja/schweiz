@@ -3,10 +3,10 @@ type: node
 shop: Parfümerie
 latitude: 47.3785
 longitude: 8.5382393
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.marionnaud.ch/"

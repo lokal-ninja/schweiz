@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.3925593
 longitude: 8.0468843
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Kasinostrasse"
 housenumber: 19

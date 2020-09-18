@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.382907100000004
 longitude: 8.514860800000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Hardplatz"
 housenumber: 1

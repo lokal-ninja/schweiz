@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.1854722
 longitude: 6.140049
-postcode: 1227
+postcode: "1227"
 city: Carouge
 street: "rue Saint-Victor"
 housenumber: 18

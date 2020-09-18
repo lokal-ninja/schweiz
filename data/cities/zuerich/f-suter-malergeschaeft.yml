@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.357742
 longitude: 8.5881636
-postcode: 8053
+postcode: "8053"
 city: Zürich
 street: "Carl-Spitteler-Strasse"
 housenumber: 8

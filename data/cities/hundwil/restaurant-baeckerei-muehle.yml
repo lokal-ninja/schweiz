@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3539332
 longitude: 9.312191400000001
-postcode: 9064
+postcode: "9064"
 city: Hundwil
 street: "Mühle"
 housenumber: 133

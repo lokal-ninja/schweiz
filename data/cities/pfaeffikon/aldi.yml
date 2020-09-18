@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3698186
 longitude: 8.7723489
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon
 street: "Speckstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.1822985
 longitude: 8.8727693
-postcode: 8854
+postcode: "8854"
 city: Galgenen
 street: ""
 housenumber: 8

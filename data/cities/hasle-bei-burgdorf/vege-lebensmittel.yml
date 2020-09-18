@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.0161084
 longitude: 7.6464752
-postcode: 3415
+postcode: "3415"
 city: Hasle bei Burgdorf
 street: "Dorfstrasse"
 housenumber: 61

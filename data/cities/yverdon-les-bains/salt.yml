@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.7811528
 longitude: 6.6360609
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: ""
 housenumber: 

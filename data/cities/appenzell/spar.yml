@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.334790500000004
 longitude: 9.4085234
-postcode: 9050
+postcode: "9050"
 city: Appenzell
 street: "Unteres Ziel"
 housenumber: 1

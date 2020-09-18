@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.4191462
 longitude: 9.1634881
-postcode: 9240
+postcode: "9240"
 city: Niederglatt SG
 street: "Häuslen"
 housenumber: 821

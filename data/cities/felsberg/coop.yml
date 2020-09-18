@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.845663300000005
 longitude: 9.478652
-postcode: 7012
+postcode: "7012"
 city: Felsberg
 street: "Vordere Gasse"
 housenumber: 13

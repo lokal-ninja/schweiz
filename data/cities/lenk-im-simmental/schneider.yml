@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.4557942
 longitude: 7.439923500000001
-postcode: 3775
+postcode: "3775"
 city: Lenk im Simmental
 street: "Rawilstrasse"
 housenumber: 30

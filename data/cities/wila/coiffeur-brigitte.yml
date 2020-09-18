@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4208599
 longitude: 8.8452663
-postcode: 8492
+postcode: "8492"
 city: Wila
 street: "Tösstalstrasse"
 housenumber: 15

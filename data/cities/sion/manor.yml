@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.231036700000004
 longitude: 7.359249500000001
-postcode: 1951
+postcode: "1951"
 city: Sion
 street: "Avenue du Midi"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.3751837
 longitude: 8.078497200000001
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Tramstrasse"
 housenumber: 25

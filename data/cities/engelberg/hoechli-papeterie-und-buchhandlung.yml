@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 46.821320300000004
 longitude: 8.4064834
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Dorfstrasse"
 housenumber: 9

@@ -1,12 +1,12 @@
 id: 3670732429
 type: node
 shop: Supermarkt
-latitude: 46.2024811
-longitude: 6.1351125
-postcode: 1205
+latitude: 46.2024904
+longitude: 6.135099100000001
+postcode: "1205"
 city: Genève
 street: "Chemin du 23-Août"
 housenumber: 5
 phone: "+41 22 539 10 20"
-opening_hours: "lundi, mardi, jeudi, vendredi de 13h à 20h, mercredi 11h30 à 20h, samedi de 09h à 17h30."
+opening_hours: "Mo,Tu,Th,Fr 13:00-20:00; We 11:30-20; Sa 09:00-17:30"
 website: "https://lenid.ch/"

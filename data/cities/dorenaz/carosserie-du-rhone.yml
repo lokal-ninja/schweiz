@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 46.145656900000006
 longitude: 7.040842700000001
-postcode: 1905
+postcode: "1905"
 city: Dorénaz
 street: "Rue des Artisans"
 housenumber: 7

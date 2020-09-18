@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.3262755
 longitude: 8.7833925
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Zürcherstrasse"
 housenumber: 53

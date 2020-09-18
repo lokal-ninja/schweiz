@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.8957363
 longitude: 8.24742
-postcode: 6060
+postcode: "6060"
 city: Sarnen
 street: "Poststrasse"
 housenumber: 7

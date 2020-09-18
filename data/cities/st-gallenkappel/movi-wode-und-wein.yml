@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.247451500000004
 longitude: 8.9733853
-postcode: 8735
+postcode: "8735"
 city: St.Gallenkappel
 street: "Rüeterswilerstrasse"
 housenumber: 11

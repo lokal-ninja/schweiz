@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.49425
 longitude: 8.8735408
-postcode: 8353
+postcode: "8353"
 city: Elgg
 street: "Aadorferstrasse"
 housenumber: 36

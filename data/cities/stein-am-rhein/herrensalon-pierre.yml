@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.659253500000005
 longitude: 8.860393400000001
-postcode: 8260
+postcode: "8260"
 city: Stein am Rhein
 street: ""
 housenumber: 

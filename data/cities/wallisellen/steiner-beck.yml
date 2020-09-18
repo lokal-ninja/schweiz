@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.411090200000004
 longitude: 8.590682600000001
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Industriestrasse"
 housenumber: 41
 phone: "+41 44 830 95 90"
 opening_hours: "Mo-Fr 05:00-18:30, Sa 06:30-13:00"
-website: "http://www.steiner-beck.ch/index.cfm/de/filialen/?filialendetail=27"
+website: "https://www.steiner-beck.ch/filialen/wallisellen/"

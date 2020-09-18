@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 46.9734442
 longitude: 8.344397
-postcode: 6362
+postcode: "6362"
 city: Stansstad
 street: "Mittlerfeld"
 housenumber: 2

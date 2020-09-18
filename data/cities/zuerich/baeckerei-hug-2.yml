@@ -1,12 +1,12 @@
-id: 182237939
-type: way
+id: 4512105586
+type: node
 shop: Bäckerei
-latitude: 47.3699931
-longitude: 8.5186961
-postcode: 8003
+latitude: 47.4123371
+longitude: 8.5456509
+postcode: "8050"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 157
-phone: "+41 44 450 40 70"
-opening_hours: "Mo-Fr 06:30-19:00; Sa-Su 07:00-17:00"
-website: "https://www.baeckerei-hug.ch/"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 07:00-19:00"
+website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-oerlikon-bahnhof-zo/"

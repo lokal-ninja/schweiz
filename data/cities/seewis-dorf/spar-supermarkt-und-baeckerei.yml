@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 46.9900894
 longitude: 9.6378076
-postcode: 7212
+postcode: "7212"
 city: Seewis Dorf
-street: "von Salis Strasse"
+street: "von Salis-Strasse"
 housenumber: 33
 phone: ""
 opening_hours: ""

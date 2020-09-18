@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.3807004
 longitude: 8.0387567
-postcode: 3987
+postcode: "3987"
 city: Riederalp
 street: "Aletschpromenade"
 housenumber: 

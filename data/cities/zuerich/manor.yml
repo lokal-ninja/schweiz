@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 47.3784587
 longitude: 8.539488500000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00; PH 09:00-18:00"
+website: "https://www.manor.ch/de/store-finder/store/ZCS"

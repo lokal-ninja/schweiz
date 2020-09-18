@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.3503679
 longitude: 8.5610809
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Bellerivestrasse"
 housenumber: 

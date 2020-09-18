@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.397246
 longitude: 8.5964229
-postcode: 8051
+postcode: "8051"
 city: Zürich
 street: "Dübendorfstrasse"
 housenumber: 

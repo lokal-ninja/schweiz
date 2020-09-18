@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 45.8333299
 longitude: 9.0314736
-postcode: 6830
+postcode: "6830"
 city: Chiasso
 street: "Corso San Gottardo"
 housenumber: 20

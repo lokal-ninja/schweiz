@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5064213
 longitude: 9.4088154
-postcode: 9320
+postcode: "9320"
 city: Arbon
 street: "Im Leh"
 housenumber: 1

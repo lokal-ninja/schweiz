@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.3786926
 longitude: 8.0895465
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Bernstrasse Ost"
 housenumber: 24

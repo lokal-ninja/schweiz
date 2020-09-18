@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4966194
 longitude: 8.2682769
-postcode: 5417
+postcode: "5417"
 city: Untersiggenthal
 street: "Landstrasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.1269409
 longitude: 8.7484252
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Hauptstrasse"
 housenumber: 58

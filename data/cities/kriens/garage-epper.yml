@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.034704500000004
 longitude: 8.2959054
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Arsenalstrasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.4571686
 longitude: 6.3374344
-postcode: 1180
+postcode: "1180"
 city: Rolle
 street: "Grand-Rue"
 housenumber: 78

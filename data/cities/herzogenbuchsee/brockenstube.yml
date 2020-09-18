@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.189163400000005
 longitude: 7.7018658
-postcode: 3360
+postcode: "3360"
 city: Herzogenbuchsee
 street: "Lagerstrasse"
 housenumber: 16

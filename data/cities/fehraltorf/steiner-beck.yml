@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.3879548
 longitude: 8.7524703
-postcode: 8320
+postcode: "8320"
 city: Fehraltorf
 street: "Kempttalstrasse"
 housenumber: 65
 phone: "+41 43 355 82 33"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:30-17:00"
-website: "https://www.steiner-beck.ch/"
+website: "https://www.steiner-beck.ch/filialen/fehraltorf/"

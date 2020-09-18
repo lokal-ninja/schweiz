@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.608035
 longitude: 8.5438414
-postcode: 8197
+postcode: "8197"
 city: Rafz
 street: "Imstlerwäg"
 housenumber: 2

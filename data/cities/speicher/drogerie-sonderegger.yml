@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.4129166
 longitude: 9.4389885
-postcode: 9042
+postcode: "9042"
 city: Speicher
 street: "Hauptstrasse"
 housenumber: 54

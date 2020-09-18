@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.3861112
 longitude: 8.1611144
-postcode: 5603
+postcode: "5603"
 city: Staufen
 street: "Tiliastrasse"
 housenumber: 5

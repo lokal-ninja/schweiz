@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 45.870376500000006
 longitude: 8.9759179
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Rime"
 housenumber: 38

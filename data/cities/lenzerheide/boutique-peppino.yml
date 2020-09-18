@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.726623100000005
 longitude: 9.557605
-postcode: 7078
+postcode: "7078"
 city: Lenzerheide
 street: "Voa Principala"
 housenumber: 35A

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.8498237
 longitude: 7.5762143
-postcode: 3114
+postcode: "3114"
 city: Wichtrach
 street: ""
 housenumber: 11

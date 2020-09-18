@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.3757456
 longitude: 8.536584600000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Usteristrasse"
 housenumber: 17

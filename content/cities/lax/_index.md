@@ -1,6 +1,6 @@
 ---
 title: Lax
 url: /lax/
-latitude: 46.3888757
-longitude: 8.1195682
+latitude: 46.794565600000006
+longitude: 9.5335633
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2587995
 longitude: 8.849112100000001
-postcode: 8630
+postcode: "8630"
 city: Rüti (ZH)
 street: "Dorfstrasse"
 housenumber: 4

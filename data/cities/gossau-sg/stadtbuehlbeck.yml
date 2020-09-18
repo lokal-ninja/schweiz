@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4126057
 longitude: 9.249073800000001
-postcode: 9200
+postcode: "9200"
 city: Gossau SG
 street: "Herisauerstrasse"
 housenumber: 48

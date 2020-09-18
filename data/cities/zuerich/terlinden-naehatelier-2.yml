@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.365058000000005
 longitude: 8.531807200000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Seestrasse"
 housenumber: 11

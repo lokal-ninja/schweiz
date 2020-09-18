@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.192098
 longitude: 6.1445772000000005
-postcode: 1205
+postcode: "1205"
 city: Genève
 street: "Rue Prévost-Martin"
 housenumber: 42

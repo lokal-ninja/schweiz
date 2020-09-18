@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.409991600000005
 longitude: 8.5463757
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Schaffhauserstrasse"
 housenumber: 354

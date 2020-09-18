@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.34839160000001
 longitude: 8.5341088
-postcode: 8038
+postcode: "8038"
 city: Zürich
 street: "Mythenquai"
 housenumber: 320

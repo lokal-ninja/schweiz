@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.134022400000006
 longitude: 8.137484200000001
-postcode: 6207
+postcode: "6207"
 city: Nottwil
 street: "Obere Kirchmatte"
 housenumber: 1

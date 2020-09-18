@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.476656600000005
 longitude: 8.3051312
-postcode: 5400
+postcode: "5400"
 city: Baden
 street: "Stadtturmstrasse"
 housenumber: 22

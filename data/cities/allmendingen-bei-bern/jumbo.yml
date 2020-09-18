@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.919364400000006
 longitude: 7.5148887
-postcode: 3112
+postcode: "3112"
 city: Allmendingen bei Bern
 street: "Vordermärchligenweg"
 housenumber: 1

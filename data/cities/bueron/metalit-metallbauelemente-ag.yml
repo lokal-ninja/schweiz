@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 47.215301000000004
 longitude: 8.085114200000001
-postcode: 6233
+postcode: "6233"
 city: Büron
 street: "Murmattenstrasse"
 housenumber: 7

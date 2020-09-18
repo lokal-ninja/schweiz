@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2686992
 longitude: 8.6463179
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "Dorfstrasse"
 housenumber: 140

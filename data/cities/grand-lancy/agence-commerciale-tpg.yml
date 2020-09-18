@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 46.1872685
 longitude: 6.1271858
-postcode: 1212
+postcode: "1212"
 city: Grand-Lancy
 street: "Place de Pont-Rouge"
 housenumber: 1

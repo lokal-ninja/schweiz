@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.431049800000004
 longitude: 9.6362777
-postcode: 9434
+postcode: "9434"
 city: Au SG
 street: "Zollstrasse"
 housenumber: 3

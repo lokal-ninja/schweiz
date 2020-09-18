@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.9493007
 longitude: 7.4433297000000005
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Neuengass-Passage"
 housenumber: 3

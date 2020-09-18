@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.032203200000005
 longitude: 8.439233900000001
-postcode: 6353
+postcode: "6353"
 city: Weggis
 street: "Bühlstrasse"
 housenumber: 5

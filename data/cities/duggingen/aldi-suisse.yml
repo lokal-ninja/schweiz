@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.456571100000005
 longitude: 7.604835400000001
-postcode: 4202
+postcode: "4202"
 city: Duggingen
 street: "Liebmattstrasse"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3317168
 longitude: 8.789644000000001
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Motorenstrasse"
 housenumber: 115

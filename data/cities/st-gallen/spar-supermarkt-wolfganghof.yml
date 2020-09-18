@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.402848000000006
 longitude: 9.336715400000001
-postcode: 9014
+postcode: "9014"
 city: St. Gallen
 street: "Wolfganghof"
 housenumber: 2

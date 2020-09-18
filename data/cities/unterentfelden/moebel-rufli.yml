@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.363244
 longitude: 8.0445107
-postcode: 5035
+postcode: "5035"
 city: Unterentfelden
 street: "Quellmattstrasse"
 housenumber: 77

@@ -1,12 +1,12 @@
 id: 450879978
 type: node
 shop: Supermarkt
-latitude: 47.2782418
-longitude: 8.453648000000001
-postcode: 8910
+latitude: 47.278338100000006
+longitude: 8.453808800000001
+postcode: "8910"
 city: Affoltern am Albis
 street: "Oberdorfstrasse"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-affoltern-a-a"

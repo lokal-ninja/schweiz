@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.419812400000005
 longitude: 9.1678169
-postcode: 9240
+postcode: "9240"
 city: Uzwil
 street: "Lehmgrueb"
 housenumber: 1274

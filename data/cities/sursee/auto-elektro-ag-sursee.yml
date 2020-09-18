@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.1696766
 longitude: 8.109755700000001
-postcode: 6210
+postcode: "6210"
 city: Sursee
 street: "Badstrasse"
 housenumber: 11

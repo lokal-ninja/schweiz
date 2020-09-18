@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.477667600000004
 longitude: 9.4925046
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Signalstrasse"
 housenumber: 7a

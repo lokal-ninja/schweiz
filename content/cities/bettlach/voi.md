@@ -1,4 +1,4 @@
 ---
-title: "Voi"
+title: "VOI"
 url: /bettlach/voi/
 ---

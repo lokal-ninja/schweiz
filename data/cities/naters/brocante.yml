@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 46.3254481
 longitude: 7.9886812
-postcode: 3904
+postcode: "3904"
 city: Naters
 street: "Belalpstrasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.686143400000006
 longitude: 7.894122100000001
-postcode: 3806
+postcode: "3806"
 city: Bönigen
 street: "Hauptstrasse"
 housenumber: 39

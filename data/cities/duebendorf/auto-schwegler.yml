@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3950237
 longitude: 8.640496500000001
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Im Schossacher"
 housenumber: 7

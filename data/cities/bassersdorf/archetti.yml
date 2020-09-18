@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.444137500000004
 longitude: 8.6303297
-postcode: 8303
+postcode: "8303"
 city: Bassersdorf
 street: "Winterthurerstrasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.004601
 longitude: 8.9471173
-postcode: 6900
+postcode: "6900"
 city: Lugano
 street: "Piazzale Stazione"
 housenumber: 

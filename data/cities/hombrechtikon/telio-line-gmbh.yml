@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.2524177
 longitude: 8.7679617
-postcode: 8634
+postcode: "8634"
 city: Hombrechtikon
 street: "Im Zentrum"
 housenumber: 10

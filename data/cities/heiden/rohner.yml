@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4434577
 longitude: 9.5309045
-postcode: 9410
+postcode: "9410"
 city: Heiden
 street: "Werdstrasse"
 housenumber: 24

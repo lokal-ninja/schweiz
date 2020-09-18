@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.7985258
 longitude: 7.152909800000001
-postcode: 1700
+postcode: "1700"
 city: Fribourg
 street: "Boulevard de Pérolles"
 housenumber: 31

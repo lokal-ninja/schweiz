@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.5377195
 longitude: 6.5815649
-postcode: 1020
+postcode: "1020"
 city: Renens
 street: "Rue du Midi"
 housenumber: 10

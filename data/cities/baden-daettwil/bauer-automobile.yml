@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4447324
 longitude: 8.293578400000001
-postcode: 5404
+postcode: "5404"
 city: Baden-Dättwil
 street: "Oberrohrdorferstrasse"
 housenumber: 1a

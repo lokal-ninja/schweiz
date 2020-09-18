@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 46.9058032
 longitude: 9.5564522
-postcode: 7203
+postcode: "7203"
 city: Trimmis
 street: "Herawisweg"
 housenumber: 2

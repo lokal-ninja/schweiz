@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.574539200000004
 longitude: 6.7764075
-postcode: 1077
+postcode: "1077"
 city: Servion
 street: "Route Cantonale"
 housenumber: 16

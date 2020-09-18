@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.398632500000005
 longitude: 9.5846715
-postcode: 9445
+postcode: "9445"
 city: Rebstein
 street: "Staatsstrasse"
 housenumber: 89

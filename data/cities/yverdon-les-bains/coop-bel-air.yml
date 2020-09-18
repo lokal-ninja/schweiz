@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7800543
 longitude: 6.6357906
-postcode: 1400
+postcode: "1400"
 city: Yverdon-les-Bains
 street: "Rue d'Orbe"
 housenumber: 1

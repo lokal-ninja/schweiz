@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.453150300000004
 longitude: 8.5824048
-postcode: 8302
+postcode: "8302"
 city: Kloten
 street: "Dorfstrasse"
 housenumber: 14

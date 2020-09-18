@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.374537100000005
 longitude: 8.678296300000001
-postcode: 8606
+postcode: "8606"
 city: Nänikon
 street: "Grossrietstrasse"
 housenumber: 17

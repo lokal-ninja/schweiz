@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.7292093
 longitude: 9.5570114
-postcode: 7078
+postcode: "7078"
 city: Lenzerheide
 street: "Voa Principala"
 housenumber: 53

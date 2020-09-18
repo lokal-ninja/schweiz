@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.011489000000005
 longitude: 8.9665646
-postcode: 6962
+postcode: "6962"
 city: Viganello
 street: "Via alla Chiesa"
 housenumber: 3

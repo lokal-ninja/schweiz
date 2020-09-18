@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.387574400000005
 longitude: 8.1169636
-postcode: 3994
+postcode: "3994"
 city: Lax
 street: "Furkastrasse"
 housenumber: 46

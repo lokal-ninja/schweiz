@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 45.8523197
 longitude: 9.0165586
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Via Giuseppe Cereghetti"
 housenumber: 8

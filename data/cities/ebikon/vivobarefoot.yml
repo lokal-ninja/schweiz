@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.0938287
 longitude: 8.358091100000001
-postcode: 6030
+postcode: "6030"
 city: Ebikon
 street: "Ebisquare-Strasse"
 housenumber: 1

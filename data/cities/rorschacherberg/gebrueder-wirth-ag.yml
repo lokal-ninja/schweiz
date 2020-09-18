@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4765874
 longitude: 9.5277086
-postcode: 9404
+postcode: "9404"
 city: Rorschacherberg
 street: "Thalerstrasse"
 housenumber: 124

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.8096862
 longitude: 7.477497100000001
-postcode: 3132
+postcode: "3132"
 city: Riggisberg
 street: "Gurnigelstrasse"
 housenumber: 6

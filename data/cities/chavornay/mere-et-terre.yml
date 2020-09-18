@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 46.7119073
 longitude: 6.571262600000001
-postcode: 1373
+postcode: "1373"
 city: Chavornay
 street: "Rue de la Cité"
 housenumber: 20

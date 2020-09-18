@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.1392706
 longitude: 8.429143100000001
-postcode: 6343
+postcode: "6343"
 city: Rotkreuz
 street: "Kirchweg"
 housenumber: 10

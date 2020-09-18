@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.4379701
 longitude: 9.133472000000001
-postcode: 9240
+postcode: "9240"
 city: Uzwil
 street: "Bahnhofstrasse"
 housenumber: 89

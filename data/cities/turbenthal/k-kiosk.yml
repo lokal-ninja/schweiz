@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.437205000000006
 longitude: 8.843859400000001
-postcode: 8488
+postcode: "8488"
 city: Turbenthal
 street: "Bahnhofstrasse"
 housenumber: 1

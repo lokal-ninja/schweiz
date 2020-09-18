@@ -1,9 +1,9 @@
 id: 1115159350
 type: node
-shop: Kleidung
+shop: Modehaus
 latitude: 47.3693955
 longitude: 8.5388406
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Paradeplatz"
 housenumber: 3

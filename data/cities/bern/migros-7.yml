@@ -1,12 +1,12 @@
-id: 1722681316
+id: 537955675
 type: node
 shop: Supermarkt
-latitude: 46.9393448
-longitude: 7.3899387
-postcode: 3018
+latitude: 46.9455722
+longitude: 7.4723312
+postcode: "3006"
 city: Bern
-street: "Bottigenstrasse"
-housenumber: 7
+street: "Giacomettistrasse"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00"
-website: ""
+opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-bern-freudenberg"

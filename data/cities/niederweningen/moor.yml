@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.50737
 longitude: 8.379705600000001
-postcode: 8166
+postcode: "8166"
 city: Niederweningen
 street: "Alte Stationsstrasse"
 housenumber: 2

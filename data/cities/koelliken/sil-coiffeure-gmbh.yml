@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3337474
 longitude: 8.0247694
-postcode: 5742
+postcode: "5742"
 city: Kölliken
 street: "Hauptstrasse"
 housenumber: 53

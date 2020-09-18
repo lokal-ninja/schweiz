@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.4782409
 longitude: 9.4927542
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Hauptstrasse"
 housenumber: 63

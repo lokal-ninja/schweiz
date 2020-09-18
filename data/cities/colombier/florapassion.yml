@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.9657977
 longitude: 6.857628600000001
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Avenue de la Gare"
 housenumber: 6

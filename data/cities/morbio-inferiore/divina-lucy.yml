@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 45.8430231
 longitude: 9.0179582
-postcode: 6834
+postcode: "6834"
 city: Morbio Inferiore
 street: "Viale Lungo Breggia"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.410160000000005
 longitude: 7.7026365000000006
-postcode: 4425
+postcode: "4425"
 city: Titterten
 street: "Hangematt"
 housenumber: 105

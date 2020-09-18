@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4738125
 longitude: 8.5077079
-postcode: 8154
+postcode: "8154"
 city: Oberglatt
 street: "Eichweg"
 housenumber: 2

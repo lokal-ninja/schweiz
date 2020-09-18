@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.3635512
 longitude: 8.550762800000001
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Kreuzstrasse"
 housenumber: 42

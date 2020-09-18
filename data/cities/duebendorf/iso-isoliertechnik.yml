@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.402358500000005
 longitude: 8.6165553
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Kriesbachstrasse"
 housenumber: 4

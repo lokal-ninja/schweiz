@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 46.507787300000004
 longitude: 6.4969289
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Grand-Rue"
 housenumber: 97

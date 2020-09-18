@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3656633
 longitude: 9.6067893
-postcode: 9451
+postcode: "9451"
 city: Kriessern
 street: "Kirchdorfstrasse"
 housenumber: 18

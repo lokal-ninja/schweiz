@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.215631
 longitude: 6.145771300000001
-postcode: 1202
+postcode: "1202"
 city: Genève
 street: "Rue du Prieuré"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.4006805
 longitude: 8.6031768
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Lagerstrasse"
 housenumber: 14

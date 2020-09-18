@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.4686649
 longitude: 9.486105700000001
-postcode: 9404
+postcode: "9404"
 city: Rorschacherberg
 street: "Goldacherstrasse"
 housenumber: 105

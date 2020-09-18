@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.378627200000004
 longitude: 9.2788541
-postcode: 9100
+postcode: "9100"
 city: Herisau
 street: "Alpsteinstrasse"
 housenumber: 8b

@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.381374300000004
 longitude: 8.5326444
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Klingenstrasse"
 housenumber: 9

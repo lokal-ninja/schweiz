@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 45.870065100000005
 longitude: 8.9884211
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Corso Bello"
 housenumber: 13

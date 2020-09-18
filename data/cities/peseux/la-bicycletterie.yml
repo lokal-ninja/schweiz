@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.987149200000005
 longitude: 6.889834100000001
-postcode: 2034
+postcode: "2034"
 city: Peseux
 street: "Place de la Fontaine"
 housenumber: 5

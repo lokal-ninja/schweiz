@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.403209800000006
 longitude: 8.6075961
-postcode: 8600
+postcode: "8600"
 city: Dübendorf
 street: "Ueberlandstrasse"
 housenumber: 97
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://find.shell.com/ch/fuel/10023386-shell-im-giessen/de_CH"

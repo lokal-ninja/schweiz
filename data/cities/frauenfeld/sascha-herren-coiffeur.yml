@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.555124000000006
 longitude: 8.8929747
-postcode: 8500
+postcode: "8500"
 city: Frauenfeld
 street: "Altweg"
 housenumber: 16

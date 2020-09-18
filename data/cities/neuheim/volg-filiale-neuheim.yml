@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2049339
 longitude: 8.574142100000001
-postcode: 6345
+postcode: "6345"
 city: Neuheim
 street: "Lindenweg"
 housenumber: 1

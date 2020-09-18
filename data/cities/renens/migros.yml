@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5307735
 longitude: 6.598290700000001
-postcode: 1020
+postcode: "1020"
 city: Renens
 street: "Avenue de Florissant"
 housenumber: 38

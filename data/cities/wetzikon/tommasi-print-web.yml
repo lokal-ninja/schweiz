@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.320441800000005
 longitude: 8.7950996
-postcode: 8620
+postcode: "8620"
 city: Wetzikon
 street: "Weiherstrasse"
 housenumber: 2

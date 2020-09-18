@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5011451
 longitude: 8.948401800000001
-postcode: 9545
+postcode: "9545"
 city: Wängi
 street: "Sägiwis"
 housenumber: 

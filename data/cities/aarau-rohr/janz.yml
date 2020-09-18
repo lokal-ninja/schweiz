@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4019939
 longitude: 8.0796737
-postcode: 5032
+postcode: "5032"
 city: Aarau Rohr
 street: "Hauptstrasse"
 housenumber: 29

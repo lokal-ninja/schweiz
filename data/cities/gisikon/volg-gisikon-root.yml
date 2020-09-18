@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1258713
 longitude: 8.3989549
-postcode: 6038
+postcode: "6038"
 city: Gisikon
 street: "Weitblick"
 housenumber: 8a

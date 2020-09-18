@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1870489
 longitude: 8.397358
-postcode: 5643
+postcode: "5643"
 city: Sins
 street: "Bahnhofstrasse"
 housenumber: 32

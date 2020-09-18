@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3282079
 longitude: 8.1193314
-postcode: 5723
+postcode: "5723"
 city: Teufenthal
 street: "Dorfstrasse"
 housenumber: 30

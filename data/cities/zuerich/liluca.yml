@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3746905
 longitude: 8.540138800000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Werdmühleplatz"
 housenumber: 4

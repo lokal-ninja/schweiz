@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.370239000000005
 longitude: 8.508715
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 320

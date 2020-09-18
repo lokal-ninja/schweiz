@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.363480900000006
 longitude: 8.532447600000001
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "General-Wille-Strasse"
 housenumber: 21

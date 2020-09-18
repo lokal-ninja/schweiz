@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.414690400000005
 longitude: 8.5895706
-postcode: 8304
+postcode: "8304"
 city: Wallisellen
 street: "Bahnhofstrasse"
 housenumber: 12

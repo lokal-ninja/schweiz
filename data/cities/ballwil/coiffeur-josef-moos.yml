@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1521357
 longitude: 8.317249200000001
-postcode: 6275
+postcode: "6275"
 city: Ballwil
 street: "Luzernstrasse"
 housenumber: 4

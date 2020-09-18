@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6332852
 longitude: 9.2258897
-postcode: 8596
+postcode: "8596"
 city: Scherzingen
 street: "Seestrasse"
 housenumber: 36

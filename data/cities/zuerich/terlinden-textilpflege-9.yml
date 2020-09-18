@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.369236
 longitude: 8.503125800000001
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 406

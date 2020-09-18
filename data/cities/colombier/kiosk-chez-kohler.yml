@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.9664129
 longitude: 6.862288800000001
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue du Château"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.9321459
 longitude: 7.502981500000001
-postcode: 3073
+postcode: "3073"
 city: Gümligen
 street: "Füllerichstrasse"
 housenumber: 51

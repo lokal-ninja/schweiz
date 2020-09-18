@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 46.180497300000006
 longitude: 6.13412
-postcode: 1227
+postcode: "1227"
 city: Carouge
 street: "Rue Baylon"
 housenumber: 8b

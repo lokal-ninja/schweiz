@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.418482100000006
 longitude: 8.273345200000001
-postcode: 5507
+postcode: "5507"
 city: Mellingen
 street: "Hauptgasse"
 housenumber: 9

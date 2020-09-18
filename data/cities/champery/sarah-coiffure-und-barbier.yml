@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.175693300000006
 longitude: 6.867331500000001
-postcode: 1874
+postcode: "1874"
 city: Champery
 street: "Rue du Village"
 housenumber: 95

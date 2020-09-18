@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.290780000000005
 longitude: 7.525847100000001
-postcode: 3960
+postcode: "3960"
 city: Sierre
 street: "Route de Sion"
 housenumber: 21

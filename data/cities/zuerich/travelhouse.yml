@@ -1,12 +1,12 @@
 id: 4833061700
 type: node
 shop: Reisebüro
-latitude: 47.367052900000004
-longitude: 8.5475884
-postcode: 8001
+latitude: 47.367055300000004
+longitude: 8.5475147
+postcode: "8001"
 city: Zürich
 street: "Stadelhoferstrasse"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: ""
+website: "https://www.hotelplan.ch/travelhouse-stadelhofen"

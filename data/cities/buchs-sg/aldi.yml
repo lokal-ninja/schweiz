@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.163794
 longitude: 9.4735238
-postcode: 9470
+postcode: "9470"
 city: Buchs (SG)
 street: "Churerstrasse"
 housenumber: 12

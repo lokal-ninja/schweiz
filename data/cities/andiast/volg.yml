@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.784655400000005
 longitude: 9.113739
-postcode: 7159
+postcode: "7159"
 city: Andiast
 street: "Via Principala"
 housenumber: 39

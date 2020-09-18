@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.155359000000004
 longitude: 9.0398621
-postcode: 8718
+postcode: "8718"
 city: Schänis
 street: "Säumergutstrasse"
 housenumber: 3

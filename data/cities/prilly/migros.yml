@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.527306900000006
 longitude: 6.6025155
-postcode: 1008
+postcode: "1008"
 city: Prilly
 street: "Chemin du Viaduc"
 housenumber: 1

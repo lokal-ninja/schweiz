@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.352778300000004
 longitude: 7.3584863
-postcode: 2800
+postcode: "2800"
 city: Delémont
 street: "La Ballastière"
 housenumber: 19

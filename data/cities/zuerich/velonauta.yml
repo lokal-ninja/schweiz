@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.3853212
 longitude: 8.5210954
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Viaduktstrasse"
 housenumber: 87

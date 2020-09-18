@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.9303466
 longitude: 7.4187447
-postcode: 3097
+postcode: "3097"
 city: Liebefeld
 street: "Stationsstrasse"
 housenumber: 11

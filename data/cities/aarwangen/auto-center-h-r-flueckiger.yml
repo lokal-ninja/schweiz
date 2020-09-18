@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.234351000000004
 longitude: 7.7748311
-postcode: 4912
+postcode: "4912"
 city: Aarwangen
 street: "Langenthalstrasse"
 housenumber: 61

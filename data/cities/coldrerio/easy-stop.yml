@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 45.8503364
 longitude: 8.9820098
-postcode: 6877
+postcode: "6877"
 city: Coldrerio
 street: ""
 housenumber: 

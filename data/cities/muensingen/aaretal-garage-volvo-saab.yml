@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.886909900000006
 longitude: 7.554897700000001
-postcode: 3110
+postcode: "3110"
 city: Münsingen
 street: "Bernstrasse"
 housenumber: 91-93

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.8209358
 longitude: 8.404206
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Dorfstrasse"
 housenumber: 31

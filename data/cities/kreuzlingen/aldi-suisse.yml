@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6390905
 longitude: 9.204052200000001
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Lengwilerstrasse"
 housenumber: 2

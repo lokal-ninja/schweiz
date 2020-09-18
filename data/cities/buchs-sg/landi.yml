@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.1643981
 longitude: 9.479191700000001
-postcode: 9470
+postcode: "9470"
 city: Buchs (SG)
 street: "Mühleäulistrasse"
 housenumber: 1

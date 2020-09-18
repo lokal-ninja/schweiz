@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.296714
 longitude: 7.9199111
-postcode: 3931
+postcode: "3931"
 city: Eyholz
 street: "Kantonsstrasse"
 housenumber: 77

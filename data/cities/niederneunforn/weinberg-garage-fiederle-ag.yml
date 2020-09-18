@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5947102
 longitude: 8.7867475
-postcode: 8525
+postcode: "8525"
 city: Niederneunforn
 street: "Schaffhauserstrasse"
 housenumber: 15

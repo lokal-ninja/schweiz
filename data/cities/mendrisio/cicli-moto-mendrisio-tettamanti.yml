@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 45.8728266
 longitude: 8.9874306
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Piazza San Giovanni"
 housenumber: 4

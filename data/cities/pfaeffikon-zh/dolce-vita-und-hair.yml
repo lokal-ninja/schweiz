@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.367330100000004
 longitude: 8.7816004
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon ZH
 street: "Kempttalstrasse"
 housenumber: 5

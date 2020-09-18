@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.271039300000005
 longitude: 8.653399700000001
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "Pfannenstielstrasse"
 housenumber: 109

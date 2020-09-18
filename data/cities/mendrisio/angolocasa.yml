@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 45.8696694
 longitude: 8.989406
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Industria"
 housenumber: 3

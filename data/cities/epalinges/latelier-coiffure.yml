@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.545177300000006
 longitude: 6.6709095000000005
-postcode: 1066
+postcode: "1066"
 city: Épalinges
 street: "Chemin de la Cure"
 housenumber: 9

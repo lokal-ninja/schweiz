@@ -1,9 +1,9 @@
 id: 5778787953
 type: node
 shop: Supermarkt
-latitude: 47.439917900000005
-longitude: 7.539226200000001
-postcode: 4242
+latitude: 47.4400041
+longitude: 7.5391900000000005
+postcode: "4242"
 city: Zwingen
 street: "Baselstrasse"
 housenumber: 43b

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.9443332
 longitude: 7.4217016000000005
-postcode: 3008
+postcode: "3008"
 city: Bern
 street: "Könizstrasse"
 housenumber: 3

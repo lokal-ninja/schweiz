@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.660136200000004
 longitude: 7.578369500000001
-postcode: 3753
+postcode: "3753"
 city: Oey
 street: "Unterdorfweg 7"
 housenumber: 7

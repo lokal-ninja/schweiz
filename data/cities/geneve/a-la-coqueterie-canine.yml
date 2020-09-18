@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.2046639
 longitude: 6.125925400000001
-postcode: 1203
+postcode: "1203"
 city: Genève
 street: "Rue du Beulet"
 housenumber: 2

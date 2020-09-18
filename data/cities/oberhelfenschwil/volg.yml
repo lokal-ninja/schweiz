@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3542256
 longitude: 9.112699600000001
-postcode: 9621
+postcode: "9621"
 city: Oberhelfenschwil
 street: "Dorfstrasse"
 housenumber: 1

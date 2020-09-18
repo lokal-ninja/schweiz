@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 46.993095700000005
 longitude: 6.927485600000001
-postcode: 2000
+postcode: "2000"
 city: Neuchâtel
 street: "Rue des Moulins"
 housenumber: 

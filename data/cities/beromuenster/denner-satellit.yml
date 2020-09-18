@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.206523700000005
 longitude: 8.1903278
-postcode: 
+postcode: ""
 city: Beromünster
 street: "Centralstrasse"
 housenumber: 14

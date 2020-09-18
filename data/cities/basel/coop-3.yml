@@ -1,12 +1,12 @@
-id: 2663868342
+id: 1513116290
 type: node
 shop: Supermarkt
-latitude: 47.5706258
-longitude: 7.573282900000001
-postcode: 4056
+latitude: 47.569048200000005
+longitude: 7.590558400000001
+postcode: "4057"
 city: Basel
-street: "Vogesenplatz"
-housenumber: 10
+street: "Klybeckstrasse"
+housenumber: 142
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
 website: ""

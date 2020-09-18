@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5304561
 longitude: 8.0846479
-postcode: 5085
+postcode: "5085"
 city: Sulz
 street: "Brügglihof"
 housenumber: 368

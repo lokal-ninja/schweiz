@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.402269600000004
 longitude: 8.4279277
-postcode: 8103
+postcode: "8103"
 city: Unterengstringen
 street: "Im Werd"
 housenumber: 2

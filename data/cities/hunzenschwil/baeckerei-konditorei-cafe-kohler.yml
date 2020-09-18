@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3863269
 longitude: 8.1221496
-postcode: 5502
+postcode: "5502"
 city: Hunzenschwil
 street: "Poststrasse"
 housenumber: 2

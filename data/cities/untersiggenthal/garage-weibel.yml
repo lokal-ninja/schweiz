@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.496996200000005
 longitude: 8.2676292
-postcode: 5417
+postcode: "5417"
 city: Untersiggenthal
 street: "Zelglistrasse"
 housenumber: 45

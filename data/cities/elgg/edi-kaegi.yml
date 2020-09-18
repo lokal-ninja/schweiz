@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4906231
 longitude: 8.8676615
-postcode: 8353
+postcode: "8353"
 city: Elgg
 street: "Vordergasse"
 housenumber: 16

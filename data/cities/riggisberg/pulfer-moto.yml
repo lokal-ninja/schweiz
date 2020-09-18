@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 46.808400500000005
 longitude: 7.4778026
-postcode: 3132
+postcode: "3132"
 city: Riggisberg
 street: "Gurnigelstrasse"
 housenumber: 22

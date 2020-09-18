@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.423629000000005
 longitude: 8.0148455
-postcode: 5018
+postcode: "5018"
 city: Erlinsbach (AG)
 street: "Hard"
 housenumber: 628

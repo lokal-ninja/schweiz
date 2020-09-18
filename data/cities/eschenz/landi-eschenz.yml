@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.6456129
 longitude: 8.874250400000001
-postcode: 8264
+postcode: "8264"
 city: Eschenz
 street: "Frauenfelderstrasse"
 housenumber: 18

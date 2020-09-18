@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9840892
 longitude: 6.878383100000001
-postcode: 2035
+postcode: "2035"
 city: Corcelles
 street: "Avenue Soguel"
 housenumber: 10c

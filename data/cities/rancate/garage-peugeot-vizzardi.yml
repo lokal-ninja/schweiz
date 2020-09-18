@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 45.8853512
 longitude: 8.9730916
-postcode: 6862
+postcode: "6862"
 city: Rancate
 street: "Via alla Rossa"
 housenumber: 8

@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 47.370311400000006
 longitude: 8.508632200000001
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 320
 phone: ""
 opening_hours: ""
-website: "http://www.tschuemperlin-schuhe.ch/"
+website: "https://www.tschuemperlin-schuhe.ch/"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.354492
 longitude: 8.047168600000001
-postcode: 5036
+postcode: "5036"
 city: Oberentfelden
 street: "Muhenstrasse"
 housenumber: 9

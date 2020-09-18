@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.385916900000005
 longitude: 6.934362500000001
-postcode: 1844
+postcode: "1844"
 city: Villeneuve
 street: ""
 housenumber: 

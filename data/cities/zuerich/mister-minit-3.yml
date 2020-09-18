@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.388607400000005
 longitude: 8.4870778
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Altstetterstrasse"
 housenumber: 145

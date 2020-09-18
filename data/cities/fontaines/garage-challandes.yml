@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0459465
 longitude: 6.9001519
-postcode: 2046
+postcode: "2046"
 city: Fontaines
 street: "Grand-Rue"
 housenumber: 22

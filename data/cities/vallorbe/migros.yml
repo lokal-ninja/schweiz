@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7116528
 longitude: 6.3777588000000005
-postcode: 1337
+postcode: "1337"
 city: Vallorbe
 street: "Grand Rue"
 housenumber: 23

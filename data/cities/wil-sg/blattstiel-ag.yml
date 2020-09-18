@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4618684
 longitude: 9.0413871
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Säntisstrasse"
 housenumber: 2a

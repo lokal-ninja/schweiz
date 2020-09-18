@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 46.6025447
 longitude: 6.2364476
-postcode: 1341
+postcode: "1341"
 city: L'Orient
 street: "ZI le Crépon"
 housenumber: 1

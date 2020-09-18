@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2644083
 longitude: 8.661546300000001
-postcode: 8706
+postcode: "8706"
 city: Meilen
 street: "Seestrasse"
 housenumber: 941

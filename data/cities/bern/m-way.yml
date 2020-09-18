@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 46.944723700000004
 longitude: 7.3752618000000005
-postcode: 3027
+postcode: "3027"
 city: Bern
 street: "Gilberte-de-Courgenay-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-22:00; Sa 08:00-17:00; Su off"
-website: "https://m-way.ch/m-way-shop-bern-westside"
+website: "https://m-way.ch/m-way-shop-bern-westside/"

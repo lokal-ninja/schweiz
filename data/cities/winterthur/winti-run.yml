@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5019505
 longitude: 8.7544547
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Hegistrasse"
 housenumber: 37A

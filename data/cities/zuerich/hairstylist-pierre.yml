@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.3769779
 longitude: 8.5392352
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofplatz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 08:00-18:00; PH closed"
-website: "http://www.hairstylist-pierre.ch/"
+website: "https://www.hairstylist-pierre.ch/de/coiffeur-zuerich-bahnhofplatz"

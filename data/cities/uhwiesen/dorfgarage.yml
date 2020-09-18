@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6707514
 longitude: 8.6333163
-postcode: 8248
+postcode: "8248"
 city: Uhwiesen
 street: "Dorfstrasse"
 housenumber: 18

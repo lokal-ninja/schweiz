@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5658034
 longitude: 9.378301800000001
-postcode: 8590
+postcode: "8590"
 city: Romanshorn
 street: "Bahnhofstrasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.340544300000005
 longitude: 7.559093900000001
-postcode: 2827
+postcode: "2827"
 city: Schelten
 street: "Marchstein"
 housenumber: 8

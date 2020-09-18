@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.203134000000006
 longitude: 8.574268400000001
-postcode: 6345
+postcode: "6345"
 city: Neuheim
 street: "Neuhofstrasse"
 housenumber: 2

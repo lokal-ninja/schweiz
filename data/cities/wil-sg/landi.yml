@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.461732700000006
 longitude: 9.0448892
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Churfirstenstrasse"
 housenumber: 3

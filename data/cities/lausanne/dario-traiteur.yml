@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 46.511226400000005
 longitude: 6.637017200000001
-postcode: 1006
+postcode: "1006"
 city: Lausanne
 street: "Avenue de Jurigoz"
 housenumber: 20

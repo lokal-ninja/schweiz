@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3783638
 longitude: 8.0770277
-postcode: 5034
+postcode: "5034"
 city: Suhr
 street: "Tramstrasse"
 housenumber: 50

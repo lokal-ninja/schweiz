@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.423459
 longitude: 9.374823600000001
-postcode: 9000
+postcode: "9000"
 city: St. Gallen
 street: "Webergasse"
 housenumber: 5

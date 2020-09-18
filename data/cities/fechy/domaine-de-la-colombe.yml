@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.4792287
 longitude: 6.3746124
-postcode: 
+postcode: ""
 city: Féchy
 street: "Route du Monastère"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.169632
 longitude: 7.990285200000001
-postcode: 6247
+postcode: "6247"
 city: Schötz
 street: "Luzernerstrasse"
 housenumber: 6+10

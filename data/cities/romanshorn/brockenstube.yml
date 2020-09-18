@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.565976500000005
 longitude: 9.3773698
-postcode: 8590
+postcode: "8590"
 city: Romanshorn
 street: "Alleestrasse"
 housenumber: 26

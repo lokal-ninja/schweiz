@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 46.432250800000006
 longitude: 6.910472700000001
-postcode: 1820
+postcode: "1820"
 city: Montreux
 street: "Grand'Rue"
 housenumber: 16

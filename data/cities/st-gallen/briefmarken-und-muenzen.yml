@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 47.4230589
 longitude: 9.3756833
-postcode: 9000
+postcode: "9000"
 city: St.Gallen
 street: "Gallusstrasse"
 housenumber: 22

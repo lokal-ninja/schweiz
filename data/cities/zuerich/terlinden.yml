@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.359540900000006
 longitude: 8.5858244
-postcode: 8053
+postcode: "8053"
 city: Zürich
 street: "Witikonerstrasse"
 housenumber: 297

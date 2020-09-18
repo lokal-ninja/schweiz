@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5232474
 longitude: 8.5154037
-postcode: 8182
+postcode: "8182"
 city: Hochfelden
 street: "stadlerstrasse"
 housenumber: 7

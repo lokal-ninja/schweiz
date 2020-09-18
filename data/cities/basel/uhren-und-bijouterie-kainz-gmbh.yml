@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.5466196
 longitude: 7.5655536
-postcode: 4054
+postcode: "4054"
 city: Basel
 street: "Holeestrasse"
 housenumber: 158

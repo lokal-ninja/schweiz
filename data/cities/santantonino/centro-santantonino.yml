@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.154128
 longitude: 8.961689900000001
-postcode: 6592
+postcode: "6592"
 city: Sant'Antonino
 street: "Via Serrai"
 housenumber: 5

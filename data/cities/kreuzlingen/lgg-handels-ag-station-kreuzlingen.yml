@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.643713500000004
 longitude: 9.1710714
-postcode: 8280
+postcode: "8280"
 city: Kreuzlingen
 street: "Bergstrasse"
 housenumber: 7

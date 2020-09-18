@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 47.3761736
 longitude: 8.5388075
-postcode: 8001
+postcode: "8001"
 city: Zürich
-street: ""
-housenumber: 
+street: "Lintheschergasse"
+housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
 website: "http://www.fielmann.ch/"

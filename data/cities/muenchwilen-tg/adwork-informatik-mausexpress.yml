@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.4825765
 longitude: 8.991032
-postcode: 9542
+postcode: "9542"
 city: Münchwilen (TG)
 street: "Industriestrasse"
 housenumber: 1

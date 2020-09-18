@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.4982862
 longitude: 7.6746122
-postcode: 3718
+postcode: "3718"
 city: Kandersteg
 street: ""
 housenumber: 

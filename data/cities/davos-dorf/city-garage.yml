@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.797159900000004
 longitude: 9.848559100000001
-postcode: 7260
+postcode: "7260"
 city: Davos Dorf
 street: "Dischmastrasse"
 housenumber: 63

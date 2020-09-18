@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.356775000000006
 longitude: 8.0453018
-postcode: 5036
+postcode: "5036"
 city: Oberentfelden
 street: "Schönenwerderstrasse"
 housenumber: 8

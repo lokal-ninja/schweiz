@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.500268500000004
 longitude: 8.471601
-postcode: 8173
+postcode: "8173"
 city: Riedt
 street: "Wehntalerstrasse"
 housenumber: 4

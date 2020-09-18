@@ -1,6 +1,6 @@
 ---
-title: wädenswil
+title: Wädenswil
 url: /waedenswil/
-latitude: 
-longitude: 
+latitude: 47.227898800000006
+longitude: 8.6701365
 ---

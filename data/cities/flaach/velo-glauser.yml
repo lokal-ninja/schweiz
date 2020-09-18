@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.576833500000006
 longitude: 8.608918000000001
-postcode: 8416
+postcode: "8416"
 city: Flaach
 street: "Andelfingerstrasse"
 housenumber: 7

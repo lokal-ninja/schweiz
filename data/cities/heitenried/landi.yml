@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.826179100000004
 longitude: 7.301657400000001
-postcode: 1714
+postcode: "1714"
 city: Heitenried
 street: "Hauptstrasse"
 housenumber: 47

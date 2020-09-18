@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.8999083
 longitude: 7.402101300000001
-postcode: 3144
+postcode: "3144"
 city: Köniz
 street: "Mattenhausweg"
 housenumber: 2

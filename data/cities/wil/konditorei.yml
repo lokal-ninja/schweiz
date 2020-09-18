@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4655585
 longitude: 9.0475895
-postcode: 9500
+postcode: "9500"
 city: Wil
 street: "Friedtalweg"
 housenumber: 1

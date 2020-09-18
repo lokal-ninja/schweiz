@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.2791738
 longitude: 9.0067473
-postcode: 6705
+postcode: "6705"
 city: Cresciano
 street: "Via Cantonale"
 housenumber: 136

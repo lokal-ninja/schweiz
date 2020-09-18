@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.4334908
 longitude: 9.765158600000001
-postcode: 
+postcode: ""
 city: Segl
 street: "Seglias"
 housenumber: 

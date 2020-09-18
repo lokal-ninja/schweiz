@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.349093
 longitude: 7.4175845
-postcode: 2824
+postcode: "2824"
 city: Vicques
 street: "Route Principale"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.4624621
 longitude: 8.4629712
-postcode: 8155
+postcode: "8155"
 city: Nassenwil
 street: "Wehntalerstrasse"
 housenumber: 108

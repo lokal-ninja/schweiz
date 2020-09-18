@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.388748
 longitude: 8.6758915
-postcode: 8604
+postcode: "8604"
 city: Volketswil
 street: "Alte Gasse"
 housenumber: 22

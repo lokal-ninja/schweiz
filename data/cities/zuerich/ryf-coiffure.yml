@@ -1,12 +1,12 @@
-id: 2472730967
+id: 4833061615
 type: node
 shop: Friseur
-latitude: 47.40327610000001
-longitude: 8.5469826
-postcode: 8057
+latitude: 47.3667991
+longitude: 8.5485796
+postcode: "8001"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 239
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-16:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
+website: "https://www.ryfofswitzerland.ch/stadelhofen.html"

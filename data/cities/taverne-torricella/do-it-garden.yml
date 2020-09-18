@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.0593468
 longitude: 8.9305471
-postcode: 6807
+postcode: "6807"
 city: Taverne-Torricella
 street: "Via Brüsigell"
 housenumber: 

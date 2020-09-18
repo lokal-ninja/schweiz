@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3626674
 longitude: 8.7436009
-postcode: 8615
+postcode: "8615"
 city: Wermatswil
 street: "Stapfenstrasse"
 housenumber: 1

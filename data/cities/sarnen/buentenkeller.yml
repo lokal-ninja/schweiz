@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.898932300000006
 longitude: 8.2503968
-postcode: 6060
+postcode: "6060"
 city: Sarnen
 street: "Güterstrasse"
 housenumber: 1a

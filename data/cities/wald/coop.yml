@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.273794200000005
 longitude: 8.914791600000001
-postcode: 8636
+postcode: "8636"
 city: wald
 street: "Bahnhofstrasse"
 housenumber: 33

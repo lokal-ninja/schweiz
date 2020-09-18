@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 47.260099100000005
 longitude: 7.453469800000001
-postcode: 4716
+postcode: "4716"
 city: Gänsbrunnen
 street: "Montpelon"
 housenumber: 28
 phone: "+41 32 639 13 03"
-opening_hours: "Bestellungen telefonisch oder per E-mail. Sa: Markt in Solothurn"
+opening_hours: ""
 website: "https://www.montpelon.ch/"

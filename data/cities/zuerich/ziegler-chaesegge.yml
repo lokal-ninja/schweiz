@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.4093134
 longitude: 8.5458434
-postcode: 8050
+postcode: "8050"
 city: Zürich
 street: "Welchogasse"
 housenumber: 5

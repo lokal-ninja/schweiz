@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.8249906
 longitude: 7.187168700000001
-postcode: 3186
+postcode: "3186"
 city: Düdingen
 street: "Stockera"
 housenumber: 1

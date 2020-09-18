@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.419352700000005
 longitude: 8.5069181
-postcode: 8046
+postcode: "8046"
 city: Zürich
 street: "Zehntenhausstrasse"
 housenumber: 2

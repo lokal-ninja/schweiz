@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.7937115
 longitude: 7.2628227
-postcode: 1715
+postcode: "1715"
 city: Alterswil FR
 street: "Hauptstrasse"
 housenumber: 72

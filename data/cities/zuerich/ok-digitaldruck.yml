@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.381470900000004
 longitude: 8.536154
-postcode: 8005
+postcode: "8005"
 city: Zürich
 street: "Limmatstrasse"
 housenumber: 40

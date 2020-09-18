@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 46.516427900000004
 longitude: 6.4972645
-postcode: 1110
+postcode: "1110"
 city: Morges
 street: "Avenue de Vertou"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.126116800000005
 longitude: 8.7415675
-postcode: 8840
+postcode: "8840"
 city: Einsiedeln
 street: "Mythenstrasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1850241
 longitude: 8.5178011
-postcode: 
+postcode: ""
 city: Baar
 street: "Sagistrasse"
 housenumber: 10

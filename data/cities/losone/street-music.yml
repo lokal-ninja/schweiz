@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 46.168883900000004
 longitude: 8.761036
-postcode: 6616
+postcode: "6616"
 city: Losone
 street: "Via Mezzana"
 housenumber: 21

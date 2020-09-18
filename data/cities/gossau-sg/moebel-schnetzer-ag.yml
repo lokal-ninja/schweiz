@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.417902000000005
 longitude: 9.2372917
-postcode: 9200
+postcode: "9200"
 city: Gossau SG
 street: "Wilerstrasse"
 housenumber: 66

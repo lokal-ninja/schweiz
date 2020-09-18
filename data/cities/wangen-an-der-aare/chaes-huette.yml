@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.2346519
 longitude: 7.655852500000001
-postcode: 3380
+postcode: "3380"
 city: Wangen an der Aare
 street: "Bifangstrasse"
 housenumber: 1

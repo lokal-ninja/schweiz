@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.2332417
 longitude: 7.3828361000000005
-postcode: 1950
+postcode: "1950"
 city: Sion
 street: "Avenue du Grand-Champsec"
 housenumber: 51

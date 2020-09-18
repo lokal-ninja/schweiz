@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.362348600000004
 longitude: 8.5262738
-postcode: 8002
+postcode: "8002"
 city: Zürich
 street: "Brandschenkestrasse"
 housenumber: 178

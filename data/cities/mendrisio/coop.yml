@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 45.865303700000005
 longitude: 8.9765505
-postcode: 6850
+postcode: "6850"
 city: Mendrisio
 street: "Via Giorgio Bernasconi"
 housenumber: 31

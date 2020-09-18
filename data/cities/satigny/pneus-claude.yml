@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.195566
 longitude: 6.052871700000001
-postcode: 1242
+postcode: "1242"
 city: Satigny
 street: "Route du Bois-de-Bay"
 housenumber: 71

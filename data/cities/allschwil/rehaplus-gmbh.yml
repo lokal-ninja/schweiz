@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.551371800000005
 longitude: 7.548628600000001
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Steinbühlweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.551360900000006
 longitude: 7.537616300000001
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Baslerstrasse"
 housenumber: 12

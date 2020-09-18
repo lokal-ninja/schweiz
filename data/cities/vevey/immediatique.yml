@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 46.4616951
 longitude: 6.841674
-postcode: 1800
+postcode: "1800"
 city: Vevey
 street: "Rue de la Madeleine"
 housenumber: 24

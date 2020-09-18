@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3318669
 longitude: 8.8095253
-postcode: 8623
+postcode: "8623"
 city: Wetzikon
 street: "Bahnhofstrasse"
 housenumber: 272

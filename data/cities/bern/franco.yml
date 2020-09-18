@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.948837600000004
 longitude: 7.4443524000000005
-postcode: 3011
+postcode: "3011"
 city: Bern
 street: "Waaghausgasse"
 housenumber: 7

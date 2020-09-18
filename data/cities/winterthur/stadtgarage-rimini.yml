@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.498125200000004
 longitude: 8.7348356
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "St. Gallerstrasse"
 housenumber: 16

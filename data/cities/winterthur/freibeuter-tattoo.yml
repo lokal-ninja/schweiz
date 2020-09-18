@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.498911400000004
 longitude: 8.732594800000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Badgasse"
 housenumber: 4

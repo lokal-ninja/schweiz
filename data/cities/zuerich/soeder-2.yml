@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.376692500000004
 longitude: 8.528773000000001
-postcode: 8004
+postcode: "8004"
 city: Zürich
 street: "Ankerstrasse"
 housenumber: 124

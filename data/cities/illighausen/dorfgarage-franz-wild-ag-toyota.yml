@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6047257
 longitude: 9.2052557
-postcode: 8574
+postcode: "8574"
 city: Illighausen
 street: "Gewerbestrasse"
 housenumber: 4

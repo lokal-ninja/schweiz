@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2542814
 longitude: 8.8448881
-postcode: 8630
+postcode: "8630"
 city: Rüti ZH
 street: "Rapperswilerstrasse"
 housenumber: 61

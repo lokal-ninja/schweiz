@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.3743263
 longitude: 8.5029578
-postcode: 8055
+postcode: "8055"
 city: Zürich
 street: "Gutstrasse"
 housenumber: 160

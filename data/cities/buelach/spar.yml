@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5195778
 longitude: 8.5399264
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Bahnhofstrasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.821130100000005
 longitude: 8.4044158
-postcode: 6390
+postcode: "6390"
 city: Engelberg
 street: "Dorfstrasse"
 housenumber: 29

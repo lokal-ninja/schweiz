@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.399358400000004
 longitude: 8.4893633
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Werdinsel"
 housenumber: 1a

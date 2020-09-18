@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.854795800000005
 longitude: 9.5234851
-postcode: 7000
+postcode: "7000"
 city: Chur
 street: "Oberalpstrasse"
 housenumber: 32

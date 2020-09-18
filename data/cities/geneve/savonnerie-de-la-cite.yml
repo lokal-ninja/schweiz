@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.2108421
 longitude: 6.1386329
-postcode: 1201
+postcode: "1201"
 city: Genève
 street: "Rue des Grottes"
 housenumber: 15

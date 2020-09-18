@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.1753415
 longitude: 8.4481436
-postcode: 6333
+postcode: "6333"
 city: Hünenberg See
 street: "Zythusmatt"
 housenumber: 24

@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.568699200000005
 longitude: 7.590241300000001
-postcode: 4057
+postcode: "4057"
 city: Basel
 street: "Klybeckstrasse"
 housenumber: 91
 phone: "+41 (0)61 683 23 60"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "http://hiob.ch/brockenstuben/basel/"
+website: "https://hiob.ch/brockenstuben/basel/"

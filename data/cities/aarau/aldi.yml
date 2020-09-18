@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3925901
 longitude: 8.058538200000001
-postcode: 5000
+postcode: "5000"
 city: Aarau
 street: "Industriestrasse"
 housenumber: 1

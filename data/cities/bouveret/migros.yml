@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.3772675
 longitude: 6.8607512
-postcode: 1897
+postcode: "1897"
 city: Bouveret
 street: "En Bellossy"
 housenumber: 

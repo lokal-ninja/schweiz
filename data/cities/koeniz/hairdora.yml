@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.927919200000005
 longitude: 7.4168098
-postcode: 3097
+postcode: "3097"
 city: Köniz
 street: "Könizstrasse"
 housenumber: 269

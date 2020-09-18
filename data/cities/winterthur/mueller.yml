@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 47.499686100000005
 longitude: 8.7299153
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Marktgasse"
 housenumber: 13
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.mueller.ch/"

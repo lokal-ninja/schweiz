@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4429309
 longitude: 9.3425054
-postcode: 9032
+postcode: "9032"
 city: Engelburg
 street: "St. Gallerstrasse"
 housenumber: 12

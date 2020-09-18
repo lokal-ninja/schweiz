@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.531221
 longitude: 7.888375300000001
-postcode: 4315
+postcode: "4315"
 city: Zuzgen
 street: "Rötihof"
 housenumber: 81

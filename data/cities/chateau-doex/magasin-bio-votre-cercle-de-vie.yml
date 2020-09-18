@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 46.4759547
 longitude: 7.1362328
-postcode: 1660
+postcode: "1660"
 city: Château-d'Oex
 street: "Grand Rue"
 housenumber: 106
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-12:30,14:00-18:00"
 website: ""

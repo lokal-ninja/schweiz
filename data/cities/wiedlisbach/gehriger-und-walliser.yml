@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.254321100000006
 longitude: 7.654221300000001
-postcode: 4537
+postcode: "4537"
 city: Wiedlisbach
 street: "Byfang"
 housenumber: 1

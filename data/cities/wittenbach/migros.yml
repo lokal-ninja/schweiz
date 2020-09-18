@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.462228
 longitude: 9.379349900000001
-postcode: 9300
+postcode: "9300"
 city: Wittenbach
 street: "Romanshornerstrasse"
 housenumber: 80-86

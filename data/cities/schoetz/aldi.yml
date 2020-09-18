@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1820486
 longitude: 7.982554200000001
-postcode: 6247
+postcode: "6247"
 city: Schötz
 street: "Schürmatt"
 housenumber: 5

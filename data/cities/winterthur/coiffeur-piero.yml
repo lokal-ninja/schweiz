@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.506626100000005
 longitude: 8.7571473
-postcode: 8404
+postcode: "8404"
 city: Winterthur
 street: "Untere Hohlgasse"
 housenumber: 10

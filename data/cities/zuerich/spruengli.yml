@@ -1,12 +1,12 @@
-id: 4827130160
+id: 648907100
 type: node
 shop: Konditorei
-latitude: 47.364623800000004
-longitude: 8.531358800000001
-postcode: 8002
+latitude: 47.369486
+longitude: 8.5391586
+postcode: "8001"
 city: Zürich
-street: "Tessinerplatz"
-housenumber: 10
+street: "Bahnhofstrasse"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-18:00"
+website: "https://www.spruengli.ch/de/standorte/paradeplatz-hauptsitz.html"

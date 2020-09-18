@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 46.890797400000004
 longitude: 7.5014335
-postcode: 3123
+postcode: "3123"
 city: Belp
 street: "Dorfstrasse"
 housenumber: 42

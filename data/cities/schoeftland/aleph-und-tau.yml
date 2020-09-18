@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.3056472
 longitude: 8.0508279
-postcode: 5040
+postcode: "5040"
 city: Schöftland
 street: "Dorfstrasse"
 housenumber: 13

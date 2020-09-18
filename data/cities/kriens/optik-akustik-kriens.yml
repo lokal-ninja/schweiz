@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0332719
 longitude: 8.282403
-postcode: 6010
+postcode: "6010"
 city: Kriens
 street: "Hofmattweg"
 housenumber: 4

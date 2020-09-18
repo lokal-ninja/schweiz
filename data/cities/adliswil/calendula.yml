@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 47.3137508
 longitude: 8.5260222
-postcode: 8134
+postcode: "8134"
 city: Adliswil
 street: "Soodstrasse"
 housenumber: 13

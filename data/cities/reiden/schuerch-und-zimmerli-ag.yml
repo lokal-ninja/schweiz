@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.246839900000005
 longitude: 7.971623
-postcode: 6260
+postcode: "6260"
 city: Reiden
 street: "Hauptstrasse"
 housenumber: 46

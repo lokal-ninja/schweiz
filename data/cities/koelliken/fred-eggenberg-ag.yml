@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3393565
 longitude: 8.0255867
-postcode: 5742
+postcode: "5742"
 city: Kölliken
 street: "Hauptstrasse"
 housenumber: 8

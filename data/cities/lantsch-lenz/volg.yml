@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.6852116
 longitude: 9.5630041
-postcode: 7083
+postcode: "7083"
 city: Lantsch/Lenz
 street: "Voia Principala"
 housenumber: 59

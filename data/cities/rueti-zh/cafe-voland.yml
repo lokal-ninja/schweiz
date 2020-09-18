@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2590098
 longitude: 8.8504583
-postcode: 8630
+postcode: "8630"
 city: Rüti ZH
 street: "Dorfstrasse"
 housenumber: 16

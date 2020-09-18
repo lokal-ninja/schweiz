@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.4798199
 longitude: 8.3147064
-postcode: 5408
+postcode: "5408"
 city: Ennetbaden
 street: "Badstrasse"
 housenumber: 12

@@ -1,12 +1,12 @@
 id: 5974106295
 type: node
-shop: Elektronik
+shop: Handy
 latitude: 47.4834614
 longitude: 7.735505300000001
-postcode: 4410
+postcode: "4410"
 city: Liestal
 street: "Rathausstrasse"
 housenumber: 59
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "www.shoplocator.swisscom.ch"
+website: "https://www.swisscom.ch/"

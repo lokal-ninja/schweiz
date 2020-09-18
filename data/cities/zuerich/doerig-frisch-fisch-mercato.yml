@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.3875961
 longitude: 8.4967247
-postcode: 8048
+postcode: "8048"
 city: Zürich
 street: "Mürtschenstrasse"
 housenumber: 26

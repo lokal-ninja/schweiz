@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.495482100000004
 longitude: 8.7188202
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Lagerplatz"
 housenumber: 7

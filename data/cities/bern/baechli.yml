@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.956409400000005
 longitude: 7.452780300000001
-postcode: 3013
+postcode: "3013"
 city: Bern
 street: "Waldhöheweg"
 housenumber: 1

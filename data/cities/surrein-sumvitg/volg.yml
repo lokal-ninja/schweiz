@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.722804100000005
 longitude: 8.9510859
-postcode: 7173
+postcode: "7173"
 city: Surrein (Sumvitg)
 street: "Planatsch"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.4987678
 longitude: 8.729446600000001
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Obere Kirchgasse"
 housenumber: 8

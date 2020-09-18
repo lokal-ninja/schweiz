@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.562026
 longitude: 7.5734966
-postcode: 4055
+postcode: "4055"
 city: Basel
 street: "Burgfelderstrasse"
 housenumber: 3

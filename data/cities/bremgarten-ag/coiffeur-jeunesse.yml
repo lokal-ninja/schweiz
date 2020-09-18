@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.351380000000006
 longitude: 8.3427178
-postcode: 5620
+postcode: "5620"
 city: Bremgarten AG
 street: "Rechengasse"
 housenumber: 15

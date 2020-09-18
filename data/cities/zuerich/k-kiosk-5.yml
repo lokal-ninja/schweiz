@@ -1,12 +1,12 @@
-id: 5435149441
+id: 2523675855
 type: node
 shop: Kiosk
-latitude: 47.382290000000005
-longitude: 8.529403400000001
-postcode: 8005
+latitude: 47.378567600000004
+longitude: 8.54069
+postcode: "8001"
 city: Zürich
-street: "Langstrasse"
-housenumber: 193
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Th 06:30-22:00; Fr 06:30-23:30; Sa 07:30-23:30; Su 14:00-19:30"
-website: ""
+opening_hours: "Mo-Th 05:30-23:00; Fr 05:30-00:45; Sa 06:00-00:30; Su 08:00-22:00"
+website: "http://kkiosk.ch/"

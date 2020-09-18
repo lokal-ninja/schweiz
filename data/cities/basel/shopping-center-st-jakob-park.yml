@@ -1,9 +1,9 @@
 id: 1460424687
 type: node
-shop: Supermarkt
+shop: Einkaufszentrum
 latitude: 47.5408689
 longitude: 7.6198782000000005
-postcode: 4052
+postcode: "4052"
 city: Basel
 street: "St. Jakobs-Strasse"
 housenumber: 397

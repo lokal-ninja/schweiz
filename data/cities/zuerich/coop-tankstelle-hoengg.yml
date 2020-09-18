@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.399525700000005
 longitude: 8.4973287
-postcode: 8049
+postcode: "8049"
 city: Zürich
 street: "Am Wasser"
 housenumber: 146

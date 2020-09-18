@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.820146300000005
 longitude: 6.9388778
-postcode: 1530
+postcode: "1530"
 city: Payerne
 street: "Place de la Concorde"
 housenumber: 1

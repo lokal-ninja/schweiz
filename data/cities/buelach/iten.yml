@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5177069
 longitude: 8.5410708
-postcode: 8180
+postcode: "8180"
 city: Bülach
 street: "Marktgasse"
 housenumber: 23

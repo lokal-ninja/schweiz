@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3579838
 longitude: 8.7079494
-postcode: 8610
+postcode: "8610"
 city: Uster
 street: "Industriepark"
 housenumber: 10

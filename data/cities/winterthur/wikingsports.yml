@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.497162
 longitude: 8.7201578
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Pionierstrasse"
 housenumber: 10

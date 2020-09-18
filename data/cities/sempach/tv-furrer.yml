@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.1381731
 longitude: 8.191467000000001
-postcode: 6204
+postcode: "6204"
 city: Sempach
 street: "Büelmatt"
 housenumber: 12

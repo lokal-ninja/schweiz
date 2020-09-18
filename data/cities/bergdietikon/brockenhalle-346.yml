@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.380206
 longitude: 8.3849357
-postcode: 8962
+postcode: "8962"
 city: Bergdietikon
 street: "Höckler"
 housenumber: 346

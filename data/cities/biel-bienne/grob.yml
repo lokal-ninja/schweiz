@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.142101000000004
 longitude: 7.2518802
-postcode: 2502
+postcode: "2502"
 city: Biel/Bienne
 street: "General-Dufour-Strasse"
 housenumber: 79

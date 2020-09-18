@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.3916283
 longitude: 9.5686636
-postcode: 9437
+postcode: "9437"
 city: Marbach
 street: "Staatsstrasse"
 housenumber: 21

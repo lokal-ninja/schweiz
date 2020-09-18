@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.371223
 longitude: 8.776246
-postcode: 8330
+postcode: "8330"
 city: Pfäffikon
 street: "Kempttalstrasse"
 housenumber: 90

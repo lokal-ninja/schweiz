@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 46.9645327
 longitude: 6.8587872
-postcode: 2013
+postcode: "2013"
 city: Colombier
 street: "Rue Basse"
 housenumber: 32a

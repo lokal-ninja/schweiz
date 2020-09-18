@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.187181
 longitude: 6.1112678
-postcode: 
+postcode: ""
 city: Petit-Lancy
 street: "Route de Chancy"
 housenumber: 71

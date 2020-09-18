@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.551986500000005
 longitude: 7.5494783000000005
-postcode: 4123
+postcode: "4123"
 city: Allschwil
 street: "Baslerstrasse"
 housenumber: 192

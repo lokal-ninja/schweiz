@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.323845500000004
 longitude: 8.9012474
-postcode: 8498
+postcode: "8498"
 city: Chli Bäretswil
 street: "Ghöchstrasse"
 housenumber: 128

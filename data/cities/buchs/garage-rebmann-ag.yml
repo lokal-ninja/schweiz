@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.392639900000006
 longitude: 8.066171800000001
-postcode: 5033
+postcode: "5033"
 city: Buchs
 street: "Edisonstrasse"
 housenumber: 1

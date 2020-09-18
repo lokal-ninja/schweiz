@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.4638707
 longitude: 9.0448277
-postcode: 9500
+postcode: "9500"
 city: Wil SG
 street: "Lerchenfeldstrasse"
 housenumber: 9

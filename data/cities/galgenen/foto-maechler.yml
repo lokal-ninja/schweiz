@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.181609400000006
 longitude: 8.8769483
-postcode: 8854
+postcode: "8854"
 city: Galgenen
 street: "Kantonsstrasse"
 housenumber: 54

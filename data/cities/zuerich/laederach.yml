@@ -3,10 +3,10 @@ type: node
 shop: Süßwaren
 latitude: 47.3765608
 longitude: 8.539895300000001
-postcode: 8001
+postcode: "8001"
 city: Zürich
 street: "Bahnhofstrasse"
 housenumber: 106
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.laederach.com/"
+website: "https://www.laderach.com/de/locations/location-details/zürich-bahnhofstrasse-zürich-75"

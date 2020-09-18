@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.3295059
 longitude: 9.0851831
-postcode: 9620
+postcode: "9620"
 city: Lichtensteig
 street: "Uttenwilerstrasse"
 housenumber: 2

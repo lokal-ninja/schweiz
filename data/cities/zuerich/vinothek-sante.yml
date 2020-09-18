@@ -1,9 +1,9 @@
 id: 4956927768
 type: node
 shop: Wein
-latitude: 47.3699614
+latitude: 47.3699609
 longitude: 8.5190374
-postcode: 8003
+postcode: "8003"
 city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 155

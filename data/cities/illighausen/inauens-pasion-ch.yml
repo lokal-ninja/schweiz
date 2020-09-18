@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 47.6042057
 longitude: 9.2051248
-postcode: 8574
+postcode: "8574"
 city: Illighausen
 street: "Spitzacker"
 housenumber: 2

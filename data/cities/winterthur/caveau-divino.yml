@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.5054207
 longitude: 8.718135
-postcode: 8400
+postcode: "8400"
 city: Winterthur
 street: "Wülflingerstrasse"
 housenumber: 32

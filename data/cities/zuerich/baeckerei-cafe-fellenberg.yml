@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3752231
 longitude: 8.4918879
-postcode: 8047
+postcode: "8047"
 city: Zürich
 street: "Fellenbergstrasse"
 housenumber: 276

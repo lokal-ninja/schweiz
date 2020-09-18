@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7002298
 longitude: 8.8419688
-postcode: 7180
+postcode: "7180"
 city: Disentis/Mustér
 street: "Via Acletta"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.181448700000004
 longitude: 7.6794545
-postcode: 3362
+postcode: "3362"
 city: Niederönz
 street: "Solothurnstrasse"
 housenumber: 23

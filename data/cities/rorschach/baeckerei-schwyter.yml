@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4777386
 longitude: 9.4919537
-postcode: 9400
+postcode: "9400"
 city: Rorschach
 street: "Signalstrasse"
 housenumber: 8

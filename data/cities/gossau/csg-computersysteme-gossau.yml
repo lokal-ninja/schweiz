@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.4152727
 longitude: 9.2656446
-postcode: 9200
+postcode: "9200"
 city: Gossau
 street: "St. Gallerstrasse"
 housenumber: 194

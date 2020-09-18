@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.3556277
 longitude: 8.5617179
-postcode: 8008
+postcode: "8008"
 city: Zürich
 street: "Kartausstrasse"
 housenumber: 8

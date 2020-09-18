@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.041876
 longitude: 8.1839786
-postcode: 6102
+postcode: "6102"
 city: Malters
 street: "Hellbühlstrasse"
 housenumber: 28
