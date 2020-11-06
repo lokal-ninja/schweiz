@@ -1,5 +1,5 @@
-baseURL = "https://lokal.ninja/schweiz"
-languageCode = "de-DE"
+baseURL = "https://ch.shoogle.net/switzerland"
+languageCode = "de"
 title = "Schweiz"
 theme = "ln-base"
 
@@ -10,6 +10,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   section = ["HTML", "JSON"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"
-  repo = "schweiz"
+  repo = "switzerland"
