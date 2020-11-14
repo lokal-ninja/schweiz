@@ -1,6 +1,6 @@
 ---
 title: Seelisberg
 url: /seelisberg/
-latitude: 47.3181256
-longitude: 8.9080703
+latitude: 46.977964
+longitude: 8.5858121
 ---

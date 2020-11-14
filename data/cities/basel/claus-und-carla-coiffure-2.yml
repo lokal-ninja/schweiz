@@ -1,12 +1,12 @@
-id: 3151489421
+id: 4348833888
 type: node
 shop: Friseur
-latitude: 47.5484379
-longitude: 7.589857200000001
-postcode: "4051"
+latitude: 47.543277200000006
+longitude: 7.593580500000001
+postcode: "4053"
 city: Basel
-street: "Centralbahnplatz"
-housenumber: 12
-phone: "+41 61 274 11 50"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.claus-carla.ch/Basel-Centralbahnplatz.html"
+street: "Güterstrasse"
+housenumber: 201
+phone: "+41 61 363 10 50"
+opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-16:00"
+website: "https://www.claus-carla.ch/Basel-Tellplatz.html"

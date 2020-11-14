@@ -8,5 +8,5 @@ city: Lausanne
 street: "Boulevard de Grancy"
 housenumber: 40
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00; Sa 09:30-12:00"
+opening_hours: "Mo-We,Fr 10:00-12:00,13:30-18:45; Th 10:00-12:00,13:30-17:00; Sa 09:30-12:00"
 website: "http://www.hoodcycles.ch"

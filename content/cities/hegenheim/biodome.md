@@ -1,4 +1,4 @@
 ---
-title: "Biodome"
+title: "Biodôme"
 url: /hegenheim/biodome/
 ---

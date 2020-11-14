@@ -1,6 +1,6 @@
 ---
 title: Steg
 url: /steg/
-latitude: 46.9238872
-longitude: 9.4654968
+latitude: 47.0036727
+longitude: 9.0793934
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bowil
 url: /bowil/
-latitude: 46.8929537
-longitude: 7.6950678
+latitude: 46.8930567
+longitude: 7.694960200000001
 ---

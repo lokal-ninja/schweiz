@@ -1,12 +1,12 @@
-id: 6131152321
+id: 4007824286
 type: node
 shop: Lebensmittel
-latitude: 46.943630500000005
-longitude: 7.3710782
-postcode: "3027"
+latitude: 46.9656321
+longitude: 7.4656726
+postcode: "3014"
 city: Bern
-street: "Riedbachstrasse"
-housenumber: 104
+street: "Winkelriedstrasse"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-bern-westside/"
+opening_hours: "Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 07:00-22:00; PH,Su 08:00-21:00"
+website: "https://www.migrolino.ch/de/standorte/migrol-bern-wankdorf-2/"

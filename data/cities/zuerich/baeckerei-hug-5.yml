@@ -1,12 +1,12 @@
-id: 182237939
-type: way
+id: 6690265932
+type: node
 shop: Bäckerei
-latitude: 47.3699914
-longitude: 8.5187092
-postcode: "8003"
+latitude: 47.380402700000005
+longitude: 8.534001700000001
+postcode: "8005"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 157
-phone: "+41 44 450 40 70"
-opening_hours: "Mo-Fr 06:30-19:00; Sa-Su 07:00-17:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-birmensdorferstrasse/"
+street: "Zollstrasse"
+housenumber: 51
+phone: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-17:00"
+website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-zollstrasse/"

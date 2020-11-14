@@ -1,12 +1,12 @@
-id: 4869996404
+id: 4848816880
 type: node
 shop: Bäckerei
-latitude: 47.3657784
-longitude: 8.547692900000001
-postcode: "8001"
+latitude: 47.3733446
+longitude: 8.5292993
+postcode: "8004"
 city: Zürich
-street: "Goethestrasse"
-housenumber: 14
+street: "Stauffacherstrasse"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-17:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-goethestrasse/"
+opening_hours: "Mo-Fr 06:00-19:00, Sa 07:00-17:00, Su 07:00-17:00"
+website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-stauffacher/"

@@ -1,12 +1,12 @@
-id: 4147484894
-type: node
-shop: Lebensmittel
-latitude: 47.0900704
-longitude: 8.4004394
+id: 413426444
+type: way
+shop: Supermarkt
+latitude: 47.09001
+longitude: 8.4003282
 postcode: "6044"
 city: Udligenswil
 street: "Dorfstrasse"
 housenumber: 3
-phone: "+41 41 370 63 10"
-opening_hours: ""
+phone: "+ 41 41 370 63 10"
+opening_hours: "Mo-Su 06:00-19:00"
 website: "https://www.volg.ch/standorte"

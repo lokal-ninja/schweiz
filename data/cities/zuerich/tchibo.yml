@@ -1,6 +1,6 @@
 id: 311859455
 type: node
-shop: Lebensmittel
+shop: Kaffee
 latitude: 47.4094605
 longitude: 8.546583700000001
 postcode: "8050"
@@ -9,4 +9,4 @@ street: "Schaffhauserstrasse"
 housenumber: 348
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-16:00"
-website: "https://www.tchibo.ch/"
+website: "https://www.tchibo.ch"

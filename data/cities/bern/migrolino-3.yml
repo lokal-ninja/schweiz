@@ -1,12 +1,12 @@
-id: 2976324837
+id: 1698852904
 type: node
 shop: Lebensmittel
-latitude: 46.9464282
-longitude: 7.3849625
+latitude: 46.9488258
+longitude: 7.396809200000001
 postcode: "3027"
 city: Bern
-street: "Fellerstrasse"
-housenumber: 33
+street: "Bümplizstrasse"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00, Sa-Su 08:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-bern-fellerstrasse-2/"
+opening_hours: "Mo-Su 06:00-22:00"
+website: "https://www.migrolino.ch/de/standorte/socar-bern-bumpliz/"

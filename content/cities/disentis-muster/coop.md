@@ -1,4 +1,4 @@
 ---
-title: "COOP"
+title: "Coop"
 url: /disentis-muster/coop/
 ---
