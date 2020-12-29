@@ -1,4 +1,4 @@
 ---
-title: "ALMOG"
+title: "Almog"
 url: /zuerich/almog/
 ---

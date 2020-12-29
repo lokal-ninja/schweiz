@@ -1,12 +1,12 @@
-id: 317769151
+id: 354555575
 type: node
 shop: Lebensmittel
-latitude: 47.3743728
-longitude: 8.5439976
-postcode: "8001"
+latitude: 47.391206200000006
+longitude: 8.518580400000001
+postcode: "8005"
 city: Zürich
-street: "Mühlegasse"
+street: "Hardturmstrasse"
 housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-21:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-niederdorf-m-express"
+opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-puls-5-m-express"

@@ -1,4 +1,4 @@
 ---
-title: "PAM"
+title: "Pam"
 url: /onex/pam/
 ---

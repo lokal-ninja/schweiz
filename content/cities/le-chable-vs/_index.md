@@ -1,6 +1,6 @@
 ---
 title: Le Châble VS
 url: /le-chable-vs/
-latitude: 
-longitude: 
+latitude: 46.0801462
+longitude: 7.212502700000001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schüpfen
 url: /schuepfen/
-latitude: 47.0073954
-longitude: 9.0615691
+latitude: 46.9028829
+longitude: 9.1676628
 ---

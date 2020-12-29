@@ -1,6 +1,6 @@
 ---
 title: Halden
 url: /halden/
-latitude: 47.085874200000006
-longitude: 7.8487480000000005
+latitude: 47.0951922
+longitude: 7.829036400000001
 ---

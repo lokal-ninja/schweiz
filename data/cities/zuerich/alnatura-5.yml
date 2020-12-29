@@ -1,12 +1,12 @@
-id: 7085739339
+id: 6551162307
 type: node
 shop: Supermarkt
-latitude: 47.3645244
-longitude: 8.5539732
-postcode: "8008"
+latitude: 47.3782757
+longitude: 8.535839300000001
+postcode: "8001"
 city: Zürich
-street: "Kreuzplatz"
-housenumber: 20
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-zuerich-kreuzplatz-2"
+opening_hours: "Mo-Fr 06:30-22:00; Sa-Su 08:00-20:00"
+website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-zuerich-hb-sihlquai"

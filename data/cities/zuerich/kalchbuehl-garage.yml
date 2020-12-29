@@ -1,6 +1,6 @@
 id: 112017810
 type: node
-shop: Autowerkstatt
+shop: Autohaus
 latitude: 47.350202800000005
 longitude: 8.5276055
 postcode: "8038"
@@ -8,5 +8,5 @@ city: Zürich
 street: "Thujastrasse"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30, Sa 09:00-14:00; PH,Su off"
 website: "http://www.kalchbuehl.ch/"

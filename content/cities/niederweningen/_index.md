@@ -1,6 +1,6 @@
 ---
 title: Niederweningen
 url: /niederweningen/
-latitude: 47.505041600000006
-longitude: 8.3785734
+latitude: 47.5076024
+longitude: 8.380001
 ---

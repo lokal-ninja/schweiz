@@ -1,12 +1,12 @@
-id: 4848816861
+id: 4848816862
 type: node
 shop: Drogerie
-latitude: 47.367394700000006
-longitude: 8.534982600000001
-postcode: "8002"
+latitude: 47.3698482
+longitude: 8.519615100000001
+postcode: "8003"
 city: Zürich
-street: "Stockerstrasse"
-housenumber: 38
+street: "Birmensdorferstrasse"
+housenumber: 145
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
 website: "https://reformhaus.ch/"

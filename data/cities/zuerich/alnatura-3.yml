@@ -1,12 +1,12 @@
-id: 4314993996
+id: 4171699491
 type: node
 shop: Supermarkt
-latitude: 47.4090111
-longitude: 8.5435046
-postcode: "8050"
+latitude: 47.375032600000004
+longitude: 8.536142700000001
+postcode: "8001"
 city: Zürich
-street: "Baumackerstrasse"
-housenumber: 35
+street: "Löwenstrasse"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-oerlikon"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-zuerich-city"

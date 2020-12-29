@@ -1,12 +1,12 @@
-id: 3085757633
+id: 4833061524
 type: node
 shop: Lebensmittel
-latitude: 47.374644
-longitude: 8.536161
+latitude: 47.377763200000004
+longitude: 8.5400323
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 30
-phone: "+41 43 497 37 70"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-20:00"
 website: "https://eglibio.ch/"

@@ -1,12 +1,12 @@
-id: 4869996388
+id: 5751474731
 type: node
 shop: Reisebüro
-latitude: 47.3861992
-longitude: 8.4986827
-postcode: "8048"
+latitude: 47.367391100000006
+longitude: 8.5472943
+postcode: "8001"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: "Stadelhoferstrasse"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.tuiletzipark.ch/"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+website: "http://www.tuistadelhofen.ch/"
