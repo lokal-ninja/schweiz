@@ -1,6 +1,6 @@
 ---
 title: Leukerbad
 url: /leukerbad/
-latitude: 46.379517500000006
-longitude: 7.6264761000000005
+latitude: 46.3793158
+longitude: 7.626741600000001
 ---

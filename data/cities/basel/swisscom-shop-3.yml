@@ -1,6 +1,5 @@
 id: 7555954687
 type: node
-shop: Handy
 latitude: 47.5450249
 longitude: 7.588488300000001
 postcode: "4053"
@@ -8,5 +7,5 @@ city: Basel
 street: "Güterstrasse"
 housenumber: 126
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30, 09:00-17:00"
 website: "https://www.swisscom.ch/"

@@ -1,4 +1,5 @@
 ---
 title: "BP Connect Wollishofen"
 url: /zuerich/bp-connect-wollishofen/
+shop: Lebensmittel
 ---

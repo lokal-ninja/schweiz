@@ -1,6 +1,5 @@
 id: 1143558142
 type: node
-shop: Supermarkt
 latitude: 47.5217589
 longitude: 8.8894944
 postcode: "8523"
@@ -8,5 +7,5 @@ city: Hagenbuch
 street: "Dorfstrasse"
 housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 6:30-18:30, Sa 6:30-16.00"
+opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-16:00"
 website: ""

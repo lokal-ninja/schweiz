@@ -1,6 +1,5 @@
 id: 2969139674
 type: node
-shop: Möbel
 latitude: 46.2805606
 longitude: 7.509953500000001
 postcode: "3960"
@@ -8,5 +7,5 @@ city: Sierre
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00; Su off"
 website: ""

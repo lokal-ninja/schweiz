@@ -1,12 +1,11 @@
 id: 5507213482
 type: node
-shop: Supermarkt
-latitude: 47.3662159
-longitude: 8.7826228
+latitude: 47.366186400000004
+longitude: 8.782552800000001
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Tumbelenstrasse"
-housenumber: 17
+street: "Seestrasse"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
 website: ""

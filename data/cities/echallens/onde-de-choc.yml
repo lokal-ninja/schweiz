@@ -1,6 +1,5 @@
 id: 5377980085
 type: node
-shop: Schokolade
 latitude: 46.640956200000005
 longitude: 6.632578700000001
 postcode: "1040"
@@ -8,5 +7,5 @@ city: Echallens
 street: "Rue Saint-Denis"
 housenumber: 14
 phone: "+41 21 558 34 00"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 09:00-17:00"
+opening_hours: "Tu-Sa 08:45-12:30,14:00-17:30"
 website: "https://www.onde-de-choc.ch/"

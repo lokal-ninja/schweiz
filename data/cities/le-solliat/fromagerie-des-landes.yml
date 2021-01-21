@@ -1,6 +1,5 @@
 id: 2627112114
 type: node
-shop: Lebensmittel
 latitude: 46.6193425
 longitude: 6.2375623000000004
 postcode: "1347"
@@ -8,5 +7,5 @@ city: Le Solliat
 street: "Rue du Village"
 housenumber: 1
 phone: "+4121 565 61 71"
-opening_hours: ""
-website: ""
+opening_hours: "Tu-Sa 09:00-12:00,15:30-18:45; Su 15:30-18:45"
+website: "https://fromagerie-des-landes.business.site/"

@@ -1,6 +1,5 @@
 id: 7453235384
 type: node
-shop: Outdoor
 latitude: 46.4585577
 longitude: 6.8437776
 postcode: "1800"
@@ -9,4 +8,4 @@ street: "Rue du Lac"
 housenumber: 39
 phone: "+41 21 922 17 78"
 opening_hours: "Tu-Fr 10:00-13:00,14:00-18:30; Sa 10:00-17:00"
-website: "http://www.lenomade.ch/"
+website: "https://www.lenomade.ch/"

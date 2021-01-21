@@ -1,6 +1,5 @@
 id: 5774478453
 type: node
-shop: Bäckerei
 latitude: 47.568677
 longitude: 7.579691100000001
 postcode: "4056"
@@ -8,5 +7,5 @@ city: Basel
 street: "Elsässerstrasse"
 housenumber: 43
 phone: "+41616921180"
-opening_hours: ""
+opening_hours: "Tu-Fr 07:00-18:30; Sa,Su 08:00-18:00"
 website: "http://baeckereikult.ch/"

@@ -1,12 +1,11 @@
 id: 2357381286
 type: node
-shop: Optiker
 latitude: 47.208077700000004
 longitude: 7.5360747
 postcode: "4500"
 city: Solothurn
 street: "Gurzelngasse"
 housenumber: 14
-phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Th 08:00-12:00,13:30-20:00; Sa 08:00-16:00"
-website: ""
+phone: "+41 32 623 39 46"
+opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00"
+website: "https://www.luxoroptik.ch"

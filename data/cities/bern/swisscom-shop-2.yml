@@ -1,6 +1,5 @@
 id: 379588169
 type: way
-shop: Handy
 latitude: 46.9486052
 longitude: 7.4397475
 postcode: "3011"
@@ -8,5 +7,5 @@ city: Bern
 street: "Bahnhofplatz"
 housenumber: 10b
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-20:00,Su off"
 website: "http://shoplocator.swisscom.ch"

@@ -1,6 +1,5 @@
 id: 5332992236
 type: node
-shop: Bäckerei
 latitude: 46.819892100000004
 longitude: 6.9390245
 postcode: "1530"
@@ -8,5 +7,5 @@ city: Payerne
 street: "Rue des Granges"
 housenumber: 28
 phone: "+41 79 214 45 22"
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-17:00"
 website: ""

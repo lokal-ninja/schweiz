@@ -1,6 +1,5 @@
 id: 322856745
 type: node
-shop: Metzgerei
 latitude: 47.479325200000005
 longitude: 8.523879800000001
 postcode: "8154"
@@ -8,5 +7,5 @@ city: Oberglatt
 street: "Bruggwisstrasse"
 housenumber: 1
 phone: "+41448503155"
-opening_hours: "Tu-Sa 08.00-18.30"
+opening_hours: "Tu-Sa 08:00-18:30"
 website: "http://www.buremetzg.ch/"

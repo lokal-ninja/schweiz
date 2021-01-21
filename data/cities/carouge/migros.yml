@@ -1,12 +1,11 @@
-id: 1951773716
+id: 922264343
 type: node
-shop: Supermarkt
-latitude: 46.1834404
-longitude: 6.1410491
+latitude: 46.1824564
+longitude: 6.1344159000000005
 postcode: "1227"
 city: Carouge
-street: "Rue du Marché"
-housenumber: 16
-phone: ""
-opening_hours: ""
-website: ""
+street: "Avenue Vibert"
+housenumber: 29
+phone: "0585733750"
+opening_hours: "Mo-Sa 08:00-19:00"
+website: "https://filialen.migros.ch/fr/supermarche-migros-carouge-vibert"

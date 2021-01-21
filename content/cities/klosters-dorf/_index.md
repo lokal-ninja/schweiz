@@ -1,6 +1,6 @@
 ---
 title: Klosters Dorf
 url: /klosters-dorf/
-latitude: 46.8825468
-longitude: 9.875238900000001
+latitude: 46.882909700000006
+longitude: 9.8750678
 ---

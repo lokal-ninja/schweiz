@@ -1,6 +1,5 @@
 id: 370378778
 type: node
-shop: Lebensmittel
 latitude: 47.1472208
 longitude: 7.251991800000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Biel / Bienne
 street: "Schützengasse"
 housenumber: 79a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-12:30, 15:00-18:30; Sa 07:00-13:00"
 website: ""

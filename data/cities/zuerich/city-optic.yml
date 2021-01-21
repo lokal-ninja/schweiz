@@ -1,12 +1,11 @@
-id: 4838594340
+id: 4860115707
 type: node
-shop: Optiker
-latitude: 47.3885853
-longitude: 8.48714
-postcode: "8048"
+latitude: 47.367782500000004
+longitude: 8.545525000000001
+postcode: "8001"
 city: Zürich
-street: "Altstetterstrasse"
-housenumber: 145
+street: "Rämistrasse"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "http://cityoptic.ch/standorte/altstetten"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+website: "http://cityoptic.ch/standorte/bellevue"

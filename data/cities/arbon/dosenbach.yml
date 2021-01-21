@@ -1,6 +1,5 @@
 id: 4270135422
 type: node
-shop: Schuhe
 latitude: 47.511800400000006
 longitude: 9.4314563
 postcode: "9320"
@@ -9,4 +8,4 @@ street: "St. Gallerstrasse"
 housenumber: 11
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.dosenbach.ch/"

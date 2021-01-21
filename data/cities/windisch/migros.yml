@@ -1,12 +1,11 @@
-id: 266571580
-type: node
-shop: Supermarkt
-latitude: 47.4821521
-longitude: 8.2094058
-postcode: "5200"
+id: 197187163
+type: way
+latitude: 47.4750231
+longitude: 8.213129200000001
+postcode: "5210"
 city: Windisch
-street: "Neumarkt"
-housenumber: 1
+street: "Bachmattstrasse"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-We 08:00-19:00, Th-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-brugg-neumarkt"
+opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-windisch"
