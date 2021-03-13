@@ -1,5 +1,0 @@
----
-title: "Salon Coiffure"
-url: /zuerich/salon-coiffure/
-shop: Friseur
----

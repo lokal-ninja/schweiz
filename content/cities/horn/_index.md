@@ -1,6 +1,6 @@
 ---
 title: Horn
 url: /horn/
-latitude: 47.2534251
-longitude: 9.2742476
+latitude: 47.2358902
+longitude: 8.7894012
 ---

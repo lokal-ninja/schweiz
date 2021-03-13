@@ -1,5 +1,5 @@
 ---
 title: "Agrol"
 url: /sierre/agrol/
-shop: Allgemein
+shop: Garten-Center
 ---

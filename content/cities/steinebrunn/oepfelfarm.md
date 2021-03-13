@@ -1,5 +1,5 @@
 ---
 title: "Öpfelfarm"
 url: /steinebrunn/oepfelfarm/
-shop: Supermarkt
+shop: Hofladen
 ---
