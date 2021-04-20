@@ -1,5 +1,5 @@
 ---
 title: "Carpisa"
 url: /locarno/carpisa/
-shop: Allgemein
+shop: Taschen & Koffer
 ---

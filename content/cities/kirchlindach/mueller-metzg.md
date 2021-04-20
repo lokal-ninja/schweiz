@@ -1,5 +1,0 @@
----
-title: "Müller Metzg"
-url: /kirchlindach/mueller-metzg/
-shop: Metzgerei
----

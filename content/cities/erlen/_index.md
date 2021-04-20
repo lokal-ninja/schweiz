@@ -1,6 +1,6 @@
 ---
 title: Erlen
 url: /erlen/
-latitude: 46.995491
-longitude: 9.0802294
+latitude: 47.0855265
+longitude: 9.0598484
 ---

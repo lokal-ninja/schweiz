@@ -1,6 +1,6 @@
 ---
 title: Oberdorf
 url: /oberdorf/
-latitude: 47.010958200000005
-longitude: 9.0786665
+latitude: 47.097194800000004
+longitude: 9.0634177
 ---

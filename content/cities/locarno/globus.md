@@ -1,5 +1,5 @@
 ---
 title: "Globus"
 url: /locarno/globus/
-shop: Allgemein
+shop: Supermarkt
 ---

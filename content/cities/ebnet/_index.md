@@ -1,6 +1,6 @@
 ---
 title: Ebnet
 url: /ebnet/
-latitude: 46.9744127
-longitude: 8.5640169
+latitude: 47.2126687
+longitude: 9.0395097
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tobel
 url: /tobel/
-latitude: 47.020686600000005
-longitude: 9.1039922
+latitude: 47.378667300000004
+longitude: 8.972642800000001
 ---

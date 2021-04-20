@@ -1,5 +1,5 @@
 ---
 title: "Agrola Top Shop"
 url: /riedikon/agrola-top-shop/
-shop: Supermarkt
+shop: Lebensmittel
 ---

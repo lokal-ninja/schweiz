@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /burgdorf/jysk/
-shop: Betten
+shop: Möbel
 ---
