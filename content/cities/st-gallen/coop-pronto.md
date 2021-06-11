@@ -1,5 +1,5 @@
 ---
-title: "Coop pronto"
+title: "Coop Pronto"
 url: /st-gallen/coop-pronto/
-shop: Allgemein
+shop: Lebensmittel
 ---

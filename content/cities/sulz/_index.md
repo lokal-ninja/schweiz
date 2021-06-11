@@ -1,6 +1,6 @@
 ---
 title: Sulz
 url: /sulz/
-latitude: 47.063697600000005
-longitude: 8.966691800000001
+latitude: 47.063456200000005
+longitude: 8.966000600000001
 ---

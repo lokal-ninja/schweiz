@@ -1,6 +1,6 @@
 ---
 title: Oberrüti
 url: /oberrueti/
-latitude: 46.979019400000006
-longitude: 9.1632367
+latitude: 47.1426801
+longitude: 8.4409141
 ---

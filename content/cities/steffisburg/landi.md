@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /steffisburg/landi/
-shop: Lebensmittel
+shop: Supermarkt
 ---

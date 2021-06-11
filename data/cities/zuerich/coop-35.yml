@@ -1,11 +1,11 @@
-id: 1925758931
+id: 1934829189
 type: node
-latitude: 47.3707927
-longitude: 8.5158561
-postcode: "8003"
+latitude: 47.3737493
+longitude: 8.502337500000001
+postcode: "8047"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 200
+street: "Gutstrasse"
+housenumber: 159
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
-website: ""
+opening_hours: "Mo-Sa 07:30-20:00"
+website: "https://www.coop.ch/"

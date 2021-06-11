@@ -1,6 +1,6 @@
 ---
 title: Niederurnen
 url: /niederurnen/
-latitude: 47.125756900000006
-longitude: 9.0547397
+latitude: 47.125618200000005
+longitude: 9.053578400000001
 ---
